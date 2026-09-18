@@ -1,1 +1,72 @@
-<!doctype html><html lang="ru"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AppHistory</title><link rel="stylesheet" href="style.css"></head><body><header><a class="brand" href="index.html"><b>AppHistory</b><small>История игр и приложений</small></a><a class="admin" href="admin.html">Управление</a></header><main><section class="hero"><h1>История приложений <span>в одном месте</span></h1><p>Поиск игр и приложений и история их версий.</p><input id="search" placeholder="🔍  Поиск по названию..."></section><section class="filters"><div class="tabs"><button class="active" data-type="all">Все</button><button data-type="game">🎮 Игры</button><button data-type="app">📱 Приложения</button></div><div class="selects"><label>Платформа<select id="platform"><option value="all">Все</option><option value="android">Google Play</option><option value="ios">App Store</option></select></label><label>Сортировка<select id="sort"><option value="new">Сначала новые</option><option value="old">Сначала старые</option><option value="az">Название А–Я</option><option value="za">Название Я–А</option></select></label></div></section><div class="head"><b>Каталог</b><span id="count"></span></div><section id="grid" class="grid"></section></main><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>AppHistory — история приложений</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="./index.html"><span class="brand-mark">A</span><span>AppHistory</span></a>
+    <a class="admin-link" href="./admin.html">Управление</a>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="eyebrow">КАТАЛОГ ПРИЛОЖЕНИЙ</div>
+    <h1>История приложений<br><span>в одном месте</span></h1>
+    <p>Поиск игр и приложений, платформ и истории их версий.</p>
+    <label class="search-box">
+      <span>⌕</span>
+      <input id="search" type="search" placeholder="Поиск по названию..." autocomplete="off">
+    </label>
+  </section>
+
+  <section class="controls">
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-type="all">Все</button>
+      <button class="tab" data-type="game">🎮 Игры</button>
+      <button class="tab" data-type="app">📱 Приложения</button>
+    </div>
+    <div class="control-grid">
+      <label class="select-wrap">
+        <span>Платформа</span>
+        <select id="platform">
+          <option value="all">Все платформы</option>
+          <option value="android">Google Play</option>
+          <option value="ios">App Store</option>
+        </select>
+      </label>
+      <label class="select-wrap">
+        <span>Сортировка</span>
+        <select id="sort">
+          <option value="new">Сначала новые</option>
+          <option value="old">Сначала старые</option>
+          <option value="az">Название: А–Я</option>
+          <option value="za">Название: Я–А</option>
+        </select>
+      </label>
+    </div>
+  </section>
+
+  <section class="catalog-head">
+    <div>
+      <h2>Каталог</h2>
+      <p id="count">Загрузка…</p>
+    </div>
+  </section>
+
+  <section id="grid" class="grid" aria-live="polite"></section>
+  <div id="error" class="error hidden"></div>
+</main>
+
+<footer class="footer wrap">AppHistory · каталог истории приложений</footer>
+<script src="./app.js"></script>
+</body>
+</html>

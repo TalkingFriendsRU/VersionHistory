@@ -1,1 +1,152 @@
-let DATA;let type="all";async function load(){let r=await fetch("data.json?"+Date.now());DATA=await r.json();render()}function render(){let grid=document.getElementById("grid");if(!grid)return;let q=document.getElementById("search").value.toLowerCase(),p=document.getElementById("platform").value,s=document.getElementById("sort").value;let a=DATA.apps.filter(x=>(type=="all"||x.type==type)&&x.name.toLowerCase().includes(q)&& (p=="all"||x.versions[p]!==undefined));a.sort((x,y)=>s=="az"?x.name.localeCompare(y.name,"ru"):s=="za"?y.name.localeCompare(x.name,"ru"):s=="old"?x.releaseDate.localeCompare(y.releaseDate):y.releaseDate.localeCompare(x.releaseDate));document.getElementById("count").textContent=a.length+" "+(a.length==1?"результат":"результатов");grid.innerHTML=a.map(x=>`<article class="card" onclick="location.href='app.html?id=${x.id}'"><div class="appicon">${x.icon}</div><h3>${x.name}</h3><p>${x.developer}</p><footer>📅 ${new Date(x.releaseDate).toLocaleDateString("ru-RU")} <span>${x.versions.android.length?"Google Play":""}${x.versions.android.length&&x.versions.ios.length?" · ":""}${x.versions.ios.length?"App Store":""}</span></footer></article>`).join("")||'<div class="empty">Ничего не найдено.</div>'}function setup(){document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("active"));b.classList.add("active");type=b.dataset.type;render()});["search","platform","sort"].forEach(id=>document.getElementById(id)?.addEventListener(id=="search"?"input":"change",render))}if(location.pathname.endsWith("app.html")){fetch("data.json").then(r=>r.json()).then(d=>{let id=new URLSearchParams(location.search).get("id"),x=d.apps.find(a=>a.id==id),el=document.getElementById("app");if(!x){el.innerHTML="<h1>Не найдено</h1>";return}el.innerHTML=`<a href="index.html" class="back">← Назад</a><div class="apphead"><div class="bigicon">${x.icon}</div><div><h1>${x.name}</h1><p>${x.developer} · ${new Date(x.releaseDate).toLocaleDateString("ru-RU")}</p></div></div><div class="switch"><button class="active" onclick="show('android',this)">Google Play</button><button onclick="show('ios',this)">App Store</button></div><div id="versions"></div>`;window.show=(p,b)=>{document.querySelectorAll(".switch button").forEach(z=>z.classList.remove("active"));b.classList.add("active");let v=x.versions[p];document.getElementById("versions").innerHTML=`<h2>История версий</h2>`+(v.length?v.map(z=>`<div class="version"><div><b>${z.version}</b><small>${z.date}</small></div>${p=="android"?`<div><small>Код версии</small><b>${z.versionCode}</b></div>`:""}<p>${z.changes}</p></div>`).join(""):"<div class='empty'>Версии пока не добавлены.</div>"};show("android",document.querySelector(".switch button"))})}else{load().then(setup)}
+(() => {
+  const path = location.pathname;
+  const isDetail = path.endsWith("/app.html") || path.endsWith("app.html");
+
+  async function loadData() {
+    const response = await fetch("./data.json?ts=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) throw new Error("data.json не найден (HTTP " + response.status + ")");
+    return await response.json();
+  }
+
+  const esc = (value) => String(value ?? "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[c]));
+
+  const formatDate = value => {
+    if (!value) return "—";
+    const d = new Date(value + "T00:00:00");
+    return Number.isNaN(d.getTime()) ? value : d.toLocaleDateString("ru-RU");
+  };
+
+  if (!isDetail) {
+    let DATA = null, type = "all";
+
+    async function init() {
+      try {
+        DATA = await loadData();
+        setup();
+        render();
+      } catch (e) {
+        document.getElementById("count").textContent = "Ошибка загрузки";
+        const err = document.getElementById("error");
+        err.textContent = "Не удалось загрузить каталог: " + e.message;
+        err.classList.remove("hidden");
+      }
+    }
+
+    function render() {
+      if (!DATA) return;
+      const q = document.getElementById("search").value.trim().toLowerCase();
+      const platform = document.getElementById("platform").value;
+      const sort = document.getElementById("sort").value;
+
+      let apps = DATA.apps.filter(x => {
+        const nameMatch = (x.name || "").toLowerCase().includes(q);
+        const typeMatch = type === "all" || x.type === type;
+        const versions = x.versions || {android:[], ios:[]};
+        const platformMatch = platform === "all" ||
+          (platform === "android" && versions.android) ||
+          (platform === "ios" && versions.ios);
+        return nameMatch && typeMatch && platformMatch;
+      });
+
+      apps.sort((a,b) => {
+        if (sort === "az") return a.name.localeCompare(b.name, "ru");
+        if (sort === "za") return b.name.localeCompare(a.name, "ru");
+        if (sort === "old") return (a.releaseDate || "").localeCompare(b.releaseDate || "");
+        return (b.releaseDate || "").localeCompare(a.releaseDate || "");
+      });
+
+      document.getElementById("count").textContent =
+        apps.length === 1 ? "1 приложение" :
+        apps.length + " " + (apps.length >= 2 && apps.length <= 4 ? "приложения" : "приложений");
+
+      const grid = document.getElementById("grid");
+      if (!apps.length) {
+        grid.innerHTML = '<div class="empty" style="grid-column:1/-1">Ничего не найдено.<br>Попробуй изменить поиск или фильтры.</div>';
+        return;
+      }
+
+      grid.innerHTML = apps.map(x => {
+        const v = x.versions || {android:[],ios:[]};
+        const platforms = [
+          v.android?.length ? "Google Play" : "",
+          v.ios?.length ? "App Store" : ""
+        ].filter(Boolean).join(" · ") || "История версий пока не добавлена";
+        return `<article class="card" onclick="location.href='./app.html?id=${encodeURIComponent(x.id)}'">
+          <div class="appicon">${esc(x.icon || "📦")}</div>
+          <h3>${esc(x.name)}</h3>
+          <p class="developer">${esc(x.developer || "—")}</p>
+          <footer><span>📅 ${formatDate(x.releaseDate)}</span><span class="platforms">${esc(platforms)}</span></footer>
+        </article>`;
+      }).join("");
+    }
+
+    function setup() {
+      document.querySelectorAll(".tab").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+          btn.classList.add("active");
+          type = btn.dataset.type;
+          render();
+        });
+      });
+      document.getElementById("search").addEventListener("input", render);
+      document.getElementById("platform").addEventListener("change", render);
+      document.getElementById("sort").addEventListener("change", render);
+    }
+    init();
+  } else {
+    async function initDetail() {
+      const root = document.getElementById("app");
+      try {
+        const data = await loadData();
+        const id = new URLSearchParams(location.search).get("id");
+        const x = data.apps.find(a => a.id === id);
+        if (!x) {
+          root.innerHTML = '<div class="empty">Приложение не найдено.<br><br><a class="back" href="./index.html">← Вернуться в каталог</a></div>';
+          return;
+        }
+        const v = x.versions || {android:[],ios:[]};
+        root.innerHTML = `
+          <section class="app-hero">
+            <div class="bigicon">${esc(x.icon || "📦")}</div>
+            <div><h1>${esc(x.name)}</h1><p>${esc(x.developer || "—")} · релиз ${formatDate(x.releaseDate)}</p></div>
+          </section>
+          <div class="switch">
+            <button class="active" data-platform="android">Google Play</button>
+            <button data-platform="ios">App Store</button>
+          </div>
+          <div id="versions"></div>`;
+        document.querySelectorAll(".switch button").forEach(btn => {
+          btn.addEventListener("click", () => {
+            document.querySelectorAll(".switch button").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            showVersions(btn.dataset.platform, v);
+          });
+        });
+        showVersions("android", v);
+      } catch (e) {
+        root.innerHTML = '<div class="error">Ошибка загрузки: ' + esc(e.message) + '</div>';
+      }
+    }
+
+    function showVersions(platform, versions) {
+      const list = versions[platform] || [];
+      const title = platform === "android" ? "Google Play — история версий" : "App Store — история версий";
+      document.getElementById("versions").innerHTML =
+        `<h2 style="margin:0 0 14px">${title}</h2>` +
+        (list.length ? `<div class="version-list">${list.map(z => `
+          <article class="version">
+            <div class="version-top">
+              <div><div class="version-number">Версия ${esc(z.version)}</div>
+              ${platform === "android" && z.versionCode ? `<div class="version-meta">Код версии: ${esc(z.versionCode)}</div>` : ""}</div>
+              <div class="version-date">${formatDate(z.date)}</div>
+            </div>
+            <p>${esc(z.changes || "Изменения не указаны.")}</p>
+          </article>`).join("")}</div>` :
+        '<div class="empty">Версии пока не добавлены.</div>');
+    }
+    initDetail();
+  }
+})();

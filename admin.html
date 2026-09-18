@@ -1,1 +1,63 @@
-<!doctype html><html lang="ru"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Управление — AppHistory</title><link rel="stylesheet" href="style.css"></head><body><header><a class="brand" href="index.html"><b>AppHistory</b><small>Управление каталогом</small></a><a class="admin" href="index.html">← Каталог</a></header><main><section class="adminbox"><h1>Управление</h1><p class="muted">Добавляй и редактируй данные, затем скачивай обновлённый <b>data.json</b> и загружай его в GitHub.</p><div class="adminnav"><button id="newApp">＋ Новое приложение</button><button id="export">↓ Скачать data.json</button><label class="upload">↑ Загрузить data.json<input id="import" type="file" accept=".json"></label></div><div id="editor"></div></section></main><script src="admin.js"></script></body></html>
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>AppHistory — Управление</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="./index.html"><span class="brand-mark">A</span><span>AppHistory</span></a>
+    <a class="admin-link" href="./index.html">Каталог</a>
+  </div>
+</header>
+<main class="wrap admin-page">
+  <div class="page-title">
+    <div>
+      <div class="eyebrow">ADMIN</div>
+      <h1>Управление каталогом</h1>
+      <p>Добавляй приложения и редактируй историю версий.</p>
+    </div>
+    <div class="admin-actions">
+      <button id="newApp" class="primary">＋ Новое приложение</button>
+      <button id="download" class="secondary">↓ Скачать data.json</button>
+      <label class="secondary file-button">↑ Загрузить data.json<input id="upload" type="file" accept=".json"></label>
+    </div>
+  </div>
+  <div id="adminList" class="admin-list"></div>
+
+  <section id="editor" class="editor hidden">
+    <div class="editor-head">
+      <div><h2 id="editorTitle">Новое приложение</h2><p>После сохранения нажми «Скачать data.json» и замени файл на GitHub.</p></div>
+      <button id="cancel" class="icon-button">×</button>
+    </div>
+    <div class="form-grid">
+      <label>Название<input id="name"></label>
+      <label>Разработчик<input id="developer"></label>
+      <label>Тип<select id="type"><option value="game">Игра</option><option value="app">Приложение</option></select></label>
+      <label>Дата выхода<input id="releaseDate" type="date"></label>
+      <label>Иконка / эмодзи<input id="icon" maxlength="4" placeholder="🎮"></label>
+    </div>
+
+    <div class="version-section">
+      <div class="section-title"><h3>Google Play</h3><button id="addAndroid" class="small-button">＋ Версия</button></div>
+      <div id="androidRows"></div>
+    </div>
+    <div class="version-section">
+      <div class="section-title"><h3>App Store</h3><button id="addIos" class="small-button">＋ Версия</button></div>
+      <div id="iosRows"></div>
+    </div>
+    <div class="editor-footer">
+      <button id="save" class="primary">Сохранить</button>
+      <button id="cancel2" class="secondary">Отмена</button>
+    </div>
+  </section>
+</main>
+<script src="./admin.js"></script>
+</body>
+</html>

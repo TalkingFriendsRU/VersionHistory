@@ -52,7 +52,7 @@
     {
       "id": "telegram",
       "name": "Telegram",
-      "developer": "Telegram FZ-LLC",
+      "developer": "Telegram",
       "type": "app",
       "releaseDate": "2013-08-14",
       "icon": "✈️",
@@ -64,9 +64,9 @@
     {
       "id": "youtube",
       "name": "YouTube",
-      "developer": "Google LLC",
+      "developer": "Google",
       "type": "app",
-      "releaseDate": "2010-12-21",
+      "releaseDate": "2010-09-01",
       "icon": "▶️",
       "versions": {
         "android": [],
