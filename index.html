@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AppHistory — история приложений</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">
+  <div class="brand"><span class="logo">A</span><div><b>AppHistory</b><small>История игр и приложений</small></div></div>
+  <button id="theme" class="icon-btn" aria-label="Тема">☾</button>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <h1>История приложений<br><span>в одном месте</span></h1>
+    <p>Находите игры и приложения и смотрите историю их версий.</p>
+    <div class="search"><span>⌕</span><input id="search" placeholder="Поиск по названию..." autocomplete="off"></div>
+  </section>
+
+  <section class="filters">
+    <div class="tabs">
+      <button class="tab active" data-type="all">Все</button>
+      <button class="tab" data-type="game">🎮 Игры</button>
+      <button class="tab" data-type="app">📱 Приложения</button>
+    </div>
+    <div class="selects">
+      <label>Платформа<select id="platform"><option value="all">Все платформы</option><option value="android">Google Play</option><option value="ios">App Store</option></select></label>
+      <label>Сортировка<select id="sort"><option value="new">Сначала новые</option><option value="old">Сначала старые</option><option value="az">По названию А–Я</option><option value="za">По названию Я–А</option></select></label>
+      <label>Дата выхода<select id="date"><option value="all">Любая дата</option><option value="year">Последний год</option><option value="3years">Последние 3 года</option></select></label>
+    </div>
+  </section>
+
+  <div class="result-head"><b>Каталог</b><span id="count"></span></div>
+  <section id="grid" class="grid"></section>
+</main>
+
+<footer>AppHistory · Архив версий игр и приложений</footer>
+<script src="script.js"></script>
+</body>
+</html>
