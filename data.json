@@ -1,0 +1,77 @@
+{
+  "apps": [
+    {
+      "id": "talking-tom-gold-run",
+      "name": "Говорящий Том: Бег за золотом",
+      "developer": "Outfit7",
+      "type": "game",
+      "releaseDate": "2013-06-12",
+      "icon": "🎮",
+      "versions": {
+        "android": [
+          {
+            "version": "7.4.1",
+            "versionCode": "741023",
+            "date": "2026-09-15",
+            "changes": "Исправления ошибок и улучшения."
+          }
+        ],
+        "ios": [
+          {
+            "version": "7.4.1",
+            "date": "2026-09-15",
+            "changes": "Исправления ошибок и улучшения."
+          }
+        ]
+      }
+    },
+    {
+      "id": "my-talking-tom-friends-2",
+      "name": "Мой Говорящий Том: Друзья 2",
+      "developer": "Outfit7",
+      "type": "game",
+      "releaseDate": "2025-08-15",
+      "icon": "🐱",
+      "versions": {
+        "android": [],
+        "ios": []
+      }
+    },
+    {
+      "id": "talking-tom-friends-world",
+      "name": "Говорящий Том и Друзья: Мир",
+      "developer": "Outfit7",
+      "type": "game",
+      "releaseDate": "2026-02-20",
+      "icon": "🌍",
+      "versions": {
+        "android": [],
+        "ios": []
+      }
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "developer": "Telegram FZ-LLC",
+      "type": "app",
+      "releaseDate": "2013-08-14",
+      "icon": "✈️",
+      "versions": {
+        "android": [],
+        "ios": []
+      }
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "developer": "Google LLC",
+      "type": "app",
+      "releaseDate": "2010-12-21",
+      "icon": "▶️",
+      "versions": {
+        "android": [],
+        "ios": []
+      }
+    }
+  ]
+}
