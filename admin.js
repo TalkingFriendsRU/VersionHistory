@@ -4,6 +4,15 @@
   const $ = id => document.getElementById(id);
   const esc = v => String(v ?? "").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
 
+  const isImageIcon = (value) => /^(https?:\/\/|data:image\/)/i.test(String(value || "").trim())
+    || /\.(png|jpe?g|gif|webp|svg)(\?.*)?$/i.test(String(value || "").trim());
+
+  const iconHtml = (value) => {
+    const v = String(value || "").trim();
+    if (isImageIcon(v)) return `<img src="${esc(v)}" alt="" loading="lazy">`;
+    return esc(v || "📦");
+  };
+
   async function init(){
     try {
       const r = await fetch("./data.json?ts="+Date.now(), {cache:"no-store"});
@@ -34,7 +43,7 @@
     }
     root.innerHTML = data.apps.map(x => `
       <div class="admin-item">
-        <div class="miniicon">${esc(x.icon||"📦")}</div>
+        <div class="miniicon">${iconHtml(x.icon)}</div>
         <div class="info"><strong>${esc(x.name)}</strong><small>${esc(x.developer||"—")} · ${x.type==="game"?"Игра":"Приложение"}</small></div>
         <div class="item-actions">
           <button onclick="window.editApp('${esc(x.id)}')">Изменить</button>
