@@ -1630,6 +1630,97 @@
           "removedDate": "2015-01-18"
         }
       }
+    },
+    {
+      "id": "talking-gina-the-giraffe",
+      "name": "Talking Gina the Giraffe",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-02-19",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/b/b2/Talking_Gina_App_Icon_29.webp/revision/latest?cb=20221110174621&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "1",
+            "date": "2011-04-11",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "2",
+            "date": "2011-04-18",
+            "changes": "Fixed crash on non-US locales"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "3",
+            "date": "2011-07-20",
+            "changes": "Talking Gina is now available as 2 separate apps: FREE and PAID. There are no more in-app purchases. The free version of Gina has a limited supply of lemonades, strawberries and ice cream, which you can increase by downloading apps and getting rewarded for it or by buying the paid version which has an unlimited supply of items.\nPlease note that in the free app you also get 1 free item every 18 hours.\nTalking Gina is now also available in high quality graphics that are specific for your device."
+          },
+          {
+            "version": "1.1.1",
+            "versionCode": "4",
+            "date": "2011-08-02",
+            "changes": "Fixed crash on start"
+          },
+          {
+            "version": "1.2",
+            "versionCode": "5",
+            "date": "2011-10-10",
+            "changes": "16 new levels of the hand clapping game and 15 new baby giraffe pictures."
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "6",
+            "date": "2011-12-12",
+            "changes": "Fixed notification bubbles that couldn't be closed"
+          },
+          {
+            "version": "1.2.4",
+            "versionCode": "11",
+            "date": "2012-05-15",
+            "changes": "App is now translated into German, French, Italian, Spanish and Portuguese."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2011-02-19",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2011-03-02",
+            "changes": "✔ Bug fixes\n\nNote: We are very sorry, but this version still does not work on iOS 3.2. We are working hard on an update. Please wait for the update or you can upgrade your iPad to iOS 4.2."
+          },
+          {
+            "version": "1.2",
+            "date": "2011-03-16",
+            "changes": "✔ Talking Gina is now localized into Chinese, Japanese and Korean\n✔ Built with SDK 4.3\n✔ Bug fixes"
+          },
+          {
+            "version": "1.4",
+            "date": "2011-10-03",
+            "changes": "✔ Several bug fixes: video gallery, hand clapping game"
+          },
+          {
+            "version": "2.0",
+            "date": "2012-07-03",
+            "changes": "✔ 15 new baby giraffe pictures for you to collect.\n✔ New animation of Gina juggling apples.\n✔ Several bug fixes."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2014-12-11"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
