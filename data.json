@@ -1240,6 +1240,140 @@
           "removedDate": "2014-10-28"
         }
       }
+    },
+    {
+      "id": "talking-roby-the-robot",
+      "name": "Talking Roby the Robot",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-10-27",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/5/54/Talking_Roby_Icon.webp/revision/latest?cb=20260319135335&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "3",
+            "date": "2010-11-15",
+            "changes": "★★★ IMPORTANT ★★★\nYou might be asked to install the Text-to-Speech add-on if you don't have it on your phone! Please do so and open it once before running Talking Roby for the first time. That'll enable Roby to speak what you type in addition to what he hears.\n★★★★★★★★★★★★\n\n★★★ IMPORTANT ★★★\nYou might be asked to install the Text-to-Speech add-on if you don't have it on your phone. That'll enable Roby to speak what you type in addition to what he hears.\n★★★★★★★★★★★★"
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "6",
+            "date": "2010-12-13",
+            "changes": "Two new animations."
+          },
+          {
+            "version": "1.1.4",
+            "versionCode": "",
+            "date": "2011-02-09",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+          },
+          {
+            "version": "1.1.5",
+            "versionCode": "",
+            "date": "2011-03-01",
+            "changes": "New color for the robot - silver! Press Menu -> Settings to get it"
+          },
+          {
+            "version": "1.1.6",
+            "versionCode": "",
+            "date": "2011-03-16",
+            "changes": "Reduced the app size for 5 MB - it should install/update more successfully now"
+          },
+          {
+            "version": "1.1.7",
+            "versionCode": "16",
+            "date": "2013-04-19",
+            "changes": "We have removed license checking (DRM) from the app."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2010-10-27",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2010-11-30",
+            "changes": "✔ Save videos to your Library (Photos)\n✔ Video length increased to 45 seconds\n✔ Video size is 480x640\n✔ Bug fixes\n\nWe added a lot of new features in this update:\n✔ Save videos to your Library (Photos -> Camera Roll)*\n✔ Send videos as MMS (from Camera Roll)*\n✔ Video length increased to 45 seconds\n✔ Retina display compatible icons and buttons\n✔ Smoother animations on iPhone 3G\n\n*iPhone 3G users cannot save & send videos as MMS"
+          },
+          {
+            "version": "1.2",
+            "date": "2011-03-09",
+            "changes": "You can change the color of Roby to silver by going to Settings app and switching Silver color to ON."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2013-12-31"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
+    },
+    {
+      "id": "talking-roby-the-robot-free",
+      "name": "Talking Roby the Robot Free",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-11-15",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/5/54/Talking_Roby_Icon.webp/revision/latest?cb=20260319135335&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "",
+            "date": "2010-11-15",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "",
+            "date": "2010-11-16",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "5",
+            "date": "2010-11-16",
+            "changes": "Hopefully fixed Force Close on start.\n\n★★★ IMPORTANT ★★★\nYou might be asked to install the Text-to-Speech add-on if you don't have it on your phone! Please do so and open it once before running Talking Roby for the first time. That'll enable Roby to speak what you type in addition to what he hears.\n★★★★★★★★★★★★\n\nFixed Force Close on start."
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "",
+            "date": "2010-12-13",
+            "changes": "Two new animations."
+          },
+          {
+            "version": "1.1.4",
+            "versionCode": "13",
+            "date": "2011-02-09",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+          },
+          {
+            "version": "1.1.5",
+            "versionCode": "14",
+            "date": "2011-03-01",
+            "changes": "New color for the robot - silver! Press Menu -> Settings to get it"
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2014-01-02"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
