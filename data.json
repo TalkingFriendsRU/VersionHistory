@@ -1036,6 +1036,143 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-larry-the-bird",
+      "name": "Talking Larry the Bird",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-07-30",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/1/12/Talking_Larry_2010_Icon.png/revision/latest?cb=20250112130616&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1",
+            "versionCode": "4",
+            "date": "2010-10-01",
+            "changes": ""
+          },
+          {
+            "version": "1.1.5",
+            "versionCode": "10",
+            "date": "2011-02-09",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+          },
+          {
+            "version": "1.1.6",
+            "versionCode": "11",
+            "date": "2013-04-16",
+            "changes": "We have removed license checking (DRM) from the app."
+          },
+          {
+            "version": "3.0",
+            "versionCode": "33",
+            "date": "2014-07-04",
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+          },
+          {
+            "version": "3.1",
+            "versionCode": "52",
+            "date": "2014-10-24",
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+          },
+          {
+            "version": "3.2",
+            "versionCode": "62",
+            "date": "2015-01-13",
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2010-07-30",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2010-08-09",
+            "changes": "✔ Fixed critical bug: Larry does not talk properly on iPhone 3G\n✔ Enabled speakers on iPod Touch when microphone is connected"
+          },
+          {
+            "version": "1.0.2",
+            "date": "2010-09-30",
+            "changes": "✔ App settings which allow you to set longer listening time & clear your Facebook & YouTube login data\n✔ Bugfixes"
+          },
+          {
+            "version": "1.1",
+            "date": "2010-11-24",
+            "changes": "✔ Save videos to your Library (Photos)\n✔ Video length increased to 45 seconds\n✔ Video size is 480x640\n✔ Bug fixes"
+          },
+          {
+            "version": "2.0",
+            "date": "2012-02-16",
+            "changes": "✔ Retina quality graphics.\n✔ App translated into: French, German, Italian, Spanish, Portuguese, Russian and Arabic.\n✔ New animations of Larry exploding and getting struck by lightning.\n✔ New app icon and buttons.\n✔ Child Friendly Mode available in Settings. Makes the app toddler friendly by removing all the places a child can get lost in."
+          },
+          {
+            "version": "3.1",
+            "date": "2015-01-05",
+            "changes": "Bug fixes and minor gameplay improvements."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2015-06-19"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2016-02-12"
+        }
+      }
+    },
+    {
+      "id": "talking-larry-the-bird-free",
+      "name": "Talking Larry the Bird Free",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2014-03-07",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/1/12/Talking_Larry_2010_Icon.png/revision/latest?cb=20250112130616&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "3.0",
+            "versionCode": "33",
+            "date": "2014-03-07",
+            "changes": ""
+          },
+          {
+            "version": "3.1",
+            "versionCode": "51",
+            "date": "2014-10-24",
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+          },
+          {
+            "version": "3.2",
+            "versionCode": "62",
+            "date": "2015-01-13",
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+          },
+          {
+            "version": "3.3",
+            "versionCode": "70",
+            "date": "2015-06-21",
+            "changes": "Bug fixes and minor gameplay improvements."
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2016-01-12"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
