@@ -1426,6 +1426,167 @@
           "removedDate": "2015-01-18"
         }
       }
+    },
+    {
+      "id": "talking-santa-говорящий-санта",
+      "name": "Talking Santa | Говорящий Санта",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-11-29",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/d/d2/Talking_Santa_Icon_2010.jpg/revision/latest?cb=20230731160151&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "3",
+            "date": "2010-11-29",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "4",
+            "date": "2010-11-30",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "5",
+            "date": "2010-12-01",
+            "changes": "Hopefully fixed Force Close on start. You don't need to update if Talking Santa already works for you."
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "6",
+            "date": "2010-12-02",
+            "changes": ""
+          },
+          {
+            "version": "1.0.4",
+            "versionCode": "7",
+            "date": "2010-12-13",
+            "changes": ""
+          },
+          {
+            "version": "1.0.5",
+            "versionCode": "8",
+            "date": "2010-12-15",
+            "changes": ""
+          },
+          {
+            "version": "1.1.2",
+            "versionCode": "",
+            "date": "2011-01-29",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+          },
+          {
+            "version": "1.1.5",
+            "versionCode": "16",
+            "date": "2011-03-08",
+            "changes": "Various bugfixes"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "",
+            "date": "2011-12-01",
+            "changes": ""
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "",
+            "date": "2011-12-04",
+            "changes": ""
+          },
+          {
+            "version": "2.0.2",
+            "versionCode": "19",
+            "date": "2011-12-09",
+            "changes": "Various bug fixes.\n\n✔ Santa now has a lot more gifts for you.\n✔ High quality graphics.\n✔ New postcards.\n✔ You can set the sound of a recorded video as your default ringtone. (We need the Modify system settings permission for that.)\n✔ App translated into German, French, Italian, Spanish and Portuguese."
+          },
+          {
+            "version": "2.1",
+            "versionCode": "",
+            "date": "2012-12-08",
+            "changes": ""
+          },
+          {
+            "version": "2.1.2",
+            "versionCode": "22",
+            "date": "2012-12-14",
+            "changes": "✔ You can now remove ads with an in-app purchase\n✔ Improved Child Mode\n✔ New super silly Christmas postcards\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/"
+          },
+          {
+            "version": "2.2.1",
+            "versionCode": "43",
+            "date": "2014-07-04",
+            "changes": "We've dusted off Talking Santa's present bag and cleaned his costume!\n\nМы смахнули пыль с мешка подарков Говорящего Санты и почистили его наряд!"
+          },
+          {
+            "version": "2.3",
+            "versionCode": "",
+            "date": "2014-12-12",
+            "changes": ""
+          },
+          {
+            "version": "2.3.1",
+            "versionCode": "72",
+            "date": "2014-12-14",
+            "changes": "Talking Santa's got a present for you! ★ Merry Christmas! ★"
+          },
+          {
+            "version": "3.4",
+            "versionCode": "80, 83",
+            "date": "2015-11-28",
+            "changes": "Talking Santa is back! He decorated his Christmas tree and cleaned all the chimneys!"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2010-11-30",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2010-12-08",
+            "changes": "✔ Video recording bug fixes."
+          },
+          {
+            "version": "1.0.2",
+            "date": "2011-04-04",
+            "changes": "✔ Bug fixes"
+          },
+          {
+            "version": "3.0",
+            "date": "2011-12-03",
+            "changes": ""
+          },
+          {
+            "version": "3.0.1",
+            "date": "2011-12-05",
+            "changes": "IMPORTANT: We fixed a critical bug that made the in-app purchase impossible.\n\nThose who already purchased the in-app purchase and haven't gotten it, just purchase it again, you will not be charged a second time.\n\n✔ Santa now has a lot more gifts for you.\n✔ High quality graphics.\n✔ New postcards.\n✔ You can set the sound of a recorded video as your default ringtone.\n✔ App translated into German, French, Italian, Spanish and Portuguese."
+          },
+          {
+            "version": "3.1.1",
+            "date": "2013-04-28",
+            "changes": "Brand new screenshots."
+          },
+          {
+            "version": "3.3",
+            "date": "2014-12-15",
+            "changes": "Talking Santa's got a present for you! Merry Christmas!"
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2016-01-12"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
