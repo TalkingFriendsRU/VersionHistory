@@ -95,7 +95,7 @@
     return `<div class="version-row" data-platform="${platform}">
       <label>Версия<input data-field="version" value="${esc(z.version)}" placeholder="7.4.1"></label>
       ${code}
-      <label>Дата<input data-field="date" type="date" value="${esc(z.date)}"></label>
+      <label>Дата<input data-field="date" type="text" placeholder="2026-09-19" value="${esc(z.date)}"></label>
       <label>Изменения<textarea data-field="changes" rows="2">${esc(z.changes)}</textarea></label>
       <button class="remove" type="button">×</button>
     </div>`;
@@ -121,6 +121,17 @@
   function saveEditor(){
     const name = $("name").value.trim();
     if(!name){ alert("Укажи название приложения."); return; }
+    const dateOk = v => !v || /^\d{4}-\d{2}-\d{2}$/.test(v);
+    if(!dateOk($("releaseDate").value.trim())){
+      alert("Дата выхода должна быть в формате ГГГГ-ММ-ДД, например 2026-09-19."); return;
+    }
+    for(const platform of ["android","ios"]){
+      for(const row of collectRows(platform)){
+        if(row.date && !dateOk(row.date)){
+          alert("Дата версии должна быть в формате ГГГГ-ММ-ДД, например 2026-09-19."); return;
+        }
+      }
+    }
     const item = {
       id: editingId || slugify(name),
       name,
