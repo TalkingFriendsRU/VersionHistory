@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>TalkingFriendsRU История версий</title>
+<title>TalkingFriendsRU — история приложений</title>
 <link rel="icon" type="image/jpeg" href="./logo.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,7 +20,7 @@
 <section class="hero">
 <div class="eyebrow">КАТАЛОГ ПРИЛОЖЕНИЙ</div>
 <h1>История приложений<br><span>в одном месте</span></h1>
-<p>Поиск, платформ и истории их версий.</p>
+<p>Поиск игр и приложений, платформ и истории их версий.</p>
 <label class="search-box">
 <span>⌕</span>
 <input id="search" type="search" placeholder="Поиск по названию..." autocomplete="off">
@@ -34,6 +34,14 @@
 <option value="all">Все платформы</option>
 <option value="android">Google Play</option>
 <option value="ios">App Store</option>
+</select>
+</label>
+<label class="select-wrap">
+<span>Статус</span>
+<select id="status">
+<option value="all">Все</option>
+<option value="available">Доступные</option>
+<option value="removed">Удалённые</option>
 </select>
 </label>
 <label class="select-wrap">
@@ -56,7 +64,7 @@
 <section id="grid" class="grid" aria-live="polite"></section>
 <div id="error" class="error hidden"></div>
 </main>
-<footer class="footer wrap">TalkingFriendsRU · t.me/TalkingFriendsRU</footer>
+<footer class="footer wrap">TalkingFriendsRU · каталог истории приложений</footer>
 <script src="./app.js"></script>
 </body>
 </html>
