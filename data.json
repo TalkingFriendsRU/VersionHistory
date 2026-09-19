@@ -1,76 +1,61 @@
 {
   "apps": [
     {
-      "id": "talking-tom-gold-run",
-      "name": "Говорящий Том: Бег за золотом",
-      "developer": "Outfit7",
+      "id": "говорящий-кот-том-talking-tom-cat",
+      "name": "Говорящий кот Том | Talking Tom Cat",
+      "developer": "Outfit7 Limited",
       "type": "game",
-      "releaseDate": "2013-06-12",
-      "icon": "🎮",
+      "releaseDate": "2010-06-26",
+      "icon": "https://play-lh.googleusercontent.com/m2H0K49W3XwG5N3nM4VvqHxPwdvb3-ExNhsSof2FU0o5OmG2UtsocAX6-HSTajJHCqKo8a1Gh6v-hrkfVfmWlA=s16000",
       "versions": {
-        "android": [
-          {
-            "version": "7.4.1",
-            "versionCode": "741023",
-            "date": "2026-09-15",
-            "changes": "Исправления ошибок и улучшения."
-          }
-        ],
+        "android": [],
         "ios": [
           {
-            "version": "7.4.1",
-            "date": "2026-09-15",
-            "changes": "Исправления ошибок и улучшения."
+            "version": "1.0",
+            "date": "2010-06-26",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2010-07-09",
+            "changes": "✔ Upload videos directly to Facebook\n✔ Faster video upload\n✔ Send videos via email"
+          },
+          {
+            "version": "1.2",
+            "date": "2010-07-17",
+            "changes": "✔ Multitouch bugfix\n✔ Facebook video upload interruption bugfix"
+          },
+          {
+            "version": "1.3",
+            "date": "2010-08-03",
+            "changes": "✔ In app purchase: 3 extra animations + no ads\n✔ Better video playback (audio is now never out of sync)"
+          },
+          {
+            "version": "1.3.1",
+            "date": "2010-08-10",
+            "changes": "✔ Fixed critical bug: Tom does not talk properly on iPhone 3G after 1.3 update\n✔ Enabled speakers on iPod Touch when microphone is connected"
+          },
+          {
+            "version": "1.4",
+            "date": "2010-09-17",
+            "changes": "✔ 1 new FREE animation of Tom scratching the screen\n✔ 1 new in app purchase animation of Tom farting (free for all who have upgraded the app)\n✔ App settings which allow you to turn violence off, set longer listening time & clear your Facebook & YouTube login data\n✔ Several bugfixes"
+          },
+          {
+            "version": "1.5",
+            "date": "2010-11-30",
+            "changes": "We added a lot of new features in this update:\n✔ Save videos to your Library (Photos -> Camera Roll)*\n✔ Send videos as MMS (from Camera Roll)*\n✔ Video length increased to 45 seconds\n✔ Retina display compatible icons and buttons\n✔ Smoother animations on iPhone 3G\n\n*iPhone 3G users cannot save & send videos as MMS"
+          },
+          {
+            "version": "1.5.1",
+            "date": "2010-12-21",
+            "changes": "✔ Video recording bug fixes\n✔ Small performance improvement on iPhone 3G"
+          },
+          {
+            "version": "1.6",
+            "date": "2011-05-13",
+            "changes": "Tom is back with a new update!\n\nNew Features in version 1.6 include:\n\n- We fixed some bugs so Tom is more hilarious than ever!\n- Use your Facebook login information to make it easier to share videos with your friends.\n- Be the first to get news on Tom and all of the Talking Friends characters with the Outfit7 newsletter.\n\nBecome a fan of Tom's on Facebook."
           }
         ]
-      }
-    },
-    {
-      "id": "my-talking-tom-friends-2",
-      "name": "Мой Говорящий Том: Друзья 2",
-      "developer": "Outfit7",
-      "type": "game",
-      "releaseDate": "2025-08-15",
-      "icon": "🐱",
-      "versions": {
-        "android": [],
-        "ios": []
-      }
-    },
-    {
-      "id": "talking-tom-friends-world",
-      "name": "Говорящий Том и Друзья: Мир",
-      "developer": "Outfit7",
-      "type": "game",
-      "releaseDate": "2026-02-20",
-      "icon": "🌍",
-      "versions": {
-        "android": [],
-        "ios": []
-      }
-    },
-    {
-      "id": "telegram",
-      "name": "Telegram",
-      "developer": "Telegram",
-      "type": "app",
-      "releaseDate": "2013-08-14",
-      "icon": "✈️",
-      "versions": {
-        "android": [],
-        "ios": []
-      }
-    },
-    {
-      "id": "youtube",
-      "name": "YouTube",
-      "developer": "Google",
-      "type": "app",
-      "releaseDate": "2010-09-01",
-      "icon": "▶️",
-      "versions": {
-        "android": [],
-        "ios": []
       }
     }
   ]
