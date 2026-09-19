@@ -822,6 +822,89 @@
           }
         ]
       }
+    },
+    {
+      "id": "talking-baby-hippo",
+      "name": "Talking Baby Hippo",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-07-16",
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/e/e8/Talking_baby_hippo.png/revision/latest?cb=20240317085714&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "date": "2010-09-10",
+            "changes": "",
+            "versionCode": "3"
+          },
+          {
+            "version": "1.1",
+            "date": "2010-09-25",
+            "changes": "",
+            "versionCode": ""
+          },
+          {
+            "version": "1.2.6",
+            "date": "2011-02-09",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card",
+            "versionCode": "10"
+          },
+          {
+            "version": "1.2.7",
+            "date": "2013-04-16",
+            "changes": "We have removed license checking (DRM) from the app.",
+            "versionCode": "11"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2010-07-16",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2010-07-30",
+            "changes": "✔ Better video playback (audio is now never out of sync)"
+          },
+          {
+            "version": "1.1.1",
+            "date": "2010-08-09",
+            "changes": "✔ Fixed critical bug: Hippo does not talk properly on iPhone 3G after 1.1 update\n✔ Enabled speakers on iPod Touch when microphone is connected"
+          },
+          {
+            "version": "1.1.2",
+            "date": "2010-09-25",
+            "changes": "✔ App settings which allow you to set longer listening time & clear your Facebook & YouTube login data\n✔ Bugfixes"
+          },
+          {
+            "version": "1.2",
+            "date": "2010-11-22",
+            "changes": "We added a lot of new features in this update:\n✔ Save videos to your Library (Photos -> Camera Roll)*\n✔ Send videos as MMS (from Camera Roll)*\n✔ Video length increased to 45 seconds\n✔ Retina display compatible icons and buttons\n✔ Smoother animations on iPhone 3G\n\n*iPhone 3G users cannot save & send videos as MMS"
+          },
+          {
+            "version": "2.0",
+            "date": "2014-04-16",
+            "changes": ""
+          },
+          {
+            "version": "2.1",
+            "date": "2015-01-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2014-01-01"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2017-03-11"
+        }
+      }
     }
   ]
 }
