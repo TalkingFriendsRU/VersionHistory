@@ -8,7 +8,512 @@
       "releaseDate": "2010-06-26",
       "icon": "https://play-lh.googleusercontent.com/m2H0K49W3XwG5N3nM4VvqHxPwdvb3-ExNhsSof2FU0o5OmG2UtsocAX6-HSTajJHCqKo8a1Gh6v-hrkfVfmWlA=s16000",
       "versions": {
-        "android": [],
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "1",
+            "date": "2010-08-06",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "versionCode": "2",
+            "date": "2010-08-12",
+            "changes": "app2sd and HTC Wildfire support\n\nПоддержка app2sd и HTC Wildfire"
+          },
+          {
+            "version": "1.1.5",
+            "versionCode": "3",
+            "date": "2010-08-19",
+            "changes": "works on Galaxy Spica/Portal\n\nРаботает на Galaxy Spica/Portal"
+          },
+          {
+            "version": "1.1.7",
+            "versionCode": "4",
+            "date": "2010-08-21",
+            "changes": "works on Galaxy Spica/Portal\n\nРаботает на Galaxy Spica/Portal"
+          },
+          {
+            "version": "1.2",
+            "versionCode": "6",
+            "date": "2010-09-08",
+            "changes": ""
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "7",
+            "date": "2010-09-13",
+            "changes": ""
+          },
+          {
+            "version": "1.2.2",
+            "versionCode": "8",
+            "date": "2010-09-14",
+            "changes": ""
+          },
+          {
+            "version": "1.2.3",
+            "versionCode": "9",
+            "date": "2010-09-25",
+            "changes": "Settings:violence off, listen longer, clear FB/YT login"
+          },
+          {
+            "version": "1.2.4",
+            "versionCode": "10",
+            "date": "2010-12-17",
+            "changes": ""
+          },
+          {
+            "version": "1.3.1",
+            "versionCode": "12",
+            "date": "2011-01-24",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+          },
+          {
+            "version": "1.3.4",
+            "versionCode": "14",
+            "date": "2011-01-29",
+            "changes": "Fixed issues when converting video on Dell Streak"
+          },
+          {
+            "version": "1.3.6",
+            "versionCode": "15",
+            "date": "2011-02-02",
+            "changes": "Bugfixes, visual improvements"
+          },
+          {
+            "version": "1.3.99",
+            "versionCode": "17",
+            "date": "2011-09-14",
+            "changes": ""
+          },
+          {
+            "version": "1.4.0",
+            "versionCode": "18",
+            "date": "2011-09-14",
+            "changes": "Removed unnecessary account permissions"
+          },
+          {
+            "version": "1.4.1",
+            "versionCode": "31",
+            "date": "2011-09-21",
+            "changes": "Removed unnecessary account permissions"
+          },
+          {
+            "version": "1.5",
+            "versionCode": "33",
+            "date": "2011-10-19",
+            "changes": "Best YouTube videos uploaded by users. Upvote videos you like or downvote videos you hate. Just press the video button to see the videos."
+          },
+          {
+            "version": "1.6",
+            "versionCode": "34",
+            "date": "2011-11-03",
+            "changes": "Talking Tom is now translated to 8 languages: Japanese, German, Chinese, Korean, French, Spanish, Italian and Portuguese"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "40-43",
+            "date": "2013-02-21",
+            "changes": "✔ The award-winning Talking Tom is back with higher QUALITY graphics and animations. This cat really looks good!\n✔ The app is now smaller in size. Perfect for the download on the go!\n(No additional download of graphic assets is necessary.)\n✔ Talking Tom now works with Talking Friends Superstar toys. Hours of fun for you and your family!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "50-53",
+            "date": "2013-03-01",
+            "changes": "✔ The award-winning Talking Tom is back with higher QUALITY graphics and animations. This cat really looks good!\n✔ The app is now smaller in size. Perfect for the download on the go!\n(No additional download of graphic assets is necessary.)\n✔ Talking Tom now works with Talking Friends Superstar toys. Hours of fun for you and your family!"
+          },
+          {
+            "version": "2.1",
+            "versionCode": "60-63",
+            "date": "2013-11-13",
+            "changes": "IMPROVED VIDEO GALLERY - Watching videos has never been more enjoyable! So check it out!\nSQUASHED BUGS - We've gotten rid of some app bugs and made other minor improvements."
+          },
+          {
+            "version": "2.1.1",
+            "versionCode": "70-73",
+            "date": "2013-12-23",
+            "changes": "Hooray! We've emptied out the trash can and it's now bug free."
+          },
+          {
+            "version": "2.4",
+            "versionCode": "90-93",
+            "date": "2014-05-20",
+            "changes": "NEW VIDEO GALLERY - Watching videos will be a lot more enjoyable now.\nBUG FIXES - Hooray! We've emptied out the trash can and it's now bug free."
+          },
+          {
+            "version": "2.4.1",
+            "versionCode": "100-103",
+            "date": "2014-05-22",
+            "changes": "NEW VIDEO GALLERY - Watching videos will be a lot more enjoyable now.\nBUG FIXES - Hooray! We've emptied out the trash can and it's now bug free."
+          },
+          {
+            "version": "2.5",
+            "versionCode": "110-113",
+            "date": "2014-08-28",
+            "changes": "NEW VIDEO GALLERY - Watching videos will be a lot more enjoyable now.\nBUG FIXES - Hooray! We've emptied out the trash can and it's now bug free."
+          },
+          {
+            "version": "2.6",
+            "versionCode": "120-123",
+            "date": "2015-02-06",
+            "changes": "WATCH BRAND NEW VIDEOS: You can now watch the brand new Talking Tom and Friends show from the comfort of your app!\nBUG-FREE: That’s right – we’ve zapped all the bugs so the app is bug-free and better than ever!\n\nСМОТРИ АБСОЛЮТНО НОВЫЕ ВИДЕО: Теперь ты можешь с комфортом смотреть абсолютно новую передачу Talking Tom and Friends непосредственно из своего приложения!\nОТСУТСТВИЕ ОШИБОК: Все верно — мы исправили все ошибки, так что в приложении больше нет ошибок, и оно лучше, чем когда-либо ранее!"
+          },
+          {
+            "version": "2.7",
+            "versionCode": "130-133",
+            "date": "2015-06-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0",
+            "versionCode": "165, 168",
+            "date": "2016-04-06",
+            "changes": "TAKE A LOOK: Talking Tom is refreshed and looking better than ever!\nFEED YOUR FRIEND: See Tom’s funny reactions to his favorite food.\nTALK TO TOM: Laugh even louder with the improved talk animations.\nCHILD-FRIENDLY: Turn on Child Mode for kids to have unlimited fun.\n\nПОСМОТРИ: мы освежили Говорящего Тома, и теперь он стал лучше прежнего!\nНАКОРМИ ДРУГА: смотри, как смешно Том реагирует на свою любимую еду.\nГОВОРИ С ТОМОМ: улучшенная анимация разговора стала еще смешнее.\nПОДХОДИТ ДЛЯ ДЕТЕЙ: включи Детский режим, и веселью не будет конца."
+          },
+          {
+            "version": "3.0.1",
+            "versionCode": "169",
+            "date": "2016-04-07",
+            "changes": "TAKE A LOOK: Talking Tom is refreshed and looking better than ever!\nFEED YOUR FRIEND: See Tom’s funny reactions to his favorite food.\nTALK TO TOM: Laugh even louder with the improved talk animations.\nCHILD-FRIENDLY: Turn on Child Mode for kids to have unlimited fun.\n\nПОСМОТРИ: мы освежили Говорящего Тома, и теперь он стал лучше прежнего!\nНАКОРМИ ДРУГА: смотри, как смешно Том реагирует на свою любимую еду.\nГОВОРИ С ТОМОМ: улучшенная анимация разговора стала еще смешнее.\nПОДХОДИТ ДЛЯ ДЕТЕЙ: включи Детский режим, и веселью не будет конца."
+          },
+          {
+            "version": "3.0.5",
+            "versionCode": "180",
+            "date": "2016-04-11",
+            "changes": "TAKE A LOOK: Talking Tom is refreshed and looking better than ever!\nFEED YOUR FRIEND: See Tom’s funny reactions to his favorite food.\nTALK TO TOM: Laugh even louder with the improved talk animations.\nCHILD-FRIENDLY: Turn on Child Mode for kids to have unlimited fun.\n\nПОСМОТРИ: мы освежили Говорящего Тома, и теперь он стал лучше прежнего!\nНАКОРМИ ДРУГА: смотри, как смешно Том реагирует на свою любимую еду.\nГОВОРИ С ТОМОМ: улучшенная анимация разговора стала еще смешнее.\nПОДХОДИТ ДЛЯ ДЕТЕЙ: включи Детский режим, и веселью не будет конца."
+          },
+          {
+            "version": "3.0.6",
+            "versionCode": "190",
+            "date": "2016-04-16",
+            "changes": "TAKE A LOOK: Talking Tom is refreshed and looking better than ever!\nFEED YOUR FRIEND: See Tom’s funny reactions to his favorite food.\nTALK TO TOM: Laugh even louder with the improved talk animations.\nCHILD-FRIENDLY: Turn on Child Mode for kids to have unlimited fun.\n\nПОСМОТРИ: мы освежили Говорящего Тома, и теперь он стал лучше прежнего!\nНАКОРМИ ДРУГА: смотри, как смешно Том реагирует на свою любимую еду.\nГОВОРИ С ТОМОМ: улучшенная анимация разговора стала еще смешнее.\nПОДХОДИТ ДЛЯ ДЕТЕЙ: включи Детский режим, и веселью не будет конца."
+          },
+          {
+            "version": "3.1",
+            "versionCode": "310",
+            "date": "2016-06-17",
+            "changes": "TAKE A LOOK: Talking Tom is refreshed and looking better than ever!\nFEED YOUR FRIEND: See Tom’s funny reactions to his favorite food.\nTALK TO TOM: Laugh even louder with the improved talk animations.\nCHILD-FRIENDLY: Turn on Child Mode for kids to have unlimited fun.\nBUBBLY BURP: Laugh out loud at Talking Tom's new bubble animation.\n\nПОСМОТРИ: мы освежили Говорящего Тома, и теперь он стал лучше прежнего!\nНАКОРМИ ДРУГА: смотри, как смешно Том реагирует на свою любимую еду.\nГОВОРИ С ТОМОМ: улучшенная анимация разговора стала еще смешнее.\nПОДХОДИТ ДЛЯ ДЕТЕЙ: включи Детский режим, и веселью не будет конца.\nПУЗЫРИСТАЯ ОТРЫЖКА: смейся до упаду, когда Говорящий Том пускает пузыри."
+          },
+          {
+            "version": "3.1.1",
+            "versionCode": "320",
+            "date": "2016-06-18",
+            "changes": "TAKE A LOOK: Talking Tom is refreshed and looking better than ever!\nFEED YOUR FRIEND: See Tom’s funny reactions to his favorite food.\nTALK TO TOM: Laugh even louder with the improved talk animations.\nCHILD-FRIENDLY: Turn on Child Mode for kids to have unlimited fun.\nBUBBLY BURP: Laugh out loud at Talking Tom's new bubble animation.\n\nПОСМОТРИ: мы освежили Говорящего Тома, и теперь он стал лучше прежнего!\nНАКОРМИ ДРУГА: смотри, как смешно Том реагирует на свою любимую еду.\nГОВОРИ С ТОМОМ: улучшенная анимация разговора стала еще смешнее.\nПОДХОДИТ ДЛЯ ДЕТЕЙ: включи Детский режим, и веселью не будет конца.\nПУЗЫРИСТАЯ ОТРЫЖКА: смейся до упаду, когда Говорящий Том пускает пузыри."
+          },
+          {
+            "version": "3.2",
+            "versionCode": "330",
+            "date": "2016-11-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.1",
+            "versionCode": "340",
+            "date": "2016-11-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.2",
+            "versionCode": "350",
+            "date": "2016-12-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3",
+            "versionCode": "360",
+            "date": "2017-04-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4",
+            "versionCode": "380, 390",
+            "date": "2017-09-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5",
+            "versionCode": "400",
+            "date": "2017-12-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1",
+            "versionCode": "410",
+            "date": "2017-12-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2",
+            "versionCode": "420",
+            "date": "2017-12-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.4",
+            "versionCode": "430",
+            "date": "2017-12-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.0.4",
+            "versionCode": "440",
+            "date": "2018-04-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.1.8",
+            "versionCode": "460",
+            "date": "2018-04-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.2.9",
+            "versionCode": "470",
+            "date": "2018-05-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.3.8",
+            "versionCode": "480",
+            "date": "2018-06-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.4.11",
+            "versionCode": "490",
+            "date": "2018-07-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.5.22",
+            "versionCode": "510",
+            "date": "2018-07-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.6.35",
+            "versionCode": "520",
+            "date": "2018-07-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.7.46",
+            "versionCode": "530",
+            "date": "2018-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.8.21",
+            "versionCode": "540",
+            "date": "2019-02-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.9.7",
+            "versionCode": "550",
+            "date": "2019-02-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.10.10",
+            "versionCode": "560",
+            "date": "2019-02-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.0.25",
+            "versionCode": "570",
+            "date": "2020-06-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.1.26",
+            "versionCode": "580",
+            "date": "2020-06-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.2.28",
+            "versionCode": "590",
+            "date": "2020-09-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.31",
+            "versionCode": "600",
+            "date": "2021-01-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.34",
+            "versionCode": "610",
+            "date": "2021-01-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.0.50",
+            "versionCode": "620",
+            "date": "2021-05-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.10.0.163",
+            "versionCode": "630",
+            "date": "2021-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.0.318",
+            "versionCode": "660",
+            "date": "2022-04-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.1.377",
+            "versionCode": "670",
+            "date": "2022-09-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.2.24",
+            "versionCode": "680",
+            "date": "2022-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.0.125",
+            "versionCode": "690",
+            "date": "2023-04-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.1.188",
+            "versionCode": "700",
+            "date": "2023-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.2.190",
+            "versionCode": "710",
+            "date": "2023-10-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2.0.214",
+            "versionCode": "720",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2.1.221",
+            "versionCode": "730",
+            "date": "2024-03-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.0.282",
+            "versionCode": "8160",
+            "date": "2024-07-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.1.316",
+            "versionCode": "8161",
+            "date": "2024-07-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.2.323",
+            "versionCode": "8170",
+            "date": "2024-08-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.3.368",
+            "versionCode": "8180",
+            "date": "2024-10-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.4.373",
+            "versionCode": "8190",
+            "date": "2024-10-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.5.393",
+            "versionCode": "8200",
+            "date": "2024-11-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.4.0.526",
+            "versionCode": "200404000",
+            "date": "2025-05-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.4.1.585",
+            "versionCode": "200404010",
+            "date": "2025-07-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5.0.591",
+            "versionCode": "200405000",
+            "date": "2025-07-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.0.0.1773",
+            "versionCode": "200500000",
+            "date": "2025-08-20",
+            "changes": "MEET TALKING TOM 2.0\n\nNew Tom, who dis? He’s got fresh drip, unbothered energy, weird new snacks, and voice filters that slap. Poke him if you dare — he’s living his best life.\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНовый Том! У него модный прикид, невозмутимый вайб, странные закуски и офигенный голосовой фильтр — он живёт на полную катушку."
+          },
+          {
+            "version": "5.0.1.2011",
+            "versionCode": "200500010",
+            "date": "2025-08-26",
+            "changes": "MEET TALKING TOM 2.0\n\nNew Tom, who dis? He’s got fresh drip, unbothered energy, weird new snacks, and voice filters that slap. Poke him if you dare — he’s living his best life.\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНовый Том! У него модный прикид, невозмутимый вайб, странные закуски и офигенный голосовой фильтр — он живёт на полную катушку."
+          },
+          {
+            "version": "4.6.0.624",
+            "versionCode": "200406000",
+            "date": "2025-09-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.0.3.2424",
+            "versionCode": "200500030",
+            "date": "2025-09-05",
+            "changes": "MEET TALKING TOM 2.0\n\nNew Tom, who dis? He’s got fresh drip, unbothered energy, weird new snacks, and voice filters that slap. Poke him if you dare — he’s living his best life.\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНовый Том! У него модный прикид, невозмутимый вайб, странные закуски и офигенный голосовой фильтр — он живёт на полную катушку."
+          },
+          {
+            "version": "5.1.0.3068",
+            "versionCode": "200501000",
+            "date": "2025-09-17",
+            "changes": "MEET TALKING TOM 2.0\n\nStill unbothered. Still chaotic. Now fully remastered with fresh snacks, unhinged sounds & next-level pokes. Can you handle him?\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНевозмутимый. Непредсказуемый. Полностью обновлённый, со свежими закусками, безумными звуками и невероятными тычками. Сможете справиться?"
+          },
+          {
+            "version": "5.1.1.3245",
+            "versionCode": "200501010",
+            "date": "2025-09-23",
+            "changes": "MEET TALKING TOM 2.0\n\nStill unbothered. Still chaotic. Now fully remastered with fresh snacks, unhinged sounds & next-level pokes. Can you handle him?\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНевозмутимый. Непредсказуемый. Полностью обновлённый, со свежими закусками, безумными звуками и невероятными тычками. Сможете справиться?"
+          },
+          {
+            "version": "5.1.2.3389",
+            "versionCode": "200501020",
+            "date": "2025-10-01",
+            "changes": "MEET TALKING TOM 2.0\n\nNew Tom, who dis? He’s got fresh drip, unbothered energy, weird new snacks, and voice filters that slap. Poke him if you dare — he’s living his best life.\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНовый Том! У него модный прикид, невозмутимый вайб, странные закуски и офигенный голосовой фильтр — он живёт на полную катушку."
+          },
+          {
+            "version": "5.1.3.3751",
+            "versionCode": "200501030",
+            "date": "2025-12-18",
+            "changes": "TALKING TOM GOT NEW VOICE FILTERS\nIntroducing 5 hilarious voice filters that let him talk back in the weirdest ways possible.\nDownload the update and make Talking Tom your personal meme machine.\n\nУ ГОВОРЯЩЕГО ТОМА НОВЫЕ ГОЛОСОВЫЕ ФИЛЬТРЫ\nПредставляем 5 уморительных голосовых фильтров, от которых его голос становится суперстранным.\nСкачайте обновление и сделайте Говорящего Тома своим личным поставщиком мемов."
+          }
+        ],
         "ios": [
           {
             "version": "1.0",
@@ -299,6 +804,21 @@
             "version": "4.5.1",
             "date": "2025-09-08",
             "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.1.1",
+            "date": "2025-09-25",
+            "changes": "MEET TALKING TOM 2.0\n\nStill unbothered. Still chaotic. Now fully remastered with fresh snacks, unhinged sounds & next-level pokes. Can you handle him?\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНевозмутимый. Непредсказуемый. Полностью обновлённый, со свежими закусками, безумными звуками и невероятными тычками. Сможете справиться?"
+          },
+          {
+            "version": "5.1.2",
+            "date": "2025-10-02",
+            "changes": "MEET TALKING TOM 2.0\n\nNew Tom, who dis? He’s got fresh drip, unbothered energy, weird new snacks, and voice filters that slap. Poke him if you dare — he’s living his best life.\n\nВСТРЕЧАЙТЕ ГОВОРЯЩЕГО ТОМА 2.0\n\nНовый Том! У него модный прикид, невозмутимый вайб, странные закуски и офигенный голосовой фильтр — он живёт на полную катушку."
+          },
+          {
+            "version": "5.1.3",
+            "date": "2025-12-19",
+            "changes": "TALKING TOM GOT NEW VOICE FILTERS\nIntroducing 5 hilarious voice filters that let him talk back in the weirdest ways possible.\nDownload the update and make Talking Tom your personal meme machine.\n\nУ ГОВОРЯЩЕГО ТОМА НОВЫЕ ГОЛОСОВЫЕ ФИЛЬТРЫ\nПредставляем 5 уморительных голосовых фильтров, от которых его голос становится суперстранным.\nСкачайте обновление и сделайте Говорящего Тома своим личным поставщиком мемов."
           }
         ]
       }
