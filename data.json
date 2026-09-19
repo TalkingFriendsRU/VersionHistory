@@ -1587,6 +1587,49 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-bacteria-john-john-john",
+      "name": "Talking Bacteria John, John & John",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-12-07",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/b/bf/Talking_Bacteria_John_icon.png/revision/latest?cb=20200224135027&format=original",
+      "versions": {
+        "android": [],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2010-12-07",
+            "changes": ""
+          },
+          {
+            "version": "1.0",
+            "date": "2010-12-08",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2011-04-04",
+            "changes": "✔ Fixed a bug that crashed the app"
+          },
+          {
+            "version": "1.0.2",
+            "date": "2011-04-07",
+            "changes": "✔ Fixed startup crash"
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2015-01-18"
+        }
+      }
     }
   ]
 }
