@@ -117,6 +117,9 @@
           return;
         }
         const v = x.versions || {android:[],ios:[]};
+        const years = [...new Set([...(v.android||[]), ...(v.ios||[])]
+          .map(z => (z.date || "").slice(0,4))
+          .filter(Boolean))].sort((a,b) => b.localeCompare(a));
         root.innerHTML = `
           <section class="app-hero">
             <div class="bigicon">${iconHtml(x.icon)}</div>
@@ -126,14 +129,34 @@
             <button class="active" data-platform="android">Google Play</button>
             <button data-platform="ios">App Store</button>
           </div>
+          <div class="control-grid" style="margin:16px 0">
+            <label class="select-wrap">
+              <span>Сортировка</span>
+              <select id="versionSort">
+                <option value="new">Сначала новые</option>
+                <option value="old">Сначала старые</option>
+              </select>
+            </label>
+            <label class="select-wrap">
+              <span>Год</span>
+              <select id="versionYear">
+                <option value="all">Все годы</option>
+                ${years.map(y => `<option value="${esc(y)}">${esc(y)}</option>`).join("")}
+              </select>
+            </label>
+          </div>
           <div id="versions"></div>`;
+        let currentPlatform = "android";
         document.querySelectorAll(".switch button").forEach(btn => {
           btn.addEventListener("click", () => {
             document.querySelectorAll(".switch button").forEach(b => b.classList.remove("active"));
             btn.classList.add("active");
-            showVersions(btn.dataset.platform, v);
+            currentPlatform = btn.dataset.platform;
+            showVersions(currentPlatform, v);
           });
         });
+        document.getElementById("versionSort").addEventListener("change", () => showVersions(currentPlatform, v));
+        document.getElementById("versionYear").addEventListener("change", () => showVersions(currentPlatform, v));
         showVersions("android", v);
       } catch (e) {
         root.innerHTML = '<div class="error">Ошибка загрузки: ' + esc(e.message) + '</div>';
@@ -141,8 +164,18 @@
     }
 
     function showVersions(platform, versions) {
-      const list = versions[platform] || [];
+      const original = versions[platform] || [];
+      let list = original;
+      const sortDir = document.getElementById("versionSort")?.value || "new";
+      const yearFilter = document.getElementById("versionYear")?.value || "all";
+      if (yearFilter !== "all") list = list.filter(z => (z.date || "").slice(0,4) === yearFilter);
+      list = [...list].sort((a,b) => sortDir === "old"
+        ? (a.date || "").localeCompare(b.date || "")
+        : (b.date || "").localeCompare(a.date || ""));
       const title = platform === "android" ? "Google Play — история версий" : "App Store — история версий";
+      const emptyMsg = original.length && !list.length
+        ? "Нет версий за выбранный год."
+        : "Версии пока не добавлены.";
       document.getElementById("versions").innerHTML =
         `<h2 style="margin:0 0 14px">${title}</h2>` +
         (list.length ? `<div class="version-list">${list.map(z => `
@@ -154,7 +187,7 @@
             </div>
             <p>${esc(z.changes || "Изменения не указаны.")}</p>
           </article>`).join("")}</div>` :
-        '<div class="empty">Версии пока не добавлены.</div>');
+        `<div class="empty">${emptyMsg}</div>`);
     }
     initDetail();
   }
