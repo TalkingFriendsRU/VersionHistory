@@ -46,22 +46,17 @@
     function render() {
       if (!DATA) return;
       const q = document.getElementById("search").value.trim().toLowerCase();
-      const platform = document.getElementById("platform").value;
       const status = document.getElementById("status").value;
       const sort = document.getElementById("sort").value;
 
       let apps = DATA.apps.filter(x => {
         const nameMatch = (x.name || "").toLowerCase().includes(q);
         const typeMatch = type === "all" || x.type === type;
-        const versions = x.versions || {android:[], ios:[]};
-        const platformMatch = platform === "all" ||
-          (platform === "android" && versions.android) ||
-          (platform === "ios" && versions.ios);
         const isRemoved = !!(x.status?.android?.removed || x.status?.ios?.removed);
         const statusMatch = status === "all" ||
           (status === "removed" && isRemoved) ||
           (status === "available" && !isRemoved);
-        return nameMatch && typeMatch && platformMatch && statusMatch;
+        return nameMatch && typeMatch && statusMatch;
       });
 
       apps.sort((a,b) => {
@@ -109,7 +104,6 @@
         });
       });
       document.getElementById("search").addEventListener("input", render);
-      document.getElementById("platform").addEventListener("change", render);
       document.getElementById("status").addEventListener("change", render);
       document.getElementById("sort").addEventListener("change", render);
     }
