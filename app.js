@@ -12,6 +12,15 @@
     "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
   }[c]));
 
+  const isImageIcon = (value) => /^(https?:\/\/|data:image\/)/i.test(String(value || "").trim())
+    || /\.(png|jpe?g|gif|webp|svg)(\?.*)?$/i.test(String(value || "").trim());
+
+  const iconHtml = (value) => {
+    const v = String(value || "").trim();
+    if (isImageIcon(v)) return `<img src="${esc(v)}" alt="" loading="lazy">`;
+    return esc(v || "📦");
+  };
+
   const formatDate = value => {
     if (!value) return "—";
     const d = new Date(value + "T00:00:00");
@@ -74,7 +83,7 @@
           v.ios?.length ? "App Store" : ""
         ].filter(Boolean).join(" · ") || "История версий пока не добавлена";
         return `<article class="card" onclick="location.href='./app.html?id=${encodeURIComponent(x.id)}'">
-          <div class="appicon">${esc(x.icon || "📦")}</div>
+          <div class="appicon">${iconHtml(x.icon)}</div>
           <h3>${esc(x.name)}</h3>
           <p class="developer">${esc(x.developer || "—")}</p>
           <footer><span>📅 ${formatDate(x.releaseDate)}</span><span class="platforms">${esc(platforms)}</span></footer>
@@ -110,7 +119,7 @@
         const v = x.versions || {android:[],ios:[]};
         root.innerHTML = `
           <section class="app-hero">
-            <div class="bigicon">${esc(x.icon || "📦")}</div>
+            <div class="bigicon">${iconHtml(x.icon)}</div>
             <div><h1>${esc(x.name)}</h1><p>${esc(x.developer || "—")} · релиз ${formatDate(x.releaseDate)}</p></div>
           </section>
           <div class="switch">
