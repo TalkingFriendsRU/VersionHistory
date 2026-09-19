@@ -1,5 +1,5 @@
 *{box-sizing:border-box}
-:root{--bg:#0b0810;--panel:#15111d;--panel2:#1b1624;--border:#2c2437;--text:#f7f3fb;--muted:#a9a1b5;--accent:#a765ff;--accent2:#7f45dc}
+:root{--bg:#0b0810;--panel:#15111d;--panel2:#1b1624;--border:#2c2437;--text:#f7f3fb;--muted:#a9a1b5;--accent:#FF0050;--accent2:#c2003d}
 html{scroll-behavior:smooth}
 body{margin:0;background:radial-gradient(circle at 50% -10%,#25123d 0,#0b0810 36%);color:var(--text);font-family:Inter,system-ui,sans-serif;min-height:100vh}
 a{color:inherit;text-decoration:none}
@@ -9,7 +9,7 @@ button{cursor:pointer}
 .topbar{position:sticky;top:0;z-index:10;background:rgba(11,8,16,.84);backdrop-filter:blur(14px);border-bottom:1px solid rgba(255,255,255,.06)}
 .topbar-inner{height:70px;display:flex;align-items:center;justify-content:space-between;gap:20px}
 .brand{display:flex;align-items:center;gap:10px;font-size:20px;font-weight:800;letter-spacing:-.5px}
-.brand-mark{display:grid;place-items:center;width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#6f35c6);box-shadow:0 8px 28px #8b4ce64d}
+.brand-mark{display:grid;place-items:center;width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));box-shadow:0 8px 28px #ff00504d}
 .admin-link{font-size:14px;color:#d8cfe2;padding:10px 14px;border:1px solid var(--border);border-radius:11px;background:#17121e}
 .admin-link:hover{border-color:#61417e}
 .hero{text-align:center;padding:74px 0 54px}
@@ -72,7 +72,7 @@ select{width:100%;height:48px;border:1px solid var(--border);background:#191420;
 .page-title h1{margin:0;font-size:34px;letter-spacing:-1px}
 .page-title p{margin:8px 0 0;color:var(--muted)}
 .admin-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
-.primary{border:0;background:linear-gradient(135deg,var(--accent),#8141db);color:#fff;font-weight:700;border-radius:11px;padding:12px 16px}
+.primary{border:0;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;font-weight:700;border-radius:11px;padding:12px 16px}
 .file-button{display:inline-flex;align-items:center;cursor:pointer}
 .file-button input{display:none}
 .admin-list{display:grid;gap:10px}
