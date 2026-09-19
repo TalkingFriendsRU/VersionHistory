@@ -1721,6 +1721,59 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-gina-the-giraffe-pro",
+      "name": "Talking Gina the Giraffe Pro",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-07-20",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/b/b2/Talking_Gina_App_Icon_29.webp/revision/latest?cb=20221110174621&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.1",
+            "versionCode": "",
+            "date": "2011-07-20",
+            "changes": ""
+          },
+          {
+            "version": "1.1.1",
+            "versionCode": "",
+            "date": "2011-08-02",
+            "changes": "Fixed crash on start"
+          },
+          {
+            "version": "1.2",
+            "versionCode": "",
+            "date": "2011-10-10",
+            "changes": "16 new levels of the hand clapping game and 15 new baby giraffe pictures."
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "6",
+            "date": "2011-12-12",
+            "changes": "Fixed notification bubbles that couldn't be closed"
+          },
+          {
+            "version": "1.2.4",
+            "versionCode": "11",
+            "date": "2012-05-15",
+            "changes": "App is now translated into German, French, Italian, Spanish and Portuguese."
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2014-12-11"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
