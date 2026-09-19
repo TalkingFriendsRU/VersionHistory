@@ -41,6 +41,12 @@ select{width:100%;height:48px;border:1px solid var(--border);background:#191420;
 .card .developer{color:var(--muted);font-size:13px;margin:0}
 .card footer{display:flex;justify-content:space-between;gap:8px;margin-top:20px;color:#9d95a9;font-size:12px}
 .platforms{color:#c7a7e9}
+.platform-tag{display:inline-block;color:#c7a7e9;margin-left:8px}
+.platform-tag:first-child{margin-left:0}
+.platform-tag.removed{color:#ff8080}
+.status-banner{margin:14px 0;padding:10px 14px;border-radius:12px;font-size:13px;font-weight:600}
+.status-banner.available{background:#182a1e;color:#8be28b;border:1px solid #2a4c34}
+.status-banner.removed{background:#2a1a1e;color:#ff8080;border:1px solid #5c2a34}
 .empty,.error,.loading{padding:32px;text-align:center;border:1px dashed var(--border);border-radius:16px;color:var(--muted)}
 .error{color:#f0b7b7;border-color:#663b44;background:#211218}
 .hidden{display:none!important}
@@ -87,6 +93,13 @@ select{width:100%;height:48px;border:1px solid var(--border);background:#191420;
 .form-grid label,.version-row label{display:flex;flex-direction:column;gap:7px;color:#aaa1b2;font-size:12px;font-weight:600}
 .form-grid input,.version-row input,.version-row textarea{border:1px solid var(--border);background:#0f0b14;color:#f2edf5;border-radius:10px;padding:11px;outline:none}
 .version-section{margin-top:28px}
+.status-row{display:flex;flex-wrap:wrap;align-items:flex-end;gap:14px;margin:10px 0 16px}
+.checkbox-wrap{display:flex;align-items:center;gap:8px;color:#aaa1b2;font-size:13px;font-weight:600;cursor:pointer}
+.checkbox-wrap input{width:auto}
+.status-date-wrap{display:flex;flex-direction:column;gap:7px;color:#aaa1b2;font-size:12px;font-weight:600}
+.status-date-wrap input{border:1px solid var(--border);background:#0f0b14;color:#f2edf5;border-radius:10px;padding:9px 11px;outline:none}
+.status-badge{display:inline-block;margin-top:4px;margin-right:6px;padding:2px 8px;border-radius:8px;font-size:11px;font-weight:600}
+.status-badge.removed{background:#2a1a1e;color:#ff8080;border:1px solid #5c2a34}
 .section-title{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
 .section-title h3{margin:0;font-size:18px}
 .small-button{padding:8px 11px}
