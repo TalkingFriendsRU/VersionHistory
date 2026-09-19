@@ -1173,6 +1173,73 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-harry-the-hedgehog",
+      "name": "Talking Harry the Hedgehog",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-08-20",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/2/2e/Talking-Harry-iphone-oyun-icon.jpg/revision/latest?cb=20221110171709&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2010-10-26",
+            "changes": ""
+          },
+          {
+            "version": "1.1.5",
+            "versionCode": "8",
+            "date": "2011-02-09",
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+          },
+          {
+            "version": "1.1.6",
+            "versionCode": "9",
+            "date": "2013-04-18",
+            "changes": "We have removed license checking (DRM) from the app."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2010-08-20",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2010-10-13",
+            "changes": "✔ App settings which allow you to set longer listening time & clear your Facebook & YouTube login data\n✔ Bugfixes"
+          },
+          {
+            "version": "1.1",
+            "date": "2010-11-27",
+            "changes": "✔ Save videos to your Library (Photos)\n✔ Video length increased to 45 seconds\n✔ Video size is 480x640\n✔ Bug fixes"
+          },
+          {
+            "version": "1.1",
+            "date": "2010-11-30",
+            "changes": "We added a lot of new features in this update:\n✔ Save videos to your Library (Photos -> Camera Roll)*\n✔ Send videos as MMS (from Camera Roll)*\n✔ Video length increased to 45 seconds\n✔ Retina display compatible icons and buttons\n✔ Smoother animations on iPhone 3G\n\n*iPhone 3G users cannot save & send videos as MMS"
+          },
+          {
+            "version": "2.0",
+            "date": "2012-03-23",
+            "changes": "✔ New app icon.\n✔ Child Friendly Mode available in Settings. Makes the app toddler friendly by removing all the places a child can get lost in.\n✔ Several bugs fixed."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2013-12-30"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2014-10-28"
+        }
+      }
     }
   ]
 }
