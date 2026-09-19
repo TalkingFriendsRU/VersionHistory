@@ -47,6 +47,7 @@
       if (!DATA) return;
       const q = document.getElementById("search").value.trim().toLowerCase();
       const platform = document.getElementById("platform").value;
+      const status = document.getElementById("status").value;
       const sort = document.getElementById("sort").value;
 
       let apps = DATA.apps.filter(x => {
@@ -56,7 +57,11 @@
         const platformMatch = platform === "all" ||
           (platform === "android" && versions.android) ||
           (platform === "ios" && versions.ios);
-        return nameMatch && typeMatch && platformMatch;
+        const isRemoved = !!(x.status?.android?.removed || x.status?.ios?.removed);
+        const statusMatch = status === "all" ||
+          (status === "removed" && isRemoved) ||
+          (status === "available" && !isRemoved);
+        return nameMatch && typeMatch && platformMatch && statusMatch;
       });
 
       apps.sort((a,b) => {
@@ -105,6 +110,7 @@
       });
       document.getElementById("search").addEventListener("input", render);
       document.getElementById("platform").addEventListener("change", render);
+      document.getElementById("status").addEventListener("change", render);
       document.getElementById("sort").addEventListener("change", render);
     }
     init();
