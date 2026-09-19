@@ -78,15 +78,18 @@
 
       grid.innerHTML = apps.map(x => {
         const v = x.versions || {android:[],ios:[]};
-        const platforms = [
-          v.android?.length ? "Google Play" : "",
-          v.ios?.length ? "App Store" : ""
-        ].filter(Boolean).join(" · ") || "История версий пока не добавлена";
+        const platformLabel = (key, label) => {
+          if (!v[key]?.length) return "";
+          const removed = x.status?.[key]?.removed;
+          return `<span class="platform-tag${removed ? " removed" : ""}">${label}${removed ? " · удалено" : ""}</span>`;
+        };
+        const platforms = [platformLabel("android","Google Play"), platformLabel("ios","App Store")]
+          .filter(Boolean).join("") || '<span class="platforms">История версий пока не добавлена</span>';
         return `<article class="card" onclick="location.href='./app.html?id=${encodeURIComponent(x.id)}'">
           <div class="appicon">${iconHtml(x.icon)}</div>
           <h3>${esc(x.name)}</h3>
           <p class="developer">${esc(x.developer || "—")}</p>
-          <footer><span>📅 ${formatDate(x.releaseDate)}</span><span class="platforms">${esc(platforms)}</span></footer>
+          <footer><span>📅 ${formatDate(x.releaseDate)}</span><span class="platforms">${platforms}</span></footer>
         </article>`;
       }).join("");
     }
@@ -129,6 +132,7 @@
             <button class="active" data-platform="android">Google Play</button>
             <button data-platform="ios">App Store</button>
           </div>
+          <div id="statusBanner"></div>
           <div class="control-grid" style="margin:16px 0">
             <label class="select-wrap">
               <span>Сортировка</span>
@@ -152,18 +156,18 @@
             document.querySelectorAll(".switch button").forEach(b => b.classList.remove("active"));
             btn.classList.add("active");
             currentPlatform = btn.dataset.platform;
-            showVersions(currentPlatform, v);
+            showVersions(currentPlatform, v, x.status);
           });
         });
-        document.getElementById("versionSort").addEventListener("change", () => showVersions(currentPlatform, v));
-        document.getElementById("versionYear").addEventListener("change", () => showVersions(currentPlatform, v));
-        showVersions("android", v);
+        document.getElementById("versionSort").addEventListener("change", () => showVersions(currentPlatform, v, x.status));
+        document.getElementById("versionYear").addEventListener("change", () => showVersions(currentPlatform, v, x.status));
+        showVersions("android", v, x.status);
       } catch (e) {
         root.innerHTML = '<div class="error">Ошибка загрузки: ' + esc(e.message) + '</div>';
       }
     }
 
-    function showVersions(platform, versions) {
+    function showVersions(platform, versions, status) {
       const original = versions[platform] || [];
       let list = original;
       const sortDir = document.getElementById("versionSort")?.value || "new";
@@ -173,6 +177,14 @@
         ? (a.date || "").localeCompare(b.date || "")
         : (b.date || "").localeCompare(a.date || ""));
       const title = platform === "android" ? "Google Play — история версий" : "App Store — история версий";
+      const platformLabel = platform === "android" ? "Google Play" : "App Store";
+      const st = status?.[platform];
+      const banner = document.getElementById("statusBanner");
+      if (banner) {
+        banner.innerHTML = st?.removed
+          ? `<div class="status-banner removed">🚫 Удалено из ${platformLabel}${st.removedDate ? " — " + formatDate(st.removedDate) : ""}</div>`
+          : `<div class="status-banner available">✅ Доступно в ${platformLabel}</div>`;
+      }
       const emptyMsg = original.length && !list.length
         ? "Нет версий за выбранный год."
         : "Версии пока не добавлены.";
