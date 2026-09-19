@@ -33,6 +33,19 @@
     $("addIos").onclick = () => addVersion("ios");
     $("download").onclick = downloadData;
     $("upload").onchange = importData;
+    $("androidRemoved").onchange = () => toggleRemovedDate("android");
+    $("iosRemoved").onchange = () => toggleRemovedDate("ios");
+  }
+
+  function toggleRemovedDate(platform){
+    $(platform+"RemovedDateWrap").classList.toggle("hidden", !$(platform+"Removed").checked);
+  }
+
+  function statusBadges(x){
+    const badges = [];
+    if(x.status?.android?.removed) badges.push('<span class="status-badge removed">Google Play: удалено</span>');
+    if(x.status?.ios?.removed) badges.push('<span class="status-badge removed">App Store: удалено</span>');
+    return badges.join("");
   }
 
   function renderList(){
@@ -44,7 +57,7 @@
     root.innerHTML = data.apps.map(x => `
       <div class="admin-item">
         <div class="miniicon">${iconHtml(x.icon)}</div>
-        <div class="info"><strong>${esc(x.name)}</strong><small>${esc(x.developer||"—")} · ${x.type==="game"?"Игра":"Приложение"}</small></div>
+        <div class="info"><strong>${esc(x.name)}</strong><small>${esc(x.developer||"—")} · ${x.type==="game"?"Игра":"Приложение"}</small>${statusBadges(x)}</div>
         <div class="item-actions">
           <button onclick="window.editApp('${esc(x.id)}')">Изменить</button>
           <button class="danger" onclick="window.deleteApp('${esc(x.id)}')">Удалить</button>
@@ -76,6 +89,12 @@
     $("icon").value = x?.icon || "📦";
     renderRows("android", x?.versions?.android || []);
     renderRows("ios", x?.versions?.ios || []);
+    $("androidRemoved").checked = !!x?.status?.android?.removed;
+    $("androidRemovedDate").value = x?.status?.android?.removedDate || "";
+    toggleRemovedDate("android");
+    $("iosRemoved").checked = !!x?.status?.ios?.removed;
+    $("iosRemovedDate").value = x?.status?.ios?.removedDate || "";
+    toggleRemovedDate("ios");
     $("editor").classList.remove("hidden");
     $("editor").scrollIntoView({behavior:"smooth",block:"start"});
   }
@@ -132,6 +151,14 @@
         }
       }
     }
+    const androidRemovedDate = $("androidRemovedDate").value.trim();
+    const iosRemovedDate = $("iosRemovedDate").value.trim();
+    if($("androidRemoved").checked && !dateOk(androidRemovedDate)){
+      alert("Дата удаления из Google Play должна быть в формате ГГГГ-ММ-ДД, например 2026-09-19."); return;
+    }
+    if($("iosRemoved").checked && !dateOk(iosRemovedDate)){
+      alert("Дата удаления из App Store должна быть в формате ГГГГ-ММ-ДД, например 2026-09-19."); return;
+    }
     const item = {
       id: editingId || slugify(name),
       name,
@@ -139,7 +166,11 @@
       type: $("type").value,
       releaseDate: $("releaseDate").value,
       icon: $("icon").value.trim() || "📦",
-      versions: {android:collectRows("android"),ios:collectRows("ios")}
+      versions: {android:collectRows("android"),ios:collectRows("ios")},
+      status: {
+        android: {removed: $("androidRemoved").checked, removedDate: $("androidRemoved").checked ? androidRemovedDate : ""},
+        ios: {removed: $("iosRemoved").checked, removedDate: $("iosRemoved").checked ? iosRemovedDate : ""}
+      }
     };
     const idx = data.apps.findIndex(a=>a.id===editingId);
     if(idx>=0) data.apps[idx]=item; else data.apps.push(item);
