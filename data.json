@@ -905,6 +905,47 @@
           "removedDate": "2017-03-11"
         }
       }
+    },
+    {
+      "id": "talking-tom-cat-pro",
+      "name": "Talking Tom Cat Pro",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2010-09-10",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/2/20/Tom2012FullQuality.png/revision/latest?cb=20241228005652&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "date": "2010-09-10",
+            "changes": "",
+            "versionCode": "1"
+          },
+          {
+            "version": "1.2.1",
+            "date": "2010-09-25",
+            "changes": "Settings:violence off, listen longer, clear FB/YT login",
+            "versionCode": "2"
+          },
+          {
+            "version": "1.2.4",
+            "date": "2010-12-17",
+            "changes": "",
+            "versionCode": "10"
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2015-02-08"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
