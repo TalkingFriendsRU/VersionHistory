@@ -1774,6 +1774,713 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-lila-the-fairy",
+      "name": "Talking Lila the Fairy",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-03-19",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/7/7d/TLTF_Icon.png/revision/latest?cb=20241222035335&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.2",
+            "versionCode": "3",
+            "date": "2011-05-12",
+            "changes": ""
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "",
+            "date": "2011-05-12",
+            "changes": "Fixed sound issues encountered on some devices"
+          },
+          {
+            "version": "1.0.4",
+            "versionCode": "",
+            "date": "2011-05-20",
+            "changes": "The download of game data can now be resumed if interrupted"
+          },
+          {
+            "version": "1.0.5",
+            "versionCode": "",
+            "date": "2011-07-15",
+            "changes": "Various minor fixes"
+          },
+          {
+            "version": "1.0.6",
+            "versionCode": "",
+            "date": "2011-09-23",
+            "changes": ""
+          },
+          {
+            "version": "1.0.5",
+            "versionCode": "",
+            "date": "2011-09-27",
+            "changes": ""
+          },
+          {
+            "version": "1.0.8",
+            "versionCode": "13",
+            "date": "2011-10-06",
+            "changes": "Reduced size of game data by 40%"
+          },
+          {
+            "version": "1.0.9",
+            "versionCode": "14",
+            "date": "2012-04-18",
+            "changes": "Various bugfixes"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2011-03-19",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2011-04-04",
+            "changes": "✔ Video recording bug fix"
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2015-01-18"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
+    },
+    {
+      "id": "talking-ben-the-dog-говорящий-бен",
+      "name": "Talking Ben the Dog | Говорящий Бен",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-04-29",
+      "icon": "https://play-lh.googleusercontent.com/CDQpAazzbkH12eOe2ROVfBzXx7y2idfME1aR_wmP5dPBUzEjSSXAqFlGbCIzvyTQTrQfRIy40udavy_5rMhgtq4=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "1",
+            "date": "2011-06-17",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "2",
+            "date": "2011-06-26",
+            "changes": "Improved stability, added tablet support"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "3",
+            "date": "2011-07-19",
+            "changes": "Talking Ben is now available as 2 separate apps: FREE and PAID. There are no more in-app purchases. The free version of Ben has a limited supply of test tubes, which you can increase by downloading apps and getting test tubes for it or by buying the paid app which has an unlimited supply of test tubes + no ads.\nPlease note that in the free app you also get 2 free test tubes every 18 hours."
+          },
+          {
+            "version": "1.1.1",
+            "versionCode": "4",
+            "date": "2011-08-02",
+            "changes": "Fixed crash on start"
+          },
+          {
+            "version": "1.2",
+            "versionCode": "5",
+            "date": "2011-12-14",
+            "changes": "✔ Improved graphics for qHD and 720p devices.\n✔ Smaller download size.\n✔ App is translated into German, French, Italian, Spanish and Portuguese.\n✔ Gallery of top videos recorded by users."
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "6",
+            "date": "2011-12-17",
+            "changes": "✔ Improved graphics for qHD and 720p devices.\n✔ Smaller download size.\n✔ App is translated into German, French, Italian, Spanish and Portuguese.\n✔ Gallery of top videos recorded by users."
+          },
+          {
+            "version": "1.2.2",
+            "versionCode": "7",
+            "date": "2012-03-06",
+            "changes": ""
+          },
+          {
+            "version": "1.2.3",
+            "versionCode": "8",
+            "date": "2012-03-12",
+            "changes": "Fixed Ben's hearing issues and rare crash on start"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "10",
+            "date": "2013-06-07",
+            "changes": "AMAZING GRAPHICS - Talking Ben is now fully supported on iPhone 5.\n\nSMASHING NEW BUTTONS – Talking Ben now features a new and improved UI.\n\nNEW APP ICON – Talking Ben is looking gorgeous on his new app icon!\n\nCOMPLETELY REDESIGNED NEWSPAPER – Talking Ben now sports a brand new newspaper.\n\nПОТРЯСАЮЩАЯ ГРАФИКА – Говорящий Бен теперь полностью поддерживает iPhone 5.\n\nКЛАССНЫЕ НОВЫЕ КНОПКИ – у Говорящего Бена теперь обновленный и улучшенный интерфейс.\n\nНОВАЯ ИКОНКА ПРИЛОЖЕНИЯ – Говорящий Бен выглядит неотразимо на новой иконке!\n\nСОВЕРШЕННО НОВЫЙ ДИЗАЙН ГАЗЕТЫ – у Говорящего Бена теперь полностью обновленная газета."
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "20",
+            "date": "2013-06-23",
+            "changes": "AMAZING GRAPHICS - Talking Ben is now fully supported on iPhone 5.\n\nSMASHING NEW BUTTONS – Talking Ben now features a new and improved UI.\n\nNEW APP ICON – Talking Ben is looking gorgeous on his new app icon!\n\nCOMPLETELY REDESIGNED NEWSPAPER – Talking Ben now sports a brand new newspaper.\n\nПОТРЯСАЮЩАЯ ГРАФИКА – Говорящий Бен теперь полностью поддерживает iPhone 5.\n\nКЛАССНЫЕ НОВЫЕ КНОПКИ – у Говорящего Бена теперь обновленный и улучшенный интерфейс.\n\nНОВАЯ ИКОНКА ПРИЛОЖЕНИЯ – Говорящий Бен выглядит неотразимо на новой иконке!\n\nСОВЕРШЕННО НОВЫЙ ДИЗАЙН ГАЗЕТЫ – у Говорящего Бена теперь полностью обновленная газета."
+          },
+          {
+            "version": "2.0.2",
+            "versionCode": "30",
+            "date": "2013-08-12",
+            "changes": "AMAZING GRAPHICS - Talking Ben is now fully supported on iPhone 5.\n\nSMASHING NEW BUTTONS – Talking Ben now features a new and improved UI.\n\nNEW APP ICON – Talking Ben is looking gorgeous on his new app icon!\n\nCOMPLETELY REDESIGNED NEWSPAPER – Talking Ben now sports a brand new newspaper.\n\nПОТРЯСАЮЩАЯ ГРАФИКА – Говорящий Бен теперь полностью поддерживает iPhone 5.\n\nКЛАССНЫЕ НОВЫЕ КНОПКИ – у Говорящего Бена теперь обновленный и улучшенный интерфейс.\n\nНОВАЯ ИКОНКА ПРИЛОЖЕНИЯ – Говорящий Бен выглядит неотразимо на новой иконке!\n\nСОВЕРШЕННО НОВЫЙ ДИЗАЙН ГАЗЕТЫ – у Говорящего Бена теперь полностью обновленная газета."
+          },
+          {
+            "version": "2.0.3",
+            "versionCode": "40",
+            "date": "2013-08-17",
+            "changes": "AMAZING GRAPHICS - Talking Ben is now fully supported on iPhone 5.\n\nSMASHING NEW BUTTONS – Talking Ben now features a new and improved UI.\n\nNEW APP ICON – Talking Ben is looking gorgeous on his new app icon!\n\nCOMPLETELY REDESIGNED NEWSPAPER – Talking Ben now sports a brand new newspaper.\n\nПОТРЯСАЮЩАЯ ГРАФИКА – Говорящий Бен теперь полностью поддерживает iPhone 5.\n\nКЛАССНЫЕ НОВЫЕ КНОПКИ – у Говорящего Бена теперь обновленный и улучшенный интерфейс.\n\nНОВАЯ ИКОНКА ПРИЛОЖЕНИЯ – Говорящий Бен выглядит неотразимо на новой иконке!\n\nСОВЕРШЕННО НОВЫЙ ДИЗАЙН ГАЗЕТЫ – у Говорящего Бена теперь полностью обновленная газета."
+          },
+          {
+            "version": "3.0",
+            "versionCode": "50",
+            "date": "2014-07-05",
+            "changes": "New EXPLOSIVE update is here!\n- New test tube with 4 CRAZY animations! Witness the awesome power of the whirlwind, the shocking lightning storm, the in-house volcano and the top secret project X.\n- Ben has also developed an environmentally safe bug spray! The app is now bug free!\n\nВышло новое ВЗРЫВНОЕ обновление!\n- Новая пробирка с 4 ЧУМОВЫМИ анимациями! Понаблюдай за потрясающей силой смерча, ужасной грозой, домашним вулканом и совершенно секретным проектом X.\n- Бен также разработал экологически чистый спрей от жуков! И в этом приложении теперь нет «жучков»! :-)"
+          },
+          {
+            "version": "3.1",
+            "versionCode": "60",
+            "date": "2014-09-19",
+            "changes": "New EXPLOSIVE update is here!\n- New test tube with 4 CRAZY animations! Witness the awesome power of the whirlwind, the shocking lightning storm, the in-house volcano and the top secret project X.\n- Ben has also developed an environmentally safe bug spray! The app is now bug free!\n\nВышло новое ВЗРЫВНОЕ обновление!\n- Новая пробирка с 4 ЧУМОВЫМИ анимациями! Понаблюдай за потрясающей силой смерча, ужасной грозой, домашним вулканом и совершенно секретным проектом X.\n- Бен также разработал экологически чистый спрей от жуков! И в этом приложении теперь нет «жучков»! :-)"
+          },
+          {
+            "version": "3.2",
+            "versionCode": "70",
+            "date": "2015-04-17",
+            "changes": "New EXPLOSIVE update is here!\n- New test tube with 4 CRAZY animations! Witness the awesome power of the whirlwind, the shocking lightning storm, the in-house volcano and the top secret project X.\n- Ben has also developed an environmentally safe bug spray! The app is now bug free!\n\nВышло новое ВЗРЫВНОЕ обновление!\n- Новая пробирка с 4 ЧУМОВЫМИ анимациями! Понаблюдай за потрясающей силой смерча, ужасной грозой, домашним вулканом и совершенно секретным проектом X.\n- Бен также разработал экологически чистый спрей от жуков! И в этом приложении теперь нет «жучков»! :-)"
+          },
+          {
+            "version": "3.3",
+            "versionCode": "80",
+            "date": "2015-08-12",
+            "changes": "NEW VIDEO GALLERY: Lights. Camera. Action! From now on you can watch Talking Tom and Friends animated series, shorts and other videos inside the app. So just press play and enjoy the view.\n\nНОВАЯ ВИДЕО-ГАЛЕРЕЯ: Свет. Камера. Мотор! Теперь ты можешь смотреть анимационный сериал «Говорящий Том и Друзья», короткие клипы и другие видео прямо из приложения! Так что жми на кнопку и смотри в свое удовольствие."
+          },
+          {
+            "version": "3.4",
+            "versionCode": "81",
+            "date": "2017-02-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.0.11",
+            "versionCode": "130",
+            "date": "2018-04-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1.14",
+            "versionCode": "140",
+            "date": "2018-04-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2.2",
+            "versionCode": "150",
+            "date": "2018-07-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.3.5",
+            "versionCode": "200",
+            "date": "2019-07-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.5.8",
+            "versionCode": "220",
+            "date": "2019-07-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.0.10",
+            "versionCode": "240",
+            "date": "2019-10-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.1.16",
+            "versionCode": "250",
+            "date": "2020-03-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.2.21",
+            "versionCode": "260",
+            "date": "2020-07-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.28",
+            "versionCode": "290",
+            "date": "2020-11-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.1.13",
+            "versionCode": "300",
+            "date": "2021-04-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.0.40",
+            "versionCode": "310",
+            "date": "2021-05-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.1.44",
+            "versionCode": "320",
+            "date": "2021-05-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.2.77",
+            "versionCode": "330",
+            "date": "2021-08-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.0.98",
+            "versionCode": "340",
+            "date": "2021-10-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.1.110",
+            "versionCode": "350",
+            "date": "2022-03-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.2.127",
+            "versionCode": "360",
+            "date": "2022-04-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.3.148",
+            "versionCode": "370",
+            "date": "2022-06-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.0.180",
+            "versionCode": "380",
+            "date": "2022-07-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.1.187",
+            "versionCode": "390",
+            "date": "2022-08-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.2.7",
+            "versionCode": "400",
+            "date": "2022-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2.0.24",
+            "versionCode": "410",
+            "date": "2023-01-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.0.94",
+            "versionCode": "420",
+            "date": "2023-12-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.1.111",
+            "versionCode": "430",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.2.132",
+            "versionCode": "440",
+            "date": "2024-03-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.3.135",
+            "versionCode": "450",
+            "date": "2024-03-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.4.0.160",
+            "versionCode": "460",
+            "date": "2024-08-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.4.1.200",
+            "versionCode": "470",
+            "date": "2024-11-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5.0.273",
+            "versionCode": "200405000",
+            "date": "2025-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5.1.299",
+            "versionCode": "200405010",
+            "date": "2025-07-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.6.0.334",
+            "versionCode": "200406000",
+            "date": "2025-08-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7.0.402",
+            "versionCode": "200407000",
+            "date": "2025-10-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.8.0.497",
+            "versionCode": "200408000",
+            "date": "2026-02-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.0.594",
+            "versionCode": "200409000",
+            "date": "2026-05-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.1.651",
+            "versionCode": "200409010",
+            "date": "2026-06-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.2.659",
+            "versionCode": "200409020",
+            "date": "2026-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.3.672",
+            "versionCode": "200409030",
+            "date": "2026-07-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.4.678",
+            "versionCode": "200409040",
+            "date": "2026-07-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.5.690",
+            "versionCode": "200409050",
+            "date": "2026-07-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.6.695",
+            "versionCode": "200409060",
+            "date": "2026-08-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2011-04-29",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2011-05-10",
+            "changes": "Ben is back with a new update!\n\nNew Features in version 1.1 include:\n- Make Ben get into all kinds of hilarious trouble with the infinite supply pack.\n- Use your Facebook login information to make it easier to share videos with your friends.\n- Be the first to get news on Ben and all of the Talking Friends characters with the Outfit7 newsletter.\n\nBecome a fan of Ben's on Facebook."
+          },
+          {
+            "version": "2.0",
+            "date": "2013-06-06",
+            "changes": "AMAZING GRAPHICS - Talking Ben is now fully supported on iPhone 5.\n\nSMASHING NEW BUTTONS – Talking Ben now features a new and improved UI.\n\nNEW APP ICON – Talking Ben is looking gorgeous on his new app icon!\n\nCOMPLETELY REDESIGNED NEWSPAPER – Talking Ben now sports a brand new newspaper.\n\nПОТРЯСАЮЩАЯ ГРАФИКА – Говорящий Бен теперь полностью поддерживает iPhone 5.\n\nКЛАССНЫЕ НОВЫЕ КНОПКИ – у Говорящего Бена теперь обновленный и улучшенный интерфейс.\n\nНОВАЯ ИКОНКА ПРИЛОЖЕНИЯ – Говорящий Бен выглядит неотразимо на новой иконке!\n\nСОВЕРШЕННО НОВЫЙ ДИЗАЙН ГАЗЕТЫ – у Говорящего Бена теперь полностью обновленная газета."
+          },
+          {
+            "version": "2.0.1",
+            "date": "2013-06-24",
+            "changes": "We fixed a critical bug if you buy \"Unlimited Supply of Test Tubes\" and you have less than 2 tubes.\n\nМы исправили самый большой недостаток в платной игре \"Бесконечный запас пробирок\", где у вас будет на 2 пробирки меньше."
+          },
+          {
+            "version": "2.1",
+            "date": "2013-10-04",
+            "changes": "We did our magic and we have you covered iOS 7 users - this app is now PERFECT for your devices!\n\nМы создали волшебную вещь и охватили пользователей iOS 7 users - это приложение теперь ОТЛИЧНО подойдет для ваших устройств!"
+          },
+          {
+            "version": "3.0",
+            "date": "2014-07-08",
+            "changes": "New EXPLOSIVE update is here!\n- New test tube with 4 CRAZY animations! Witness the awesome power of the whirlwind, the shocking lightning storm, the in-house volcano and the top secret project X.\n- Ben has also developed an environmentally safe bug spray! The app is now bug free!\n\nВышло новое ВЗРЫВНОЕ обновление!\n- Новая пробирка с 4 ЧУМОВЫМИ анимациями! Понаблюдай за потрясающей силой смерча, ужасной грозой, домашним вулканом и совершенно секретным проектом X.\n- Бен также разработал экологически чистый спрей от жуков! И в этом приложении теперь нет «жучков»! :-)"
+          },
+          {
+            "version": "3.1.2",
+            "date": "2014-09-12",
+            "changes": "iOS 8 bug fixes."
+          },
+          {
+            "version": "3.2",
+            "date": "2015-05-03",
+            "changes": "BUG-FREE: All the bugs got zapped in Ben’s lab. Now the app is better than ever!\n\nБЕЗ БАГОВ: все баги уничтожены в лаборатории Бена. Теперь приложение лучше прежнего!"
+          },
+          {
+            "version": "3.3",
+            "date": "2015-07-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.1",
+            "date": "2015-09-01",
+            "changes": "NEW VIDEO GALLERY: Lights. Camera. Action! From now on you can watch Talking Tom and Friends animated series, shorts and other videos inside the app. So just press play and enjoy the view.\n\nНОВАЯ ВИДЕО-ГАЛЕРЕЯ: Свет. Камера. Мотор! Теперь ты можешь смотреть анимационный сериал «Говорящий Том и Друзья», короткие клипы и другие видео прямо из приложения! Так что жми на кнопку и смотри в свое удовольствие."
+          },
+          {
+            "version": "3.3.2",
+            "date": "2016-05-23",
+            "changes": "BUG-FREE: All the bugs got zapped in Ben’s lab. Now the app is better than ever!\n\nМы исправили баг с покупками внутри приложения."
+          },
+          {
+            "version": "3.4",
+            "date": "2017-01-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.1",
+            "date": "2017-04-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.2",
+            "date": "2017-08-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5",
+            "date": "2018-04-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1",
+            "date": "2018-06-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.3",
+            "date": "2019-05-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.4",
+            "date": "2020-03-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.5",
+            "date": "2020-03-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.6",
+            "date": "2020-04-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8",
+            "date": "2020-12-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9",
+            "date": "2021-04-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0",
+            "date": "2022-01-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.1",
+            "date": "2022-03-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.2",
+            "date": "2022-04-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.3",
+            "date": "2022-05-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.4",
+            "date": "2022-07-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.5",
+            "date": "2022-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.6",
+            "date": "2022-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3",
+            "date": "2023-07-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.1",
+            "date": "2023-09-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.2",
+            "date": "2023-10-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.3",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.4",
+            "date": "2024-03-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.5",
+            "date": "2024-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.4",
+            "date": "2024-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5",
+            "date": "2025-06-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5.1",
+            "date": "2025-06-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5.2",
+            "date": "2025-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7",
+            "date": "2025-10-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7.1",
+            "date": "2025-11-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7.2",
+            "date": "2026-01-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.8",
+            "date": "2026-02-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.8.1",
+            "date": "2026-04-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9",
+            "date": "2026-05-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.1",
+            "date": "2026-05-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.2",
+            "date": "2026-06-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.3",
+            "date": "2026-06-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.4",
+            "date": "2026-07-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.5",
+            "date": "2026-07-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.6",
+            "date": "2026-08-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.7",
+            "date": "2026-08-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.9.8",
+            "date": "2026-08-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
