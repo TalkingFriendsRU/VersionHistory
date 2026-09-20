@@ -3872,6 +3872,65 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-tom-ben-news-pro-новости-говорящих-тома-и-бена",
+      "name": "Talking Tom & Ben News Pro | Новости Говорящих Тома и Бена",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-01-21",
+      "icon": "https://play-lh.googleusercontent.com/QUbxW5QYSM3wlh1qHdm_Vb528qoeaENwlphOrwD4oVYEspyCwEJGpN8wz4bl9C-526sD0X4bNm4tTZ9x7y6yKlc=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2012-01-21",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "3",
+            "date": "2012-01-27",
+            "changes": "Various bug fixes"
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "4",
+            "date": "2012-02-22",
+            "changes": "Removed the camera autofocus requirement so more devices can get the app and various other bug fixes"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "13",
+            "date": "2014-01-16",
+            "changes": "NEW ANIMATION: Wrestling, ear pulling and a good old cat and dog fight in one single animation!\n\nНОВАЯ АНИМАЦИЯ: борьба, дерганье за уши, и старый добрый кот и пес дерутся в одной анимации!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "23",
+            "date": "2014-01-18",
+            "changes": "NEW ANIMATION: Wrestling, ear pulling and a good old cat and dog fight in one single animation!\n\nНОВАЯ АНИМАЦИЯ: борьба, дерганье за уши, и старый добрый кот и пес дерутся в одной анимации!"
+          },
+          {
+            "version": "2.1",
+            "versionCode": "62",
+            "date": "2014-07-31",
+            "changes": "Getting rid of animal fur (from inside a TV studio) is a dirty job, but somebody's gotta do it. You're welcome!\n\nУборка (телестудии) от шерсти животных — это грязная работенка, но кому-то надо делать ее. Пожалуйста, попробуй!"
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2015-04-27"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
