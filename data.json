@@ -2570,6 +2570,776 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-tom-cat-2-говорящий-том-2",
+      "name": "Talking Tom Cat 2 | Говорящий Том 2",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-05-27",
+      "icon": "https://play-lh.googleusercontent.com/CUMfoTEBBx45Nm9jhhzYjSDY2QYQCVZ-3ClVahZ7lQMq2VdRCS9FO6dh8yV6GAbZZgr_UNkS2oTF1zn_oX3S5Rw=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "1-2",
+            "date": "2011-08-22",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "3",
+            "date": "2011-09-02",
+            "changes": "Various minor fixes"
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "4",
+            "date": "2011-09-22",
+            "changes": "Fixed crash during extracting"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "5",
+            "date": "2011-10-14",
+            "changes": "Best YouTube videos uploaded by users. Upvote videos you like or downvote videos you hate. Just press the video buton to see the videos."
+          },
+          {
+            "version": "1.2",
+            "versionCode": "8",
+            "date": "2011-10-25",
+            "changes": "Talking Tom 2 is now translated to 8 languages: Japanese, German, Chinese, Korean, French, Spanish, Italian and Portuguese"
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "9",
+            "date": "2011-11-03",
+            "changes": "Fixed rare crash on start"
+          },
+          {
+            "version": "1.3",
+            "versionCode": "11",
+            "date": "2012-05-09",
+            "changes": "New sharing options (Twitter, Google+,...), various bug fixes and a one-time game data update. You can now also set the sound of a recorded video as your default ringtone. (We need the Modify system settings permission for that.)"
+          },
+          {
+            "version": "1.3.1",
+            "versionCode": "13",
+            "date": "2012-06-04",
+            "changes": ""
+          },
+          {
+            "version": "2.0",
+            "versionCode": "14",
+            "date": "2012-06-18",
+            "changes": "✔ You can now customize Tom's appearance by buying him accessories like soccer uniforms, hats, sunglasses and lots more.\n✔ Make Tom look like a police officer, pirate, construction worker or a cowboy."
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "15",
+            "date": "2012-06-19",
+            "changes": "✔ You can now customize Tom's appearance by buying him accessories like soccer uniforms, hats, sunglasses and lots more.\n✔ Make Tom look like a police officer, pirate, construction worker or a cowboy."
+          },
+          {
+            "version": "2.0.2",
+            "versionCode": "16",
+            "date": "2012-07-20",
+            "changes": "Various bug fixes."
+          },
+          {
+            "version": "2.0.3",
+            "versionCode": "17-18",
+            "date": "2012-07-21",
+            "changes": "Various bug fixes."
+          },
+          {
+            "version": "2.0.4",
+            "versionCode": "19",
+            "date": "2012-09-03",
+            "changes": "Various bug fixes."
+          },
+          {
+            "version": "2.1",
+            "versionCode": "20",
+            "date": "2012-11-23",
+            "changes": "✔ All animations are now unlocked for FREE\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/\n✔ Improved Child Mode\n\n✔ Все анимации теперь разблокированы БЕСПЛАТНО\n✔ Работает с игрушками Talking Friends Superstar\n✔ Улучшенный детский режим."
+          },
+          {
+            "version": "2.1.1",
+            "versionCode": "21",
+            "date": "2012-12-09",
+            "changes": "✔ All animations are now unlocked for FREE\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/\n✔ Improved Child Mode\n\n✔ Все анимации теперь разблокированы БЕСПЛАТНО\n✔ Работает с игрушками Talking Friends Superstar\n✔ Улучшенный детский режим."
+          },
+          {
+            "version": "2.2",
+            "versionCode": "30",
+            "date": "2013-04-20",
+            "changes": "✔ The award-winning Talking Tom is back with higher QUALITY graphics and animations. This cat really looks good!\n✔ The app is now smaller in size. Perfect for the download on the go!\n(No additional download of graphic assets is necessary.)\n\n✔ Удостоенный наград Говорящий Том вернулся с более КАЧЕСТВЕННОЙ графикой и анимациями. Этот кот действительно отлично выглядит!\n✔ Приложение стало меньше. Отлично подходит для загрузки в пути!\n(Не требуется дополнительной загрузки графики)."
+          },
+          {
+            "version": "4.0",
+            "versionCode": "40",
+            "date": "2013-09-20",
+            "changes": "BRAND NEW MINI-GAME: Climb you way into space and collect extra gold coins\nBRAND NEW ACHIEVEMENTS: Get special achievements for playing with Tom\n\nСовершенно новая мини-игра: Доберись до космоса и собери дополнительные золотые монеты.\nСовершенно новые достижения: Получи особые достижения за игру с Томом."
+          },
+          {
+            "version": "4.0.1",
+            "versionCode": "50",
+            "date": "2013-09-22",
+            "changes": "BRAND NEW MINI-GAME: Climb you way into space and collect extra gold coins\nBRAND NEW ACHIEVEMENTS: Get special achievements for playing with Tom\n\nСовершенно новая мини-игра: Доберись до космоса и собери дополнительные золотые монеты.\nСовершенно новые достижения: Получи особые достижения за игру с Томом."
+          },
+          {
+            "version": "4.0.2",
+            "versionCode": "60",
+            "date": "2013-10-02",
+            "changes": "BRAND NEW MINI-GAME: Climb you way into space and collect extra gold coins\nBRAND NEW ACHIEVEMENTS: Get special achievements for playing with Tom\n\nСовершенно новая мини-игра: Доберись до космоса и собери дополнительные золотые монеты.\nСовершенно новые достижения: Получи особые достижения за игру с Томом."
+          },
+          {
+            "version": "4.1",
+            "versionCode": "70",
+            "date": "2013-11-15",
+            "changes": "NEW HATS AND T-SHIRT - Talking Tom will look very dashing in a new My Talking Tom T-shirt and a Party Hat. See it for yourself!\nIMPROVED VIDEO GALLERY: We've always known watching videos could be enjoyable and now it certainly is!\nNEW ANIMATION: There's a baby Talking Tom repeating after a grown up version of him now - meet My Talking Tom!\n\nУСОВЕРШЕНСТВОВАННАЯ ВИДЕО ГАЛЕРЕЯ: Мы всегда знали, что просмотр видео может приносит удовольствие, и теперь это действительно так!\nНОВАЯ АНИМАЦИЯ: Теперь есть ребенок Говорящий Том, который повторяет за своей взрослой версией - встречай Мой говорящий Том!"
+          },
+          {
+            "version": "4.2",
+            "versionCode": "80",
+            "date": "2013-12-21",
+            "changes": "THREE NEW ACCESSORIES:\n★ FIREFIGHTER HELMET - Firefighter Tom is in the house!\n★ HOT DOG HAT - Have Tom look silly with a new hot dog hat.\n★ GREEN PLAID SHIRT - Keep Tom warm with a new shirt that matches his eyes.\n\nТРИ НОВЫХ ПРЕДМЕТА:\n★ ШЛЕМ ПОЖАРНОГО – Теперь никакой пожар не страшен!\n★ ШЛЯПА С ХОТ-ДОГОМ – Хочешь посмеяться? Надень на Тома шляпу с хот-догом!\n★ ЗЕЛЕНАЯ КЛЕТЧАТАЯ РУБАШКА – Эта рубашка подходит к цвету глаз и спасает Тома от холода."
+          },
+          {
+            "version": "4.3",
+            "versionCode": "90",
+            "date": "2014-02-15",
+            "changes": "THREE NEW ACCESSORIES:\nFRUIT HAT - What is this fruit doing on Tom’s head?\nSHIRT AND TIE - Oh yes, Tom looks very classy in this outfit!\nBUNNY HAT - Ha ha ha, you’ve never seen Tom looking more silly!\n\nТРИ НОВЫХ АКСЕССУАРА:\nФРУКТОВАЯ ШЛЯПА – С какой стати у Тома на голове этот фрукт?\nРУБАШКА И ГАЛСТУК – О да, Том выглядит очень классно в этом одеянии!\nШАПКА-КРОЛИК – Ха-ха-ха, так забавно Том никогда еще не выглядел!"
+          },
+          {
+            "version": "4.5",
+            "versionCode": "120",
+            "date": "2014-06-05",
+            "changes": "THREE NEW ACCESSORIES:\nDiving Mask: Dive in, have fun!\nSoda Hat: Remember to drink your fluids!\nSurfboard: Surf's up, dude!\n\nBUG FIXES: Less bugs means more fun!"
+          },
+          {
+            "version": "4.5.1",
+            "versionCode": "130",
+            "date": "2014-06-05",
+            "changes": "THREE NEW ACCESSORIES:\nDiving Mask: Dive in, have fun!\nSoda Hat: Remember to drink your fluids!\nSurfboard: Surf's up, dude!\n\nBUG FIXES: Less bugs means more fun!"
+          },
+          {
+            "version": "4.5.2",
+            "versionCode": "140",
+            "date": "2014-06-07",
+            "changes": "THREE NEW ACCESSORIES:\nDiving Mask: Dive in, have fun!\nSoda Hat: Remember to drink your fluids!\nSurfboard: Surf's up, dude!\n\nBUG FIXES: Less bugs means more fun!"
+          },
+          {
+            "version": "4.6",
+            "versionCode": "150",
+            "date": "2014-09-05",
+            "changes": "SCHOOL IS BACK!\nDress your Talking Tom as a nerd or tell the world what you think with the new \"School Sucks\" T-shirt!"
+          },
+          {
+            "version": "4.7",
+            "versionCode": "160",
+            "date": "2014-12-06",
+            "changes": "IS THAT A T-SHIRT FOR GIRLS?\nPink? Seriously? But this is no ordinary T-shirt. Check it out!\n\nNEWER AND BETTER THAN EVER!\nTalking Tom 2 is now bug free and more awesome than ever!\n\n2 BILLION DOWNLOADS!\nYou guys have downloaded the Talking Tom and Friends apps over 2 billion times. Thank you!"
+          },
+          {
+            "version": "4.8",
+            "versionCode": "170",
+            "date": "2015-04-23",
+            "changes": "NEW WARDROBE ITEMS: Give your Tom a bit of extra fashion flair with a sombrero and a Hawaiian shirt!\nBUG FIXES: We’ve zapped and polished to make the app bug-free. Take a look – it’s better than ever!\n\nНОВЫЕ ПРЕДМЕТЫ ГАРДЕРОБА: одень своего Тома по «последней моде» – теперь в твоем гардеробе есть сомбреро и гавайская рубашка!\nИСПРАВЛЕНИЕ ОШИБОК: мы прошлись по приложению и вычистили все баги. Посмотри – теперь оно лучше прежнего!"
+          },
+          {
+            "version": "4.9",
+            "versionCode": "180",
+            "date": "2015-07-23",
+            "changes": "NEW T-SHIRT: Only the best bubble shooters get to wear the Mars Pop T-shirt!\nBUG FIXES: We fixed YouTube related bug.\n\nНОВАЯ ФУТБОЛКА: только лучшие бабл-стрелки смогут получить футболку Mars Pop!\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили баг, связанный с YouTube."
+          },
+          {
+            "version": "5.0",
+            "versionCode": "190",
+            "date": "2015-12-23",
+            "changes": "FINALLY! A NEW MINI GAME! Are you fast enough? Test your tapping skills and earn gold coins in the Tap Tap game.\n\nНАКОНЕЦ-ТО! НОВАЯ МИНИ-ИГРА! Насколько быстро ты реагируешь? Проверь свою реакцию и заработай золотые монеты в игре «Тук-тук»"
+          },
+          {
+            "version": "5.0.1",
+            "versionCode": "200",
+            "date": "2015-12-26",
+            "changes": "FINALLY! A NEW MINI GAME! Are you fast enough? Test your tapping skills and earn gold coins in the Tap Tap game.\n\nНАКОНЕЦ-ТО! НОВАЯ МИНИ-ИГРА! Насколько быстро ты реагируешь? Проверь свою реакцию и заработай золотые монеты в игре «Тук-тук»"
+          },
+          {
+            "version": "5.1",
+            "versionCode": "220",
+            "date": "2016-07-30",
+            "changes": "NEW SUMMER OUTFIT! Check out the awesome Sharky T-Shirt.\n\nНОВЫЙ ЛЕТНИЙ НАРЯД! Посмотри, какая классная футболка с акулой!"
+          },
+          {
+            "version": "5.2",
+            "versionCode": "230",
+            "date": "2017-02-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.1",
+            "versionCode": "240",
+            "date": "2017-02-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.2",
+            "versionCode": "250",
+            "date": "2017-04-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.3",
+            "versionCode": "260",
+            "date": "2017-08-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.0.13",
+            "versionCode": "290",
+            "date": "2018-03-16",
+            "changes": "Have fun with the one and only Talking Tom Cat! Play with him, poke him, and talk to him – he’ll repeat what you say in a hilarious voice. And you can even make funny videos and share them with your friends!\n\nПовеселись с единственным и неповторимым Говорящим Томом! Играй с ним, тыкай в него пальцем и беседуй с ним, а он повторит за тобой своим смешным голоском. А ещё ты сможешь снимать весёлые видео и делиться ими с друзьями!"
+          },
+          {
+            "version": "5.3.1.16",
+            "versionCode": "300",
+            "date": "2018-03-16",
+            "changes": "Have fun with the one and only Talking Tom Cat! Play with him, poke him, and talk to him – he’ll repeat what you say in a hilarious voice. And you can even make funny videos and share them with your friends!\n\nПовеселись с единственным и неповторимым Говорящим Томом! Играй с ним, тыкай в него пальцем и беседуй с ним, а он повторит за тобой своим смешным голоском. А ещё ты сможешь снимать весёлые видео и делиться ими с друзьями!"
+          },
+          {
+            "version": "5.3.2.2",
+            "versionCode": "310",
+            "date": "2018-05-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.3.7",
+            "versionCode": "320",
+            "date": "2018-06-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.4.11",
+            "versionCode": "330",
+            "date": "2018-07-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.5.16",
+            "versionCode": "340",
+            "date": "2018-07-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.7.19",
+            "versionCode": "350",
+            "date": "2019-02-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.8.22",
+            "versionCode": "360",
+            "date": "2019-04-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.9.25",
+            "versionCode": "370",
+            "date": "2019-04-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.10.26",
+            "versionCode": "380",
+            "date": "2019-04-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.4.0.44",
+            "versionCode": "410",
+            "date": "2020-09-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.4.1.46",
+            "versionCode": "420",
+            "date": "2020-09-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.4.2.47",
+            "versionCode": "430",
+            "date": "2021-01-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.5.0.27",
+            "versionCode": "450",
+            "date": "2021-05-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.5.1.78",
+            "versionCode": "460",
+            "date": "2021-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.0.135",
+            "versionCode": "480",
+            "date": "2021-09-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.1.163",
+            "versionCode": "490",
+            "date": "2022-04-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.2.186",
+            "versionCode": "500",
+            "date": "2022-05-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.3.192",
+            "versionCode": "510",
+            "date": "2022-06-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.7.0.282",
+            "versionCode": "520",
+            "date": "2022-08-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.7.1.311",
+            "versionCode": "530",
+            "date": "2022-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.7.2.11",
+            "versionCode": "540",
+            "date": "2022-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.0.43",
+            "versionCode": "550",
+            "date": "2023-05-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.1.64",
+            "versionCode": "560",
+            "date": "2023-10-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.2.82",
+            "versionCode": "570",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.3.92",
+            "versionCode": "580",
+            "date": "2024-03-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.4.94",
+            "versionCode": "590",
+            "date": "2024-03-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.5.102",
+            "versionCode": "600",
+            "date": "2024-07-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9.0.128",
+            "versionCode": "610",
+            "date": "2024-10-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9.1.133",
+            "versionCode": "620",
+            "date": "2024-10-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9.2.147",
+            "versionCode": "630",
+            "date": "2024-11-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0.0.223",
+            "versionCode": "200600000",
+            "date": "2025-05-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0.1.236",
+            "versionCode": "200600010",
+            "date": "2025-07-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0.2.273",
+            "versionCode": "200600020",
+            "date": "2025-08-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.0.319",
+            "versionCode": "200601000",
+            "date": "2025-10-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.1.366",
+            "versionCode": "200601010",
+            "date": "2025-11-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.3.399",
+            "versionCode": "200601030",
+            "date": "2025-12-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.4.403",
+            "versionCode": "200601040",
+            "date": "2025-12-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.5.416",
+            "versionCode": "200601050",
+            "date": "2026-01-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.2.0.560",
+            "versionCode": "200602000",
+            "date": "2026-05-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2011-05-27",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2011-07-01",
+            "changes": "We added a new button. When you press it, Tom pulls random items from behind his back.\n\nItems in the free version:\n✔ Empty hands ;-)\n✔ Fork and knife\n\nIn the upgraded version:\n✔ Tom gives you a rose\n✔ Tom plays with a yo-yo\n✔ Tom tries to eat a cake"
+          },
+          {
+            "version": "2.0",
+            "date": "2011-08-15",
+            "changes": "★★★ NEW ★★★\nYou can now customize Tom's appearance by buying him accessories like hats, sunglasses, colored contacts, earrings and lots more.\n\n★★★ EPIC NEW FEATURES ★★★\n✔ Make Tom look like a police officer, pirate, construction worker or a cowboy.\n✔ Change the color of Tom's eyes (multiple colors available).\n✔ Equip Tom with various other accessories like a bow tie or an earring.\n\n★★★ IMPORTANT ★★★\n➔ iPhone 3G owners: Tom cannot wear accessories because the device is not powerful enough to support it!"
+          },
+          {
+            "version": "2.0.1",
+            "date": "2011-08-30",
+            "changes": "✔ Improved internet connectivity in China\n✔ Other minor bug fixes"
+          },
+          {
+            "version": "2.1",
+            "date": "2011-09-20",
+            "changes": "✔ Best YouTube videos uploaded by users. Upvote videos you like or downvote videos you hate. Just press the green video buton to see the videos.\n✔ Several bugs are now fixed."
+          },
+          {
+            "version": "2.2",
+            "date": "2012-02-02",
+            "changes": "✔ New app icon\n✔ App translated into French, German, Italian, Spanish and Portuguese\n✔ Several bugs fixed"
+          },
+          {
+            "version": "3.0",
+            "date": "2012-05-05",
+            "changes": "✔ App translated into Russian and Arabic.\n✔ New & improved wardrobe for Tom.\n✔ Several bugs fixed."
+          },
+          {
+            "version": "3.0.1",
+            "date": "2012-05-16",
+            "changes": "✔ We fixed a serious issue of Tom not being able to wear multiple accessories at once."
+          },
+          {
+            "version": "3.1",
+            "date": "2012-11-26",
+            "changes": "✔ All animations are now unlocked for FREE\n✔ iPhone 5 support\n✔ Improved Child Mode"
+          },
+          {
+            "version": "3.2",
+            "date": "2013-04-26",
+            "changes": "✔ The app is now much smaller in size (MB).\n✔ Less bugs, more fun."
+          },
+          {
+            "version": "4.0",
+            "date": "2013-09-18",
+            "changes": "BRAND NEW MINI-GAME: Climb you way into space and collect extra gold coins\n\nBRAND NEW ACHIEVEMENTS: Get special achievements for playing with Tom\n\nСовершенно новая мини-игра: Доберись до космоса и собери дополнительные золотые монеты.\n\nСовершенно новые достижения: Получи особые достижения за игру с Томом."
+          },
+          {
+            "version": "4.1",
+            "date": "2013-09-30",
+            "changes": "We did our magic and we have you covered iOS 7 users - this app is now PERFECT for your devices!"
+          },
+          {
+            "version": "4.1.1",
+            "date": "2013-10-01",
+            "changes": "Fixed a crash in mini-game after upgrading from 4.0."
+          },
+          {
+            "version": "4.2",
+            "date": "2013-11-14",
+            "changes": "NEW HATS AND T-SHIRT - Talking Tom will look very dashing in a new My Talking Tom T-shirt and a Party Hat. See it for yourself!\nIMPROVED VIDEO GALLERY: We've always known watching videos could be enjoyable and now it certainly is!\nNEW ANIMATION: There's a baby Talking Tom repeating after a grown up version of him now - meet My Talking Tom!\n\nУСОВЕРШЕНСТВОВАННАЯ ВИДЕО ГАЛЕРЕЯ: Мы всегда знали, что просмотр видео может приносит удовольствие, и теперь это действительно так!\nНОВАЯ АНИМАЦИЯ: Теперь есть ребенок Говорящий Том, который повторяет за своей взрослой версией - встречай Мой говорящий Том!"
+          },
+          {
+            "version": "4.3",
+            "date": "2013-12-19",
+            "changes": "THREE NEW ACCESSORIES:\nFIREFIGHTER HELMET - Firefighter Tom is in the house!\nHOT DOG HAT - Have Tom look silly with a new hot dog hat.\nGREEN PLAID SHIRT - Keep Tom warm with a new shirt that matches his eyes.\n\nТРИ НОВЫХ ПРЕДМЕТА:\nШЛЕМ ПОЖАРНОГО – Теперь никакой пожар не страшен!\nШЛЯПА С ХОТ-ДОГОМ – Хочешь посмеяться? Надень на Тома шляпу с хот-догом!\nЗЕЛЕНАЯ КЛЕТЧАТАЯ РУБАШКА – Эта рубашка подходит к цвету глаз и спасает Тома от холода."
+          },
+          {
+            "version": "4.4",
+            "date": "2014-02-20",
+            "changes": "THREE NEW ACCESSORIES:\nFRUIT HAT - What is this fruit doing on Tom’s head?\nSHIRT AND TIE - Oh yes, Tom looks very classy in this outfit!\nBUNNY HAT - Ha ha ha, you’ve never seen Tom looking more silly!\n\nТРИ НОВЫХ АКСЕССУАРА:\nФРУКТОВАЯ ШЛЯПА – С какой стати у Тома на голове этот фрукт?\nРУБАШКА И ГАЛСТУК – О да, Том выглядит очень классно в этом одеянии!\nШАПКА-КРОЛИК – Ха-ха-ха, так забавно Том никогда еще не выглядел!"
+          },
+          {
+            "version": "4.5",
+            "date": "2014-06-08",
+            "changes": "THREE NEW ACCESSORIES:\nDiving Mask: Dive in, have fun!\nSoda Hat: Remember to drink your fluids!\nSurfboard: Surf's up, dude!\n\nBUG FIXES: Less bugs means more fun!"
+          },
+          {
+            "version": "4.6",
+            "date": "2014-09-10",
+            "changes": "SCHOOL IS BACK!\nDress your Talking Tom as a nerd or tell the world what you think with the new \"School Sucks\" T-shirt!"
+          },
+          {
+            "version": "4.7",
+            "date": "2014-12-04",
+            "changes": "IS THAT A T-SHIRT FOR GIRLS?\nPink? Seriously? But this is no ordinary T-shirt. Check it out!\n\nNEWER AND BETTER THAN EVER!\nTalking Tom 2 is now bug free, iOS 8 ready, and more awesome than ever!\n\n2 BILLION DOWNLOADS!\nYou guys have downloaded the Talking Tom and Friends apps over 2 billion times. Thank you!"
+          },
+          {
+            "version": "4.8",
+            "date": "2015-04-20",
+            "changes": "NEW WARDROBE ITEMS: Give your Tom a bit of extra fashion flair with a sombrero and a Hawaiian shirt!\nBUG FIXES: We’ve zapped and polished to make the app bug-free. Take a look – it’s better than ever!\n\nНОВЫЕ ПРЕДМЕТЫ ГАРДЕРОБА: одень своего Тома по «последней моде» – теперь в твоем гардеробе есть сомбреро и гавайская рубашка!\nИСПРАВЛЕНИЕ ОШИБОК: мы прошлись по приложению и вычистили все баги. Посмотри – теперь оно лучше прежнего!"
+          },
+          {
+            "version": "4.9",
+            "date": "2015-07-22",
+            "changes": "NEW T-SHIRT: Only the best bubble shooters get to wear the Mars Pop T-shirt!\nBUG FIXES: We fixed YouTube related bug.\n\nНОВАЯ ФУТБОЛКА: только лучшие бабл-стрелки смогут получить футболку Mars Pop!\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили баг, связанный с YouTube."
+          },
+          {
+            "version": "4.9.1",
+            "date": "2015-09-11",
+            "changes": "NEW VIDEO GALLERY: Lights. Camera. Action! From now on you can watch Talking Tom and Friends animated series, shorts and other videos inside the app. So just press play and enjoy the view.\nBUG FIXES: We've fixed the bugs, we've made super improvements.\n\nНОВАЯ ВИДЕО-ГАЛЕРЕЯ: Свет. Камера. Мотор! Теперь ты можешь смотреть анимационный сериал «Говорящий Том и Друзья», короткие клипы и другие видео прямо из приложения! Так что жми на кнопку и смотри в свое удовольствие.\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений."
+          },
+          {
+            "version": "5.0",
+            "date": "2015-12-10",
+            "changes": "FINALLY! A NEW MINI GAME! Are you fast enough? Test your tapping skills and earn gold coins in the Tap Tap game.\n\nНАКОНЕЦ-ТО! НОВАЯ МИНИ-ИГРА! Насколько быстро ты реагируешь? Проверь свою реакцию и заработай золотые монеты в игре «Тук-тук»"
+          },
+          {
+            "version": "5.0.1",
+            "date": "2016-05-20",
+            "changes": "Fixed in-app purchase bug.\n\nМы исправили баг с покупками внутри приложения."
+          },
+          {
+            "version": "5.1",
+            "date": "2016-07-31",
+            "changes": "NEW SUMMER OUTFIT! Check out the awesome Sharky T-Shirt.\n\nНОВЫЙ ЛЕТНИЙ НАРЯД! Посмотри, какая классная футболка с акулой!"
+          },
+          {
+            "version": "5.2",
+            "date": "2017-01-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.1",
+            "date": "2017-02-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.2",
+            "date": "2017-04-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.3",
+            "date": "2017-08-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.4",
+            "date": "2017-09-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.2.5",
+            "date": "2017-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3",
+            "date": "2018-03-13",
+            "changes": "Have fun with the one and only Talking Tom Cat! Play with him, poke him, and talk to him – he’ll repeat what you say in a hilarious voice. And you can even make funny videos and share them with your friends!\n\nПовеселись с единственным и неповторимым Говорящим Томом! Играй с ним, тыкай в него пальцем и беседуй с ним, а он повторит за тобой своим смешным голоском. А ещё ты сможешь снимать весёлые видео и делиться ими с друзьями!"
+          },
+          {
+            "version": "5.3.1",
+            "date": "2018-05-29",
+            "changes": "Have fun with the one and only Talking Tom Cat! Play with him, poke him, and talk to him – he’ll repeat what you say in a hilarious voice. And you can even make funny videos and share them with your friends!\n\nПовеселись с единственным и неповторимым Говорящим Томом! Играй с ним, тыкай в него пальцем и беседуй с ним, а он повторит за тобой своим смешным голоском. А ещё ты сможешь снимать весёлые видео и делиться ими с друзьями!"
+          },
+          {
+            "version": "5.3.2",
+            "date": "2018-06-13",
+            "changes": "Have fun with the one and only Talking Tom Cat! Play with him, poke him, and talk to him – he’ll repeat what you say in a hilarious voice. And you can even make funny videos and share them with your friends!\n\nПовеселись с единственным и неповторимым Говорящим Томом! Играй с ним, тыкай в него пальцем и беседуй с ним, а он повторит за тобой своим смешным голоском. А ещё ты сможешь снимать весёлые видео и делиться ими с друзьями!"
+          },
+          {
+            "version": "5.3.3",
+            "date": "2018-08-22",
+            "changes": "Bug fixes and minor gameplay improvements.\nAdded iPhone X support.\n\nИсправление ошибок и незначительные улучшения геймплея.\nДобавлена поддержка iPhoneX"
+          },
+          {
+            "version": "5.3.6",
+            "date": "2018-11-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.7",
+            "date": "2019-02-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.8",
+            "date": "2019-02-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.3.9",
+            "date": "2019-03-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.4",
+            "date": "2020-10-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.4.1",
+            "date": "2020-10-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.5",
+            "date": "2021-04-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6",
+            "date": "2021-10-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.1",
+            "date": "2021-12-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.3",
+            "date": "2022-08-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.4",
+            "date": "2022-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.5",
+            "date": "2022-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8",
+            "date": "2023-11-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.1",
+            "date": "2023-11-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.2",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.3",
+            "date": "2024-03-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9",
+            "date": "2024-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0",
+            "date": "2025-05-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0.1",
+            "date": "2025-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1",
+            "date": "2025-10-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.1",
+            "date": "2025-12-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.2",
+            "date": "2026-04-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.2.1",
+            "date": "2026-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
