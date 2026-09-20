@@ -3507,6 +3507,371 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-tom-ben-news-новости-говорящих-тома-и-бена",
+      "name": "Talking Tom & Ben News | Новости Говорящих Тома и Бена",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-10-15",
+      "icon": "https://play-lh.googleusercontent.com/QUbxW5QYSM3wlh1qHdm_Vb528qoeaENwlphOrwD4oVYEspyCwEJGpN8wz4bl9C-526sD0X4bNm4tTZ9x7y6yKlc=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2012-01-20",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "3",
+            "date": "2012-01-21",
+            "changes": "Various bug fixes"
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "4",
+            "date": "2012-02-23",
+            "changes": "Removed the camera autofocus requirement so more devices can get the app and various other bug fixes"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "10",
+            "date": "2014-01-16",
+            "changes": "NEW ANIMATION: Wrestling, ear pulling and a good old cat and dog fight in one single animation!\n\nНОВАЯ АНИМАЦИЯ: борьба, дерганье за уши, и старый добрый кот и пес дерутся в одной анимации!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "20, 30",
+            "date": "2014-01-18",
+            "changes": "NEW ANIMATION: Wrestling, ear pulling and a good old cat and dog fight in one single animation!\n\nНОВАЯ АНИМАЦИЯ: борьба, дерганье за уши, и старый добрый кот и пес дерутся в одной анимации!"
+          },
+          {
+            "version": "2.1",
+            "versionCode": "60",
+            "date": "2014-08-02",
+            "changes": "Getting rid of animal fur (from inside a TV studio) is a dirty job, but somebody's gotta do it. You're welcome!\n\nУборка (телестудии) от шерсти животных — это грязная работенка, но кому-то надо делать ее. Пожалуйста, попробуй!"
+          },
+          {
+            "version": "2.2",
+            "versionCode": "70",
+            "date": "2015-05-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3",
+            "versionCode": "80",
+            "date": "2017-09-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.0.7",
+            "versionCode": "90",
+            "date": "2018-04-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.0.4",
+            "versionCode": "100",
+            "date": "2019-09-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.1.5",
+            "versionCode": "110",
+            "date": "2020-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.2.6",
+            "versionCode": "120",
+            "date": "2020-07-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.0.279",
+            "versionCode": "130",
+            "date": "2021-03-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.1.300",
+            "versionCode": "140",
+            "date": "2021-03-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.2.332",
+            "versionCode": "150",
+            "date": "2021-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.3.352",
+            "versionCode": "160",
+            "date": "2021-08-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.0.383",
+            "versionCode": "170",
+            "date": "2021-12-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.2.396",
+            "versionCode": "180",
+            "date": "2022-04-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.3.404",
+            "versionCode": "190",
+            "date": "2022-06-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.0.449",
+            "versionCode": "200",
+            "date": "2022-09-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.1.457",
+            "versionCode": "210",
+            "date": "2022-09-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.2.7",
+            "versionCode": "220",
+            "date": "2022-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.3.28",
+            "versionCode": "230",
+            "date": "2023-04-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.4.30",
+            "versionCode": "240",
+            "date": "2023-05-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.5.38",
+            "versionCode": "250",
+            "date": "2023-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.6.40",
+            "versionCode": "260",
+            "date": "2023-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.0.72",
+            "versionCode": "270",
+            "date": "2024-01-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.1.78",
+            "versionCode": "280",
+            "date": "2024-02-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.0.96",
+            "versionCode": "290",
+            "date": "2024-10-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.1.113",
+            "versionCode": "300",
+            "date": "2024-11-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.0.185",
+            "versionCode": "200301000",
+            "date": "2025-05-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.1.200",
+            "versionCode": "200301010",
+            "date": "2025-07-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.2.246",
+            "versionCode": "200301020",
+            "date": "2025-08-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.0.299",
+            "versionCode": "200302000",
+            "date": "2025-10-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.1.329",
+            "versionCode": "200302010",
+            "date": "2025-10-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.0.437",
+            "versionCode": "200303000",
+            "date": "2026-05-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2011-10-15",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2011-11-01",
+            "changes": "- Fixed crash on iOS 3.x\n- New Facebook library\n- Several bug fixes"
+          },
+          {
+            "version": "2.0",
+            "date": "2014-01-16",
+            "changes": "NEW ANIMATION: Wrestling, ear pulling and a good old cat and dog fight in one single animation!\n\nНОВАЯ АНИМАЦИЯ: борьба, дерганье за уши, и старый добрый кот и пес дерутся в одной анимации!"
+          },
+          {
+            "version": "2.1",
+            "date": "2014-08-14",
+            "changes": "Getting rid of animal fur (from inside a TV studio) is a dirty job, but somebody's gotta do it. You're welcome!\n\nУборка (телестудии) от шерсти животных — это грязная работенка, но кому-то надо делать ее. Пожалуйста, попробуй!"
+          },
+          {
+            "version": "2.2",
+            "date": "2015-05-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2.1",
+            "date": "2016-05-23",
+            "changes": "Fixed in-app purchase bug.\n\nМы исправили баг с покупками внутри приложения."
+          },
+          {
+            "version": "2.3",
+            "date": "2017-09-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.1",
+            "date": "2017-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4",
+            "date": "2018-05-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.1",
+            "date": "2018-07-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.2",
+            "date": "2019-05-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5",
+            "date": "2019-09-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6",
+            "date": "2021-03-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.1",
+            "date": "2021-03-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.2",
+            "date": "2022-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.3",
+            "date": "2022-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9",
+            "date": "2023-12-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.1",
+            "date": "2024-01-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.2",
+            "date": "2024-04-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0",
+            "date": "2024-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1",
+            "date": "2025-05-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.1",
+            "date": "2025-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2",
+            "date": "2025-10-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.1",
+            "date": "2025-12-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3",
+            "date": "2026-04-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
