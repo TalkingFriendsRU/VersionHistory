@@ -4305,6 +4305,136 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-santa-meets-ginger",
+      "name": "Talking Santa meets Ginger",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-12-09",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/a/a6/Mzl.bkwjokro.png/revision/latest?cb=20111217192020&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "",
+            "date": "2011-12-09",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "",
+            "date": "2011-12-12",
+            "changes": "Fixed train missing from the recording"
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "",
+            "date": "2011-12-22",
+            "changes": "Various bug fixes"
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "",
+            "date": "2011-12-23",
+            "changes": "Fixed crash after sending a postcard"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "",
+            "date": "2012-12-13",
+            "changes": "✔ You can now remove ads with an in-app purchase\n✔ Improved Child Mode\n✔ New super silly Christmas postcards\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/"
+          },
+          {
+            "version": "1.1.1",
+            "versionCode": "",
+            "date": "2012-12-16",
+            "changes": "✔ You can now remove ads with an in-app purchase\n✔ Improved Child Mode\n✔ New super silly Christmas postcards\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "",
+            "date": "2014-12-18",
+            "changes": "The elves have been hard at work to make sure the app is bug-free and better than ever!"
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2016-01-14"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
+    },
+    {
+      "id": "talking-santa-meets-ginger-pro",
+      "name": "Talking Santa meets Ginger Pro",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-12-09",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/a/a6/Mzl.bkwjokro.png/revision/latest?cb=20111217192020&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "",
+            "date": "2011-12-09",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "",
+            "date": "2011-12-12",
+            "changes": "Fixed train missing from the recording"
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "",
+            "date": "2011-12-22",
+            "changes": "Various bug fixes"
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "",
+            "date": "2011-12-26",
+            "changes": "Fixed crash after sending a postcard"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "",
+            "date": "2012-12-13",
+            "changes": "✔ You can now remove ads with an in-app purchase\n✔ Improved Child Mode\n✔ New super silly Christmas postcards\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/"
+          },
+          {
+            "version": "1.1.1",
+            "versionCode": "",
+            "date": "2012-12-22",
+            "changes": "✔ You can now remove ads with an in-app purchase\n✔ Improved Child Mode\n✔ New super silly Christmas postcards\n✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com/"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "",
+            "date": "2014-12-20",
+            "changes": "The elves have been hard at work to make sure the app is bug-free and better than ever!"
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2015-12-21"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
