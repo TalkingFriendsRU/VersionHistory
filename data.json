@@ -3931,6 +3931,327 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-pierre-the-parrot-говорящий-пьер",
+      "name": "Talking Pierre the Parrot | Говорящий Пьер",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2011-11-29",
+      "icon": "https://play-lh.googleusercontent.com/A18y6eEHi58JxdnaVfpZUya_bGvKdbl4IMOGBXNUsme3S_0lTWXlqlc3eIPpMtIbI7JIjd4skJFNj4ZZBtOh=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2012-02-16",
+            "changes": ""
+          },
+          {
+            "version": "2.0",
+            "versionCode": "20-22",
+            "date": "2013-11-09",
+            "changes": "NEW FREE ANIMATION: Talking Pierre is the coolest rockstar in the world! Rock it out with his new electric guitar!\n\nНОВАЯ БЕСПЛАТНАЯ АНИМАЦИЯ: Говорящий Пьер - самая прикольная рок-звезда в мире! Заставь его сыграть рок на его новой электрогитаре!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "30-32",
+            "date": "2013-12-01",
+            "changes": "We've repaired the strings on Talking Pierre's guitar and removed a few bugs from the kitchen sink.\nNEW FREE ANIMATION: Talking Pierre is the coolest rockstar in the world! Rock it out with his new electric guitar!\n\nМы починили струны на гитаре Talking Pierre и убрали пару жуков из кухонной раковины.\nНОВАЯ БЕСПЛАТНАЯ АНИМАЦИЯ: Говорящий Пьер - самая прикольная рок-звезда в мире! Заставь его сыграть рок на его новой электрогитаре!"
+          },
+          {
+            "version": "3.1",
+            "versionCode": "50-52",
+            "date": "2014-05-16",
+            "changes": "ROCK IT OUT! - Pierre now knows how to play Smoke on the Water!\n\nОТРЫВАЙСЯ! - Теперь Пьер знает, как играть Smoke on the Water!"
+          },
+          {
+            "version": "3.2",
+            "versionCode": "60-62",
+            "date": "2014-12-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3",
+            "versionCode": "70-72",
+            "date": "2015-06-10",
+            "changes": "BUG FIXES: We've fixed the bugs, we've made super improvements – basically the app's just got EVEN MORE AWESOME!\n\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений – проще говоря, приложение теперь СТАЛО ЕЩЕ КРУЧЕ!"
+          },
+          {
+            "version": "3.4",
+            "versionCode": "80-82",
+            "date": "2017-08-31",
+            "changes": "BUG FIXES: We've fixed the bugs, we've made super improvements – basically the app's just got EVEN MORE AWESOME!\n\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений – проще говоря, приложение теперь СТАЛО ЕЩЕ КРУЧЕ!"
+          },
+          {
+            "version": "3.5.0.5",
+            "versionCode": "90",
+            "date": "2018-04-25",
+            "changes": "BUG FIXES: We've fixed the bugs, we've made super improvements – basically the app's just got EVEN MORE AWESOME!\n\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений – проще говоря, приложение теперь СТАЛО ЕЩЕ КРУЧЕ!"
+          },
+          {
+            "version": "3.6.0.79",
+            "versionCode": "110",
+            "date": "2021-07-21",
+            "changes": "BUG FIXES: We've fixed the bugs, we've made super improvements – basically the app's just got EVEN MORE AWESOME!\n\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений – проще говоря, приложение теперь СТАЛО ЕЩЕ КРУЧЕ!"
+          },
+          {
+            "version": "3.6.1.90",
+            "versionCode": "120",
+            "date": "2021-08-05",
+            "changes": "BUG FIXES: We've fixed the bugs, we've made super improvements – basically the app's just got EVEN MORE AWESOME!\n\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений – проще говоря, приложение теперь СТАЛО ЕЩЕ КРУЧЕ!"
+          },
+          {
+            "version": "3.7.0.122",
+            "versionCode": "130",
+            "date": "2021-12-17",
+            "changes": "BUG FIXES: We've fixed the bugs, we've made super improvements – basically the app's just got EVEN MORE AWESOME!\n\nИСПРАВЛЕНИЕ ОШИБОК: мы исправили ошибки и сделали кучу улучшений – проще говоря, приложение теперь СТАЛО ЕЩЕ КРУЧЕ!"
+          },
+          {
+            "version": "3.7.1.125",
+            "versionCode": "140",
+            "date": "2022-06-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.177",
+            "versionCode": "150",
+            "date": "2022-09-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.1.8",
+            "versionCode": "160",
+            "date": "2022-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.0.55",
+            "versionCode": "170",
+            "date": "2024-04-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.0.97",
+            "versionCode": "180",
+            "date": "2024-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.0.159",
+            "versionCode": "200401000",
+            "date": "2025-05-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.1.177",
+            "versionCode": "200401010",
+            "date": "2025-07-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.2.214",
+            "versionCode": "200401020",
+            "date": "2025-08-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2.0.244",
+            "versionCode": "200402000",
+            "date": "2025-10-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2.1.271",
+            "versionCode": "200402010",
+            "date": "2025-10-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.0.380",
+            "versionCode": "200403000",
+            "date": "2026-05-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.1.421",
+            "versionCode": "200403010",
+            "date": "2026-07-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.2.425",
+            "versionCode": "200403020",
+            "date": "2026-07-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.3.428",
+            "versionCode": "200403030",
+            "date": "2026-08-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.4.437",
+            "versionCode": "200403040",
+            "date": "2026-08-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.5.460",
+            "versionCode": "200403050",
+            "date": "2026-09-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2011-11-29",
+            "changes": ""
+          },
+          {
+            "version": "2.0",
+            "date": "2011-12-14",
+            "changes": "Talking Pierre is a very energetic and lively parrot, who lives in Talking Tom's kitchen. He's still a teenager and he likes to cause as much noise and destruction as possible. ;-)"
+          },
+          {
+            "version": "3.0",
+            "date": "2013-11-06",
+            "changes": "NEW FREE ANIMATION: Talking Pierre is the coolest rockstar in the world! Rock it out with his new electric guitar!\n\nНОВАЯ БЕСПЛАТНАЯ АНИМАЦИЯ: Говорящий Пьер - самая прикольная рок-звезда в мире! Заставь его сыграть рок на его новой электрогитаре!"
+          },
+          {
+            "version": "3.0.1",
+            "date": "2013-12-02",
+            "changes": "We've repaired the strings on Talking Pierre's guitar and removed a few bugs from the kitchen sink.\nNEW FREE ANIMATION: Talking Pierre is the coolest rockstar in the world! Rock it out with his new electric guitar!\n\nМы починили струны на гитаре Talking Pierre и убрали пару жуков из кухонной раковины.\nНОВАЯ БЕСПЛАТНАЯ АНИМАЦИЯ: Говорящий Пьер - самая прикольная рок-звезда в мире! Заставь его сыграть рок на его новой электрогитаре!"
+          },
+          {
+            "version": "3.1",
+            "date": "2014-05-14",
+            "changes": "ROCK IT OUT! - Pierre now knows how to play Smoke on the Water!\n\nОТРЫВАЙСЯ! - Теперь Пьер знает, как играть Smoke on the Water!"
+          },
+          {
+            "version": "3.2",
+            "date": "2014-12-22",
+            "changes": "Bug fixes\n\nИсправление ошибок"
+          },
+          {
+            "version": "3.3",
+            "date": "2015-06-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.1",
+            "date": "2016-05-24",
+            "changes": "Fixed in-app purchase bug.\n\nМы исправили баг с покупками внутри приложения."
+          },
+          {
+            "version": "3.4",
+            "date": "2017-09-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.1",
+            "date": "2017-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5",
+            "date": "2018-05-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1",
+            "date": "2018-06-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2",
+            "date": "2019-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6",
+            "date": "2021-08-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.1",
+            "date": "2021-08-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.2",
+            "date": "2022-09-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.3",
+            "date": "2022-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9",
+            "date": "2023-12-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.1",
+            "date": "2024-01-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.2",
+            "date": "2024-04-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0",
+            "date": "2024-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1",
+            "date": "2025-05-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.1",
+            "date": "2025-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2",
+            "date": "2025-10-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2.1",
+            "date": "2025-12-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3",
+            "date": "2026-04-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3.1",
+            "date": "2026-04-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
