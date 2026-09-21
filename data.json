@@ -4252,6 +4252,59 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-pierre-the-parrot-pro-говорящий-пьер",
+      "name": "Talking Pierre the Parrot Pro | Говорящий Пьер",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-02-16",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/9/9f/Pierre-old.png/revision/latest?cb=20201229113938&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2012-02-16",
+            "changes": ""
+          },
+          {
+            "version": "2.0",
+            "versionCode": "23",
+            "date": "2013-11-10",
+            "changes": "NEW FREE ANIMATION: Talking Pierre is the coolest rockstar in the world! Rock it out with his new electric guitar!\n\nНОВАЯ БЕСПЛАТНАЯ АНИМАЦИЯ: Говорящий Пьер - самая прикольная рок-звезда в мире! Заставь его сыграть рок на его новой электрогитаре!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "33",
+            "date": "2013-11-30",
+            "changes": "We've repaired the strings on Talking Pierre's guitar and removed a few bugs from the kitchen sink.\nNEW FREE ANIMATION: Talking Pierre is the coolest rockstar in the world! Rock it out with his new electric guitar!\n\nМы починили струны на гитаре Talking Pierre и убрали пару жуков из кухонной раковины.\nНОВАЯ БЕСПЛАТНАЯ АНИМАЦИЯ: Говорящий Пьер - самая прикольная рок-звезда в мире! Заставь его сыграть рок на его новой электрогитаре!"
+          },
+          {
+            "version": "3.1",
+            "versionCode": "52",
+            "date": "2014-05-15",
+            "changes": "ROCK IT OUT! - Pierre now knows how to play Smoke on the Water!\n\nОТРЫВАЙСЯ! - Теперь Пьер знает, как играть Smoke on the Water!"
+          },
+          {
+            "version": "3.2",
+            "versionCode": "62",
+            "date": "2014-12-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2015-06-08"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
