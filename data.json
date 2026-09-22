@@ -4756,6 +4756,595 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-ginger-говорящий-джинджер",
+      "name": "Talking Ginger | Говорящий Джинджер",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-08-12",
+      "icon": "https://play-lh.googleusercontent.com/E-OmSm7vBfs3pMxh4hDS48VMnERzpDlE4K-tWCBvuf_S1Q-mEJBqB3YPUeMCTGPaINmdsOriWrjfrLcTgkGltw=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "3",
+            "date": "2012-09-15",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "versionCode": "10",
+            "date": "2012-09-21",
+            "changes": "Fixed missing Infinite Toothpaste Pack, Toilet Paper game crash and various other improvements."
+          },
+          {
+            "version": "1.2",
+            "versionCode": "20",
+            "date": "2012-10-05",
+            "changes": "✔ 10 new jigsaw puzzles to unlock.\n✔ Several bugs fixed.\n\n✔ 10 новых пазлов для сборки.\n✔ Исправлено несколько ошибок."
+          },
+          {
+            "version": "1.3",
+            "versionCode": "30",
+            "date": "2012-10-13",
+            "changes": "✔ Improved tablet support (incl. Nexus 7)\n✔ Improved child mode\n✔ Various bug fixes"
+          },
+          {
+            "version": "1.4",
+            "versionCode": "40",
+            "date": "2012-12-04",
+            "changes": "✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com\n✔ Minor bugs fixed"
+          },
+          {
+            "version": "1.4.1",
+            "versionCode": "41",
+            "date": "2012-12-15",
+            "changes": "✔ Works with Talking Friends Superstar toys: http://tfsuperstar.com\n✔ Minor bugs fixed"
+          },
+          {
+            "version": "1.5",
+            "versionCode": "42-43",
+            "date": "2013-03-25",
+            "changes": "5 NEW JIGSAW PUZZLES featuring Talking Ginger and the rest of the Talking Friends gang. Unlock them all!"
+          },
+          {
+            "version": "1.5.1",
+            "versionCode": "50-53",
+            "date": "2013-06-15",
+            "changes": "- NEW PLAYABLE JIGSAW PUZZLES: unlock & then play all the jigsaw puzzles!\n- Now with even more fun and LESS BUGS. Those things are icky!\n- Check out Ginger's NEW Website and Toys by pressing the i button!"
+          },
+          {
+            "version": "2.0",
+            "versionCode": "60-63",
+            "date": "2014-03-21",
+            "changes": "NEW BATHROOM: Ginger loves his new bathroom, it’s so shiny!\n5 NEW PUZZLE IMAGES: These new images are so adorable!\nIMPROVED CHILD MODE: Only grownups can now switch it ON and OFF!\n\nНОВАЯ ВАННАЯ: Рыжик обожает новую ванную – она так блестит!\n5 НОВЫХ КАРТИНОК-ГОЛОВОЛОМОК: эти картинки такие классные!\nУЛУЧШЕННЫЙ ДЕТСКИЙ РЕЖИМ: только взрослые могут включать и выключать его!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "70-73",
+            "date": "2014-03-27",
+            "changes": "NEW BATHROOM: Ginger loves his new bathroom, it’s so shiny!\n5 NEW PUZZLE IMAGES: These new images are so adorable!\nIMPROVED CHILD MODE: Only grownups can now switch it ON and OFF!\n\nНОВАЯ ВАННАЯ: Рыжик обожает новую ванную – она так блестит!\n5 НОВЫХ КАРТИНОК-ГОЛОВОЛОМОК: эти картинки такие классные!\nУЛУЧШЕННЫЙ ДЕТСКИЙ РЕЖИМ: только взрослые могут включать и выключать его!"
+          },
+          {
+            "version": "2.1",
+            "versionCode": "80-83",
+            "date": "2014-10-05",
+            "changes": "NEW BATHROOM: Ginger loves his new bathroom, it’s so shiny!\n5 NEW PUZZLE IMAGES: These new images are so adorable!\nIMPROVED CHILD MODE: Only grownups can now switch it ON and OFF!\n\nНОВАЯ ВАННАЯ: Рыжик обожает новую ванную – она так блестит!\n5 НОВЫХ КАРТИНОК-ГОЛОВОЛОМОК: эти картинки такие классные!\nУЛУЧШЕННЫЙ ДЕТСКИЙ РЕЖИМ: только взрослые могут включать и выключать его!"
+          },
+          {
+            "version": "2.2",
+            "versionCode": "90",
+            "date": "2015-02-10",
+            "changes": "NEW BATHROOM: Ginger loves his new bathroom, it’s so shiny!\n5 NEW PUZZLE IMAGES: These new images are so adorable!\nIMPROVED CHILD MODE: Only grownups can now switch it ON and OFF!\n\nНОВАЯ ВАННАЯ: Рыжик обожает новую ванную – она так блестит!\n5 НОВЫХ КАРТИНОК-ГОЛОВОЛОМОК: эти картинки такие классные!\nУЛУЧШЕННЫЙ ДЕТСКИЙ РЕЖИМ: только взрослые могут включать и выключать его!"
+          },
+          {
+            "version": "2.3",
+            "versionCode": "100",
+            "date": "2015-10-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4",
+            "versionCode": "110",
+            "date": "2017-03-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.1",
+            "versionCode": "120",
+            "date": "2017-03-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.2.26",
+            "versionCode": "170",
+            "date": "2018-03-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.3.35",
+            "versionCode": "180",
+            "date": "2018-03-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.4.2",
+            "versionCode": "190",
+            "date": "2018-05-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.5.7",
+            "versionCode": "200",
+            "date": "2018-06-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.6.11",
+            "versionCode": "210",
+            "date": "2018-07-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.7.17",
+            "versionCode": "220",
+            "date": "2018-07-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.8.25",
+            "versionCode": "230",
+            "date": "2018-09-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.9.19",
+            "versionCode": "240",
+            "date": "2018-11-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.0.8",
+            "versionCode": "250",
+            "date": "2019-07-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.0.12",
+            "versionCode": "260-262",
+            "date": "2019-10-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.1.13",
+            "versionCode": "270-272",
+            "date": "2019-12-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.2.16",
+            "versionCode": "280-282",
+            "date": "2020-01-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.3.18",
+            "versionCode": "290-292",
+            "date": "2020-01-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.4.19",
+            "versionCode": "300-302",
+            "date": "2020-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.5.20",
+            "versionCode": "310-312",
+            "date": "2020-07-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.0.25",
+            "versionCode": "330",
+            "date": "2020-10-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.1.30",
+            "versionCode": "340",
+            "date": "2021-04-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.0.47",
+            "versionCode": "350",
+            "date": "2021-05-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.1.92",
+            "versionCode": "360",
+            "date": "2021-08-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.0.144",
+            "versionCode": "370",
+            "date": "2021-10-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.1.222",
+            "versionCode": "390",
+            "date": "2022-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.2.235",
+            "versionCode": "400",
+            "date": "2022-09-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.3.11",
+            "versionCode": "410",
+            "date": "2022-10-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.0.52",
+            "versionCode": "420",
+            "date": "2022-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.1.60",
+            "versionCode": "430",
+            "date": "2023-01-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.2.64",
+            "versionCode": "440",
+            "date": "2023-01-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.3.77",
+            "versionCode": "450",
+            "date": "2023-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.0.97",
+            "versionCode": "460",
+            "date": "2023-07-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.1.137",
+            "versionCode": "470",
+            "date": "2023-11-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.2.158",
+            "versionCode": "480",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.3.170",
+            "versionCode": "490",
+            "date": "2024-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.0.192",
+            "versionCode": "500",
+            "date": "2024-08-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.1.229",
+            "versionCode": "510",
+            "date": "2024-12-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.0.310",
+            "versionCode": "200305000",
+            "date": "2025-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1.351",
+            "versionCode": "200305010",
+            "date": "2025-07-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2.395",
+            "versionCode": "200305020",
+            "date": "2025-08-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.0.426",
+            "versionCode": "200306000",
+            "date": "2025-10-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.1.452",
+            "versionCode": "200306010",
+            "date": "2025-10-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.0.586",
+            "versionCode": "200307000",
+            "date": "2026-05-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.1.704",
+            "versionCode": "200307010",
+            "date": "2026-08-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2012-08-12",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2012-09-20",
+            "changes": "✔ 10 new jigsaw puzzles to unlock.\n✔ Several bugs fixed.\n\n✔ 10 новых пазлов для сборки.\n✔ Исправлено несколько ошибок."
+          },
+          {
+            "version": "1.2",
+            "date": "2012-11-17",
+            "changes": "✔ Works with Talking Friends Superstar toys: www.tfsuperstar.com\n✔ iPhone 5 support\n✔ New and improved Child Mode\n✔ Minor bugs fixed\n\n✔ Поддержка iPhone 5\n✔ Новый и усовершенствованный детский режим\n✔ Исправлены мелкие ошибки."
+          },
+          {
+            "version": "1.3",
+            "date": "2013-03-15",
+            "changes": "5 NEW JIGSAW PUZZLES featuring Talking Ginger and the rest of the Talking Friends gang. Unlock them all!"
+          },
+          {
+            "version": "1.4",
+            "date": "2013-05-24",
+            "changes": "- NEW PLAYABLE JIGSAW PUZZLES: unlock & then play all the jigsaw puzzles!\n- Now with even more fun and LESS BUGS. Those things are icky!\n- Check out Ginger's NEW Website and Toys by pressing the i button!"
+          },
+          {
+            "version": "1.5",
+            "date": "2013-10-02",
+            "changes": "We did our magic and we have you covered iOS 7 users - this app is now PERFECT for your devices!\n\nМы создали волшебную вещь и охватили пользователей iOS 7 users - это приложение теперь ОТЛИЧНО подойдет для ваших устройств!"
+          },
+          {
+            "version": "2.0",
+            "date": "2014-03-20",
+            "changes": "NEW BATHROOM: Ginger loves his new bathroom, it’s so shiny!\n5 NEW PUZZLE IMAGES: These new images are so adorable!\nIMPROVED CHILD MODE: Only grownups can now switch it ON and OFF!\n\nНОВАЯ ВАННАЯ: Рыжик обожает новую ванную – она так блестит!\n5 НОВЫХ КАРТИНОК-ГОЛОВОЛОМОК: эти картинки такие классные!\nУЛУЧШЕННЫЙ ДЕТСКИЙ РЕЖИМ: только взрослые могут включать и выключать его!"
+          },
+          {
+            "version": "2.1",
+            "date": "2014-08-22",
+            "changes": "NEW BATHROOM: Ginger loves his new bathroom, it’s so shiny!\n5 NEW PUZZLE IMAGES: These new images are so adorable!\nIMPROVED CHILD MODE: Only grownups can now switch it ON and OFF!\n\nНОВАЯ ВАННАЯ: Рыжик обожает новую ванную – она так блестит!\n5 НОВЫХ КАРТИНОК-ГОЛОВОЛОМОК: эти картинки такие классные!\nУЛУЧШЕННЫЙ ДЕТСКИЙ РЕЖИМ: только взрослые могут включать и выключать его!"
+          },
+          {
+            "version": "2.2",
+            "date": "2015-03-17",
+            "changes": "BUG-FREE: That’s right – we’ve zapped all the bugs so the app is bug-free and better than ever!\n\nОТСУТСТВИЕ ОШИБОК: Все верно — мы исправили все ошибки, так что в приложении больше нет ошибок, и оно лучше, чем когда-либо ранее!"
+          },
+          {
+            "version": "2.3",
+            "date": "2015-11-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.1",
+            "date": "2016-05-20",
+            "changes": "Fixed in-app purchase bug.\n\nМы исправили баг с покупками внутри приложения."
+          },
+          {
+            "version": "2.4",
+            "date": "2017-02-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.1",
+            "date": "2017-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.2",
+            "date": "2017-03-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.3",
+            "date": "2017-06-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.4",
+            "date": "2017-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5",
+            "date": "2018-02-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.1",
+            "date": "2018-02-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.2",
+            "date": "2018-02-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.3",
+            "date": "2018-05-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.4",
+            "date": "2018-06-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.5",
+            "date": "2018-09-01",
+            "changes": "Bug fixes and minor gameplay improvements.\nAdded iPhone X support.\n\nИсправление ошибок и незначительные улучшения геймплея.\nДобавлена поддержка iPhoneX"
+          },
+          {
+            "version": "2.6",
+            "date": "2019-02-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7",
+            "date": "2019-10-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.1",
+            "date": "2019-12-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.2",
+            "date": "2020-01-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.3",
+            "date": "2020-01-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8",
+            "date": "2020-10-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9",
+            "date": "2021-04-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0",
+            "date": "2021-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.1",
+            "date": "2022-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.2",
+            "date": "2022-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.3",
+            "date": "2022-12-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.4",
+            "date": "2023-01-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.5",
+            "date": "2023-04-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3",
+            "date": "2023-10-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.1",
+            "date": "2024-01-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.2",
+            "date": "2024-03-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4",
+            "date": "2024-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5",
+            "date": "2025-06-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1",
+            "date": "2025-06-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2",
+            "date": "2025-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6",
+            "date": "2025-10-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.1",
+            "date": "2025-12-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7",
+            "date": "2026-04-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.1",
+            "date": "2026-04-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.2",
+            "date": "2026-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
