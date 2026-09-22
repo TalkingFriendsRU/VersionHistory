@@ -4580,6 +4580,182 @@
           "removedDate": "2023-05-08"
         }
       }
+    },
+    {
+      "id": "toms-messenger",
+      "name": "Tom's Messenger",
+      "developer": "Outfit7 Limited",
+      "type": "app",
+      "releaseDate": "2012-04-27",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/b/b5/Tom%27s_Messenger_HQ.png/revision/latest?cb=20191230211554&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2012-04-27",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "3",
+            "date": "2012-05-04",
+            "changes": "Various bug fixes"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "",
+            "date": "2012-05-17",
+            "changes": "✔ We added two new characters: Pierre & Ginger.\n✔ Various bug fixes."
+          },
+          {
+            "version": "1.2",
+            "versionCode": "",
+            "date": "2012-07-06",
+            "changes": "✔ You can now get accessories for all characters."
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "",
+            "date": "2012-07-27",
+            "changes": "Various bug fixes."
+          },
+          {
+            "version": "1.2.2",
+            "versionCode": "9",
+            "date": "2013-12-05",
+            "changes": "Fixed compatibility with Android 4.4 KitKat."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2012-05-04",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2012-05-26",
+            "changes": "✔ We added two new characters: Pierre & Ginger.\n✔ Posting on Twitter now works.\n✔ New in-app purchases of gold coins."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2014-12-10"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
+    },
+    {
+      "id": "tom-loves-angela-том-любит-анджелу",
+      "name": "Tom Loves Angela | Том любит Анджелу",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-06-06",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/5/56/Tom_Loves_Angela.png/revision/latest?cb=20260521003941&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "3",
+            "date": "2012-07-13",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "4",
+            "date": "2012-07-22",
+            "changes": "Camera is no longer required. Angela's Intelligence can now be installed even on very small SD cards."
+          },
+          {
+            "version": "2.0",
+            "versionCode": "12",
+            "date": "2015-03-22",
+            "changes": "BETTER CHAT: The chat function is new, improved and more romantic than ever!\nANGELA’S NEW OUTFIT: Angela’s wearing a beautiful new outfit for her rooftop rendezvous with Tom – check it out!\nBUG FIXES: Cupid’s little helpers have been busy fixing all the bugs ready for Valentine’s Day!\n\nЛУЧШИЙ ЧАТ: Новая функция чата стала лучше и романтичней, чем когда-либо ранее!\nНОВЫЙ НАРЯД АНДЖЕЛЫ: Анджела надевает новый красивый наряд для своих свиданий на крыше с Томом – посмотри!\nИСПРАВЛЕНИЕ ОШИБОК: Маленькие помощники Купидона активно работали над исправлением всех ошибок до Дня святого Валентина!"
+          },
+          {
+            "version": "2.0.1",
+            "versionCode": "22",
+            "date": "2015-03-28",
+            "changes": "BETTER CHAT: The chat function is new, improved and more romantic than ever!\nANGELA’S NEW OUTFIT: Angela’s wearing a beautiful new outfit for her rooftop rendezvous with Tom – check it out!\nBUG FIXES: Cupid’s little helpers have been busy fixing all the bugs ready for Valentine’s Day!\n\nЛУЧШИЙ ЧАТ: Новая функция чата стала лучше и романтичней, чем когда-либо ранее!\nНОВЫЙ НАРЯД АНДЖЕЛЫ: Анджела надевает новый красивый наряд для своих свиданий на крыше с Томом – посмотри!\nИСПРАВЛЕНИЕ ОШИБОК: Маленькие помощники Купидона активно работали над исправлением всех ошибок до Дня святого Валентина!"
+          },
+          {
+            "version": "2.1",
+            "versionCode": "30",
+            "date": "2017-09-01",
+            "changes": ""
+          },
+          {
+            "version": "2.2.0.2",
+            "versionCode": "40",
+            "date": "2018-04-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2.1.3",
+            "versionCode": "50",
+            "date": "2018-04-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2012-06-06",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2012-06-20",
+            "changes": "✔ We fixed a crash that happened on some devices, when you started chatting with Angela."
+          },
+          {
+            "version": "2.0",
+            "date": "2015-03-19",
+            "changes": "BETTER CHAT: The chat function is new, improved and more romantic than ever!\nANGELA’S NEW OUTFIT: Angela’s wearing a beautiful new outfit for her rooftop rendezvous with Tom – check it out!\nBUG FIXES: Cupid’s little helpers have been busy fixing all the bugs ready for Valentine’s Day!\n\nЛУЧШИЙ ЧАТ: Новая функция чата стала лучше и романтичней, чем когда-либо ранее!\nНОВЫЙ НАРЯД АНДЖЕЛЫ: Анджела надевает новый красивый наряд для своих свиданий на крыше с Томом – посмотри!\nИСПРАВЛЕНИЕ ОШИБОК: Маленькие помощники Купидона активно работали над исправлением всех ошибок до Дня святого Валентина!"
+          },
+          {
+            "version": "2.1",
+            "date": "2017-08-10",
+            "changes": "IMPROVEMENTS: Tom loves Angela but we all love games with no bugs. Consider them GONE! ;-)"
+          },
+          {
+            "version": "2.1.1",
+            "date": "2017-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2",
+            "date": "2018-05-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2.1",
+            "date": "2018-07-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2.2",
+            "date": "2019-05-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2019-10-16"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
