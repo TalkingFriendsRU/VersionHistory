@@ -5427,6 +5427,450 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-angela-говорящая-анджела",
+      "name": "Talking Angela | Говорящая Анджела",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-12-18",
+      "icon": "https://play-lh.googleusercontent.com/xvzOIBvBf1-8WbDhNVKf8R9lPQBmt2AY4ctkJIcrIWYOyoGDNFYh8rchH8lxURDto7AY3aNoRcdnwFEnmZEMNQ=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "8",
+            "date": "2013-01-11",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "9",
+            "date": "2013-01-28",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "10",
+            "date": "2013-02-09",
+            "changes": ""
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "20",
+            "date": "2013-03-07",
+            "changes": "We ran Talking Angela's app through the crash test course and fixed various crashes. No kittens were hurt in the process."
+          },
+          {
+            "version": "2.0",
+            "versionCode": "30",
+            "date": "2013-07-27",
+            "changes": "- TRIVIA QUIZZES: Let Talking Angela test your knowledge with fun quizzes! Several topics, funny questions and rewards for the winners!\n- SCARY COCKTAIL: You can now give Talking Angela Scary Slurp cocktail and be surprised by the SCARY animation! Great opportunity to scare your friends!\n- PERFECT SUMMER ACCESSORIES: Talking Angela can now wear a diving mask, a beach bag and oh-so-cute Orange Necklace! Bring on the summer!\n\n- ЗАБАВНЫЕ ВИКТОРИНЫ: Поучаствуйте в забавных викторинах с Говорящая Анджела и проверьте свои знания! Различные темы, смешные вопросы и призы для победителей!\n- СТРАШНЫЙ КОКТЕЙЛЬ: Теперь вы можете дать Говорящая Анджела Scary Slurp коктейль и СТРАШНАЯ анимация вас просто поразит. Не упустите возможность напугать ваших друзей!\n- ПРЕВОСХОДНЫЕ ЛЕТНИЕ АКСЕССУАРЫ: Говорящая Анджела теперь может надеть маску для подводного плавания, пляжную сумку и очень милое оранжевое ожерелье! Да будет лето!"
+          },
+          {
+            "version": "2.2",
+            "versionCode": "40",
+            "date": "2013-12-07",
+            "changes": "NEW SOCKS AND MAKE UP: Make Angela look flirty and festive! She's just so cute!\nNEW TABLET: Talking Angela enjoys her new tablet with My Talking Tom.\nNEW POTION: Wanna see Angela giggle and act silly? Get her the new \"Giggle Juice\" potion.\nNEW QUIZZES: New quizzes are being added all the time, don't miss out on them, they're fun!\n\nНОВЫЕ НОСКИ И МАКИЯЖ: Сделай так, чтобы Анжела выглядела кокетливой и нарядной! Она такая премилая!\nНОВЫЙ ПЛАНШЕТНИК: Говорящая Анджела получает удовольствие от своего нового планшетника вместе с Мой говорящий Том.\nНОВЫЙ НАПИТОК: Хочешь увидеть Анжелу хихикающей и ведущей себя глупо? Возьми ей новый напиток \"Giggle Juice\".\nНОВЫЕ ШУТКИ: Все время добавляются новые шутки, не пропусти их, они забавные!"
+          },
+          {
+            "version": "2.3",
+            "versionCode": "50",
+            "date": "2014-06-22",
+            "changes": "THREE NEW ACCESSORIES:\nBunny Ears: It’s a bunny! It’s a kitty! Celebrate silliness with bunny ears today!\nDaisy Socks: These will guarantee sunny weather and clear skies!\nCozy Boots: Got cold feet? These will surely keep you warm!\n\nNEW QUIZZES: New quizzes are being added all the time, don't miss out on them, they're fun!\n\nТРИ НОВЫХ АКСЕССУАРА:\nЗаячьи ушки: Это зайчик! А это котенок! Немного подурачься сегодня с заячьими ушками!\nНоски с ромашками: они гарантирует тебе солнечную погоду и безоблачное небо!\nУдобные сапожки: Ноги мерзнут? Они сохранят ноги в тепле!\n\nНОВЫЕ ШУТКИ: Все время добавляются новые шутки, не пропусти их, они забавные!"
+          },
+          {
+            "version": "2.4",
+            "versionCode": "70",
+            "date": "2014-12-05",
+            "changes": "NEW DRESS: Angela just keeps getting more chic and stylish! She’s now got a beautiful new blue dress! \nMORE ACCESSORIES: Angela has a cool new diary and there’s a surprise inside!\n\nНОВОЕ ПЛАТЬЕ: Анджела выглядит все лучше и лучше! Теперь у нее есть прекрасное голубое платье!\nНОВЫЙ ПРЕДМЕТ: у Анджелы новый классный дневник, а внутри — сюрприз!"
+          },
+          {
+            "version": "2.5",
+            "versionCode": "80",
+            "date": "2015-09-16",
+            "changes": "IMPROVEMENTS: The Purr-incess deserves only the best! The bugs are wiped-out and everything is picture perfect!\n\nУЛУЧШЕНИЯ: принцессы заслуживают только лучшего! Багов больше нет и всё теперь просто супер!"
+          },
+          {
+            "version": "2.6",
+            "versionCode": "90",
+            "date": "2016-03-09",
+            "changes": "Discover the “Record” button and share silly videos of Talking Angela with your friends.\n\nОткрой для себя кнопку «Запись» и поделись смешными видео Говорящей Анджелы с друзьями."
+          },
+          {
+            "version": "2.7",
+            "versionCode": "100",
+            "date": "2017-04-06",
+            "changes": "Discover the “Record” button and share silly videos of Talking Angela with your friends.\n\nОткрой для себя кнопку «Запись» и поделись смешными видео Говорящей Анджелы с друзьями."
+          },
+          {
+            "version": "2.8.0",
+            "versionCode": "140",
+            "date": "2018-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.1",
+            "versionCode": "150",
+            "date": "2018-04-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.2",
+            "versionCode": "160",
+            "date": "2018-07-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.0.5",
+            "versionCode": "170",
+            "date": "2019-10-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.0.9",
+            "versionCode": "190",
+            "date": "2020-07-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.1.10",
+            "versionCode": "200",
+            "date": "2020-09-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.2.11",
+            "versionCode": "210",
+            "date": "2021-01-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1.0.14",
+            "versionCode": "230",
+            "date": "2021-01-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.0.41",
+            "versionCode": "240",
+            "date": "2021-05-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2.1.89",
+            "versionCode": "260",
+            "date": "2021-08-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.0.114",
+            "versionCode": "270",
+            "date": "2021-10-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.1.157",
+            "versionCode": "280",
+            "date": "2022-06-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.0.208",
+            "versionCode": "290",
+            "date": "2022-08-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.2.220",
+            "versionCode": "310",
+            "date": "2022-09-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.3.7",
+            "versionCode": "320",
+            "date": "2022-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1.32",
+            "versionCode": "340",
+            "date": "2023-04-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2.34",
+            "versionCode": "350",
+            "date": "2023-04-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.0.44",
+            "versionCode": "360",
+            "date": "2023-08-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.1.61",
+            "versionCode": "370",
+            "date": "2023-10-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.2.81",
+            "versionCode": "380",
+            "date": "2023-12-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.3.102",
+            "versionCode": "390",
+            "date": "2024-07-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.0.144",
+            "versionCode": "400",
+            "date": "2024-12-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.1.154",
+            "versionCode": "410",
+            "date": "2024-12-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.222",
+            "versionCode": "200308000",
+            "date": "2025-05-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.1.244",
+            "versionCode": "200308010",
+            "date": "2025-07-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.2.280",
+            "versionCode": "200308020",
+            "date": "2025-08-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.0.318",
+            "versionCode": "200309000",
+            "date": "2025-10-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.1.345",
+            "versionCode": "200309010",
+            "date": "2025-10-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.1.468",
+            "versionCode": "200400010",
+            "date": "2026-05-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2012-12-18",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2013-01-19",
+            "changes": "✔ Faster download because the app is now much smaller in MB.\n✔ Several bugs are fixed.\n\n✔ Размер приложения в мегабайтах уменьшился, поэтому теперь оно скачивается быстрее.\n✔ Исправлено несколько багов."
+          },
+          {
+            "version": "2.0",
+            "date": "2013-07-26",
+            "changes": "- TRIVIA QUIZZES: Let Talking Angela test your knowledge with fun quizzes! Several topics, funny questions and rewards for the winners!\n\n- SCARY COCKTAIL: You can now give Talking Angela Scary Slurp cocktail and be surprised by the SCARY animation! Great opportunity to scare your friends!\n\n- PERFECT SUMMER ACCESSORIES: Talking Angela can now wear a diving mask, a beach bag and oh-so-cute Orange Necklace! Bring on the summer!\n\n- ЗАБАВНЫЕ ВИКТОРИНЫ: Поучаствуйте в забавных викторинах с Говорящая Анджела и проверьте свои знания! Различные темы, смешные вопросы и призы для победителей!\n\n- СТРАШНЫЙ КОКТЕЙЛЬ: Теперь вы можете дать Говорящая Анджела Scary Slurp коктейль и СТРАШНАЯ анимация вас просто поразит. Не упустите возможность напугать ваших друзей!\n\n- ПРЕВОСХОДНЫЕ ЛЕТНИЕ АКСЕССУАРЫ: Говорящая Анджела теперь может надеть маску для подводного плавания, пляжную сумку и очень милое оранжевое ожерелье! Да будет лето!"
+          },
+          {
+            "version": "2.0.1",
+            "date": "2013-07-31",
+            "changes": "- Fixed a crash on startup after upgrade on older devices\n- Fixed some missing graphic elements after upgrade"
+          },
+          {
+            "version": "2.1",
+            "date": "2013-10-05",
+            "changes": "- We did our magic and we have you covered iOS 7 users - this app is now PERFECT for your devices!\n- Talking Angela will test your knowledge in the newly added trivia quizzes. To start a quiz, type any of these into the chat window: quiz, give me a quiz, start quiz.\n\n- Мы создали волшебную вещь и охватили пользователей iOS 7 users - это приложение теперь ОТЛИЧНО подойдет для ваших устройств!\n- Говорящая Анджела проверит ваши знания в викторинах с новыми вопросами. Для начала викторины наберите любую из этих команд в диалоговом окне: quiz, give me a quiz, start quiz."
+          },
+          {
+            "version": "2.2",
+            "date": "2013-12-05",
+            "changes": "NEW SOCKS AND MAKE UP: Make Angela look flirty and festive! She's just so cute!\nNEW TABLET: Talking Angela enjoys her new tablet with My Talking Tom.\nNEW POTION: Wanna see Angela giggle and act silly? Get her the new \"Giggle Juice\" potion.\nNEW QUIZZES: New quizzes are being added all the time, don't miss out on them, they're fun!\n\nНОВЫЕ НОСКИ И МАКИЯЖ: Сделай так, чтобы Анжела выглядела кокетливой и нарядной! Она такая премилая!\nНОВЫЙ ПЛАНШЕТНИК: Говорящая Анджела получает удовольствие от своего нового планшетника вместе с Мой говорящий Том.\nНОВЫЙ НАПИТОК: Хочешь увидеть Анжелу хихикающей и ведущей себя глупо? Возьми ей новый напиток \"Giggle Juice\".\nНОВЫЕ ШУТКИ: Все время добавляются новые шутки, не пропусти их, они забавные!"
+          },
+          {
+            "version": "2.3",
+            "date": "2014-06-20",
+            "changes": "THREE NEW ACCESSORIES:\nBunny Ears: It’s a bunny! It’s a kitty! Celebrate silliness with bunny ears today!\nDaisy Socks: These will guarantee sunny weather and clear skies!\nCozy Boots: Got cold feet? These will surely keep you warm!\n\nТРИ НОВЫХ АКСЕССУАРА:\nЗаячьи ушки: Это зайчик! А это котенок! Немного подурачься сегодня с заячьими ушками!\nНоски с ромашками: они гарантирует тебе солнечную погоду и безоблачное небо!\nУдобные сапожки: Ноги мерзнут? Они сохранят ноги в тепле!"
+          },
+          {
+            "version": "2.4",
+            "date": "2014-12-12",
+            "changes": "NEW DRESS: Angela just keeps getting more chic and stylish! She’s now got a beautiful new blue dress! \nMORE ACCESSORIES: Angela has a cool new diary and there’s a surprise inside!\nAnd just when you thought the app couldn’t get any better, we go and make it shine on your iOS 8 device!\n\nНОВОЕ ПЛАТЬЕ: Анджела выглядит все лучше и лучше! Теперь у нее есть прекрасное голубое платье!\nНОВЫЙ ПРЕДМЕТ: у Анджелы новый классный дневник, а внутри — сюрприз!\nтолько ты подумал, что приложение лучше уже не станет, как мы сделали его полностью совместимым с iOS 8!"
+          },
+          {
+            "version": "2.5",
+            "date": "2015-09-01",
+            "changes": "IMPROVEMENTS: The Purr-incess deserves only the best! The bugs are wiped-out and everything is picture perfect!\n\nУЛУЧШЕНИЯ: принцессы заслуживают только лучшего! Багов больше нет и всё теперь просто супер!"
+          },
+          {
+            "version": "2.6",
+            "date": "2016-03-08",
+            "changes": "Discover the “Record” button and share silly videos of Talking Angela with your friends.\n\nОткрой для себя кнопку «Запись» и поделись смешными видео Говорящей Анджелы с друзьями."
+          },
+          {
+            "version": "2.6.1",
+            "date": "2016-05-20",
+            "changes": "Fixed in-app purchase bug.\n\nМы исправили баг с покупками внутри приложения."
+          },
+          {
+            "version": "2.7",
+            "date": "2017-04-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.1",
+            "date": "2017-06-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.2",
+            "date": "2017-09-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8",
+            "date": "2018-03-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.1",
+            "date": "2018-06-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.2",
+            "date": "2018-09-26",
+            "changes": "Bug fixes and minor gameplay improvements.\nAdded iPhone X support.\n\nИсправление ошибок и незначительные улучшения геймплея.\nДобавлена поддержка iPhoneX"
+          },
+          {
+            "version": "2.8.3",
+            "date": "2019-05-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0",
+            "date": "2020-07-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.0.1",
+            "date": "2020-10-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.1",
+            "date": "2021-01-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.2",
+            "date": "2021-04-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3",
+            "date": "2022-01-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.1",
+            "date": "2022-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.2",
+            "date": "2022-11-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.3",
+            "date": "2023-05-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6",
+            "date": "2023-11-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.1",
+            "date": "2024-01-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.2",
+            "date": "2024-04-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7",
+            "date": "2024-12-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8",
+            "date": "2025-05-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.1",
+            "date": "2025-08-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9",
+            "date": "2025-10-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.1",
+            "date": "2025-12-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0",
+            "date": "2026-04-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.1",
+            "date": "2026-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
