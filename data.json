@@ -4435,6 +4435,151 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "toms-love-letters-любовная-письма-тома",
+      "name": "Tom’s Love Letters | Любовная письма Тома",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-01-28",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/1/1d/Tom%27s_Love_Letters_new_icon_2.png/revision/latest?cb=20250829133354&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "2",
+            "date": "2012-02-03",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "3",
+            "date": "2012-02-10",
+            "changes": "Enabled sharing via Google+ and select Korean and Chinese social networks and various bug fixes"
+          },
+          {
+            "version": "1.1",
+            "versionCode": "5",
+            "date": "2012-05-13",
+            "changes": "✔ We added a new dancing animation.\n✔ We added a new song.\n✔ You can now buy all the songs in the app on Google Play, Amazon or iTunes.\n\n✔ Мы добавили новый танцующий мультперсонаж.\n✔ Мы добавили новую песню.\n✔ Теперь вы можете приобрести на Google Play, Amazon или iTunes все песни из приложения."
+          },
+          {
+            "version": "1.2",
+            "versionCode": "21",
+            "date": "2013-02-03",
+            "changes": "✔ We made the app slimmer and better looking; just in time for the big day.\n✔ The app now works with Talking Friends Superstar toys.\n\n✔ Мы сделали приложение более изящным и приятным внешне; как раз вовремя до важного дня.\n✔ Теперь приложение работает с игрушками Talking Friends Superstar."
+          },
+          {
+            "version": "1.2.1",
+            "versionCode": "",
+            "date": "2013-02-07",
+            "changes": "✔ We made the app slimmer and better looking; just in time for the big day.\n✔ The app now works with Talking Friends Superstar toys.\n\n✔ Мы сделали приложение более изящным и приятным внешне; как раз вовремя до важного дня.\n✔ Теперь приложение работает с игрушками Talking Friends Superstar."
+          },
+          {
+            "version": "1.2.2",
+            "versionCode": "",
+            "date": "2013-02-09",
+            "changes": "✔ We made the app slimmer and better looking; just in time for the big day.\n✔ The app now works with Talking Friends Superstar toys.\n\n✔ Мы сделали приложение более изящным и приятным внешне; как раз вовремя до важного дня.\n✔ Теперь приложение работает с игрушками Talking Friends Superstar."
+          },
+          {
+            "version": "2.0",
+            "versionCode": "52-53",
+            "date": "2014-02-06",
+            "changes": "NEW BEAUTIFUL CARDS - Express your feelings in a cute and lovable way with the newly added and improved digital cards.\n\nНОВЫЕ ПРЕКРАСНЫЕ ОТКРЫТКИ - Вырази свои чувства милым и приятным способом с помощью недавно добавленных и улучшенных электронных открыток."
+          },
+          {
+            "version": "2.1.1",
+            "versionCode": "72",
+            "date": "2015-01-31",
+            "changes": "ANGELA’S NEW OUTFITS: Angela’s got some gorgeous new outfits just in time for Valentine’s Day!\nBUG FIXES: We’ve polished and added sparkle and made the app even more romantic than ever!\n\nНОВЫЕ НАРЯДЫ АНДЖЕЛЫ. Анджела получила несколько новых великолепных нарядов как раз ко Дню святого Валентина!\nИСПРАВЛЕНИЕ ОШИБОК: Мы также отполировали приложение, добавили в него огонек и сделали приложение еще более романтичным, чем когда-либо ранее!"
+          },
+          {
+            "version": "2.2",
+            "versionCode": "80",
+            "date": "2017-08-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.0.5",
+            "versionCode": "90",
+            "date": "2018-04-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.1.8",
+            "versionCode": "100",
+            "date": "2018-04-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2012-01-28",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2012-05-01",
+            "changes": "✔ We added a new dancing animation.\n✔ We added a new song.\n✔ You can now buy all the songs in the app on iTunes.\n\n✔ Мы добавили новый танцующий мультперсонаж.\n✔ Мы добавили новую песню.\n✔ Теперь вы можете приобрести на iTunes все песни из приложения."
+          },
+          {
+            "version": "1.2",
+            "date": "2013-02-05",
+            "changes": "✔ We made the app slimmer and better looking; just in time for the big day.\n✔ iPhone 5 users can now see the app in all its glory!\n✔ The app now works with Talking Friends Superstar toys.\n\n✔ Мы сделали приложение более изящным и приятным внешне; как раз вовремя до важного дня.\n✔ Пользователи iPhone 5 теперь смогут увидеть приложение по всем его великолепии!\n✔ Теперь приложение работает с игрушками Talking Friends Superstar."
+          },
+          {
+            "version": "2.0",
+            "date": "2014-02-05",
+            "changes": "NEW BEAUTIFUL CARDS - Express your feelings in a cute and lovable way with the newly added and improved digital cards.\n\nНОВЫЕ ПРЕКРАСНЫЕ ОТКРЫТКИ - Вырази свои чувства милым и приятным способом с помощью недавно добавленных и улучшенных электронных открыток."
+          },
+          {
+            "version": "2.1",
+            "date": "2015-02-05",
+            "changes": "ANGELA’S NEW OUTFITS: Angela’s got some gorgeous new outfits just in time for Valentine’s Day!\nBUG FIXES: We’ve polished and added sparkle and made the app even more romantic than ever!\n\nНОВЫЕ НАРЯДЫ АНДЖЕЛЫ. Анджела получила несколько новых великолепных нарядов как раз ко Дню святого Валентина!\nИСПРАВЛЕНИЕ ОШИБОК: Мы также отполировали приложение, добавили в него огонек и сделали приложение еще более романтичным, чем когда-либо ранее!"
+          },
+          {
+            "version": "2.2",
+            "date": "2017-08-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2.1",
+            "date": "2017-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3",
+            "date": "2018-05-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.1",
+            "date": "2018-06-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.2",
+            "date": "2019-05-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.3",
+            "date": "2019-05-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2022-02-14"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2023-05-08"
+        }
+      }
     }
   ]
 }
