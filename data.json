@@ -5345,6 +5345,88 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-friends-superstar",
+      "name": "Talking Friends Superstar",
+      "developer": "Outfit7 Limited",
+      "type": "app",
+      "releaseDate": "2012-11-23",
+      "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/0/0c/TFS_Icon.png/revision/latest?cb=20241222032022&format=original",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1",
+            "versionCode": "",
+            "date": "2012-11-23",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2",
+            "versionCode": "",
+            "date": "2012-12-12",
+            "changes": "Various bug fixes"
+          },
+          {
+            "version": "1.0.3",
+            "versionCode": "7",
+            "date": "2015-01-08",
+            "changes": "Various bug fixes"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2013-02-26",
+            "changes": ""
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2016-01-12"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
+    },
+    {
+      "id": "i-want-to-be-big",
+      "name": "I Want to Be Big",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2012-12-04",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/90/f5/80/90f5806d-f2aa-4138-7264-8ef6877c12bd/mzl.oiahvmgq.png/512x512bb-85.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "4",
+            "date": "2012-12-04",
+            "changes": ""
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2012-12-10",
+            "changes": ""
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2016-01-12"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
