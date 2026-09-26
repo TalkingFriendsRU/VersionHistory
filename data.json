@@ -1048,39 +1048,39 @@
         "android": [
           {
             "version": "1.0.1",
-            "versionCode": "4",
             "date": "2010-10-01",
-            "changes": ""
+            "changes": "",
+            "versionCode": "4"
           },
           {
             "version": "1.1.5",
-            "versionCode": "10",
             "date": "2011-02-09",
-            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card"
+            "changes": "MP4 video format instead of AVI, you can now send videos by MMS (text) or save them to SD card",
+            "versionCode": "10"
           },
           {
             "version": "1.1.6",
-            "versionCode": "11",
             "date": "2013-04-16",
-            "changes": "We have removed license checking (DRM) from the app."
+            "changes": "We have removed license checking (DRM) from the app.",
+            "versionCode": "11"
           },
           {
             "version": "3.0",
-            "versionCode": "33",
             "date": "2014-07-04",
-            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без багов!) корма.",
+            "versionCode": "33"
           },
           {
             "version": "3.1",
-            "versionCode": "52",
             "date": "2014-10-24",
-            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без багов!) корма.",
+            "versionCode": "52"
           },
           {
             "version": "3.2",
-            "versionCode": "62",
             "date": "2015-01-13",
-            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без багов!) корма.",
+            "versionCode": "62"
           }
         ],
         "ios": [
@@ -1138,27 +1138,27 @@
         "android": [
           {
             "version": "3.0",
-            "versionCode": "33",
             "date": "2014-03-07",
-            "changes": ""
+            "changes": "",
+            "versionCode": "33"
           },
           {
             "version": "3.1",
-            "versionCode": "51",
             "date": "2014-10-24",
-            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без багов!) корма.",
+            "versionCode": "51"
           },
           {
             "version": "3.2",
-            "versionCode": "62",
             "date": "2015-01-13",
-            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без жучков!) корма."
+            "changes": "We fine-tuned the piano, polished his bowl and added fresh (bug free!) food.\n\nМы настроили пианино, почистили его миску и добавили свежего (без багов!) корма.",
+            "versionCode": "62"
           },
           {
             "version": "3.3",
-            "versionCode": "70",
             "date": "2015-06-21",
-            "changes": "Bug fixes and minor gameplay improvements."
+            "changes": "Bug fixes and minor gameplay improvements.",
+            "versionCode": "70"
           }
         ],
         "ios": []
