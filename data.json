@@ -10265,6 +10265,111 @@
           "removedDate": "2016-02-12"
         }
       }
+    },
+    {
+      "id": "talking-tom-jetski-аквабайк-говорящего-тома",
+      "name": "Talking Tom Jetski | Аквабайк Говорящего Тома",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2015-10-08",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/8d/7e/47/8d7e4729-bf6c-7a3c-5f6c-30e4ec8eb538/source/900x900bb.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "",
+            "date": "2015-10-08",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "versionCode": "",
+            "date": "2015-10-16",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "versionCode": "",
+            "date": "2016-03-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.1",
+            "versionCode": "",
+            "date": "2016-03-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.0.15",
+            "versionCode": "",
+            "date": "2018-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.1.17",
+            "versionCode": "",
+            "date": "2018-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2015-10-16",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2015-10-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1",
+            "date": "2016-03-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.5",
+            "date": "2017-03-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.6",
+            "date": "2017-06-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.7",
+            "date": "2017-11-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2",
+            "date": "2018-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.1",
+            "date": "2018-05-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.2",
+            "date": "2018-05-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2020-09-30"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2020-10-01"
+        }
+      }
     }
   ]
 }
