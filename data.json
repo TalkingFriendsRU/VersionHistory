@@ -10225,6 +10225,46 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-tom-for-messenger-говорящий-том-для-messenger",
+      "name": "Talking Tom for Messenger | Говорящий Том для Messenger",
+      "developer": "Outfit7 Limited",
+      "type": "app",
+      "releaseDate": "2015-03-25",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/6e/04/9c/6e049c6f-4881-9ac2-a421-ca51e6310999/mzl.oytozlbs.png/900x900bb-85.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0",
+            "versionCode": "10",
+            "date": "2015-03-25",
+            "changes": ""
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2015-03-25",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2015-03-26",
+            "changes": "Bug fix."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2016-01-12"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2016-02-12"
+        }
+      }
     }
   ]
 }
