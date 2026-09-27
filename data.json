@@ -10370,6 +10370,179 @@
           "removedDate": "2020-10-01"
         }
       }
+    },
+    {
+      "id": "talking-tom-bubble-shooter-говорящий-том-бабл-шутер",
+      "name": "Talking Tom Bubble Shooter | Говорящий Том: бабл-шутер",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2015-11-06",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/6e/04/9c/6e049c6f-4881-9ac2-a421-ca51e6310999/mzl.oytozlbs.png/900x900bb-85.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.0.337",
+            "versionCode": "3",
+            "date": "2015-11-06",
+            "changes": ""
+          },
+          {
+            "version": "1.0.0.370",
+            "versionCode": "8",
+            "date": "2015-11-11",
+            "changes": ""
+          },
+          {
+            "version": "1.0.0.371",
+            "versionCode": "9",
+            "date": "2015-11-21",
+            "changes": ""
+          },
+          {
+            "version": "1.0.0.372",
+            "versionCode": "10",
+            "date": "2015-11-27",
+            "changes": ""
+          },
+          {
+            "version": "1.1.0.466",
+            "versionCode": "21",
+            "date": "2015-12-04",
+            "changes": "What are you waiting for? It's Talking Tom Bubble Shooter time!"
+          },
+          {
+            "version": "1.2.0.621",
+            "versionCode": "30",
+            "date": "2016-01-19",
+            "changes": "EXPLORE A NEW WORLD: Discover 60 new levels of magical Persia with fun characters and new stickers.\nFEEL THE POWER: Dominate the competition with rainbow bubbles and destructive boulders.\nGET STICKY: Look out for the tricky new game mode - sticky walls!\nWATCH THIS: Check out cool videos for some sweet rewards."
+          },
+          {
+            "version": "1.2.1.629",
+            "versionCode": "40",
+            "date": "2016-01-22",
+            "changes": "EXPLORE A NEW WORLD: Discover 60 new levels of magical Persia with fun characters and new stickers.\nFEEL THE POWER: Dominate the competition with rainbow bubbles and destructive boulders.\nGET STICKY: Look out for the tricky new game mode - sticky walls!\nWATCH THIS: Check out cool videos for some sweet rewards."
+          },
+          {
+            "version": "1.3.0.730",
+            "versionCode": "",
+            "date": "2016-02-25",
+            "changes": "ENJOY SOME COMPANY: Tom, Angela and Hank are now shooting bubbles with you.\nBE IN CHARGE: Get notified when your opponent uses a power-up.\n\nВ КОМПАНИИ ДРУЗЕЙ: теперь Том, Анджела и Хэнк стреляют пузырями вместе с тобой.\nБУДЬ В КУРСЕ: получай уведомления, когда соперник использует усиления."
+          },
+          {
+            "version": "1.3.1.735",
+            "versionCode": "80",
+            "date": "2016-02-26",
+            "changes": "ENJOY SOME COMPANY: Tom, Angela and Hank are now shooting bubbles with you.\nBE IN CHARGE: Get notified when your opponent uses a power-up.\n\nВ КОМПАНИИ ДРУЗЕЙ: теперь Том, Анджела и Хэнк стреляют пузырями вместе с тобой.\nБУДЬ В КУРСЕ: получай уведомления, когда соперник использует усиления."
+          },
+          {
+            "version": "1.3.2.741",
+            "versionCode": "90",
+            "date": "2016-03-02",
+            "changes": "ENJOY SOME COMPANY: Tom, Angela and Hank are now shooting bubbles with you.\nBE IN CHARGE: Get notified when your opponent uses a power-up.\n\nВ КОМПАНИИ ДРУЗЕЙ: теперь Том, Анджела и Хэнк стреляют пузырями вместе с тобой.\nБУДЬ В КУРСЕ: получай уведомления, когда соперник использует усиления."
+          },
+          {
+            "version": "1.4.2.126",
+            "versionCode": "120",
+            "date": "2016-10-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.1.15",
+            "versionCode": "140",
+            "date": "2018-05-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.2.17",
+            "versionCode": "150",
+            "date": "2018-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.3.20",
+            "versionCode": "160",
+            "date": "2018-05-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2015-11-23",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2",
+            "date": "2015-12-03",
+            "changes": "Bug fixes."
+          },
+          {
+            "version": "1.1",
+            "date": "2015-12-15",
+            "changes": "What are you waiting for? It's Talking Tom Bubble Shooter time!"
+          },
+          {
+            "version": "1.2",
+            "date": "2016-01-27",
+            "changes": "EXPLORE A NEW WORLD: Discover 60 new levels of magical Persia with fun characters and new stickers.\nFEEL THE POWER: Dominate the competition with rainbow bubbles and destructive boulders.\nGET STICKY: Look out for the tricky new game mode - sticky walls!\nWATCH THIS: Check out cool videos for some sweet rewards."
+          },
+          {
+            "version": "1.3.2",
+            "date": "2016-03-08",
+            "changes": "ENJOY SOME COMPANY: Tom, Angela and Hank are now shooting bubbles with you.\nBE IN CHARGE: Get notified when your opponent uses a power-up.\n\nВ КОМПАНИИ ДРУЗЕЙ: теперь Том, Анджела и Хэнк стреляют пузырями вместе с тобой.\nБУДЬ В КУРСЕ: получай уведомления, когда соперник использует усиления."
+          },
+          {
+            "version": "1.3.3",
+            "date": "2016-05-20",
+            "changes": "Fixed in-app purchase bug."
+          },
+          {
+            "version": "1.4",
+            "date": "2016-10-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.4.1",
+            "date": "2016-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.4.3",
+            "date": "2017-04-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.4.4",
+            "date": "2017-08-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.1",
+            "date": "2018-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.2",
+            "date": "2018-05-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.3",
+            "date": "2018-05-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2020-09-30"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2020-10-01"
+        }
+      }
     }
   ]
 }
