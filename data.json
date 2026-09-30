@@ -10549,6 +10549,1835 @@
           "removedDate": "2020-10-01"
         }
       }
+    },
+    {
+      "id": "talking-tom-gold-run-говорящий-том-бег-за-золотом",
+      "name": "Talking Tom Gold Run | Говорящий Том: бег за золотом",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2016-05-06",
+      "icon": "https://play-lh.googleusercontent.com/HympGTcpiPUnufrkfbRIdE6XoMvho7nAzvz-298nBWBzXD-ELedqBg0zoBanITrw7-yADZrQew1yOjAlYoBS=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1.556",
+            "date": "2016-05-10",
+            "versionCode": "4",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1.561",
+            "date": "2016-05-11",
+            "versionCode": "10",
+            "changes": ""
+          },
+          {
+            "version": "1.0.5.684",
+            "date": "2016-06-08",
+            "versionCode": "30",
+            "changes": "BEN'S WORLD: Build an expedition tent and go on an adventure quest with Talking Ben.\nPREMIUM DIAMOND VAULT: Are you up for cracking the diamond vault to get the amazing loot?\n\nМИР БЕНА: Постройте экспедиционную палатку и отправляйтесь в приключенческий квест с Говорящим Беном.\nПРЕМИАЛЬНЫЙ БРИЛЛИАНТОВЫЙ СЕЙФ: Вы хотите взломать бриллиантовое хранилище, чтобы получить потрясающее удовольствие?"
+          },
+          {
+            "version": "1.0.10.863",
+            "date": "2016-07-07",
+            "versionCode": "60",
+            "changes": "TOM’S SNOW RIDE: Take Frosty Tom on an adrenaline charged winter run.\nANGELA’S NIGHT OUT: Neon Angela is ready to run into a night full of surprises.\nHEAD START: Skip the slow start and rush into your run at high speed.\n\nСНЕЖНАЯ ГОНКА ТОМА: получи заряд адреналина на зимней пробежке с Морозным Томом.\nНОЧНОЙ ГОРОД АНДЖЕЛЫ: Неоновая Анджела готова пробежать по полному сюрпризов ночному городу.\nФОРА: пропусти медленный разбег и начни пробежку на всех парах."
+          },
+          {
+            "version": "1.0.11.879",
+            "date": "2016-07-12",
+            "versionCode": "70",
+            "changes": "TOM’S SNOW RIDE: Take Frosty Tom on an adrenaline charged winter run.\nANGELA’S NIGHT OUT: Neon Angela is ready to run into a night full of surprises.\nHEAD START: Skip the slow start and rush into your run at high speed.\n\nСНЕЖНАЯ ГОНКА ТОМА: получи заряд адреналина на зимней пробежке с Морозным Томом.\nНОЧНОЙ ГОРОД АНДЖЕЛЫ: Неоновая Анджела готова пробежать по полному сюрпризов ночному городу.\nФОРА: пропусти медленный разбег и начни пробежку на всех парах."
+          },
+          {
+            "version": "1.0.12.892",
+            "date": "2016-07-20",
+            "versionCode": "80",
+            "changes": "TOM’S SNOW RIDE: Take Frosty Tom on an adrenaline charged winter run.\nANGELA’S NIGHT OUT: Neon Angela is ready to run into a night full of surprises.\nHEAD START: Skip the slow start and rush into your run at high speed.\n\nСНЕЖНАЯ ГОНКА ТОМА: получи заряд адреналина на зимней пробежке с Морозным Томом.\nНОЧНОЙ ГОРОД АНДЖЕЛЫ: Неоновая Анджела готова пробежать по полному сюрпризов ночному городу.\nФОРА: пропусти медленный разбег и начни пробежку на всех парах."
+          },
+          {
+            "version": "1.1.0.109",
+            "date": "2016-09-02",
+            "versionCode": "110",
+            "changes": "SPECIAL CHARACTERS: Chase down the robber with the Talking Tom and Friends Police and Superheroes.\nDAILY MISSIONS: Complete quests, earn extra rewards and run to the top.\n\nОСОБЫЕ ГЕРОИ: беги за грабителем с Полицией и Супергероями Говорящего Тома и Друзей.\nЕЖЕДНЕВНЫЕ МИССИИ: выполняй задания, получай дополнительные награды и беги к вершине."
+          },
+          {
+            "version": "1.1.0.111",
+            "date": "2016-09-03",
+            "versionCode": "120",
+            "changes": "SPECIAL CHARACTERS: Chase down the robber with the Talking Tom and Friends Police and Superheroes.\nDAILY MISSIONS: Complete quests, earn extra rewards and run to the top.\n\nОСОБЫЕ ГЕРОИ: беги за грабителем с Полицией и Супергероями Говорящего Тома и Друзей.\nЕЖЕДНЕВНЫЕ МИССИИ: выполняй задания, получай дополнительные награды и беги к вершине."
+          },
+          {
+            "version": "1.1.1.116",
+            "date": "2016-09-05",
+            "versionCode": "130",
+            "changes": "SPECIAL CHARACTERS: Chase down the robber with the Talking Tom and Friends Police and Superheroes.\nDAILY MISSIONS: Complete quests, earn extra rewards and run to the top.\n\nОСОБЫЕ ГЕРОИ: беги за грабителем с Полицией и Супергероями Говорящего Тома и Друзей.\nЕЖЕДНЕВНЫЕ МИССИИ: выполняй задания, получай дополнительные награды и беги к вершине."
+          },
+          {
+            "version": "1.2.0.325",
+            "date": "2016-10-07",
+            "versionCode": "160",
+            "changes": "NEW BONUS LEVEL: If you run fast enough you can chase down the raccoon and get extra rewards.\nNEW SPECIAL CHARACTER: His Majesty, King Tom\nHALLOWEEN MISSIONS: Get ready for Halloween with new spooky missions!\n\nНОВЫЙ БОНУСНЫЙ УРОВЕНЬ: если ты побежишь быстро, то сможешь догнать енота и получить дополнительную награду.\nНОВЫЙ ОСОБЫЙ ГЕРОЙ: его величество Король Том.\nМИССИИ НА ХЭЛЛОУИН: подготовься к Хэллоуину, выполняя новые страшные миссии!"
+          },
+          {
+            "version": "1.2.1.333",
+            "date": "2016-10-10",
+            "versionCode": "170",
+            "changes": "NEW BONUS LEVEL: If you run fast enough you can chase down the raccoon and get extra rewards.\nNEW SPECIAL CHARACTER: His Majesty, King Tom\nHALLOWEEN MISSIONS: Get ready for Halloween with new spooky missions!\n\nНОВЫЙ БОНУСНЫЙ УРОВЕНЬ: если ты побежишь быстро, то сможешь догнать енота и получить дополнительную награду.\nНОВЫЙ ОСОБЫЙ ГЕРОЙ: его величество Король Том.\nМИССИИ НА ХЭЛЛОУИН: подготовься к Хэллоуину, выполняя новые страшные миссии!"
+          },
+          {
+            "version": "1.2.2.357",
+            "date": "2016-10-13",
+            "versionCode": "180",
+            "changes": "NEW BONUS LEVEL: If you run fast enough you can chase down the raccoon and get extra rewards.\nNEW SPECIAL CHARACTER: His Majesty, King Tom\nHALLOWEEN MISSIONS: Get ready for Halloween with new spooky missions!\n\nНОВЫЙ БОНУСНЫЙ УРОВЕНЬ: если ты побежишь быстро, то сможешь догнать енота и получить дополнительную награду.\nНОВЫЙ ОСОБЫЙ ГЕРОЙ: его величество Король Том.\nМИССИИ НА ХЭЛЛОУИН: подготовься к Хэллоуину, выполняя новые страшные миссии!"
+          },
+          {
+            "version": "1.2.2.360",
+            "date": "2016-10-20",
+            "versionCode": "190",
+            "changes": "NEW BONUS LEVEL: If you run fast enough you can chase down the raccoon and get extra rewards.\nNEW SPECIAL CHARACTER: His Majesty, King Tom\nHALLOWEEN MISSIONS: Get ready for Halloween with new spooky missions!\n\nНОВЫЙ БОНУСНЫЙ УРОВЕНЬ: если ты побежишь быстро, то сможешь догнать енота и получить дополнительную награду.\nНОВЫЙ ОСОБЫЙ ГЕРОЙ: его величество Король Том.\nМИССИИ НА ХЭЛЛОУИН: подготовься к Хэллоуину, выполняя новые страшные миссии!"
+          },
+          {
+            "version": "1.3.0.522",
+            "date": "2016-11-18",
+            "versionCode": "200",
+            "changes": "WINTER WONDERLAND: Winter has come to Tom’s World. Celebrate the holidays in style!\nNEW SPECIAL CHARACTERS: Hyper Tom and Cyber Angela are ready for action.\nNEW DAILY MISSIONS: Daily missions redesign with bigger rewards for daily players.\n\nЗИМНЯЯ СКАЗКА: в Мир Тома пришла зима.\nНОВЫЕ ОСОБЫЕ ГЕРОИ: Гипер-Том и Кибер-Анджела готовы действовать!\nНОВЫЕ ЕЖЕДНЕВНЫЕ МИССИИ: редизайн ежедневных миссий с увеличенными наградами для тех, кто играет каждый день."
+          },
+          {
+            "version": "1.3.5.570",
+            "date": "2016-11-29",
+            "versionCode": "210",
+            "changes": "WINTER WONDERLAND: Winter has come to Tom’s World. Celebrate the holidays in style!\nNEW SPECIAL CHARACTERS: Hyper Tom and Cyber Angela are ready for action.\nNEW DAILY MISSIONS: Daily missions redesign with bigger rewards for daily players.\n\nЗИМНЯЯ СКАЗКА: в Мир Тома пришла зима.\nНОВЫЕ ОСОБЫЕ ГЕРОИ: Гипер-Том и Кибер-Анджела готовы действовать!\nНОВЫЕ ЕЖЕДНЕВНЫЕ МИССИИ: редизайн ежедневных миссий с увеличенными наградами для тех, кто играет каждый день."
+          },
+          {
+            "version": "1.4.0.665",
+            "date": "2017-01-06",
+            "versionCode": "220",
+            "changes": "TOM CELEBRATES IN CHINA: Party with Talking Tom at one of the biggest celebrations in China!\nNEW SPECIAL MISSIONS: Collect special Chinese themed items to complete the new daily missions.\nNEW PREMIUM SUBSCRIPTION: Get the new premium membership to access the exclusive character, Agent Tom, and enjoy an exciting variety of special offers.\n\nТОМ ПРАЗДНУЕТ В КИТАЕ: повеселись с Говорящим Томом на одном из самых крупных праздников Китая!\nНОВЫЕ ОСОБЫЕ МИССИИ: собирай особые предметы китайской тематики, чтобы завершить новые ежедневные миссии.\nНОВАЯ ПРЕМИУМ-ПОДПИСКА: подпишись и получи доступ к эксклюзивному герою – Спецагенту Тому – и множеству потрясающих спецпредложений."
+          },
+          {
+            "version": "1.4.1.674",
+            "date": "2017-01-11",
+            "versionCode": "230",
+            "changes": "TOM CELEBRATES IN CHINA: Party with Talking Tom at one of the biggest celebrations in China!\nNEW SPECIAL MISSIONS: Collect special Chinese themed items to complete the new daily missions.\nNEW PREMIUM SUBSCRIPTION: Get the new premium membership to access the exclusive character, Agent Tom, and enjoy an exciting variety of special offers.\n\nТОМ ПРАЗДНУЕТ В КИТАЕ: повеселись с Говорящим Томом на одном из самых крупных праздников Китая!\nНОВЫЕ ОСОБЫЕ МИССИИ: собирай особые предметы китайской тематики, чтобы завершить новые ежедневные миссии.\nНОВАЯ ПРЕМИУМ-ПОДПИСКА: подпишись и получи доступ к эксклюзивному герою – Спецагенту Тому – и множеству потрясающих спецпредложений."
+          },
+          {
+            "version": "1.4.3.683",
+            "date": "2017-02-03",
+            "versionCode": "240",
+            "changes": "TOM CELEBRATES IN CHINA: Party with Talking Tom at one of the biggest celebrations in China!\nNEW SPECIAL MISSIONS: Collect special Chinese themed items to complete the new daily missions.\nNEW PREMIUM SUBSCRIPTION: Get the new premium membership to access the exclusive character, Agent Tom, and enjoy an exciting variety of special offers.\n\nТОМ ПРАЗДНУЕТ В КИТАЕ: повеселись с Говорящим Томом на одном из самых крупных праздников Китая!\nНОВЫЕ ОСОБЫЕ МИССИИ: собирай особые предметы китайской тематики, чтобы завершить новые ежедневные миссии.\nНОВАЯ ПРЕМИУМ-ПОДПИСКА: подпишись и получи доступ к эксклюзивному герою – Спецагенту Тому – и множеству потрясающих спецпредложений."
+          },
+          {
+            "version": "1.5.0.634",
+            "date": "2017-02-13",
+            "versionCode": "250",
+            "changes": "NEW WORLD - HANK ON HAWAII!\nTry out the new running world on Hawaii with Hawaiian Hank!\nNEON LIGHTS AND CITY SIGHTS!\nJoin Talking Tom and run together with him in fabulous Las Vegas!\nRUN FAST WITH COWBOY TOM\nYeehaw, a new special character awaits! Run together with Cowboy Tom into the sunset!\n\nНОВЫЙ МИР – ХЭНК НА ГАВАЙЯХ!\nПробегись по новому гавайскому миру с Гавайским Хэнком!\nНЕОНОВЫЕ ВЫВЕСКИ И ДОСТОПРИМЕЧАТЕЛЬНОСТИ!\nПробегись вместе с Говорящим Томом по роскошному Лас-Вегасу!\nБЕГИ СКОРЕЙ С КОВБОЕМ ТОМОМ\nИииииха! Тебя ждёт новый особый герой! Убеги в закат вместе с Ковбоем Томом!"
+          },
+          {
+            "version": "1.5.1.648",
+            "date": "2017-02-15",
+            "versionCode": "260",
+            "changes": "NEW WORLD - HANK ON HAWAII!\nTry out the new running world on Hawaii with Hawaiian Hank!\nNEON LIGHTS AND CITY SIGHTS!\nJoin Talking Tom and run together with him in fabulous Las Vegas!\nRUN FAST WITH COWBOY TOM\nYeehaw, a new special character awaits! Run together with Cowboy Tom into the sunset!\n\nНОВЫЙ МИР – ХЭНК НА ГАВАЙЯХ!\nПробегись по новому гавайскому миру с Гавайским Хэнком!\nНЕОНОВЫЕ ВЫВЕСКИ И ДОСТОПРИМЕЧАТЕЛЬНОСТИ!\nПробегись вместе с Говорящим Томом по роскошному Лас-Вегасу!\nБЕГИ СКОРЕЙ С КОВБОЕМ ТОМОМ\nИииииха! Тебя ждёт новый особый герой! Убеги в закат вместе с Ковбоем Томом!"
+          },
+          {
+            "version": "1.5.2.668",
+            "date": "2017-02-20",
+            "versionCode": "270",
+            "changes": "NEW WORLD - HANK ON HAWAII!\nTry out the new running world on Hawaii with Hawaiian Hank!\nNEON LIGHTS AND CITY SIGHTS!\nJoin Talking Tom and run together with him in fabulous Las Vegas!\nRUN FAST WITH COWBOY TOM\nYeehaw, a new special character awaits! Run together with Cowboy Tom into the sunset!\n\nНОВЫЙ МИР – ХЭНК НА ГАВАЙЯХ!\nПробегись по новому гавайскому миру с Гавайским Хэнком!\nНЕОНОВЫЕ ВЫВЕСКИ И ДОСТОПРИМЕЧАТЕЛЬНОСТИ!\nПробегись вместе с Говорящим Томом по роскошному Лас-Вегасу!\nБЕГИ СКОРЕЙ С КОВБОЕМ ТОМОМ\nИииииха! Тебя ждёт новый особый герой! Убеги в закат вместе с Ковбоем Томом!"
+          },
+          {
+            "version": "1.6.0.46",
+            "date": "2017-03-10",
+            "versionCode": "280",
+            "changes": "WILD WEST: Join the run with Talking Tom and have a true frontier experience.\nWILD NEW MISSIONS: Complete all the exciting new missions and become a Wild West legend.\n\nДИКИЙ ЗАПАД: пробегись с Говорящим Томом по настоящему американскому Дикому Западу.\nНОВЫЕ «ДИКИЕ» МИССИИ: заверши все захватывающие миссии и стань легендой Дикого Запада."
+          },
+          {
+            "version": "1.7.0.826",
+            "date": "2017-04-07",
+            "versionCode": "290",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.7.1.834",
+            "date": "2017-04-11",
+            "versionCode": "300",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.7.2.838",
+            "date": "2017-04-12",
+            "versionCode": "310",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.7.3.841",
+            "date": "2017-04-13",
+            "versionCode": "320",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.7.3.842",
+            "date": "2017-04-13",
+            "versionCode": "330",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.7.4.850",
+            "date": "2017-04-19",
+            "versionCode": "340",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.8.0.1053",
+            "date": "2017-06-27",
+            "versionCode": "360",
+            "changes": "RACING CONTEST: Beat two competitors and win the gold.\nPIRATE GINGER: Say arrr to the new character.\nSIDE WORLDS: Zigzag through the medieval side world.\n\nГОНКА: победи двоих соперников и выиграй золото.\nПИРАТ ДЖИНДЖЕР: скажи «аррр» новому герою.\nБОКОВЫЕ МИРЫ: пробегись зигзагом через средневековый боковой мир."
+          },
+          {
+            "version": "1.8.1.1065",
+            "date": "2017-06-29",
+            "versionCode": "370",
+            "changes": "RACING CONTEST: Beat two competitors and win the gold.\nPIRATE GINGER: Say arrr to the new character.\nSIDE WORLDS: Zigzag through the medieval side world.\n\nГОНКА: победи двоих соперников и выиграй золото.\nПИРАТ ДЖИНДЖЕР: скажи «аррр» новому герою.\nБОКОВЫЕ МИРЫ: пробегись зигзагом через средневековый боковой мир."
+          },
+          {
+            "version": "1.8.2.1069",
+            "date": "2017-06-30",
+            "versionCode": "380",
+            "changes": "RACING CONTEST: Beat two competitors and win the gold.\nPIRATE GINGER: Say arrr to the new character.\nSIDE WORLDS: Zigzag through the medieval side world.\n\nГОНКА: победи двоих соперников и выиграй золото.\nПИРАТ ДЖИНДЖЕР: скажи «аррр» новому герою.\nБОКОВЫЕ МИРЫ: пробегись зигзагом через средневековый боковой мир."
+          },
+          {
+            "version": "1.9.0.1134",
+            "date": "2017-07-19",
+            "versionCode": "390",
+            "changes": "COWBOY ANGELA: Run the robber out of town!\nNEW SIDE WORLD: Be the best in the Wild West!\nWILD WEST MISSIONS: Kick up some desert dust!\n\nКОВБОЙ АНДЖЕЛА: выгони грабителя из города!\nНОВЫЙ БОКОВОЙ МИР: стань лучше всех на Диком Западе!\nМИССИИ НА ДИКОМ ЗАПАДЕ: разгони пустынную пыль!"
+          },
+          {
+            "version": "2.0.0.1275",
+            "date": "2017-08-25",
+            "versionCode": "410",
+            "changes": "FIREMAN TOM: Faster than a fire blaze.\nDAILY CONTEST: Every day a new chance for a big reward!\nSIDE WORLD: Catch your destiny in Cyber City!\n\nПОЖАРНЫЙ ТОМ: Быстрее огненного пламени.\nЕЖЕДНЕВНЫЙ КОНКУРС: Каждый день новый шанс на крупный выигрыш.\nБОКОВОЙ МИР: Поймай свою судьбу в Кибер-городе!"
+          },
+          {
+            "version": "2.0.1.1282",
+            "date": "2017-08-28",
+            "versionCode": "420",
+            "changes": "FIREMAN TOM: Faster than a fire blaze.\nDAILY CONTEST: Every day a new chance for a big reward!\nSIDE WORLD: Catch your destiny in Cyber City!\n\nПОЖАРНЫЙ ТОМ: Быстрее огненного пламени.\nЕЖЕДНЕВНЫЙ КОНКУРС: Каждый день новый шанс на крупный выигрыш.\nБОКОВОЙ МИР: Поймай свою судьбу в Кибер-городе!"
+          },
+          {
+            "version": "2.1.0.1384",
+            "date": "2017-10-02",
+            "versionCode": "430, 440",
+            "changes": "NEW CHARACTER: Scare the robber away with Zombie Ben!\nHALLOWEEN: Tom’s world gets spooky.\nNEW SIDE WORLD: Sugar rush in Candy World.\n\nНОВЫЙ ГЕРОЙ: Зомби Бен поможет отпугнуть грабителя!\nХЭЛЛОУИН: в мире Тома становится страшновато.\nНОВЫЙ БОКОВОЙ МИР: сахарный марафон в Мире Сладостей."
+          },
+          {
+            "version": "2.1.0.1394",
+            "date": "2017-10-02",
+            "versionCode": "450",
+            "changes": "NEW CHARACTER: Scare the robber away with Zombie Ben!\nHALLOWEEN: Tom’s world gets spooky.\nNEW SIDE WORLD: Sugar rush in Candy World.\n\nНОВЫЙ ГЕРОЙ: Зомби Бен поможет отпугнуть грабителя!\nХЭЛЛОУИН: в мире Тома становится страшновато.\nНОВЫЙ БОКОВОЙ МИР: сахарный марафон в Мире Сладостей."
+          },
+          {
+            "version": "2.1.0.1398",
+            "date": "2017-10-03",
+            "versionCode": "460",
+            "changes": "NEW CHARACTER: Scare the robber away with Zombie Ben!\nHALLOWEEN: Tom’s world gets spooky.\nNEW SIDE WORLD: Sugar rush in Candy World.\n\nНОВЫЙ ГЕРОЙ: Зомби Бен поможет отпугнуть грабителя!\nХЭЛЛОУИН: в мире Тома становится страшновато.\nНОВЫЙ БОКОВОЙ МИР: сахарный марафон в Мире Сладостей."
+          },
+          {
+            "version": "2.1.1.1402",
+            "date": "2017-10-04",
+            "versionCode": "470",
+            "changes": "NEW CHARACTER: Scare the robber away with Zombie Ben!\nHALLOWEEN: Tom’s world gets spooky.\nNEW SIDE WORLD: Sugar rush in Candy World.\n\nНОВЫЙ ГЕРОЙ: Зомби Бен поможет отпугнуть грабителя!\nХЭЛЛОУИН: в мире Тома становится страшновато.\nНОВЫЙ БОКОВОЙ МИР: сахарный марафон в Мире Сладостей."
+          },
+          {
+            "version": "2.2.0.1519",
+            "date": "2017-11-10",
+            "versionCode": "490",
+            "changes": "SPLASHY TOM: Make a splash and catch the robber!\nSIDE WORLD: Splash and dash through the Water Park.\n\nВОДНЫЙ ТОМ: будь на волне и поймай грабителя!\nБОКОВОЙ МИР: плещись и рассекай волны по аквапарку."
+          },
+          {
+            "version": "2.2.1.1533",
+            "date": "2017-11-13",
+            "versionCode": "500",
+            "changes": "SPLASHY TOM: Make a splash and catch the robber!\nSIDE WORLD: Splash and dash through the Water Park.\n\nВОДНЫЙ ТОМ: будь на волне и поймай грабителя!\nБОКОВОЙ МИР: плещись и рассекай волны по аквапарку."
+          },
+          {
+            "version": "2.2.2.1539",
+            "date": "2017-11-14",
+            "versionCode": "510",
+            "changes": "SPLASHY TOM: Make a splash and catch the robber!\nSIDE WORLD: Splash and dash through the Water Park.\n\nВОДНЫЙ ТОМ: будь на волне и поймай грабителя!\nБОКОВОЙ МИР: плещись и рассекай волны по аквапарку."
+          },
+          {
+            "version": "2.3.0.1601",
+            "date": "2017-11-24",
+            "versionCode": "520",
+            "changes": "SANTA’S VILLAGE: Celebrate in the charming Santa’s Village.\nHOLIDAY MAKEOVER: Tom’s default world gets Christmas goodies.\n\nДЕРЕВНЯ САНТЫ: отпразднуй Рождество в очаровательной деревне Санты.\nПРАЗДНИЧНАЯ ОБСТАНОВКА: рождественские предметы в стандартном мире Тома."
+          },
+          {
+            "version": "2.3.1.1611",
+            "date": "2017-11-24",
+            "versionCode": "530",
+            "changes": "SANTA’S VILLAGE: Celebrate in the charming Santa’s Village.\nHOLIDAY MAKEOVER: Tom’s default world gets Christmas goodies.\n\nДЕРЕВНЯ САНТЫ: отпразднуй Рождество в очаровательной деревне Санты.\nПРАЗДНИЧНАЯ ОБСТАНОВКА: рождественские предметы в стандартном мире Тома."
+          },
+          {
+            "version": "2.3.2.1617",
+            "date": "2017-11-27",
+            "versionCode": "540",
+            "changes": "SANTA’S VILLAGE: Celebrate in the charming Santa’s Village.\nHOLIDAY MAKEOVER: Tom’s default world gets Christmas goodies.\n\nДЕРЕВНЯ САНТЫ: отпразднуй Рождество в очаровательной деревне Санты.\nПРАЗДНИЧНАЯ ОБСТАНОВКА: рождественские предметы в стандартном мире Тома."
+          },
+          {
+            "version": "2.3.3.1625",
+            "date": "2017-11-29",
+            "versionCode": "550",
+            "changes": "SANTA’S VILLAGE: Celebrate in the charming Santa’s Village.\nHOLIDAY MAKEOVER: Tom’s default world gets Christmas goodies.\n\nДЕРЕВНЯ САНТЫ: отпразднуй Рождество в очаровательной деревне Санты.\nПРАЗДНИЧНАЯ ОБСТАНОВКА: рождественские предметы в стандартном мире Тома."
+          },
+          {
+            "version": "2.4.0.19",
+            "date": "2018-01-25",
+            "versionCode": "560",
+            "changes": "KUNG FU HANK: Don’t let anything stop you!\nSNOWBOARDING: Race down the hill and through the halfpipe on a snowboard.\nCHINESE CELEBRATION: Get ready to party in Tom’s default world!\n\nКУНГ-ФУ ХЭНК: пусть тебя ничто не остановит!\nСНОУБОРД: прокатись на сноуборде по холму и через хафпайп.\nКИТАЙСКИЙ ПРАЗДНИК: приготовься праздновать в мире Тома по умолчанию!"
+          },
+          {
+            "version": "2.5.0.29",
+            "date": "2018-02-15",
+            "versionCode": "570",
+            "changes": "PRINCESS ANGELA: Shine brighter than gold with this brand new character!\nMEDIEVAL WORLD: Swoosh and whoosh around the winding streets of Medieval Town.\n\nПРИНЦЕССА АНДЖЕЛА: с этим новым героем ты засияешь ярче золота!\nМИР СРЕДНЕВЕКОВЬЯ: пробегись по извилистым улочкам средневекового города."
+          },
+          {
+            "version": "2.5.1.39",
+            "date": "2018-02-19",
+            "versionCode": "580",
+            "changes": "PRINCESS ANGELA: Shine brighter than gold with this brand new character!\nMEDIEVAL WORLD: Swoosh and whoosh around the winding streets of Medieval Town.\n\nПРИНЦЕССА АНДЖЕЛА: с этим новым героем ты засияешь ярче золота!\nМИР СРЕДНЕВЕКОВЬЯ: пробегись по извилистым улочкам средневекового города."
+          },
+          {
+            "version": "2.5.2.46",
+            "date": "2018-02-27",
+            "versionCode": "590",
+            "changes": "PRINCESS ANGELA: Shine brighter than gold with this brand new character!\nMEDIEVAL WORLD: Swoosh and whoosh around the winding streets of Medieval Town.\n\nПРИНЦЕССА АНДЖЕЛА: с этим новым героем ты засияешь ярче золота!\nМИР СРЕДНЕВЕКОВЬЯ: пробегись по извилистым улочкам средневекового города."
+          },
+          {
+            "version": "2.5.3.58",
+            "date": "2018-03-14",
+            "versionCode": "600",
+            "changes": ""
+          },
+          {
+            "version": "2.6.0.6",
+            "date": "2018-04-02",
+            "versionCode": "610",
+            "changes": "ASTRONAUT TOM: Reach for the stars and go for the gold!\nWACKY PLANET: Explore the wonders of this brand new side world!\nNEW RACING CHALLENGE: Collect water to win!\n\nКОСМОНАВТ ТОМ: тянись к звёздам и беги за золотом!\nЧУДНАЯ ПЛАНЕТА: исследуй чудеса этого нового бокового мира!\nНОВОЕ ИСПЫТАНИЕ: собирай воду, чтобы выиграть!"
+          },
+          {
+            "version": "2.6.1.11",
+            "date": "2018-04-04",
+            "versionCode": "620",
+            "changes": "ASTRONAUT TOM: Reach for the stars and go for the gold!\nWACKY PLANET: Explore the wonders of this brand new side world!\nNEW RACING CHALLENGE: Collect water to win!\n\nКОСМОНАВТ ТОМ: тянись к звёздам и беги за золотом!\nЧУДНАЯ ПЛАНЕТА: исследуй чудеса этого нового бокового мира!\nНОВОЕ ИСПЫТАНИЕ: собирай воду, чтобы выиграть!"
+          },
+          {
+            "version": "2.6.2.17",
+            "date": "2018-04-10",
+            "versionCode": "630",
+            "changes": "ASTRONAUT TOM: Reach for the stars and go for the gold!\nWACKY PLANET: Explore the wonders of this brand new side world!\nNEW RACING CHALLENGE: Collect water to win!\n\nКОСМОНАВТ ТОМ: тянись к звёздам и беги за золотом!\nЧУДНАЯ ПЛАНЕТА: исследуй чудеса этого нового бокового мира!\nНОВОЕ ИСПЫТАНИЕ: собирай воду, чтобы выиграть!"
+          },
+          {
+            "version": "2.6.5.40",
+            "date": "2018-04-23",
+            "versionCode": "640",
+            "changes": "WILD WEST: Explore this desert side world.\nCOWBOY MISSIONS: Don’t miss the Wild West pick-ups!\n\nДИКИЙ ЗАПАД: Исследуй этот пустынный боковой мир.\nКОВБОЙСКИЕ МИССИИ: Не пропусти предметы с Дикого запада"
+          },
+          {
+            "version": "2.7.0.73",
+            "date": "2018-05-18",
+            "versionCode": "650",
+            "changes": "FOOTBALL TOM: Grab the chance to be a champion!\nNEW CHALLENGE: Score goals to win rewards!\nFOOTBALL IN TOM’S WORLD: Football frenzy takes over Tom’s running world!\n\nТОМ-ФУТБОЛИСТ: воспользуйся шансом стать чемпионом!\nНОВОЕ ИСПЫТАНИЕ :забивай голы, чтобы выиграть награды!\nФУТБОЛЬНАЯ ЛИХОРАДКА В МИРЕ ТОМА: мир бега Тома охватывает футбольная лихорадка!"
+          },
+          {
+            "version": "2.7.1.77",
+            "date": "2018-05-22",
+            "versionCode": "660",
+            "changes": "FOOTBALL TOM: Grab the chance to be a champion!\nNEW CHALLENGE: Score goals to win rewards!\nFOOTBALL IN TOM’S WORLD: Football frenzy takes over Tom’s running world!\n\nТОМ-ФУТБОЛИСТ: воспользуйся шансом стать чемпионом!\nНОВОЕ ИСПЫТАНИЕ :забивай голы, чтобы выиграть награды!\nФУТБОЛЬНАЯ ЛИХОРАДКА В МИРЕ ТОМА: мир бега Тома охватывает футбольная лихорадка!"
+          },
+          {
+            "version": "2.7.2.80",
+            "date": "2018-05-24",
+            "versionCode": "670",
+            "changes": "FOOTBALL TOM: Grab the chance to be a champion!\nNEW CHALLENGE: Score goals to win rewards!\nFOOTBALL IN TOM’S WORLD: Football frenzy takes over Tom’s running world!\n\nТОМ-ФУТБОЛИСТ: воспользуйся шансом стать чемпионом!\nНОВОЕ ИСПЫТАНИЕ :забивай голы, чтобы выиграть награды!\nФУТБОЛЬНАЯ ЛИХОРАДКА В МИРЕ ТОМА: мир бега Тома охватывает футбольная лихорадка!"
+          },
+          {
+            "version": "2.7.5.25",
+            "date": "2018-06-12",
+            "versionCode": "680",
+            "changes": "CYBER CITY: Explore the shiny streets of this futuristic side world.\nFUTURISTIC MISSIONS: Pick up sci-fi props as you race to finish the new daily missions!\n\nКИБЕР-ГОРОД: Исследуй сияющие улицы этого футуристического бокового мира.\nФУТУРИСТИЧЕСКИЕ МИССИИ: подбирай футуристические предметы в новых ежедневных миссиях!"
+          },
+          {
+            "version": "2.7.6.39",
+            "date": "2018-06-28",
+            "versionCode": "690",
+            "changes": "CYBER CITY: Explore the shiny streets of this futuristic side world.\nFUTURISTIC MISSIONS: Pick up sci-fi props as you race to finish the new daily missions!\n\nКИБЕР-ГОРОД: Исследуй сияющие улицы этого футуристического бокового мира.\nФУТУРИСТИЧЕСКИЕ МИССИИ: подбирай футуристические предметы в новых ежедневных миссиях!"
+          },
+          {
+            "version": "2.8.0.49",
+            "date": "2018-07-10",
+            "versionCode": "700",
+            "changes": "BOSS FIGHT: Take down the robber and claim your gold!\nIRON BEN: Switch to superhero mode!\nWEEKLY RACING: Want cool rewards? Race to the top of the leaderboard!\n\nДРАКА С БОССОМ: победи грабителя и верни своё золото!\nЖЕЛЕЗНЫЙ БЕН: переключись в режим супергероя!\nЕЖЕНЕДЕЛЬНАЯ ГОНКА: хочешь классные награды? Заберись на вершину таблицы рекордов!"
+          },
+          {
+            "version": "2.8.1.53",
+            "date": "2018-07-12",
+            "versionCode": "710",
+            "changes": "BOSS FIGHT: Take down the robber and claim your gold!\nIRON BEN: Switch to superhero mode!\nWEEKLY RACING: Want cool rewards? Race to the top of the leaderboard!\n\nДРАКА С БОССОМ: победи грабителя и верни своё золото!\nЖЕЛЕЗНЫЙ БЕН: переключись в режим супергероя!\nЕЖЕНЕДЕЛЬНАЯ ГОНКА: хочешь классные награды? Заберись на вершину таблицы рекордов!"
+          },
+          {
+            "version": "2.8.2.59",
+            "date": "2018-07-13",
+            "versionCode": "720",
+            "changes": "BOSS FIGHT: Take down the robber and claim your gold!\nIRON BEN: Switch to superhero mode!\nWEEKLY RACING: Want cool rewards? Race to the top of the leaderboard!\n\nДРАКА С БОССОМ: победи грабителя и верни своё золото!\nЖЕЛЕЗНЫЙ БЕН: переключись в режим супергероя!\nЕЖЕНЕДЕЛЬНАЯ ГОНКА: хочешь классные награды? Заберись на вершину таблицы рекордов!"
+          },
+          {
+            "version": "2.8.3.67",
+            "date": "2018-07-31",
+            "versionCode": "730",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.0.94",
+            "date": "2018-08-24",
+            "versionCode": "740",
+            "changes": "NEW SIDE WORLD: Cruise through with cool skateboard moves!\nSKATER ANGELA: Own the street in style!\nCHINESE MOON FESTIVAL: Have fun with the new pick-ups and decorations!\n\nНОВЫЙ БОКОВОЙ МИР: поезжай по нему и покажи классные трюки!\nСКЕЙТЕР АНДЖЕЛА: прокатись по улице стильно!\nКИТАЙСКИЙ ЛУННЫЙ ФЕСТИВАЛЬ: веселись с новыми предметами для коллекционирования и декорациями!"
+          },
+          {
+            "version": "2.9.5.122",
+            "date": "2018-10-04",
+            "versionCode": "750",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "2.9.6.127",
+            "date": "2018-10-05",
+            "versionCode": "760",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "2.9.7.135",
+            "date": "2018-10-17",
+            "versionCode": "770",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "2.9.8.137",
+            "date": "2018-10-22",
+            "versionCode": "780",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "3.0.0.152",
+            "date": "2018-11-12",
+            "versionCode": "790",
+            "changes": "NEW RUNNING WORLD: Explore the beautiful fields of Ginger’s Farm!\nNEW FARM PICK-UPS: Try to find them all!\n\nНОВЫЙ МИР ДЛЯ БЕГА: Исследуй ферму Джинджера!\nИЩИ И СОБИРАЙ новые предметы на ферме!"
+          },
+          {
+            "version": "3.0.4.158",
+            "date": "2018-11-30",
+            "versionCode": "800",
+            "changes": "NEW RUNNING WORLD: Explore the beautiful fields of Ginger’s Farm!\nNEW FARM PICK-UPS: Try to find them all!\n\nНОВЫЙ МИР ДЛЯ БЕГА: Исследуй ферму Джинджера!\nИЩИ И СОБИРАЙ новые предметы на ферме!"
+          },
+          {
+            "version": "3.1.0.171",
+            "date": "2018-12-06",
+            "versionCode": "810",
+            "changes": "HAPPY HOLIDAYS: Celebrate with Santa Tom!\nSNOWBOARD WORLD: Hit the slopes!\nCHRISTMAS TOWN: Feel the holiday magic!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ: празднуй с Санта-Томом!\nМИР СНОУБОРДА: прокатись по склонам!\nРОЖДЕСТВЕНСКИЙ ГОРОДОК: почувствуй праздничное волшебство!"
+          },
+          {
+            "version": "3.2.0.201",
+            "date": "2019-01-08",
+            "versionCode": "820",
+            "changes": "FLYING SIDE WORLD: Join the sky chase!\nSNOWBOARD WORLD: Don’t miss the winter fun!\nGENERAL TOM: A new fearless runner!\n\nБОКОВОЙ МИР ПОЛЁТА: начни погоню в небесах!\nМИР СНОУБОРДА: не пропусти зимнее веселье!\nГЕНЕРАЛ ТОМ: новый бесстрашный бегун!"
+          },
+          {
+            "version": "3.3.0.227",
+            "date": "2019-02-15",
+            "versionCode": "830",
+            "changes": "BRAND NEW TIME-LIMITED EVENTS: Stay tuned and watch out for unique events!\nWIN BIG: Play events and collect amazing rewards!\nCYBER CITY WORLD: Run into the future!\n\nНОВЫЕ ОГРАНИЧЕННЫЕ ПО ВРЕМЕНИ МЕРОПРИЯТИЯ: жди новостей и не пропусти уникальные мероприятия!\nВЫИГРЫВАЙ ПО-КРУПНОМУ: участвуй в мероприятиях и собирай потрясающие награды!\nМИР КИБЕР-ГОРОДА: беги в будущее!"
+          },
+          {
+            "version": "3.3.1.234",
+            "date": "2019-02-19",
+            "versionCode": "840",
+            "changes": "BRAND NEW TIME-LIMITED EVENTS: Stay tuned and watch out for unique events!\nWIN BIG: Play events and collect amazing rewards!\nCYBER CITY WORLD: Run into the future!\n\nНОВЫЕ ОГРАНИЧЕННЫЕ ПО ВРЕМЕНИ МЕРОПРИЯТИЯ: жди новостей и не пропусти уникальные мероприятия!\nВЫИГРЫВАЙ ПО-КРУПНОМУ: участвуй в мероприятиях и собирай потрясающие награды!\nМИР КИБЕР-ГОРОДА: беги в будущее!"
+          },
+          {
+            "version": "3.3.3.250",
+            "date": "2019-03-04",
+            "versionCode": "850",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.0.273",
+            "date": "2019-03-22",
+            "versionCode": "860",
+            "changes": "NEW MINING CART RIDE: Go on a crazy Wild West journey!\nSUPER GINGER: A new superhero’s in town!\nCOWBOY MISSIONS: Don’t miss the Wild West pick-ups!\n\nНОВАЯ ПОЕЗДКА НА ВАГОНЕТКЕ: отправься в безумное путешествие на Диком Западе!\nСУПЕР ДЖИНДЖЕР: в городе новый супергерой!\nКОВБОЙСКИЕ МИССИИ: не пропусти предметы с Дикого запада!"
+          },
+          {
+            "version": "3.4.1.278",
+            "date": "2019-03-25",
+            "versionCode": "870",
+            "changes": "NEW MINING CART RIDE: Go on a crazy Wild West journey!\nSUPER GINGER: A new superhero’s in town!\nCOWBOY MISSIONS: Don’t miss the Wild West pick-ups!\n\nНОВАЯ ПОЕЗДКА НА ВАГОНЕТКЕ: отправься в безумное путешествие на Диком Западе!\nСУПЕР ДЖИНДЖЕР: в городе новый супергерой!\nКОВБОЙСКИЕ МИССИИ: не пропусти предметы с Дикого запада!"
+          },
+          {
+            "version": "3.5.0.304",
+            "date": "2019-05-06",
+            "versionCode": "880",
+            "changes": "THE SKATEBOARD’S BACK! Own the streets in style on your skateboard!\nDAILY DEALS: Don’t miss out on awesome daily deals!\nSKATEBOARD MISSIONS: Collect skateboard pick-ups!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ! Прокатись по улицам стильно!\nЕЖЕДНЕВНЫЕ ПРЕДЛОЖЕНИЯ: не пропусти классные ежедневные предложения!\nМИССИИ НА СКЕЙТЕ: Собирай скейтерские предметы!"
+          },
+          {
+            "version": "3.5.1.322",
+            "date": "2019-05-09",
+            "versionCode": "890",
+            "changes": "THE SKATEBOARD’S BACK! Own the streets in style on your skateboard!\nDAILY DEALS: Don’t miss out on awesome daily deals!\nSKATEBOARD MISSIONS: Collect skateboard pick-ups!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ! Прокатись по улицам стильно!\nЕЖЕДНЕВНЫЕ ПРЕДЛОЖЕНИЯ: не пропусти классные ежедневные предложения!\nМИССИИ НА СКЕЙТЕ: Собирай скейтерские предметы!"
+          },
+          {
+            "version": "3.6.0.347",
+            "date": "2019-06-17",
+            "versionCode": "900",
+            "changes": "UNDERSEA SIDE WORLD: Chase the raccoon underwater!\nNEW CHARACTER: Would you dare to swim with Shark Hank!\nUNDERWATER MISSIONS: Dive deep for undersea pick-ups!\n\nПОДВОДНЫЙ БОКОВОЙ МИР: гонись за енотом под водой!\nНОВЫЙ ГЕРОЙ: поплавай с Акулой-Хэнком!\nПОДВОДНЫЕ МИССИИ: ныряй глубоко, чтобы собрать подводные предметы!"
+          },
+          {
+            "version": "3.7.0.359",
+            "date": "2019-07-25",
+            "versionCode": "910",
+            "changes": "SWIM, FLY AND SKATE - Discover three amazing side worlds!\nFly the magic carpet plane with Genie Angela!\n\nПЛАВАЙ, ЛЕТАЙ И КАТАЙСЯ! - Открой три потрясающих боковых мира!\nЛЕТАЙ на волшебном ковре-самолёте с Джинном Анджелой!"
+          },
+          {
+            "version": "3.8.0.395",
+            "date": "2019-09-12",
+            "versionCode": "920",
+            "changes": "RUN AND CELEBRATE! China comes to Tom’s world!\nExplore three side worlds: Skating, flying and Wild West!\n\nБЕГИ И ПРАЗДНУЙ! В мир Тома приходит Китай!\nИсследуй три боковых мира: мир катания, полёта и Дикого Запада!"
+          },
+          {
+            "version": "3.9.0.425",
+            "date": "2019-10-18",
+            "versionCode": "930",
+            "changes": "EXPLORE THREE SIDE WORLDS! Skating, Wacky Planet and Wild West!\nCollect pumpkins and get Halloween treats!\nUnlock the secret legend of Mummy Tom!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА! Скейтинг, Чудная Планета и Дикий Запад!\nСобирай тыквы и получай сладости на Хэллоуин!\nОткрой секрет Тома-мумии!"
+          },
+          {
+            "version": "4.0.0.477",
+            "date": "2019-11-27",
+            "versionCode": "940",
+            "changes": "NEW LOST CITY WORLD! Go on an ancient running adventure!\nCelebrate good fortune with Lucky Angela!\nEnjoy winter in Snowboard World and Santa’s Village!\n\nНОВЫЙ МИР ПОТЕРЯННОГО ГОРОДА! Отправься бегом в древнее приключение!\nОтпразднуй удачу с Удачливой Анжелой!\nНаслаждайся зимой в Мире сноуборда и Деревни Санты!"
+          },
+          {
+            "version": "4.1.0.521",
+            "date": "2020-01-30",
+            "versionCode": "950",
+            "changes": "FLY THROUGH SPACE! Amazing new side world to explore!\nUnicorn Angela - Become a star!\n\nЛЕТИ СКВОЗЬ КОСМОС! Исследуй потрясающий новый боковой мир!\nЕдинорог Анджела — стань звездой!"
+          },
+          {
+            "version": "4.2.0.551",
+            "date": "2020-03-04",
+            "versionCode": "960",
+            "changes": "Look out for two NEW limited-time events coming soon:\nFlower Power - Can you collect enough flowers to unlock a new character?\nSea Stars - Collect Starfish to unlock Splashy Tom and Shark Hank!\n\nСкоро начнутся два НОВЫХ ограниченных по времени мероприятия:\n«Сила цветов» — сможешь собрать достаточно цветов, чтобы открыть нового героя?\n«Морские звёзды» — собирай морские звёзды, чтобы открыть Водного Тома и Акулу-Хэнка!"
+          },
+          {
+            "version": "4.3.0.592",
+            "date": "2020-04-19",
+            "versionCode": "970",
+            "changes": "Two new time-limited events to try:\nUnlock cowboy characters in the Wild West event!\nPlay the Cops and Robbers event and collect delicious donuts!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой ковбоев на мероприятии «Дикий запад»!\nИграй в мероприятие «Поймай грабителя» и собери вкусные пончики!"
+          },
+          {
+            "version": "4.3.1.597",
+            "date": "2020-04-20",
+            "versionCode": "980",
+            "changes": "Two new time-limited events to try:\nUnlock cowboy characters in the Wild West event!\nPlay the Cops and Robbers event and collect delicious donuts!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой ковбоев на мероприятии «Дикий запад»!\nИграй в мероприятие «Поймай грабителя» и собери вкусные пончики!"
+          },
+          {
+            "version": "4.3.2.605",
+            "date": "2020-04-28",
+            "versionCode": "990",
+            "changes": "Two new time-limited events to try:\nUnlock cowboy characters in the Wild West event!\nPlay the Cops and Robbers event and collect delicious donuts!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой ковбоев на мероприятии «Дикий запад»!\nИграй в мероприятие «Поймай грабителя» и собери вкусные пончики!"
+          },
+          {
+            "version": "4.4.0.632",
+            "date": "2020-05-28",
+            "versionCode": "1000",
+            "changes": "Two new time-limited events to try:\nUnlock superhero characters in the Fantastic Forces event!\nCompete in the Sports League event and rack up your whistle tokens to get rewards!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой супергероев в событии «Сказочные силы»!\nУчаствуй в событии «Спортивная лига» и собирай свистки, чтобы получить награду!"
+          },
+          {
+            "version": "4.4.1.638",
+            "date": "2020-05-29",
+            "versionCode": "1010",
+            "changes": "Two new time-limited events to try:\nUnlock superhero characters in the Fantastic Forces event!\nCompete in the Sports League event and rack up your whistle tokens to get rewards!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой супергероев в событии «Сказочные силы»!\nУчаствуй в событии «Спортивная лига» и собирай свистки, чтобы получить награду!"
+          },
+          {
+            "version": "4.5.0.672",
+            "date": "2020-07-09",
+            "versionCode": "1020",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "4.5.1.679",
+            "date": "2020-07-13",
+            "versionCode": "1030",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "4.6.0.720",
+            "date": "2020-08-26",
+            "versionCode": "1040",
+            "changes": "Prepare for a new time-limited event:\nCollect masks and unlock Carnival Angela in the Masquerade Ball event!\nDiscover a new sideworld - Surf the Venice Canals!\n\nТебя ждёт новое ограниченное по времени мероприятие:\nСобирай маски и открой Карнавальную Анджелу в мероприятии «Маскарад»!\nОткрой новый боковой мир — прокатись по Венецианским каналам!"
+          },
+          {
+            "version": "4.6.1.742",
+            "date": "2020-09-22",
+            "versionCode": "1050",
+            "changes": "Prepare for a new time-limited event:\nCollect masks and unlock Carnival Angela in the Masquerade Ball event!\nDiscover a new sideworld - Surf the Venice Canals!\n\nТебя ждёт новое ограниченное по времени мероприятие:\nСобирай маски и открой Карнавальную Анджелу в мероприятии «Маскарад»!\nОткрой новый боковой мир — прокатись по Венецианским каналам!"
+          },
+          {
+            "version": "4.7.0.766",
+            "date": "2020-10-07",
+            "versionCode": "1060",
+            "changes": "It’s that spooky time of the year again! Play the limited-time event: Halloween Treats!\nCollect as many pumpkins as you can and get cool rewards like Mummy Tom and Witch Angela.\n\nОпять настала эта страшная пора! Поучаствуй в ограниченном по времени мероприятии: «Угощения на Хэллоуин»!\nСобери как можно больше тыкв и получи классные награды, например, Тома-мумию и Ведьму Анджелу."
+          },
+          {
+            "version": "4.8.0.823",
+            "date": "2020-11-24",
+            "versionCode": "1070",
+            "changes": "JOIN THE NEON RUSH EVENT\nCollect batteries and win out-of-this-world rewards. Hyper Tom and Cyber Angela are waiting!\n\nУЧАСТВУЙ В МЕРОПРИЯТИИ «НЕОНОВАЯ ГОНКА»\nСобирай батарейки и получай нереальные награды! Гипер-Том и Кибер-Анджела уже ждут!"
+          },
+          {
+            "version": "4.9.0.845",
+            "date": "2021-01-07",
+            "versionCode": "1080",
+            "changes": "SPECIAL EVENT\nCatch the Fortune Festival and collect red envelopes to unlock Lucky Angela and General Tom!\n\nОСОБОЕ МЕРОПРИЯТИЕ\nПоучаствуй в Фестивале удачи и собирай красные конверты, чтобы открыть Удачливую Анджелу и Генерала Тома!"
+          },
+          {
+            "version": "4.9.1.849",
+            "date": "2021-01-20",
+            "versionCode": "1090",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.0.0.877",
+            "date": "2021-03-02",
+            "versionCode": "1100",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "5.1.0.911",
+            "date": "2021-04-12",
+            "versionCode": "1110",
+            "changes": "A SHINY NEW EVENT ARRIVED!\nPlay the MAGIC WISH event and collect Ancient Jewels for the chance to unlock Genie Angela and Valkyrie Angela.\n\nВСТРЕЧАЙ НОВОЕ БЛЕСТЯЩЕЕ МЕРОПРИЯТИЕ!\nУчаствуй в мероприятии «Волшебное желание» и собирай древние драгоценности, чтобы получить шанс открыть Джинна Анджелу и Валькирию Анджелу."
+          },
+          {
+            "version": "5.2.0.957",
+            "date": "2021-05-18",
+            "versionCode": "1120",
+            "changes": "EXCITING SIDE WORLDS\nMake a splash in the Water Park, explore new frontiers in the Wild West and travel all the way to Outer Space!\n\nПОТРЯСАЮЩИЕ БОКОВЫЕ МИРЫ\nРассекайте волны в Аквапарке, исследуйте фронтир Дикого Запада и полетите в Открытый космос!"
+          },
+          {
+            "version": "5.3.0.269",
+            "date": "2021-07-27",
+            "versionCode": "1140",
+            "changes": "Chase the raccoon underwater!\nPlay special events to collect tokens and earn rewards.\n\nГонись за енотом под водой!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "5.4.0.427",
+            "date": "2021-09-14",
+            "versionCode": "1150",
+            "changes": "A SPOOKY SPECIAL\nCelebrate Halloween with spooky outfits, decorations and rewards.\nScare the robber away!\n\nСТРАШНОЕ МЕРОПРИЯТИЕ\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами.\nОтпугни грабителя!"
+          },
+          {
+            "version": "5.5.0.648",
+            "date": "2021-11-09",
+            "versionCode": "1170",
+            "changes": "HAPPY HOLIDAYS!\nRun through a winter wonderland and collect festive rewards.\nHave a blast in Snowboard World!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nПробегите по зимней сказке и соберите праздничные награды.\nПрокатись по миру сноуборда!"
+          },
+          {
+            "version": "5.5.1.770",
+            "date": "2021-12-14",
+            "versionCode": "1180",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.6.0.780",
+            "date": "2021-12-17",
+            "versionCode": "1190",
+            "changes": "LUCKY YOU!\nExperience the beauty of Ancient China and collect red envelopes to unlock General Tom and Lucky Angela.\n\nВАМ ПОВЕЗЁТ!\nОткройте для себя красоту Древнего Китая и собирай красные конверты, чтобы открыть Генерала Тома и Удачливую Анджелу!"
+          },
+          {
+            "version": "5.7.0.960",
+            "date": "2022-02-09",
+            "versionCode": "1200",
+            "changes": "WILD WEST\nGo on a crazy Wild West journey!\nFind special events with themed outfits and rewards!\n\nДИКИЙ ЗАПАД\nОтправься в безумное путешествие на Диком Западе!\nИщите особые мероприятия с тематическими нарядами и наградами!"
+          },
+          {
+            "version": "5.7.1.978",
+            "date": "2022-02-11",
+            "versionCode": "1210",
+            "changes": "WILD WEST\nGo on a crazy Wild West journey!\nFind special events with themed outfits and rewards!\n\nДИКИЙ ЗАПАД\nОтправься в безумное путешествие на Диком Западе!\nИщите особые мероприятия с тематическими нарядами и наградами!"
+          },
+          {
+            "version": "5.7.2.1026",
+            "date": "2022-02-22",
+            "versionCode": "1220",
+            "changes": "WILD WEST\nGo on a crazy Wild West journey!\nFind special events with themed outfits and rewards!\n\nДИКИЙ ЗАПАД\nОтправься в безумное путешествие на Диком Западе!\nИщите особые мероприятия с тематическими нарядами и наградами!"
+          },
+          {
+            "version": "5.7.3.1086",
+            "date": "2022-03-08",
+            "versionCode": "1230",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.8.0.1258",
+            "date": "2022-03-28",
+            "versionCode": "1240",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "5.8.1.1281",
+            "date": "2022-04-05",
+            "versionCode": "1250",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "5.9.0.1516",
+            "date": "2022-06-08",
+            "versionCode": "1260",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9.1.1537",
+            "date": "2022-06-20",
+            "versionCode": "1270",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9.3.1567",
+            "date": "2022-06-29",
+            "versionCode": "1290",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.9.4.1612",
+            "date": "2022-07-13",
+            "versionCode": "1300",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0.0.1688",
+            "date": "2022-08-09",
+            "versionCode": "1310",
+            "changes": "THE SKATEBOARD’S BACK!\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ!\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "6.0.1.1694",
+            "date": "2022-08-10",
+            "versionCode": "1320",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.0.1838",
+            "date": "2022-10-05",
+            "versionCode": "1330",
+            "changes": "A SPOOKY SPECIAL\nCelebrate Halloween with spooky outfits, decorations and rewards.\n\nСТРАШНОЕ МЕРОПРИЯТИЕ\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами."
+          },
+          {
+            "version": "6.1.1.1888",
+            "date": "2022-10-14",
+            "versionCode": "1340",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.2.1922",
+            "date": "2022-10-24",
+            "versionCode": "1350",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1.3.1988",
+            "date": "2022-10-28",
+            "versionCode": "1360",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.2.0.2069",
+            "date": "2022-11-16",
+            "versionCode": "1370",
+            "changes": "DASHING THROUGH THE SNOW\nEmbrace the jolly spirit! Grab festive tree tokens and celebrate the holidays by decorating your tree and unlocking epic rewards!\nHAPPY HOLIDAYS!\nEnjoy winter in Snowboard World and Santa’s Village!\n\nМЧИМСЯ ПО СНЕГУ\nПочувствуйте дух праздника! Хватайте токены-деревья и начните праздновать, украсив дерево и открыв потрясающие награды!\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nНаслаждайся зимой в Мире сноуборда и Деревне Санты!"
+          },
+          {
+            "version": "6.3.0.2227",
+            "date": "2023-01-03",
+            "versionCode": "1380",
+            "changes": "IT’S LUNAR NEW YEAR!\nCelebrate the New Year with a new event! Collect the lantern tokens, unlock cool outfits and enjoy the festive fireworks!\n\nНАСТУПИЛ ЛУННЫЙ НОВЫЙ ГОД!\nОтпразднуйте Новый год с новым мероприятием! Собирайте токены-фонарики, открывайте классные наряды и наслаждайтесь праздничным фейерверком!"
+          },
+          {
+            "version": "6.3.1.2241",
+            "date": "2023-01-04",
+            "versionCode": "1390",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.4.0.2467",
+            "date": "2023-02-23",
+            "versionCode": "1400",
+            "changes": "VENICE CANALS\nNavigate through the canals and surf under bridges!\n\nВЕНЕЦИАНСКИЕ КАНАЛЫ\nПрокатись по каналам и проплывай под мостами!"
+          },
+          {
+            "version": "6.5.0.2661",
+            "date": "2023-04-24",
+            "versionCode": "1410",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "6.5.1.2670",
+            "date": "2023-04-26",
+            "versionCode": "1420",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "6.5.2.2683",
+            "date": "2023-05-04",
+            "versionCode": "1430",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "6.6.0.2971",
+            "date": "2023-06-30",
+            "versionCode": "1450",
+            "changes": "EXPLORE THREE SIDE WORLDS!\nDive deep for underwater treasures!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА!\nНыряй глубже и найди подводные сокровища!"
+          },
+          {
+            "version": "6.6.1.3220",
+            "date": "2023-08-16",
+            "versionCode": "1460",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.7.0.3341",
+            "date": "2023-08-30",
+            "versionCode": "1470",
+            "changes": "THE SKATEBOARD’S BACK!\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ!\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "6.7.1.3353",
+            "date": "2023-09-01",
+            "versionCode": "1480",
+            "changes": "THE SKATEBOARD’S BACK!\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ!\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "6.8.0.3640",
+            "date": "2023-10-12",
+            "versionCode": "1490",
+            "changes": "Celebrate Halloween with spooky outfits, decorations and rewards.\nScare the robber away!\n\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами.\nОтпугни грабителя!"
+          },
+          {
+            "version": "6.8.1.3730",
+            "date": "2023-10-20",
+            "versionCode": "1500",
+            "changes": "Celebrate Halloween with spooky outfits, decorations and rewards.\nScare the robber away!\n\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами.\nОтпугни грабителя!"
+          },
+          {
+            "version": "6.8.2.3790",
+            "date": "2023-10-26",
+            "versionCode": "1510",
+            "changes": "Celebrate Halloween with spooky outfits, decorations and rewards.\nScare the robber away!\n\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами.\nОтпугни грабителя!"
+          },
+          {
+            "version": "6.9.0.3894",
+            "date": "2023-11-14",
+            "versionCode": "1520",
+            "changes": "HAPPY HOLIDAYS!\nRun through a winter wonderland and collect festive rewards.\nHave a blast in Snowboard World!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nПробегите по зимней сказке и соберите праздничные награды.\nПрокатись по миру сноуборда!"
+          },
+          {
+            "version": "6.9.1.4014",
+            "date": "2023-12-06",
+            "versionCode": "1530",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.0.0.4328",
+            "date": "2024-01-17",
+            "versionCode": "1540",
+            "changes": "FESTIVE FORTUNE\nFortune Tom arrives in Dragon Dash! Celebrate the year of the dragon with the epic event. Run, collect dragon tokens and unlock rewards! Let the dragon call bring fortune to all this Lunar New Year!\n\nПРАЗДНИЧНАЯ УДАЧА\nУдачливый Том прибыл в «Бег дракона»! Отпразднуйте год дракона с этим потрясающим событием. Бегите, собирайте токены дракона и открывайте награды! Пусть зов дракона принесёт удачу всем в этом Лунном Новом году!"
+          },
+          {
+            "version": "7.1.0.4754",
+            "date": "2024-03-05",
+            "versionCode": "1550",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "7.1.1.4961",
+            "date": "2024-03-27",
+            "versionCode": "1560",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.2.0.5168",
+            "date": "2024-04-11",
+            "versionCode": "1600",
+            "changes": "DINO ALERT!\nDash into the Dino World event! The more you progress, the more dinosaurs appear.\nCollect dino eggs to unlock two new characters, amazing dino stickers and try out two new vehicles! This event is dino-mite!\n\nВНИМАНИЕ: ДИНОЗАВРЫ!\nЗабегайте в Мир динозавров! Чем дальше вы бежите, тем больше появляется динозавров.\nСобирайте яйца динозавров, чтобы открыть двух новых героев, получить потрясающие наклейки и попробовать два новых транспортных средства. Мероприятие — просто ДИНОмит!"
+          },
+          {
+            "version": "7.2.1.5254",
+            "date": "2024-04-22",
+            "versionCode": "1610",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.3.0.5978",
+            "date": "2024-06-21",
+            "versionCode": "1700",
+            "changes": "IT'S TIME TO GAME\n- 2 new characters to unlock\n- revamped running track\n- skating added\n- score goals while running or skating\n\nПОРА ИГРАТЬ\n— можно открыть 2 новых героев\n— переделанная дорожка для бега\n— добавлено катание на скейте\n— забивайте гол на бегу или на скейте"
+          },
+          {
+            "version": "7.3.1.6237",
+            "date": "2024-07-12",
+            "versionCode": "1710",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.4.0.6599",
+            "date": "2024-08-19",
+            "versionCode": "1800",
+            "changes": "NEW TOKEN EVENT: RESTORE THE PLANET\nCollect trash and track your progress in the all-new token event. The more you run, the more waste you'll recycle, unlocking milestone rewards like the Eco Angela outfit.\n\nНОВОЕ ТОКЕН-СОБЫТИЕ: ВОССТАНОВИТЕ ПЛАНЕТУ\nСобирайте мусор и отслеживайте свой прогресс в новом событии с токенами. Чем дольше вы бежите, тем больше отходов вы переработаете, открывая важные награды, такие как наряд Эко Анджелы."
+          },
+          {
+            "version": "7.4.1.6611",
+            "date": "2024-08-20",
+            "versionCode": "1810",
+            "changes": "NEW TOKEN EVENT: RESTORE THE PLANET\nCollect trash and track your progress in the all-new token event. The more you run, the more waste you'll recycle, unlocking milestone rewards like the Eco Angela outfit.\n\nНОВОЕ ТОКЕН-СОБЫТИЕ: ВОССТАНОВИТЕ ПЛАНЕТУ\nСобирайте мусор и отслеживайте свой прогресс в новом событии с токенами. Чем дольше вы бежите, тем больше отходов вы переработаете, открывая важные награды, такие как наряд Эко Анджелы."
+          },
+          {
+            "version": "7.5.0.6970",
+            "date": "2024-10-03",
+            "versionCode": "1900",
+            "changes": "Scare the robber away!\nCelebrate Halloween with spooky outfits, decorations and rewards.\n\nОтпугни грабителя!\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами."
+          },
+          {
+            "version": "7.5.1.7020",
+            "date": "2024-10-14",
+            "versionCode": "1910",
+            "changes": "Scare the robber away!\nCelebrate Halloween with spooky outfits, decorations and rewards.\n\nОтпугни грабителя!\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами."
+          },
+          {
+            "version": "7.6.0.7638",
+            "date": "2024-11-28",
+            "versionCode": "2000",
+            "changes": "HAPPY HOLIDAYS!\nRun through a winter wonderland and collect festive rewards.\nHave a blast in Snowboard World!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nПробегите по зимней сказке и соберите праздничные награды.\nПрокатись по миру сноуборда!"
+          },
+          {
+            "version": "7.6.1.8050",
+            "date": "2025-01-09",
+            "versionCode": "2010",
+            "changes": "SNAKE DASH EVENT IS HERE!\n\n- Race & collect snake tokens\n- Grow your snake friend\n- Unlock a special outfit for Talking Tom\n- SSSLITHER into a golden year with us\n\nСОБЫТИЕ «БРОСОК ЗМЕИ» УЖЕ ЗДЕСЬ!\n\n— Бегите и собирайте змеиные токены\n— Растите свою подругу-змею\n— Откройте особый наряд для Говорящего Тома\n— ПРИС-С-С-СОЕДИНЯЙТЕСЬ к празднованию золотого года"
+          },
+          {
+            "version": "25.1.0.8540",
+            "date": "2025-02-05",
+            "versionCode": "25100",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.1.1.8587",
+            "date": "2025-02-10",
+            "versionCode": "25110",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.1.5.9193",
+            "date": "2025-03-26",
+            "versionCode": "25150",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.0.9958",
+            "date": "2025-05-15",
+            "versionCode": "202502000",
+            "changes": "PEDAL INTO ACTION\n- run AND bike through the city\n- collect bottle tokens\n- unlock prizes\n- get brand-new Cyclist Angela and Champion Tom outfits\nDON'T MISS OUT: Pirate Treasures digging event with legendary rewards!\n\nUpdate now and start racing!\n\nПЕДАЛЬ В ПОЛ\n— бегайте и ездите на велосипеде по городу\n— собирайте токены-бутылки\n— открывайте призы\n— получайте новые наряда Велосипедистки Анджелы и Чемпиона Тома\nНЕ УПУСТИТЕ: раскопки пиратских сокровищ с легендарными наградами!"
+          },
+          {
+            "version": "25.2.5.10592",
+            "date": "2025-07-03",
+            "versionCode": "202502050",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.2.6.10750",
+            "date": "2025-07-11",
+            "versionCode": "202502060",
+            "changes": "PEDAL INTO ACTION\n- run AND bike through the city\n- collect bottle tokens\n- unlock prizes\n- get brand-new Cyclist Angela and Champion Tom outfits\nDON'T MISS OUT: Pirate Treasures digging event with legendary rewards!\n\nUpdate now and start racing!\n\nПЕДАЛЬ В ПОЛ\n— бегайте и ездите на велосипеде по городу\n— собирайте токены-бутылки\n— открывайте призы\n— получайте новые наряда Велосипедистки Анджелы и Чемпиона Тома\nНЕ УПУСТИТЕ: раскопки пиратских сокровищ с легендарными наградами!"
+          },
+          {
+            "version": "25.3.0.10830",
+            "date": "2025-07-18",
+            "versionCode": "202503000",
+            "changes": "EXPLORE THREE SIDE WORLDS!\nDive deep for underwater treasures!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА!\nНыряй глубже и найди подводные сокровища!"
+          },
+          {
+            "version": "25.3.1.10924",
+            "date": "2025-07-23",
+            "versionCode": "202503010",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.2.10990",
+            "date": "2025-07-30",
+            "versionCode": "202503020",
+            "changes": "EXPLORE THREE SIDE WORLDS!\nDive deep for underwater treasures!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА!\nНыряй глубже и найди подводные сокровища!"
+          },
+          {
+            "version": "25.4.0.11835",
+            "date": "2025-09-04",
+            "versionCode": "202504000",
+            "changes": "LAVA EVERYWHERE — CAN YOU ESCAPE?\n\nNew mode: Lava Escape! Jump, dodge & run to beat the heat. Collect rewards and, most importantly, stay off the lava!\n\nЛАВА ПОВСЮДУ — СМОЖЕТЕ СПАСТИСЬ?\n\nНовый режим: побег от лавы!\nПрыгайте, уворачивайтесь и бегите, чтобы не поджариться. Собирайте награды и — самое важное — не упадите в лаву!"
+          },
+          {
+            "version": "25.4.2.12021",
+            "date": "2025-09-12",
+            "versionCode": "202504020",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.4.12248",
+            "date": "2025-09-23",
+            "versionCode": "202504040",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.5.12412",
+            "date": "2025-10-01",
+            "versionCode": "202504050",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.6.12579",
+            "date": "2025-10-14",
+            "versionCode": "202504060",
+            "changes": "LAVA EVERYWHERE — CAN YOU ESCAPE?\n\nNew mode: Lava Escape! Jump, dodge & run to beat the heat. Collect rewards and, most importantly, stay off the lava!\n\nЛАВА ПОВСЮДУ — СМОЖЕТЕ СПАСТИСЬ?\n\nНовый режим: побег от лавы!\nПрыгайте, уворачивайтесь и бегите, чтобы не поджариться. Собирайте награды и — самое важное — не упадите в лаву!"
+          },
+          {
+            "version": "25.4.7.12785",
+            "date": "2025-10-28",
+            "versionCode": "202504070",
+            "changes": "LAVA EVERYWHERE — CAN YOU ESCAPE?\n\nNew mode: Lava Escape! Jump, dodge & run to beat the heat. Collect rewards and, most importantly, stay off the lava!\n\nЛАВА ПОВСЮДУ — СМОЖЕТЕ СПАСТИСЬ?\n\nНовый режим: побег от лавы!\nПрыгайте, уворачивайтесь и бегите, чтобы не поджариться. Собирайте награды и — самое важное — не упадите в лаву!"
+          },
+          {
+            "version": "25.5.0.13564",
+            "date": "2025-11-21",
+            "versionCode": "202505000",
+            "changes": "БЕГ — ЭТО ВЧЕРАШНИЙ ДЕНЬ\nЭто обновление — про скорость и стиль.\n\nВыберите велосипед или скейт и отправляйтесь в дорогу в стиле."
+          },
+          {
+            "version": "25.5.1.13604",
+            "date": "2025-11-25",
+            "versionCode": "202505010",
+            "changes": "BIKE OR SKATEBOARD?\n- Running is overrated\n- Pick a bike or a skateboard and race.\n\nВЕЛОСИПЕД ИЛИ СКЕЙТ?\n— Бег переоценен\n— Выберите велосипед или скейт и поезжайте наперегонки."
+          },
+          {
+            "version": "25.5.9.13841",
+            "date": "2025-12-09",
+            "versionCode": "202505090",
+            "changes": "БЕГ — ЭТО ВЧЕРАШНИЙ ДЕНЬ\nЭто обновление — про скорость и стиль.\n\nВыберите велосипед или скейт и отправляйтесь в дорогу в стиле."
+          },
+          {
+            "version": "25.5.10.13891",
+            "date": "2025-12-10",
+            "versionCode": "202505100",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.0.14831",
+            "date": "2026-01-30",
+            "versionCode": "202601000",
+            "changes": "VIVA O CARNAVAL!\n- Dash through the colorful streets of Carnival\n- Get tokens in party zones with speakers\n- Unlock two new colorful outfits\n- More fun: bug fixes & sneaky surprises\n\nVIVA O CARNAVAL!\n— Бегите по ярким улицам карнавала\n— Собирайте токены в зонах вечеринки с динамиками\n— Откройте два новых ярких наряда\n— Больше веселья: исправление багов и скрытые сюрпризы"
+          },
+          {
+            "version": "26.1.1.14841",
+            "date": "2026-02-02",
+            "versionCode": "202601010",
+            "changes": "VIVA O CARNAVAL!\n- Dash through the colorful streets of Carnival\n- Get tokens in party zones with speakers\n- Unlock two new colorful outfits\n- More fun: bug fixes & sneaky surprises\n\nVIVA O CARNAVAL!\n— Бегите по ярким улицам карнавала\n— Собирайте токены в зонах вечеринки с динамиками\n— Откройте два новых ярких наряда\n— Больше веселья: исправление багов и скрытые сюрпризы"
+          },
+          {
+            "version": "26.1.9.15478",
+            "date": "2026-02-26",
+            "versionCode": "202601090",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.10.15782",
+            "date": "2026-03-13",
+            "versionCode": "202601100",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.0.16282",
+            "date": "2026-04-07",
+            "versionCode": "202602000",
+            "changes": "Get ready for your own mummy adventure! Race through a cursed temple as ancient traps come alive, collect scarabs, and earn exclusive outfits for Talking Becca and Talking Angela.\n\nПриготовьтесь к приключению с мумиями! Бегите через проклятый храм с древними ожившими ловушками, собирайте скарабеев и получите эксклюзивные наряды для Говорящей Бекки и Говорящей Анджелы."
+          },
+          {
+            "version": "26.2.2.16362",
+            "date": "2026-04-09",
+            "versionCode": "202602020",
+            "changes": "Get ready for your own mummy adventure! Race through a cursed temple as ancient traps come alive, collect scarabs, and earn exclusive outfits for Talking Becca and Talking Angela.\n\nПриготовьтесь к приключению с мумиями! Бегите через проклятый храм с древними ожившими ловушками, собирайте скарабеев и получите эксклюзивные наряды для Говорящей Бекки и Говорящей Анджелы."
+          },
+          {
+            "version": "26.3.0.17361",
+            "date": "2026-05-21",
+            "versionCode": "202603000",
+            "changes": "NEW: SOCCER FEVER\n- New soccer token event with big rewards\n- Collect tokens and unlock special surprises\n- Unlock the brand-new Goalkeeper Ginger\n- Performance improvements and bug fixes\n\nНОВИНКА: ФУТБОЛЬНАЯ ЛИХОРАДКА\n— Новое футбольное мероприятие с токенами, дающее крупные награды\n— Собирайте токены и открывайте особые сюрпризы\n— Откройте нового Вратаря Джинджера\n— Улучшение быстродействия и исправление ошибок"
+          },
+          {
+            "version": "26.3.9.18766",
+            "date": "2026-06-23",
+            "versionCode": "202603090",
+            "changes": "10 YEARS OF RUNNING\n- Explore the all-new birthday party world\n- Grab Tom’s Birthday Outfit for free\n- Jump into Arena Wipeout and test your skills\n- Cruise with the new plane and bike\n\n10 ЛЕТ БЕГА\n— Исследуйте новый мир дня рождения\n— Получите бесплатный наряд Тома на день рождения\n— Попробуйте разгром на арене и испытайте свои навыки\n— Катайтесь на новом самолёте и байке"
+          },
+          {
+            "version": "26.3.10.18810",
+            "date": "2026-06-24",
+            "versionCode": "202603100",
+            "changes": "NEW: ANNIVERSARY CELEBRATION\n- Celebrate by running through the birthday world\n- All players can claim Tom's Birthday Outfit\n- Try the new, challenging mode: Arena Wipeout\n- Experience riding the colorful new plane & bike\n\nНОВИНКА: ПРАЗДНОВАНИЕ ГОДОВЩИНЫ\n— Празднуйте, пробежав через мир дня рождения\n— Все игроки могут получить наряд Тома на день рожденья\n— Попробуйте новый сложный режим: разгром на арене\n— Катайтесь на новом ярком самолёте и байке"
+          },
+          {
+            "version": "26.3.15.19007",
+            "date": "2026-07-08",
+            "versionCode": "202603150",
+            "changes": "10 YEARS OF RUNNING\n- Explore the all-new birthday party world\n- Grab Tom’s Birthday Outfit for free\n- Jump into Arena Wipeout and test your skills\n- Cruise with the new plane and bike\n\n10 ЛЕТ БЕГА\n— Исследуйте новый мир дня рождения\n— Получите бесплатный наряд Тома на день рождения\n— Попробуйте разгром на арене и испытайте свои навыки\n— Катайтесь на новом самолёте и байке"
+          },
+          {
+            "version": "26.4.0.19600",
+            "date": "2026-08-18",
+            "versionCode": "202604000",
+            "changes": "Enter the anime hero arc!\n\n- Collect glowing power orbs.\n- Unlock Talking Tom’s hero outfit for peak shonen energy.\n- Get Talking Angela’s kawaii outfit with major moe vibes.\n- Exclusive drips available for purchase in-app.\n\nПредставляем арку аниме-героя!\n\n— Собирайте сияющие шары силы.\n— Откройте наряд героя Говорящего Тома и получите максимум сёнен-энергии.\n— Получите кавайный наряд Говорящей Анджелы с вайбом моэ.\n— Эксклюзивные наряды доступны для покупки в приложении."
+          },
+          {
+            "version": "26.4.1.19611",
+            "date": "2026-08-19",
+            "versionCode": "202604010",
+            "changes": "Enter the anime hero arc!\n\n- Collect glowing power orbs.\n- Unlock Talking Tom’s hero outfit for peak shonen energy.\n- Get Talking Angela’s kawaii outfit with major moe vibes.\n- Exclusive drips available for purchase in-app.\n\nПредставляем арку аниме-героя!\n\n— Собирайте сияющие шары силы.\n— Откройте наряд героя Говорящего Тома и получите максимум сёнен-энергии.\n— Получите кавайный наряд Говорящей Анджелы с вайбом моэ.\n— Эксклюзивные наряды доступны для покупки в приложении."
+          },
+          {
+            "version": "26.4.2.19629",
+            "date": "2026-08-20",
+            "versionCode": "202604020",
+            "changes": "Enter the anime hero arc!\n\n- Collect glowing power orbs.\n- Unlock Talking Tom’s hero outfit for peak shonen energy.\n- Get Talking Angela’s kawaii outfit with major moe vibes.\n- Exclusive drips available for purchase in-app.\n\nПредставляем арку аниме-героя!\n\n— Собирайте сияющие шары силы.\n— Откройте наряд героя Говорящего Тома и получите максимум сёнен-энергии.\n— Получите кавайный наряд Говорящей Анджелы с вайбом моэ.\n— Эксклюзивные наряды доступны для покупки в приложении."
+          },
+          {
+            "version": "26.4.3.19802",
+            "date": "2026-08-31",
+            "versionCode": "202604030",
+            "changes": "Enter the anime hero arc!\n\n- Collect glowing power orbs.\n- Unlock Talking Tom’s hero outfit for peak shonen energy.\n- Get Talking Angela’s kawaii outfit with major moe vibes.\n- Exclusive drips available for purchase in-app.\n\nПредставляем арку аниме-героя!\n\n— Собирайте сияющие шары силы.\n— Откройте наряд героя Говорящего Тома и получите максимум сёнен-энергии.\n— Получите кавайный наряд Говорящей Анджелы с вайбом моэ.\n— Эксклюзивные наряды доступны для покупки в приложении."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2016-05-06",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2016-05-13",
+            "changes": "Go for the gold with Talking Tom!\nFun never stops once you start running in this exciting runner & builder game."
+          },
+          {
+            "version": "1.0.5",
+            "date": "2016-06-09",
+            "changes": "BEN'S WORLD: Build an expedition tent and go on an adventure quest with Talking Ben.\nPREMIUM DIAMOND VAULT: Are you up for cracking the diamond vault to get the amazing loot?\n\nМИР БЕНА: Постройте экспедиционную палатку и отправляйтесь в приключенческий квест с Говорящим Беном.\nПРЕМИАЛЬНЫЙ БРИЛЛИАНТОВЫЙ СЕЙФ: Вы хотите взломать бриллиантовое хранилище, чтобы получить потрясающее удовольствие?"
+          },
+          {
+            "version": "1.0.6",
+            "date": "2016-06-28",
+            "changes": "BEN'S WORLD: Build an expedition tent and go on an adventure quest with Talking Ben.\nPREMIUM DIAMOND VAULT: Are you up for cracking the diamond vault to get the amazing loot?\n\nМИР БЕНА: Постройте экспедиционную палатку и отправляйтесь в приключенческий квест с Говорящим Беном.\nПРЕМИАЛЬНЫЙ БРИЛЛИАНТОВЫЙ СЕЙФ: Вы хотите взломать бриллиантовое хранилище, чтобы получить потрясающее удовольствие?"
+          },
+          {
+            "version": "1.0.10",
+            "date": "2016-07-08",
+            "changes": "TOM’S SNOW RIDE: Take Frosty Tom on an adrenaline charged winter run.\nANGELA’S NIGHT OUT: Neon Angela is ready to run into a night full of surprises.\nHEAD START: Skip the slow start and rush into your run at high speed.\n\nСНЕЖНАЯ ГОНКА ТОМА: получи заряд адреналина на зимней пробежке с Морозным Томом.\nНОЧНОЙ ГОРОД АНДЖЕЛЫ: Неоновая Анджела готова пробежать по полному сюрпризов ночному городу.\nФОРА: пропусти медленный разбег и начни пробежку на всех парах."
+          },
+          {
+            "version": "1.0.11",
+            "date": "2016-07-13",
+            "changes": "TOM’S SNOW RIDE: Take Frosty Tom on an adrenaline charged winter run.\nANGELA’S NIGHT OUT: Neon Angela is ready to run into a night full of surprises.\nHEAD START: Skip the slow start and rush into your run at high speed.\n\nСНЕЖНАЯ ГОНКА ТОМА: получи заряд адреналина на зимней пробежке с Морозным Томом.\nНОЧНОЙ ГОРОД АНДЖЕЛЫ: Неоновая Анджела готова пробежать по полному сюрпризов ночному городу.\nФОРА: пропусти медленный разбег и начни пробежку на всех парах."
+          },
+          {
+            "version": "1.0.12",
+            "date": "2016-07-23",
+            "changes": "TOM’S SNOW RIDE: Take Frosty Tom on an adrenaline charged winter run.\nANGELA’S NIGHT OUT: Neon Angela is ready to run into a night full of surprises.\nHEAD START: Skip the slow start and rush into your run at high speed.\n\nСНЕЖНАЯ ГОНКА ТОМА: получи заряд адреналина на зимней пробежке с Морозным Томом.\nНОЧНОЙ ГОРОД АНДЖЕЛЫ: Неоновая Анджела готова пробежать по полному сюрпризов ночному городу.\nФОРА: пропусти медленный разбег и начни пробежку на всех парах."
+          },
+          {
+            "version": "1.1.2",
+            "date": "2016-09-14",
+            "changes": "SPECIAL CHARACTERS: Chase down the robber with the Talking Tom and Friends Police and Superheroes.\nDAILY MISSIONS: Complete quests, earn extra rewards and run to the top.\n\nОСОБЫЕ ГЕРОИ: беги за грабителем с Полицией и Супергероями Говорящего Тома и Друзей.\nЕЖЕДНЕВНЫЕ МИССИИ: выполняй задания, получай дополнительные награды и беги к вершине."
+          },
+          {
+            "version": "1.1.3",
+            "date": "2016-09-17",
+            "changes": "SPECIAL CHARACTERS: Chase down the robber with the Talking Tom and Friends Police and Superheroes.\nDAILY MISSIONS: Complete quests, earn extra rewards and run to the top.\n\nОСОБЫЕ ГЕРОИ: беги за грабителем с Полицией и Супергероями Говорящего Тома и Друзей.\nЕЖЕДНЕВНЫЕ МИССИИ: выполняй задания, получай дополнительные награды и беги к вершине."
+          },
+          {
+            "version": "1.2.2",
+            "date": "2016-10-20",
+            "changes": "NEW BONUS LEVEL: If you run fast enough you can chase down the raccoon and get extra rewards.\nNEW SPECIAL CHARACTER: His Majesty, King Tom\nHALLOWEEN MISSIONS: Get ready for Halloween with new spooky missions!\n\nНОВЫЙ БОНУСНЫЙ УРОВЕНЬ: если ты побежишь быстро, то сможешь догнать енота и получить дополнительную награду.\nНОВЫЙ ОСОБЫЙ ГЕРОЙ: его величество Король Том.\nМИССИИ НА ХЭЛЛОУИН: подготовься к Хэллоуину, выполняя новые страшные миссии!"
+          },
+          {
+            "version": "1.3.5",
+            "date": "2016-12-14",
+            "changes": "WINTER WONDERLAND: Winter has come to Tom’s World. Celebrate the holidays in style!\nNEW SPECIAL CHARACTERS: Hyper Tom and Cyber Angela are ready for action.\nNEW DAILY MISSIONS: Daily missions redesign with bigger rewards for daily players.\n\nЗИМНЯЯ СКАЗКА: в Мир Тома пришла зима.\nНОВЫЕ ОСОБЫЕ ГЕРОИ: Гипер-Том и Кибер-Анджела готовы действовать!\nНОВЫЕ ЕЖЕДНЕВНЫЕ МИССИИ: редизайн ежедневных миссий с увеличенными наградами для тех, кто играет каждый день."
+          },
+          {
+            "version": "1.4.2",
+            "date": "2017-01-25",
+            "changes": "TOM CELEBRATES IN CHINA: Party with Talking Tom at one of the biggest celebrations in China!\nNEW SPECIAL MISSIONS: Collect special Chinese themed items to complete the new daily missions.\nNEW PREMIUM SUBSCRIPTION: Get the new premium membership to access the exclusive character, Agent Tom, and enjoy an exciting variety of special offers.\n\nТОМ ПРАЗДНУЕТ В КИТАЕ: повеселись с Говорящим Томом на одном из самых крупных праздников Китая!\nНОВЫЕ ОСОБЫЕ МИССИИ: собирай особые предметы китайской тематики, чтобы завершить новые ежедневные миссии.\nНОВАЯ ПРЕМИУМ-ПОДПИСКА: подпишись и получи доступ к эксклюзивному герою – Спецагенту Тому – и множеству потрясающих спецпредложений."
+          },
+          {
+            "version": "1.4.3",
+            "date": "2017-02-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.2",
+            "date": "2017-02-23",
+            "changes": "NEW WORLD - HANK ON HAWAII!\nTry out the new running world on Hawaii with Hawaiian Hank!\nNEON LIGHTS AND CITY SIGHTS!\nJoin Talking Tom and run together with him in fabulous Las Vegas!\nRUN FAST WITH COWBOY TOM\nYeehaw, a new special character awaits! Run together with Cowboy Tom into the sunset!\n\nНОВЫЙ МИР – ХЭНК НА ГАВАЙЯХ!\nПробегись по новому гавайскому миру с Гавайским Хэнком!\nНЕОНОВЫЕ ВЫВЕСКИ И ДОСТОПРИМЕЧАТЕЛЬНОСТИ!\nПробегись вместе с Говорящим Томом по роскошному Лас-Вегасу!\nБЕГИ СКОРЕЙ С КОВБОЕМ ТОМОМ\nИииииха! Тебя ждёт новый особый герой! Убеги в закат вместе с Ковбоем Томом!"
+          },
+          {
+            "version": "1.6",
+            "date": "2017-03-21",
+            "changes": "WILD WEST: Join the run with Talking Tom and have a true frontier experience.\nWILD NEW MISSIONS: Complete all the exciting new missions and become a Wild West legend.\n\nДИКИЙ ЗАПАД: пробегись с Говорящим Томом по настоящему американскому Дикому Западу.\nНОВЫЕ «ДИКИЕ» МИССИИ: заверши все захватывающие миссии и стань легендой Дикого Запада."
+          },
+          {
+            "version": "1.6.5",
+            "date": "2017-03-22",
+            "changes": "WILD WEST: Join the run with Talking Tom and have a true frontier experience.\nWILD NEW MISSIONS: Complete all the exciting new missions and become a Wild West legend.\n\nДИКИЙ ЗАПАД: пробегись с Говорящим Томом по настоящему американскому Дикому Западу.\nНОВЫЕ «ДИКИЕ» МИССИИ: заверши все захватывающие миссии и стань легендой Дикого Запада."
+          },
+          {
+            "version": "1.7.4",
+            "date": "2017-04-20",
+            "changes": "VALKYRIE ANGELA: Embark on a legendary quest with a brand new character.\nWEEKEND SPECIAL: Get a sneak peek of new worlds for free.\n\nВАЛЬКИРИЯ АНДЖЕЛА: отправься в легендарный квест с новой героиней.\nСПЕЦПРЕДЛОЖЕНИЕ НА ВЫХОДНЫЕ: взгляни на новые миры совершенно бесплатно."
+          },
+          {
+            "version": "1.8.3",
+            "date": "2017-07-06",
+            "changes": "RACING CONTEST: Beat two competitors and win the gold.\nPIRATE GINGER: Say arrr to the new character.\nSIDE WORLDS: Zigzag through the medieval side world.\n\nГОНКА: победи двоих соперников и выиграй золото.\nПИРАТ ДЖИНДЖЕР: скажи «аррр» новому герою.\nБОКОВЫЕ МИРЫ: пробегись зигзагом через средневековый боковой мир."
+          },
+          {
+            "version": "1.9",
+            "date": "2017-08-03",
+            "changes": "COWBOY ANGELA: Run the robber out of town!\nNEW SIDE WORLD: Be the best in the Wild West!\nWILD WEST MISSIONS: Kick up some desert dust!\n\nКОВБОЙ АНДЖЕЛА: выгони грабителя из города!\nНОВЫЙ БОКОВОЙ МИР: стань лучше всех на Диком Западе!\nМИССИИ НА ДИКОМ ЗАПАДЕ: разгони пустынную пыль!"
+          },
+          {
+            "version": "2.0.1",
+            "date": "2017-09-07",
+            "changes": "FIREMAN TOM: Faster than a fire blaze.\nDAILY CONTEST: Every day a new chance for a big reward!\nSIDE WORLD: Catch your destiny in Cyber City!\n\nПОЖАРНЫЙ ТОМ: Быстрее огненного пламени.\nЕЖЕДНЕВНЫЙ КОНКУРС: Каждый день новый шанс на крупный выигрыш.\nБОКОВОЙ МИР: Поймай свою судьбу в Кибер-городе!"
+          },
+          {
+            "version": "2.0.3",
+            "date": "2017-09-21",
+            "changes": "FIREMAN TOM: Faster than a fire blaze.\nDAILY CONTEST: Every day a new chance for a big reward!\nSIDE WORLD: Catch your destiny in Cyber City!\n\nПОЖАРНЫЙ ТОМ: Быстрее огненного пламени.\nЕЖЕДНЕВНЫЙ КОНКУРС: Каждый день новый шанс на крупный выигрыш.\nБОКОВОЙ МИР: Поймай свою судьбу в Кибер-городе!"
+          },
+          {
+            "version": "2.1.1",
+            "date": "2017-10-12",
+            "changes": "NEW CHARACTER: Scare the robber away with Zombie Ben!\nHALLOWEEN: Tom’s world gets spooky.\nNEW SIDE WORLD: Sugar rush in Candy World.\n\nНОВЫЙ ГЕРОЙ: Зомби Бен поможет отпугнуть грабителя!\nХЭЛЛОУИН: в мире Тома становится страшновато.\nНОВЫЙ БОКОВОЙ МИР: сахарный марафон в Мире Сладостей."
+          },
+          {
+            "version": "2.2.2",
+            "date": "2017-11-23",
+            "changes": "SPLASHY TOM: Make a splash and catch the robber!\nSIDE WORLD: Splash and dash through the Water Park.\n\nВОДНЫЙ ТОМ: будь на волне и поймай грабителя!\nБОКОВОЙ МИР: плещись и рассекай волны по аквапарку."
+          },
+          {
+            "version": "2.3.3",
+            "date": "2017-12-14",
+            "changes": "SANTA’S VILLAGE: Celebrate in the charming Santa’s Village.\nHOLIDAY MAKEOVER: Tom’s default world gets Christmas goodies.\n\nДЕРЕВНЯ САНТЫ: отпразднуй Рождество в очаровательной деревне Санты.\nПРАЗДНИЧНАЯ ОБСТАНОВКА: рождественские предметы в стандартном мире Тома."
+          },
+          {
+            "version": "2.4",
+            "date": "2018-02-01",
+            "changes": "KUNG FU HANK: Don’t let anything stop you!\nSNOWBOARDING: Race down the hill and through the halfpipe on a snowboard.\nCHINESE CELEBRATION: Get ready to party in Tom’s default world!\n\nКУНГ-ФУ ХЭНК: пусть тебя ничто не остановит!\nСНОУБОРД: прокатись на сноуборде по холму и через хафпайп.\nКИТАЙСКИЙ ПРАЗДНИК: приготовься праздновать в мире Тома по умолчанию!"
+          },
+          {
+            "version": "2.5.2",
+            "date": "2018-03-08",
+            "changes": "PRINCESS ANGELA: Shine brighter than gold with this brand new character!\nMEDIEVAL WORLD: Swoosh and whoosh around the winding streets of Medieval Town.\n\nПРИНЦЕССА АНДЖЕЛА: с этим новым героем ты засияешь ярче золота!\nМИР СРЕДНЕВЕКОВЬЯ: пробегись по извилистым улочкам средневекового города."
+          },
+          {
+            "version": "2.5.3",
+            "date": "2018-03-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.1",
+            "date": "2018-04-12",
+            "changes": "ASTRONAUT TOM: Reach for the stars and go for the gold!\nWACKY PLANET: Explore the wonders of this brand new side world!\nNEW RACING CHALLENGE: Collect water to win!\n\nКОСМОНАВТ ТОМ: тянись к звёздам и беги за золотом!\nЧУДНАЯ ПЛАНЕТА: исследуй чудеса этого нового бокового мира!\nНОВОЕ ИСПЫТАНИЕ: собирай воду, чтобы выиграть!"
+          },
+          {
+            "version": "2.6.5",
+            "date": "2018-05-03",
+            "changes": "WILD WEST: Explore this desert side world.\nCOWBOY MISSIONS: Don’t miss the Wild West pick-ups!\n\nДИКИЙ ЗАПАД: Исследуй этот пустынный боковой мир.\nКОВБОЙСКИЕ МИССИИ: Не пропусти предметы с Дикого запада"
+          },
+          {
+            "version": "2.7.1",
+            "date": "2018-05-24",
+            "changes": "FOOTBALL TOM: Grab the chance to be a champion!\nNEW CHALLENGE: Score goals to win rewards!\nFOOTBALL IN TOM’S WORLD: Football frenzy takes over Tom’s running world!\n\nТОМ-ФУТБОЛИСТ: воспользуйся шансом стать чемпионом!\nНОВОЕ ИСПЫТАНИЕ :забивай голы, чтобы выиграть награды!\nФУТБОЛЬНАЯ ЛИХОРАДКА В МИРЕ ТОМА: мир бега Тома охватывает футбольная лихорадка!"
+          },
+          {
+            "version": "2.7.3",
+            "date": "2018-05-28",
+            "changes": "FOOTBALL TOM: Grab the chance to be a champion!\nNEW CHALLENGE: Score goals to win rewards!\nFOOTBALL IN TOM’S WORLD: Football frenzy takes over Tom’s running world!\n\nТОМ-ФУТБОЛИСТ: воспользуйся шансом стать чемпионом!\nНОВОЕ ИСПЫТАНИЕ :забивай голы, чтобы выиграть награды!\nФУТБОЛЬНАЯ ЛИХОРАДКА В МИРЕ ТОМА: мир бега Тома охватывает футбольная лихорадка!"
+          },
+          {
+            "version": "2.7.5",
+            "date": "2018-06-21",
+            "changes": "CYBER CITY: Explore the shiny streets of this futuristic side world.\nFUTURISTIC MISSIONS: Pick up sci-fi props as you race to finish the new daily missions!\n\nКИБЕР-ГОРОД: Исследуй сияющие улицы этого футуристического бокового мира.\nФУТУРИСТИЧЕСКИЕ МИССИИ: подбирай футуристические предметы в новых ежедневных миссиях!"
+          },
+          {
+            "version": "2.7.6",
+            "date": "2018-07-02",
+            "changes": "CYBER CITY: Explore the shiny streets of this futuristic side world.\nFUTURISTIC MISSIONS: Pick up sci-fi props as you race to finish the new daily missions!\n\nКИБЕР-ГОРОД: Исследуй сияющие улицы этого футуристического бокового мира.\nФУТУРИСТИЧЕСКИЕ МИССИИ: подбирай футуристические предметы в новых ежедневных миссиях!"
+          },
+          {
+            "version": "2.8.2",
+            "date": "2018-07-19",
+            "changes": "BOSS FIGHT: Take down the robber and claim your gold!\nIRON BEN: Switch to superhero mode!\nWEEKLY RACING: Want cool rewards? Race to the top of the leaderboard!\n\nДРАКА С БОССОМ: победи грабителя и верни своё золото!\nЖЕЛЕЗНЫЙ БЕН: переключись в режим супергероя!\nЕЖЕНЕДЕЛЬНАЯ ГОНКА: хочешь классные награды? Заберись на вершину таблицы рекордов!"
+          },
+          {
+            "version": "2.8.3",
+            "date": "2018-08-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9",
+            "date": "2018-09-06",
+            "changes": "NEW SIDE WORLD: Cruise through with cool skateboard moves!\nSKATER ANGELA: Own the street in style!\nCHINESE MOON FESTIVAL: Have fun with the new pick-ups and decorations!\n\nНОВЫЙ БОКОВОЙ МИР: поезжай по нему и покажи классные трюки!\nСКЕЙТЕР АНДЖЕЛА: прокатись по улице стильно!\nКИТАЙСКИЙ ЛУННЫЙ ФЕСТИВАЛЬ: веселись с новыми предметами для коллекционирования и декорациями!"
+          },
+          {
+            "version": "2.9.6",
+            "date": "2018-10-16",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "2.9.7",
+            "date": "2018-10-19",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "2.9.8",
+            "date": "2018-10-24",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "2.9.9",
+            "date": "2018-10-31",
+            "changes": "WITCH ANGELA: New Halloween character!\nPUMPKIN PARTY: Spooky decorations in Tom’s world!\nCANDY SIDE WORLD: Trick or treat time!\n\nВЕДЬМА АНДЖЕЛА: новый герой на Хэллоуин!\nТЫКВЕННАЯ ВЕЧЕРИНКА: страшные украшения в мире Тома!\nКОНФЕТНЫЙ БОКОВОЙ МИР: сладость или гадость!"
+          },
+          {
+            "version": "3.0.0",
+            "date": "2018-11-21",
+            "changes": "NEW RUNNING WORLD: Explore the beautiful fields of Ginger’s Farm!\nNEW FARM PICK-UPS: Try to find them all!\n\nНОВЫЙ МИР ДЛЯ БЕГА: Исследуй ферму Джинджера!\nИЩИ И СОБИРАЙ новые предметы на ферме!"
+          },
+          {
+            "version": "3.0.1",
+            "date": "2018-11-25",
+            "changes": "NEW RUNNING WORLD: Explore the beautiful fields of Ginger’s Farm!\nNEW FARM PICK-UPS: Try to find them all!\n\nНОВЫЙ МИР ДЛЯ БЕГА: Исследуй ферму Джинджера!\nИЩИ И СОБИРАЙ новые предметы на ферме!"
+          },
+          {
+            "version": "3.0.2",
+            "date": "2018-11-28",
+            "changes": "NEW RUNNING WORLD: Explore the beautiful fields of Ginger’s Farm!\nNEW FARM PICK-UPS: Try to find them all!\n\nНОВЫЙ МИР ДЛЯ БЕГА: Исследуй ферму Джинджера!\nИЩИ И СОБИРАЙ новые предметы на ферме!"
+          },
+          {
+            "version": "3.0.4",
+            "date": "2018-12-01",
+            "changes": "NEW RUNNING WORLD: Explore the beautiful fields of Ginger’s Farm!\nNEW FARM PICK-UPS: Try to find them all!\n\nНОВЫЙ МИР ДЛЯ БЕГА: Исследуй ферму Джинджера!\nИЩИ И СОБИРАЙ новые предметы на ферме!"
+          },
+          {
+            "version": "3.1.0",
+            "date": "2018-12-20",
+            "changes": "HAPPY HOLIDAYS: Celebrate with Santa Tom!\nSNOWBOARD WORLD: Hit the slopes!\nCHRISTMAS TOWN: Feel the holiday magic!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ: празднуй с Санта-Томом!\nМИР СНОУБОРДА: прокатись по склонам!\nРОЖДЕСТВЕНСКИЙ ГОРОДОК: почувствуй праздничное волшебство!"
+          },
+          {
+            "version": "3.1.1",
+            "date": "2019-01-03",
+            "changes": "HAPPY HOLIDAYS: Celebrate with Santa Tom!\nSNOWBOARD WORLD: Hit the slopes!\nCHRISTMAS TOWN: Feel the holiday magic!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ: празднуй с Санта-Томом!\nМИР СНОУБОРДА: прокатись по склонам!\nРОЖДЕСТВЕНСКИЙ ГОРОДОК: почувствуй праздничное волшебство!"
+          },
+          {
+            "version": "3.2",
+            "date": "2019-01-17",
+            "changes": "FLYING SIDE WORLD: Join the sky chase!\nSNOWBOARD WORLD: Don’t miss the winter fun!\nGENERAL TOM: A new fearless runner!\n\nБОКОВОЙ МИР ПОЛЁТА: начни погоню в небесах!\nМИР СНОУБОРДА: не пропусти зимнее веселье!\nГЕНЕРАЛ ТОМ: новый бесстрашный бегун!"
+          },
+          {
+            "version": "3.2.1",
+            "date": "2019-01-24",
+            "changes": "FLYING SIDE WORLD: Join the sky chase!\nSNOWBOARD WORLD: Don’t miss the winter fun!\nGENERAL TOM: A new fearless runner!\n\nБОКОВОЙ МИР ПОЛЁТА: начни погоню в небесах!\nМИР СНОУБОРДА: не пропусти зимнее веселье!\nГЕНЕРАЛ ТОМ: новый бесстрашный бегун!"
+          },
+          {
+            "version": "3.2.2",
+            "date": "2019-01-30",
+            "changes": "FLYING SIDE WORLD: Join the sky chase!\nSNOWBOARD WORLD: Don’t miss the winter fun!\nGENERAL TOM: A new fearless runner!\n\nБОКОВОЙ МИР ПОЛЁТА: начни погоню в небесах!\nМИР СНОУБОРДА: не пропусти зимнее веселье!\nГЕНЕРАЛ ТОМ: новый бесстрашный бегун!"
+          },
+          {
+            "version": "3.3.1",
+            "date": "2019-02-21",
+            "changes": "BRAND NEW TIME-LIMITED EVENTS: Stay tuned and watch out for unique events!\nWIN BIG: Play events and collect amazing rewards!\nCYBER CITY WORLD: Run into the future!\n\nНОВЫЕ ОГРАНИЧЕННЫЕ ПО ВРЕМЕНИ МЕРОПРИЯТИЯ: жди новостей и не пропусти уникальные мероприятия!\nВЫИГРЫВАЙ ПО-КРУПНОМУ: участвуй в мероприятиях и собирай потрясающие награды!\nМИР КИБЕР-ГОРОДА: беги в будущее!"
+          },
+          {
+            "version": "3.3.2",
+            "date": "2019-02-23",
+            "changes": "BRAND NEW TIME-LIMITED EVENTS: Stay tuned and watch out for unique events!\nWIN BIG: Play events and collect amazing rewards!\nCYBER CITY WORLD: Run into the future!\n\nНОВЫЕ ОГРАНИЧЕННЫЕ ПО ВРЕМЕНИ МЕРОПРИЯТИЯ: жди новостей и не пропусти уникальные мероприятия!\nВЫИГРЫВАЙ ПО-КРУПНОМУ: участвуй в мероприятиях и собирай потрясающие награды!\nМИР КИБЕР-ГОРОДА: беги в будущее!"
+          },
+          {
+            "version": "3.3.3",
+            "date": "2019-03-05",
+            "changes": "BRAND NEW TIME-LIMITED EVENTS: Stay tuned and watch out for unique events!\nWIN BIG: Play events and collect amazing rewards!\nCYBER CITY WORLD: Run into the future!\n\nНОВЫЕ ОГРАНИЧЕННЫЕ ПО ВРЕМЕНИ МЕРОПРИЯТИЯ: жди новостей и не пропусти уникальные мероприятия!\nВЫИГРЫВАЙ ПО-КРУПНОМУ: участвуй в мероприятиях и собирай потрясающие награды!\nМИР КИБЕР-ГОРОДА: беги в будущее!"
+          },
+          {
+            "version": "3.4.1",
+            "date": "2019-04-04",
+            "changes": "NEW MINING CART RIDE: Go on a crazy Wild West journey!\nSUPER GINGER: A new superhero’s in town!\nCOWBOY MISSIONS: Don’t miss the Wild West pick-ups!\n\nНОВАЯ ПОЕЗДКА НА ВАГОНЕТКЕ: отправься в безумное путешествие на Диком Западе!\nСУПЕР ДЖИНДЖЕР: в городе новый супергерой!\nКОВБОЙСКИЕ МИССИИ: не пропусти предметы с Дикого запада!"
+          },
+          {
+            "version": "3.5.1",
+            "date": "2019-05-16",
+            "changes": "THE SKATEBOARD’S BACK! Own the streets in style on your skateboard!\nDAILY DEALS: Don’t miss out on awesome daily deals!\nSKATEBOARD MISSIONS: Collect skateboard pick-ups!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ! Прокатись по улицам стильно!\nЕЖЕДНЕВНЫЕ ПРЕДЛОЖЕНИЯ: не пропусти классные ежедневные предложения!\nМИССИИ НА СКЕЙТЕ: Собирай скейтерские предметы!"
+          },
+          {
+            "version": "3.6",
+            "date": "2019-06-27",
+            "changes": "UNDERSEA SIDE WORLD: Chase the raccoon underwater!\nNEW CHARACTER: Would you dare to swim with Shark Hank!\nUNDERWATER MISSIONS: Dive deep for undersea pick-ups!\n\nПОДВОДНЫЙ БОКОВОЙ МИР: гонись за енотом под водой!\nНОВЫЙ ГЕРОЙ: поплавай с Акулой-Хэнком!\nПОДВОДНЫЕ МИССИИ: ныряй глубоко, чтобы собрать подводные предметы!"
+          },
+          {
+            "version": "3.6.1",
+            "date": "2019-07-03",
+            "changes": "Bug fixes and minor gameplay improvements.\nUNDERSEA SIDE WORLD: Chase the raccoon underwater!\nNEW CHARACTER: Would you dare to swim with Shark Hank!\nUNDERWATER MISSIONS: Dive deep for undersea pick-ups!\n\nИсправление ошибок и незначительные улучшения геймплея.\nПОДВОДНЫЙ БОКОВОЙ МИР: гонись за енотом под водой!\nНОВЫЙ ГЕРОЙ: поплавай с Акулой-Хэнком!\nПОДВОДНЫЕ МИССИИ: ныряй глубоко, чтобы собрать подводные предметы!"
+          },
+          {
+            "version": "3.7",
+            "date": "2019-08-08",
+            "changes": "SWIM, FLY AND SKATE - Discover three amazing side worlds!\nFly the magic carpet plane with Genie Angela!\n\nПЛАВАЙ, ЛЕТАЙ И КАТАЙСЯ! - Открой три потрясающих боковых мира!\nЛЕТАЙ на волшебном ковре-самолёте с Джинном Анджелой!"
+          },
+          {
+            "version": "3.8",
+            "date": "2019-09-23",
+            "changes": "RUN AND CELEBRATE! China comes to Tom’s world!\nExplore three side worlds: Skating, flying and Wild West!\n\nБЕГИ И ПРАЗДНУЙ! В мир Тома приходит Китай!\nИсследуй три боковых мира: мир катания, полёта и Дикого Запада!"
+          },
+          {
+            "version": "3.9",
+            "date": "2019-10-24",
+            "changes": "EXPLORE THREE SIDE WORLDS! Skating, Wacky Planet and Wild West!\nCollect pumpkins and get Halloween treats!\nUnlock the secret legend of Mummy Tom!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА! Скейтинг, Чудная Планета и Дикий Запад!\nСобирай тыквы и получай сладости на Хэллоуин!\nОткрой секрет Тома-мумии!"
+          },
+          {
+            "version": "4.0",
+            "date": "2019-12-04",
+            "changes": "NEW LOST CITY WORLD! Go on an ancient running adventure!\nCelebrate good fortune with Lucky Angela!\nEnjoy winter in Snowboard World and Santa’s Village!\n\nНОВЫЙ МИР ПОТЕРЯННОГО ГОРОДА! Отправься бегом в древнее приключение!\nОтпразднуй удачу с Удачливой Анжелой!\nНаслаждайся зимой в Мире сноуборда и Деревни Санты!"
+          },
+          {
+            "version": "4.0.1",
+            "date": "2020-01-10",
+            "changes": "NEW LOST CITY WORLD! Go on an ancient running adventure!\nCelebrate good fortune with Lucky Angela!\nEnjoy winter in Snowboard World and Santa’s Village!\n\nНОВЫЙ МИР ПОТЕРЯННОГО ГОРОДА! Отправься бегом в древнее приключение!\nОтпразднуй удачу с Удачливой Анжелой!\nНаслаждайся зимой в Мире сноуборда и Деревни Санты!"
+          },
+          {
+            "version": "4.1",
+            "date": "2020-02-04",
+            "changes": "FLY THROUGH SPACE! Amazing new side world to explore!\nUnicorn Angela - Become a star!\n\nЛЕТИ СКВОЗЬ КОСМОС! Исследуй потрясающий новый боковой мир!\nЕдинорог Анджела — стань звездой!"
+          },
+          {
+            "version": "4.2",
+            "date": "2020-03-11",
+            "changes": "Look out for two NEW limited-time events coming soon:\nFlower Power - Can you collect enough flowers to unlock a new character?\nSea Stars - Collect Starfish to unlock Splashy Tom and Shark Hank!\n\nСкоро начнутся два НОВЫХ ограниченных по времени мероприятия:\n«Сила цветов» — сможешь собрать достаточно цветов, чтобы открыть нового героя?\n«Морские звёзды» — собирай морские звёзды, чтобы открыть Водного Тома и Акулу-Хэнка!"
+          },
+          {
+            "version": "4.3.1",
+            "date": "2020-04-22",
+            "changes": "Two new time-limited events to try:\nUnlock cowboy characters in the Wild West event!\nPlay the Cops and Robbers event and collect delicious donuts!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой ковбоев на мероприятии «Дикий запад»!\nИграй в мероприятие «Поймай грабителя» и собери вкусные пончики!"
+          },
+          {
+            "version": "4.3.2",
+            "date": "2020-04-29",
+            "changes": "Two new time-limited events to try:\nUnlock cowboy characters in the Wild West event!\nPlay the Cops and Robbers event and collect delicious donuts!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой ковбоев на мероприятии «Дикий запад»!\nИграй в мероприятие «Поймай грабителя» и собери вкусные пончики!"
+          },
+          {
+            "version": "4.4.1",
+            "date": "2020-06-02",
+            "changes": "Two new time-limited events to try:\nUnlock superhero characters in the Fantastic Forces event!\nCompete in the Sports League event and rack up your whistle tokens to get rewards!\n\nПоучаствуй в двух ограниченных по времени мероприятиях:\nОткрой супергероев в событии «Сказочные силы»!\nУчаствуй в событии «Спортивная лига» и собирай свистки, чтобы получить награду!"
+          },
+          {
+            "version": "4.5.1",
+            "date": "2020-07-20",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "4.6",
+            "date": "2020-09-01",
+            "changes": "Prepare for a new time-limited event:\nCollect masks and unlock Carnival Angela in the Masquerade Ball event!\nDiscover a new sideworld - Surf the Venice Canals!\n\nТебя ждёт новое ограниченное по времени мероприятие:\nСобирай маски и открой Карнавальную Анджелу в мероприятии «Маскарад»!\nОткрой новый боковой мир — прокатись по Венецианским каналам!"
+          },
+          {
+            "version": "4.6.1",
+            "date": "2020-09-28",
+            "changes": "Join the celebration of the Moon Festival!\nCollect full moons and enjoy amazing rewards, including Lucky Angela & General Tom!\nPlay the new time-limited event now!\n\nПоучаствуй в Лунном фестивале!\nСобирай полные луны и получи потрясающие награды, включая Удачливую Анджелу и Генерала Тома!\nПоучаствуй в ограниченном по времени мероприятии прямо сейчас!"
+          },
+          {
+            "version": "4.7",
+            "date": "2020-10-10",
+            "changes": "It’s that spooky time of the year again! Play the limited-time event: Halloween Treats!\nCollect as many pumpkins as you can and get cool rewards like Mummy Tom and Witch Angela.\n\nОпять настала эта страшная пора! Поучаствуй в ограниченном по времени мероприятии: «Угощения на Хэллоуин»!\nСобери как можно больше тыкв и получи классные награды, например, Тома-мумию и Ведьму Анджелу."
+          },
+          {
+            "version": "4.8",
+            "date": "2020-11-26",
+            "changes": "JOIN THE NEON RUSH EVENT\nCollect batteries and win out-of-this-world rewards. Hyper Tom and Cyber Angela are waiting!\n\nУЧАСТВУЙ В МЕРОПРИЯТИИ «НЕОНОВАЯ ГОНКА»\nСобирай батарейки и получай нереальные награды! Гипер-Том и Кибер-Анджела уже ждут!"
+          },
+          {
+            "version": "4.9",
+            "date": "2021-01-13",
+            "changes": "SPECIAL EVENT\nCatch the Fortune Festival and collect red envelopes to unlock Lucky Angela and General Tom!\n\nОСОБОЕ МЕРОПРИЯТИЕ\nПоучаствуй в Фестивале удачи и собирай красные конверты, чтобы открыть Удачливую Анджелу и Генерала Тома!"
+          },
+          {
+            "version": "4.9.1",
+            "date": "2021-01-21",
+            "changes": "SPECIAL EVENT\nCatch the Fortune Festival and collect red envelopes to unlock Lucky Angela and General Tom!\n\nОСОБОЕ МЕРОПРИЯТИЕ\nПоучаствуй в Фестивале удачи и собирай красные конверты, чтобы открыть Удачливую Анджелу и Генерала Тома!"
+          },
+          {
+            "version": "5.0",
+            "date": "2021-03-04",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "5.0.1",
+            "date": "2021-03-17",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "5.1.1",
+            "date": "2021-04-15",
+            "changes": "A SHINY NEW EVENT ARRIVED!\nPlay the MAGIC WISH event and collect Ancient Jewels for the chance to unlock Genie Angela and Valkyrie Angela.\n\nВСТРЕЧАЙ НОВОЕ БЛЕСТЯЩЕЕ МЕРОПРИЯТИЕ!\nУчаствуй в мероприятии «Волшебное желание» и собирай древние драгоценности, чтобы получить шанс открыть Джинна Анджелу и Валькирию Анджелу."
+          },
+          {
+            "version": "5.2",
+            "date": "2021-05-26",
+            "changes": "EXCITING SIDE WORLDS\nMake a splash in the Water Park, explore new frontiers in the Wild West and travel all the way to Outer Space!\n\nПОТРЯСАЮЩИЕ БОКОВЫЕ МИРЫ\nРассекайте волны в Аквапарке, исследуйте фронтир Дикого Запада и полетите в Открытый космос!"
+          },
+          {
+            "version": "5.2.1",
+            "date": "2021-06-10",
+            "changes": "EXCITING SIDE WORLDS\nMake a splash in the Water Park, explore new frontiers in the Wild West and travel all the way to Outer Space!\n\nПОТРЯСАЮЩИЕ БОКОВЫЕ МИРЫ\nРассекайте волны в Аквапарке, исследуйте фронтир Дикого Запада и полетите в Открытый космос!"
+          },
+          {
+            "version": "5.2.2",
+            "date": "2021-06-28",
+            "changes": "EXCITING SIDE WORLDS\nMake a splash in the Water Park, explore new frontiers in the Wild West and travel all the way to Outer Space!\n\nПОТРЯСАЮЩИЕ БОКОВЫЕ МИРЫ\nРассекайте волны в Аквапарке, исследуйте фронтир Дикого Запада и полетите в Открытый космос!"
+          },
+          {
+            "version": "5.3",
+            "date": "2021-08-02",
+            "changes": "Chase the raccoon underwater!\nPlay special events to collect tokens and earn rewards.\n\nГонись за енотом под водой!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "5.3.1",
+            "date": "2021-08-07",
+            "changes": "Chase the raccoon underwater!\nPlay special events to collect tokens and earn rewards.\n\nГонись за енотом под водой!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "5.4",
+            "date": "2021-09-29",
+            "changes": "A SPOOKY SPECIAL\nCelebrate Halloween with spooky outfits, decorations and rewards.\nScare the robber away!\n\nСТРАШНОЕ МЕРОПРИЯТИЕ\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами.\nОтпугни грабителя!"
+          },
+          {
+            "version": "5.5",
+            "date": "2021-11-19",
+            "changes": "HAPPY HOLIDAYS!\nRun through a winter wonderland and collect festive rewards.\nHave a blast in Snowboard World!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nПробегите по зимней сказке и соберите праздничные награды.\nПрокатись по миру сноуборда!"
+          },
+          {
+            "version": "5.6",
+            "date": "2022-01-05",
+            "changes": "LUCKY YOU!\nExperience the beauty of Ancient China and collect red envelopes to unlock General Tom and Lucky Angela.\n\nВАМ ПОВЕЗЁТ!\nОткройте для себя красоту Древнего Китая и собирай красные конверты, чтобы открыть Генерала Тома и Удачливую Анджелу!"
+          },
+          {
+            "version": "5.7.1",
+            "date": "2022-02-21",
+            "changes": "WILD WEST\nGo on a crazy Wild West journey!\nFind special events with themed outfits and rewards!\n\nДИКИЙ ЗАПАД\nОтправься в безумное путешествие на Диком Западе!\nИщите особые мероприятия с тематическими нарядами и наградами!"
+          },
+          {
+            "version": "5.7.3",
+            "date": "2022-03-14",
+            "changes": "WILD WEST\nGo on a crazy Wild West journey!\nFind special events with themed outfits and rewards!\n\nДИКИЙ ЗАПАД\nОтправься в безумное путешествие на Диком Западе!\nИщите особые мероприятия с тематическими нарядами и наградами!"
+          },
+          {
+            "version": "5.8",
+            "date": "2022-04-08",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "5.8.1",
+            "date": "2022-04-19",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "5.9",
+            "date": "2022-06-24",
+            "changes": "VENICE CANALS\nNavigate through the canals and surf under bridges!\n\nКАНАЛЫ ВЕНЕЦИИ\nПеремещайтесь по каналам и занимайтесь серфингом под мостами!"
+          },
+          {
+            "version": "5.9.4",
+            "date": "2022-07-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.0.1",
+            "date": "2022-08-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.1",
+            "date": "2022-10-17",
+            "changes": "A SPOOKY SPECIAL\nCelebrate Halloween with spooky outfits, decorations and rewards.\n\nСТРАШНОЕ МЕРОПРИЯТИЕ\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами."
+          },
+          {
+            "version": "6.1.2",
+            "date": "2022-11-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.2",
+            "date": "2022-11-24",
+            "changes": "DASHING THROUGH THE SNOW\nEmbrace the jolly spirit! Grab festive tree tokens and celebrate the holidays by decorating your tree and unlocking epic rewards!\nHAPPY HOLIDAYS!\nEnjoy winter in Snowboard World and Santa’s Village!\n\nМЧИМСЯ ПО СНЕГУ\nПочувствуйте дух праздника! Хватайте токены-деревья и начните праздновать, украсив дерево и открыв потрясающие награды!\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nНаслаждайся зимой в Мире сноуборда и Деревне Санты!"
+          },
+          {
+            "version": "6.3.1",
+            "date": "2023-01-10",
+            "changes": "IT’S LUNAR NEW YEAR!\nCelebrate the New Year with a new event! Collect the lantern tokens, unlock cool outfits and enjoy the festive fireworks!\n\nНАСТУПИЛ ЛУННЫЙ НОВЫЙ ГОД!\nОтпразднуйте Новый год с новым мероприятием! Собирайте токены-фонарики, открывайте классные наряды и наслаждайтесь праздничным фейерверком!"
+          },
+          {
+            "version": "6.4",
+            "date": "2023-03-09",
+            "changes": "VENICE CANALS\nNavigate through the canals and surf under bridges!\n\nВЕНЕЦИАНСКИЕ КАНАЛЫ\nПрокатись по каналам и проплывай под мостами!"
+          },
+          {
+            "version": "6.5.2",
+            "date": "2023-05-09",
+            "changes": "READY, SET, GROW!\nCollect droplets and grow your own tree in an amazing eco event. Unlock Super Tom, Super Angela and other amazing rewards as you go.\n\nНА СТАРТ, ВНИМАНИЕ, ВЫРАЩИВАЙ!\nВ этом потрясающем экозадании нужно собирать капельки и выращивать свои деревья. А ещё по ходу игры можно открыть Супер Тома, Супер Анджелу и другие потрясающие награды."
+          },
+          {
+            "version": "6.5.3",
+            "date": "2023-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.6",
+            "date": "2023-07-11",
+            "changes": "EXPLORE THREE SIDE WORLDS!\nDive deep for underwater treasures!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА!\nНыряй глубже и найди подводные сокровища!"
+          },
+          {
+            "version": "6.7.1",
+            "date": "2023-09-11",
+            "changes": "THE SKATEBOARD’S BACK!\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСКЕЙТБОРД ВОЗВРАЩАЕТСЯ!\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          },
+          {
+            "version": "6.7.2",
+            "date": "2023-09-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "6.8.2",
+            "date": "2023-10-27",
+            "changes": "Celebrate Halloween with spooky outfits, decorations and rewards.\nScare the robber away!\n\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами.\nОтпугни грабителя!"
+          },
+          {
+            "version": "6.9",
+            "date": "2023-11-28",
+            "changes": "HAPPY HOLIDAYS!\nRun through a winter wonderland and collect festive rewards.\nHave a blast in Snowboard World!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nПробегите по зимней сказке и соберите праздничные награды.\nПрокатись по миру сноуборда!"
+          },
+          {
+            "version": "6.9.1",
+            "date": "2023-12-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.0",
+            "date": "2024-01-31",
+            "changes": "FESTIVE FORTUNE\nFortune Tom arrives in Dragon Dash! Celebrate the year of the dragon with the epic event. Run, collect dragon tokens and unlock rewards! Let the dragon call bring fortune to all this Lunar New Year!\n\nПРАЗДНИЧНАЯ УДАЧА\nУдачливый Том прибыл в «Бег дракона»! Отпразднуйте год дракона с этим потрясающим событием. Бегите, собирайте токены дракона и открывайте награды! Пусть зов дракона принесёт удачу всем в этом Лунном Новом году!"
+          },
+          {
+            "version": "7.1",
+            "date": "2024-03-14",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "7.1.1",
+            "date": "2024-03-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.2.1",
+            "date": "2024-04-25",
+            "changes": "DINO ALERT!\nDash into the Dino World event! The more you progress, the more dinosaurs appear.\nCollect dino eggs to unlock two new characters, amazing dino stickers and try out two new vehicles! This event is dino-mite!\n\nВНИМАНИЕ: ДИНОЗАВРЫ!\nЗабегайте в Мир динозавров! Чем дальше вы бежите, тем больше появляется динозавров.\nСобирайте яйца динозавров, чтобы открыть двух новых героев, получить потрясающие наклейки и попробовать два новых транспортных средства. Мероприятие — просто ДИНОмит!"
+          },
+          {
+            "version": "7.2.2",
+            "date": "2024-05-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.3",
+            "date": "2024-07-11",
+            "changes": "IT'S TIME TO GAME\n- 2 new characters to unlock\n- revamped running track\n- skating added\n- score goals while running or skating\n\nПОРА ИГРАТЬ\n— можно открыть 2 новых героев\n— переделанная дорожка для бега\n— добавлено катание на скейте\n— забивайте гол на бегу или на скейте"
+          },
+          {
+            "version": "7.3.1",
+            "date": "2024-07-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "7.4.1",
+            "date": "2024-08-29",
+            "changes": "NEW TOKEN EVENT: RESTORE THE PLANET\nCollect trash and track your progress in the all-new token event. The more you run, the more waste you'll recycle, unlocking milestone rewards like the Eco Angela outfit.\n\nНОВОЕ ТОКЕН-СОБЫТИЕ: ВОССТАНОВИТЕ ПЛАНЕТУ\nСобирайте мусор и отслеживайте свой прогресс в новом событии с токенами. Чем дольше вы бежите, тем больше отходов вы переработаете, открывая важные награды, такие как наряд Эко Анджелы."
+          },
+          {
+            "version": "7.5",
+            "date": "2024-10-17",
+            "changes": "Scare the robber away!\nCelebrate Halloween with spooky outfits, decorations and rewards.\n\nОтпугни грабителя!\nОтпразднуйте Хэллоуин со страшными нарядами, украшениями и наградами."
+          },
+          {
+            "version": "7.6",
+            "date": "2024-12-12",
+            "changes": "HAPPY HOLIDAYS!\nRun through a winter wonderland and collect festive rewards.\nHave a blast in Snowboard World!\n\nСЧАСТЛИВЫХ ПРАЗДНИКОВ!\nПробегите по зимней сказке и соберите праздничные награды.\nПрокатись по миру сноуборда!"
+          },
+          {
+            "version": "7.6.1",
+            "date": "2025-01-10",
+            "changes": "SNAKE DASH EVENT IS HERE!\n\n- Race & collect snake tokens\n- Grow your snake friend\n- Unlock a special outfit for Talking Tom\n- SSSLITHER into a golden year with us\n\nСОБЫТИЕ «БРОСОК ЗМЕИ» УЖЕ ЗДЕСЬ!\n\n— Бегите и собирайте змеиные токены\n— Растите свою подругу-змею\n— Откройте особый наряд для Говорящего Тома\n— ПРИС-С-С-СОЕДИНЯЙТЕСЬ к празднованию золотого года"
+          },
+          {
+            "version": "25.1.1",
+            "date": "2025-02-13",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.1.2",
+            "date": "2025-02-28",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.1.5",
+            "date": "2025-03-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2",
+            "date": "2025-05-22",
+            "changes": "PEDAL INTO ACTION\n- run AND bike through the city\n- collect bottle tokens\n- unlock prizes\n- get brand-new Cyclist Angela and Champion Tom outfits\nDON'T MISS OUT: Pirate Treasures digging event with legendary rewards!\n\nUpdate now and start racing!\n\nПЕДАЛЬ В ПОЛ\n— бегайте и ездите на велосипеде по городу\n— собирайте токены-бутылки\n— открывайте призы\n— получайте новые наряда Велосипедистки Анджелы и Чемпиона Тома\nНЕ УПУСТИТЕ: раскопки пиратских сокровищ с легендарными наградами!\n\nОбновитесь сейчас и начните гонку!"
+          },
+          {
+            "version": "25.2.1",
+            "date": "2025-06-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.5",
+            "date": "2025-07-04",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.3.2",
+            "date": "2025-07-25",
+            "changes": "EXPLORE THREE SIDE WORLDS!\nDive deep for underwater treasures!\n\nИССЛЕДУЙ ТРИ БОКОВЫХ МИРА!\nНыряй глубже и найди подводные сокровища!"
+          },
+          {
+            "version": "25.3.3",
+            "date": "2025-08-05",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\nPlay special events to collect tokens and earn rewards.\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!\nПроходите особые мероприятия, чтобы собирать токены и получать награды."
+          },
+          {
+            "version": "25.4.2",
+            "date": "2025-09-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.3",
+            "date": "2025-09-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.5",
+            "date": "2025-09-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.6",
+            "date": "2025-10-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.5.1",
+            "date": "2025-12-02",
+            "changes": "BIKE OR SKATEBOARD?\n- Running is overrated\n- Pick a bike or a skateboard and race.\n\nВЕЛОСИПЕД ИЛИ СКЕЙТ?\n— Бег переоценен\n— Выберите велосипед или скейт и поезжайте наперегонки."
+          },
+          {
+            "version": "25.5.11",
+            "date": "2025-12-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.1",
+            "date": "2026-02-12",
+            "changes": "VIVA O CARNAVAL!\n- Dash through the colorful streets of Carnival\n- Get tokens in party zones with speakers\n- Unlock two new colorful outfits\n- More fun: bug fixes & sneaky surprises\n\nVIVA O CARNAVAL!\n— Бегите по ярким улицам карнавала\n— Собирайте токены в зонах вечеринки с динамиками\n— Откройте два новых ярких наряда\n— Больше веселья: исправление багов и скрытые сюрпризы"
+          },
+          {
+            "version": "26.1.2",
+            "date": "2026-02-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.9",
+            "date": "2026-03-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.10",
+            "date": "2026-03-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.3",
+            "date": "2026-04-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3",
+            "date": "2026-06-03",
+            "changes": "NEW: SOCCER FEVER\n- New soccer token event with big rewards\n- Collect tokens and unlock special surprises\n- Unlock the brand-new Goalkeeper Ginger\n- Performance improvements and bug fixes\n\nНОВИНКА: ФУТБОЛЬНАЯ ЛИХОРАДКА\n— Новое футбольное мероприятие с токенами, дающее крупные награды\n— Собирайте токены и открывайте особые сюрпризы\n— Откройте нового Вратаря Джинджера\n— Улучшение быстродействия и исправление ошибок"
+          },
+          {
+            "version": "26.3.10",
+            "date": "2026-07-07",
+            "changes": "NEW: ANNIVERSARY CELEBRATION\n- Celebrate by running through the birthday world\n- All players can claim Tom's Birthday Outfit\n- Try the new, challenging mode: Arena Wipeout\n- Experience riding the colorful new plane & bike\n\nНОВИНКА: ПРАЗДНОВАНИЕ ГОДОВЩИНЫ\n— Празднуйте, пробежав через мир дня рождения\n— Все игроки могут получить наряд Тома на день рожденья\n— Попробуйте новый сложный режим: разгром на арене\n— Катайтесь на новом ярком самолёте и байке"
+          },
+          {
+            "version": "26.3.15",
+            "date": "2026-07-14",
+            "changes": "10 YEARS OF RUNNING\n- Explore the all-new birthday party world\n- Grab Tom’s Birthday Outfit for free\n- Jump into Arena Wipeout and test your skills\n- Cruise with the new plane and bike\n\n10 ЛЕТ БЕГА\n— Исследуйте новый мир дня рождения\n— Получите бесплатный наряд Тома на день рождения\n— Попробуйте разгром на арене и испытайте свои навыки\n— Катайтесь на новом самолёте и байке"
+          },
+          {
+            "version": "26.3.16",
+            "date": "2026-08-10",
+            "changes": "NEW: ANNIVERSARY CELEBRATION\n- Celebrate by running through the birthday world\n- All players can claim Tom's Birthday Outfit\n- Try the new, challenging mode: Arena Wipeout\n\nНОВИНКА: ПРАЗДНОВАНИЕ ГОДОВЩИНЫ\n— Празднуйте, пробежав через мир дня рождения\n— Все игроки могут получить наряд Тома на день рожденья\n— Попробуйте новый сложный режим: разгром на арене"
+          },
+          {
+            "version": "26.4.2",
+            "date": "2026-08-25",
+            "changes": "Enter the anime hero arc!\n\n- Collect glowing power orbs.\n- Unlock Talking Tom’s hero outfit for peak shonen energy.\n- Get Talking Angela’s kawaii outfit with major moe vibes.\n- Exclusive drips available for purchase in-app.\n\nПредставляем арку аниме-героя!\n\n— Собирайте сияющие шары силы.\n— Откройте наряд героя Говорящего Тома и получите максимум сёнен-энергии.\n— Получите кавайный наряд Говорящей Анджелы с вайбом моэ.\n— Эксклюзивные наряды доступны для покупки в приложении."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
