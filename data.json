@@ -12378,6 +12378,977 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "my-talking-hank-islands-мой-говорящий-хэнк-острова",
+      "name": "My Talking Hank: Islands | Мой Говорящий Хэнк: Острова",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2016-11-25",
+      "icon": "https://play-lh.googleusercontent.com/1HHH9fHxlfYPJAscKFRS7FV7gX1lpWsPzWokQRtMVa7W0hUlkTM329y9sahLqggG7YtM4B0v9CLlFQOR53Fj6g=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.0.534",
+            "versionCode": "2",
+            "date": "2016-11-25",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1.549",
+            "versionCode": "3, 4",
+            "date": "2016-11-29",
+            "changes": ""
+          },
+          {
+            "version": "1.0.10.643",
+            "versionCode": "20",
+            "date": "2016-12-20",
+            "changes": "NEW MINI GAME: Save the fish in brand new \"Fishtastica\" mini game.\nPREMIUM SUBSCRIPTION: Get great one of a kind discounts with a monthly subscription pack.\nANIMAL TIMERS: Never miss an animal again! With new timers you always know when the next animal is coming for a visit.\n\nНОВАЯ МИНИ-ИГРА: спасай рыб в новой мини-игре «Рыбомания».\nПРЕМИУМ-ПОДПИСКА: получай уникальные скидки вместе с ежемесячной подпиской.\nТАЙМЕР ДЛЯ ЖИВОТНЫХ: теперь ты не пропустишь ни одно животное! Новые таймеры подскажут, когда ждать гостей."
+          },
+          {
+            "version": "1.0.11.652",
+            "versionCode": "30",
+            "date": "2016-12-22",
+            "changes": "NEW MINI GAME: Save the fish in brand new \"Fishtastic\" mini game.\nANIMAL TIMERS: Never miss an animal again! With new timers you always know when the next animal is coming for a visit.\n\nНОВАЯ МИНИ-ИГРА: спасай рыб в новой мини-игре «Рыбомания».\nТАЙМЕР ДЛЯ ЖИВОТНЫХ: теперь ты не пропустишь ни одно животное! Новые таймеры подскажут, когда ждать гостей."
+          },
+          {
+            "version": "1.0.12.654",
+            "versionCode": "40",
+            "date": "2016-12-23",
+            "changes": "NEW MINI GAME: Save the fish in brand new \"Fishtastic\" mini game.\nANIMAL TIMERS: Never miss an animal again! With new timers you always know when the next animal is coming for a visit.\n\nНОВАЯ МИНИ-ИГРА: спасай рыб в новой мини-игре «Рыбомания».\nТАЙМЕР ДЛЯ ЖИВОТНЫХ: теперь ты не пропустишь ни одно животное! Новые таймеры подскажут, когда ждать гостей."
+          },
+          {
+            "version": "1.1.0.807",
+            "versionCode": "60",
+            "date": "2017-02-16",
+            "changes": "NEW OUTFITS: 12 new wardrobe items are waiting for you.\nCROCODILE MADNESS: A new animal species has arrived!\nEARN BIG: You can now get more coins in the game.\n\nНОВЫЕ НАРЯДЫ: тебя ждут 12 новых предметов гардероба.\nКРОКОДИЛЬНОЕ БЕЗУМИЕ: встречай новый вид животных!\nИГРАЙ ПО-КРУПНОМУ: теперь в игре можно заработать больше монет."
+          },
+          {
+            "version": "1.2.0.944",
+            "versionCode": "80",
+            "date": "2017-04-02",
+            "changes": "NEW MINI GAME: Smash fruits and get rewarded.\nBABY POTION: Play with cute baby Hank again.\n\nНОВАЯ МИНИ-ИГРА: уничтожай фрукты и получай награду.\nДЕТСКОЕ ЗЕЛЬЕ: играй с милым малышом Хэнком вечно."
+          },
+          {
+            "version": "1.2.1.950",
+            "versionCode": "90",
+            "date": "2017-04-03",
+            "changes": "NEW MINI GAME: Smash fruits and get rewarded.\nBABY POTION: Play with cute baby Hank again.\n\nНОВАЯ МИНИ-ИГРА: уничтожай фрукты и получай награду.\nДЕТСКОЕ ЗЕЛЬЕ: играй с милым малышом Хэнком вечно."
+          },
+          {
+            "version": "1.3.0.16",
+            "versionCode": "110",
+            "date": "2017-05-25",
+            "changes": "NEW MINI-GAME: Match 3 under the sea.\nAND ANOTHER ONE: Grow bubbles, earn rewards!\n\nНОВАЯ МИНИ-ИГРА: собери 3 в ряд на дне океана.\nИ ЕЩЁ ОДНА: расти пузырьки и получай награды!"
+          },
+          {
+            "version": "1.4.0.20",
+            "versionCode": "120",
+            "date": "2017-07-14",
+            "changes": "NEW MINI GAME: Match and catch monkeys with me – it's Bananas!\nVIDEO FOR FOOD: You can now watch a video to get food items!\nANIMAL TIP JAR: See which animals you missed and what they brought with them!\n\nНОВАЯ МИНИ-ИГРА: подбирай по цвету и лови мартышек со мной – до чего же весело!\nВИДЕО ЗА ЕДУ: теперь можно посмотреть видео, чтобы получить еду!\nБАНКА ДЛЯ ЧАЕВЫХ: посмотри пропущенных животных и что они с собой принесли!"
+          },
+          {
+            "version": "1.4.1.24",
+            "versionCode": "130",
+            "date": "2017-07-16",
+            "changes": "NEW MINI GAME: Match and catch monkeys with me – it's Bananas!\nVIDEO FOR FOOD: You can now watch a video to get food items!\nANIMAL TIP JAR: See which animals you missed and what they brought with them!\n\nНОВАЯ МИНИ-ИГРА: подбирай по цвету и лови мартышек со мной – до чего же весело!\nВИДЕО ЗА ЕДУ: теперь можно посмотреть видео, чтобы получить еду!\nБАНКА ДЛЯ ЧАЕВЫХ: посмотри пропущенных животных и что они с собой принесли!"
+          },
+          {
+            "version": "1.4.2.26",
+            "versionCode": "140",
+            "date": "2017-07-17",
+            "changes": "NEW MINI GAME: Match and catch monkeys with me – it's Bananas!\nVIDEO FOR FOOD: You can now watch a video to get food items!\nANIMAL TIP JAR: See which animals you missed and what they brought with them!\n\nНОВАЯ МИНИ-ИГРА: подбирай по цвету и лови мартышек со мной – до чего же весело!\nВИДЕО ЗА ЕДУ: теперь можно посмотреть видео, чтобы получить еду!\nБАНКА ДЛЯ ЧАЕВЫХ: посмотри пропущенных животных и что они с собой принесли!"
+          },
+          {
+            "version": "1.5.0.1479",
+            "versionCode": "150",
+            "date": "2017-11-10",
+            "changes": "FROG ONESIE: Froggin' cute and fit for a prince!\nNEW ANIMALS: Epic bouncy frogs.\nHAPPINESS METER: Keep Hank happy!\n\nПИЖАМКА-ЛЯГУШКА: ужасно милая – подойдёт даже для принца!\nНОВЫЕ ЖИВОТНЫЕ: классные лягушки-попрыгушки.\nШКАЛА СЧАСТЬЯ: не дай Хэнку загрустить!"
+          },
+          {
+            "version": "1.6.0.1557",
+            "versionCode": "160",
+            "date": "2018-05-22",
+            "changes": "Keep Hank happy, fed and rested - and explore his tropical island home! Lure animals out with delicious food and tempting toys. You never know what you might see next!\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.1.1562",
+            "versionCode": "170",
+            "date": "2018-05-23",
+            "changes": "Keep Hank happy, fed and rested - and explore his tropical island home! Lure animals out with delicious food and tempting toys. You never know what you might see next!\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.2.1566",
+            "versionCode": "180",
+            "date": "2018-05-24",
+            "changes": "Keep Hank happy, fed and rested - and explore his tropical island home! Lure animals out with delicious food and tempting toys. You never know what you might see next!\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.7.0.29",
+            "versionCode": "190",
+            "date": "2018-06-26",
+            "changes": "NEW MINI-GAME: Help Talking Hank get rid of trash in the sea. Let's clean the ocean!\nNEW OUTFITS: Try out the Jester, Sheriff, and Astronaut outfits now in Hank's wardrobe.\nNEW HEADGEAR: Two amazing new styles to make Hank look super fun!\n\nНОВАЯ МИНИ-ИГРА: помоги Говорящему Хэнку избавиться от морского мусора. Давай очистим океан!\nНОВЫЕ КОСТЮМЫ: попробуй новинки из гардероба Хэнка – костюм шута, шерифа и космонавта.\nНОВЫЕ ШЛЯПЫ: два потрясающих стиля – Хэнк будет выглядеть суперсмешно!"
+          },
+          {
+            "version": "1.8.0.135",
+            "versionCode": "210",
+            "date": "2018-08-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.8.1.139",
+            "versionCode": "220",
+            "date": "2018-08-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.8.2.159",
+            "versionCode": "230",
+            "date": "2018-09-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.8.3.161",
+            "versionCode": "240",
+            "date": "2018-09-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.9.0.23",
+            "versionCode": "250",
+            "date": "2020-03-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.9.1.26",
+            "versionCode": "260",
+            "date": "2020-03-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.9.2.31",
+            "versionCode": "270",
+            "date": "2020-07-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.0.0.90",
+            "versionCode": "280",
+            "date": "2020-10-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.0.1.99",
+            "versionCode": "290",
+            "date": "2020-12-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.0.2.101",
+            "versionCode": "300",
+            "date": "2021-04-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1.0.111",
+            "versionCode": "310",
+            "date": "2021-04-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1.1.115",
+            "versionCode": "320",
+            "date": "2021-04-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1.2.123",
+            "versionCode": "330",
+            "date": "2021-05-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1.3.159",
+            "versionCode": "340",
+            "date": "2021-08-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.2.0.173",
+            "versionCode": "370",
+            "date": "2022-07-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.0.216",
+            "versionCode": "380",
+            "date": "2022-10-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.1.228",
+            "versionCode": "390",
+            "date": "2022-10-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.2.246",
+            "versionCode": "400",
+            "date": "2022-10-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.0.393",
+            "versionCode": "410",
+            "date": "2022-12-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.4.1383",
+            "versionCode": "440",
+            "date": "2023-09-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.5.1546",
+            "versionCode": "450",
+            "date": "2023-10-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.6.1585",
+            "versionCode": "460",
+            "date": "2023-10-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.7.1644",
+            "versionCode": "470",
+            "date": "2023-10-18",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6.0.1727",
+            "versionCode": "480",
+            "date": "2023-10-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.0.1814",
+            "versionCode": "490",
+            "date": "2023-11-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.0.1919",
+            "versionCode": "500",
+            "date": "2023-12-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.1.1947",
+            "versionCode": "510",
+            "date": "2023-12-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.2.2049",
+            "versionCode": "520",
+            "date": "2024-02-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.3.2117",
+            "versionCode": "530",
+            "date": "2024-02-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.4.2172",
+            "versionCode": "540",
+            "date": "2024-02-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.0.2201",
+            "versionCode": "550",
+            "date": "2024-03-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.30.21284",
+            "versionCode": "560",
+            "date": "2024-05-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.31.23699",
+            "versionCode": "570",
+            "date": "2024-05-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.3.2691",
+            "versionCode": "600",
+            "date": "2024-05-23",
+            "changes": "READY FOR YOUR NEXT ADVENTURE?\nThis summer Talking Hank is moving to a brand new island! You'll be able to discover hidden treasures and take care of new animal friends. In the meantime, the current animals will be much more happy to strike a pose for the camera, so hurry and start taking pictures!\n\nГОТОВЫ К СЛЕДУЮЩЕМУ ПРИКЛЮЧЕНИЮ?\nЭтим летом Говорящий Хэнк переезжает на новый остров! Вы сможете найти скрытые сокровища и заботиться о новых друзьях-животных. А пока что текущие животные с радостью будут позировать для камеры, так что поторопитесь и начинайте фотографировать!"
+          },
+          {
+            "version": "3.0.0.27733",
+            "versionCode": "700",
+            "date": "2024-06-13",
+            "changes": "ADVENTURE CALLS!\n- Explore a vibrant tropical island\n- Take care of your fun-loving pal Hank\n- Connect with amazing animals\n- Unlock cool games and activities\n\nNEW EXPERIENCES\nHank can now craft sandcastles and dig up treasures.\n\nNEW MINI-GAMES\nEnjoy the tasty fun of the Candy Connect matching game and more.\n\nNEW ANIMAL ACTIVITIES\nUncover new surprises with the elephant, turtle, and lion.\n\nПРИКЛЮЧЕНИЯ ЗОВУТ!\n— исследуйте яркий тропический остров;\n— заботьтесь о своём весёлом друге Хэнке;\n— общайтесь с потрясающими животными;\n— откройте увлекательные игры и занятия.\n\nНОВЫЙ ОПЫТ\nТеперь Хэнк может строить замки из песка и выкапывать сокровища.\n\nНОВЫЕ МИНИ-ИГРЫ\nНаслаждайтесь вкусом игры «Соедини сладости» и не только.\n\nНОВЫЕ ЗАНЯТИЯ С ЖИВОТНЫМИ\nОткройте новые сюрпризы со слоном, черепахой и дельфином."
+          },
+          {
+            "version": "3.0.1.27887",
+            "versionCode": "710",
+            "date": "2024-06-17",
+            "changes": "ADVENTURE CALLS!\n- Explore a vibrant tropical island\n- Take care of your fun-loving pal Hank\n- Connect with amazing animals\n- Unlock cool games and activities\n\nNEW EXPERIENCES\nHank can now craft sandcastles and dig up treasures.\n\nNEW MINI-GAMES\nEnjoy the tasty fun of the Candy Connect matching game and more.\n\nNEW ANIMAL ACTIVITIES\nUncover new surprises with the elephant, turtle, and lion.\n\nПРИКЛЮЧЕНИЯ ЗОВУТ!\n— исследуйте яркий тропический остров;\n— заботьтесь о своём весёлом друге Хэнке;\n— общайтесь с потрясающими животными;\n— откройте увлекательные игры и занятия.\n\nНОВЫЙ ОПЫТ\nТеперь Хэнк может строить замки из песка и выкапывать сокровища.\n\nНОВЫЕ МИНИ-ИГРЫ\nНаслаждайтесь вкусом игры «Соедини сладости» и не только.\n\nНОВЫЕ ЗАНЯТИЯ С ЖИВОТНЫМИ\nОткройте новые сюрпризы со слоном, черепахой и дельфином."
+          },
+          {
+            "version": "3.0.2.28061",
+            "versionCode": "720",
+            "date": "2024-06-20",
+            "changes": "ADVENTURE CALLS!\n- Explore a vibrant tropical island\n- Take care of your fun-loving pal Hank\n- Connect with amazing animals\n- Unlock cool games and activities\n\nNEW EXPERIENCES\nHank can now craft sandcastles and dig up treasures.\n\nNEW MINI-GAMES\nEnjoy the tasty fun of the Candy Connect matching game and more.\n\nNEW ANIMAL ACTIVITIES\nUncover new surprises with the elephant, turtle, and lion.\n\nПРИКЛЮЧЕНИЯ ЗОВУТ!\n— исследуйте яркий тропический остров;\n— заботьтесь о своём весёлом друге Хэнке;\n— общайтесь с потрясающими животными;\n— откройте увлекательные игры и занятия.\n\nНОВЫЙ ОПЫТ\nТеперь Хэнк может строить замки из песка и выкапывать сокровища.\n\nНОВЫЕ МИНИ-ИГРЫ\nНаслаждайтесь вкусом игры «Соедини сладости» и не только.\n\nНОВЫЕ ЗАНЯТИЯ С ЖИВОТНЫМИ\nОткройте новые сюрпризы со слоном, черепахой и дельфином."
+          },
+          {
+            "version": "3.0.4.29564",
+            "versionCode": "100740",
+            "date": "2024-07-23",
+            "changes": "NEW SUMMER ACTIVITIES\nPlay water polo or build sandcastles.\n\nMEET NEW FRIENDS\nDiscover all the animals and get ready to have fun.\n\nNEW MINI-GAMES\nEnjoy the tasty fun of the Candy Connect matching game and more.\n\nНОВЫЕ ЛЕТНИЕ ЗАНЯТИЯ\nИграйте в водное поло или стройте замки из песка.\n\nЗАВОДИТЕ НОВЫХ ДРУЗЕЙ\nОткройте всех животных и приготовьтесь веселиться.\n\nНОВЫЕ МИНИ-ИГРЫ\nНаслаждайтесь вкусом игры «Соедини сладости» и не только."
+          },
+          {
+            "version": "3.0.5.30005",
+            "versionCode": "100750",
+            "date": "2024-07-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nNew summer activities.\n\nNew mini-games.\n\nИсправление ошибок и незначительные улучшения геймплея.\n\nновые летние занятия.\n\nновые мини-игры."
+          },
+          {
+            "version": "3.0.6.30832",
+            "versionCode": "100760",
+            "date": "2024-08-12",
+            "changes": "Join Hank's new island adventure!\n\nPlay water polo or build sandcastles.\n\nCollect coins, get hilarious outfits, and exotic treats!\n\nDiscover all the animals and get ready to have fun.\n\nОтправьтесь в приключения на острове с Хэнком!\n\nИграйте в водное поло или стройте замки из песка.\n\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!\n\nОткройте всех животных и приготовьтесь веселиться."
+          },
+          {
+            "version": "3.1.0.31413",
+            "versionCode": "100800",
+            "date": "2024-08-27",
+            "changes": "Psst... the devs fixed some minor bugs, but I want you to catch the ones in my game.\nHave you seen the SHINY ones that only come out at night?\n\nx Talking Hank"
+          },
+          {
+            "version": "3.1.1.31469",
+            "versionCode": "100810",
+            "date": "2024-08-29",
+            "changes": "Hey, listen up! The devs cleaned up some minor bugs, but there's still some mysterious ones lurking in my game.\nCan you spot the glowing ones that come out only under the moonlight?\n\nПослушайте! Разработчики подчистили мелких «жучков» в программе, но в моей игре они ещё остались. Сможете заметить светящихся жучков, которые выходят только при свете луны?"
+          },
+          {
+            "version": "3.2.0.32905",
+            "versionCode": "100900",
+            "date": "2024-09-26",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.5.33646",
+            "versionCode": "101000",
+            "date": "2024-10-10",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.6.33781",
+            "versionCode": "101010",
+            "date": "2024-10-14",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.7.34437",
+            "versionCode": "101020",
+            "date": "2024-10-23",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.8.34518",
+            "versionCode": "101030",
+            "date": "2024-10-24",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.9.34764",
+            "versionCode": "101040",
+            "date": "2024-10-29",
+            "changes": "Have a spooktacular time at Hank's Haunted Island!\n\nBrace yourself for tricks, treats, and a meet-and-scream with Hankenstein! Our tropical paradise has gone full spooky mode, so throw on your creepiest costume and go wild exploring the island with pumpkins galore!\n\nПриготовьтесь страшно весело провести время на острове Хэнка!\n\nПриготовьтесь к сладостям, гадостям и встрече с Хэнкинштейном! Наш тропический рай ужасно изменился, поэтому надевайте свой самый страшный костюм и исследуйте весь усеянный тыквами остров!"
+          },
+          {
+            "version": "3.2.10.34932",
+            "versionCode": "101050",
+            "date": "2024-11-04",
+            "changes": "Join Hank's new island adventure!\n\nNEW EXPERIENCES\nPlay water polo or build sandcastles.\n\nUNLOCK COOL REWARDS\nCollect coins, get hilarious outfits, and exotic treats!\n\nMEET NEW FRIENDS\nDiscover all the animals and get ready to have fun.\n\nОтправьтесь в приключения на острове с Хэнком!\n\nНОВЫЙ ОПЫТ\nИграйте в водное поло или стройте замки из песка.\n\nОТКРОЙТЕ КЛАССНЫЕ НАГРАДЫ\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!\n\nЗАВОДИТЕ НОВЫХ ДРУЗЕЙ\nОткройте всех животных и приготовьтесь веселиться."
+          },
+          {
+            "version": "3.2.11.35337",
+            "versionCode": "101060",
+            "date": "2024-11-14",
+            "changes": "Hey, listen up! The devs cleaned up some minor bugs, but there's still some mysterious ones lurking in my game.\nCan you spot the glowing ones that come out only under the moonlight?\n\nПослушайте! Разработчики подчистили мелких «жучков» в программе, но в моей игре они ещё остались. Сможете заметить светящихся жучков, которые выходят только при свете луны?"
+          },
+          {
+            "version": "3.3.0.36406",
+            "versionCode": "101100",
+            "date": "2024-12-03",
+            "changes": "WINTER ISLAND WONDERLAND\nCozy up for the season with new items and activities. Enjoy themed foods, decorations, and more. Join the candy hunt, collect coins, and unlock Hank's festive outfit.\n\nЗИМНЯЯ СКАЗКА НА ОСТРОВЕ\nВстречайте праздники с новыми предметами и занятиями. Наслаждайтесь тематической едой, украшениями и не только. Вступайте в охоту за леденцами, собирайте монеты и откройте праздничный наряд Хэнка."
+          },
+          {
+            "version": "3.3.1.36550",
+            "versionCode": "101110",
+            "date": "2024-12-06",
+            "changes": "WINTER ISLAND WONDERLAND\nCozy up for the season with new items and activities. Enjoy themed foods, decorations, and more. Join the candy hunt, collect coins, and unlock Hank's festive outfit.\n\nЗИМНЯЯ СКАЗКА НА ОСТРОВЕ\nВстречайте праздники с новыми предметами и занятиями. Наслаждайтесь тематической едой, украшениями и не только. Вступайте в охоту за леденцами, собирайте монеты и откройте праздничный наряд Хэнка."
+          },
+          {
+            "version": "3.3.2.37048",
+            "versionCode": "101120",
+            "date": "2024-12-16",
+            "changes": "WINTER ISLAND WONDERLAND\nCozy up for the season with new items and activities. Enjoy themed foods, decorations, and more. Join the candy hunt, collect coins, and unlock Hank's festive outfit.\n\nЗИМНЯЯ СКАЗКА НА ОСТРОВЕ\nВстречайте праздники с новыми предметами и занятиями. Наслаждайтесь тематической едой, украшениями и не только. Вступайте в охоту за леденцами, собирайте монеты и откройте праздничный наряд Хэнка."
+          },
+          {
+            "version": "3.4.0.40094",
+            "versionCode": "101200",
+            "date": "2025-02-20",
+            "changes": "Massive update: ARCTIC ISLAND IS HERE!\n\n- EXPLORE A NEW FROZEN WORLD\n- MEET NEW SNOWY ANIMALS\n- DISCOVER ARCTIC TREASURES & OUTFITS\n- WATCH OUT FOR CHILLY SURPRISES!\n\nОгромное обновление: АРКТИЧЕСКИЙ ОСТРОВ УЖЕ ЗДЕСЬ!\n\n— ИССЛЕДУЙТЕ НОВЫЙ МОРОЗНЫЙ МИР\n— ЗНАКОМЬТЕСЬ С НОВЫМИ СНЕЖНЫМИ ЖИВОТНЫМИ\n— ОТКРОЙТЕ АРКТИЧЕСКИЕ СОКРОВИЩА И НАРЯДЫ\n— НЕ УПУСТИТЕ КЛАССНЫЕ СЮРПРИЗЫ!"
+          },
+          {
+            "version": "3.4.1.40165",
+            "versionCode": "101210",
+            "date": "2025-02-24",
+            "changes": "Bundle Up – A NEW ISLAND IS HERE!\n\n- Step into a sparkling frozen wonderland!\n- Say hello to fluffy, frosty animal friends!\n- Hunt for hidden Arctic treasures and dazzling outfits!"
+          },
+          {
+            "version": "3.4.2.40203",
+            "versionCode": "101220",
+            "date": "2025-02-25",
+            "changes": "Massive update: ARCTIC ISLAND IS HERE!\n\n- EXPLORE A NEW FROZEN WORLD\n- MEET NEW SNOWY ANIMALS\n- DISCOVER ARCTIC TREASURES & OUTFITS\n- WATCH OUT FOR CHILLY SURPRISES!\n\nNote: The feature may be subject to additional prices in some territories.\n\nОгромное обновление: АРКТИЧЕСКИЙ ОСТРОВ УЖЕ ЗДЕСЬ!\n\n— ИССЛЕДУЙТЕ НОВЫЙ МОРОЗНЫЙ МИР\n— ЗНАКОМЬТЕСЬ С НОВЫМИ СНЕЖНЫМИ ЖИВОТНЫМИ\n— ОТКРОЙТЕ АРКТИЧЕСКИЕ СОКРОВИЩА И НАРЯДЫ\n— НЕ УПУСТИТЕ КЛАССНЫЕ СЮРПРИЗЫ!\n\nВнимание: в некоторых регионах за функцию может взиматься дополнительная плата."
+          },
+          {
+            "version": "3.4.3.40561",
+            "versionCode": "101230",
+            "date": "2025-03-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.4.41134",
+            "versionCode": "101240",
+            "date": "2025-03-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.0.42702",
+            "versionCode": "200305000",
+            "date": "2025-05-15",
+            "changes": "Take off with Hank on a cosmic adventure!\nGrab star tokens, snack on Space Jello, and heal booboos like a pro—from busted bones to belly aches. Scope the stars, chill with the telescope, and unlock the ultimate prize: Hank's legendary Star Onesie.\n\nОтправьтесь в космическое путешествие вместе с Хэнком!\nХватайте токены-звёзды, закусите космическим желе и лечите вавки как профи — от сломанных костей до болей в животе. Смотрите на звёзды, развлекайтесь с телескопом и откройте лучший приз: легендарную звёздную пижамку Хэнка."
+          },
+          {
+            "version": "3.5.1.42857",
+            "versionCode": "200305010",
+            "date": "2025-05-21",
+            "changes": "Take off with Hank on a cosmic adventure!\nGrab star tokens, snack on Space Jello, and heal booboos like a pro—from busted bones to belly aches. Scope the stars, chill with the telescope, and unlock the ultimate prize: Hank's legendary Star Onesie.\n\nОтправьтесь в космическое путешествие вместе с Хэнком!\nХватайте токены-звёзды, закусите космическим желе и лечите вавки как профи — от сломанных костей до болей в животе. Смотрите на звёзды, развлекайтесь с телескопом и откройте лучший приз: легендарную звёздную пижамку Хэнка."
+          },
+          {
+            "version": "3.5.5.43101",
+            "versionCode": "200305050",
+            "date": "2025-05-29",
+            "changes": "Collect star tokens, eat Space Jello, and explore the stars. Try the new step-by-step healing for booboos like broken bones and tummy aches.\nCan you unlock the epic Star Onesie for Hank?\n\nСобирайте токены-звёзды, ешьте космическое желе и исследуйте звёзды. Попробуйте новое пошаговое лечение вавок, например, сломанных костей и болей в животе.\nСможете открыть потрясающую звёздную пижамку для Хэнка?"
+          },
+          {
+            "version": "3.6.0.43582",
+            "versionCode": "200306000",
+            "date": "2025-06-19",
+            "changes": "SUMMER VIBES UPDATE\n- The island's gone tropical!\n- Enjoy new decorations, food, and bath bombs.\n- Play in the new event to unlock themed rewards.\n\nОБНОВЛЕНИЕ «ЛЕТНЕЕ НАСТРОЕНИЕ»\n— Остров стал тропическим!\n— Наслаждайтесь новыми украшениями, едой и бомбочками для ванны.\n— Участвуйте в новом мероприятии и откройте тематические награды."
+          },
+          {
+            "version": "3.6.1.43674",
+            "versionCode": "200306010",
+            "date": "2025-06-23",
+            "changes": "SUMMER VIBES UPDATE\n- The island's gone tropical!\n- Enjoy new decorations, food, and bath bombs.\n- Play in the new event to unlock themed rewards.\n\nОБНОВЛЕНИЕ «ЛЕТНЕЕ НАСТРОЕНИЕ»\n— Остров стал тропическим!\n— Наслаждайтесь новыми украшениями, едой и бомбочками для ванны.\n— Участвуйте в новом мероприятии и откройте тематические награды."
+          },
+          {
+            "version": "3.7.0.45254",
+            "versionCode": "200307000",
+            "date": "2025-08-13",
+            "changes": "YOUR ISLAND, YOUR SHIP\n- Personalize Hank's ship with pirate, viking, mermaid or ghost designs\n- Your creation stays on the island forever so make it yours\n\nВАШ ОСТРОВ, ВАШ КОРАБЛЬ\n— Раскрасьте корабль Хэнка и нарисуйте пирата, викинга, русалку или призрака\n— Ваши творения останутся на острове навсегда, так что выразите себя"
+          },
+          {
+            "version": "3.7.5.46010",
+            "versionCode": "200307050",
+            "date": "2025-09-16",
+            "changes": "Collect star tokens, eat Space Jello, and explore the stars. Try the new step-by-step healing for booboos like broken bones and tummy aches.\nCan you unlock the epic Star Onesie for Hank?\n\nСобирайте токены-звёзды, ешьте космическое желе и исследуйте звёзды. Попробуйте новое пошаговое лечение вавок, например, сломанных костей и болей в животе.\nСможете открыть потрясающую звёздную пижамку для Хэнка?"
+          },
+          {
+            "version": "3.7.6.46135",
+            "versionCode": "200307060",
+            "date": "2025-09-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.7.46443",
+            "versionCode": "200307070",
+            "date": "2025-10-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.47087",
+            "versionCode": "200308000",
+            "date": "2025-10-28",
+            "changes": "Talking Tom is visiting for the first time... for a BOAT RACE!\n- RACE against Tom! Dodge, shoot, and collect tokens to win.\n- HEAL Hank's flu! Help him recover and enjoy his fresh new look.\n- ROCK a new outfit for Talking Hank.\n\nГоворящий Том приехал впервые… на ЛОДОЧНУЮ ГОНКУ!\n— СОРЕВНУЙТЕСЬ с Томом! Уворачивайтесь, стреляйте и собирайте токены, чтобы выиграть.\n— ВЫЛЕЧИТЕ простуду Хэнка! Помогите ему выздороветь и почувствовать себя здоровым.\n— ЗАЖИГАЙТЕ в новом наряде Говорящего Хэнка."
+          },
+          {
+            "version": "3.8.6.47463",
+            "versionCode": "200308060",
+            "date": "2025-11-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.0.47552",
+            "versionCode": "200309000",
+            "date": "2025-12-03",
+            "changes": "TALKING ANGELA JOINS THE RACES\n- Talking Angela's ready to race\n- Team up with her and Tom in epic boat battles and make waves.\n- Who's your fav champion?\n\nГОВОРЯЩАЯ АНДЖЕЛА ВСТУПАЕТ В ГОНКУ\n— Говорящая Анджела готова к гонке\n— Объедините усилия с ней и Томом в потрясающей битве на лодках и пустите волну.\n— Кто ваш любимый чемпион?"
+          },
+          {
+            "version": "3.9.1.47586",
+            "versionCode": "200309010",
+            "date": "2025-12-08",
+            "changes": "TALKING ANGELA JOINS THE RACES\n- Talking Angela's ready to race\n- Team up with her and Tom in epic boat battles and make waves.\n- Who's your fav champion?\n\nГОВОРЯЩАЯ АНДЖЕЛА ВСТУПАЕТ В ГОНКУ\n— Говорящая Анджела готова к гонке\n— Объедините усилия с ней и Томом в потрясающей битве на лодках и пустите волну.\n— Кто ваш любимый чемпион?"
+          },
+          {
+            "version": "26.1.0.47958",
+            "versionCode": "202601000",
+            "date": "2026-02-26",
+            "changes": "Join Hank's new island adventure!\n\nPlay water polo or build sandcastles.\n\nCollect coins, get hilarious outfits, and exotic treats!\n\nОтправьтесь в приключения на острове с Хэнком!\n\nИграйте в водное поло или стройте замки из песка.\n\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!"
+          },
+          {
+            "version": "26.2.0.48082",
+            "versionCode": "202602000",
+            "date": "2026-04-22",
+            "changes": "Whispering alert! The devs tidied up some bugs, but I need you to uncover the hidden ones in my game.\nHave you encountered the sparkling bugs that sneak out after sunset?\n\nx Talking Hank\n\nВнимание! Разработчики починили «жучков», но в моей игре ещё осталось несколько скрытых.\nВам встречались сверкающие жучки, которые появляются после захода солнца?\n\nГоворящий Хэнк"
+          },
+          {
+            "version": "26.2.1.48172",
+            "versionCode": "202602010",
+            "date": "2026-05-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.0.48296",
+            "versionCode": "202603000",
+            "date": "2026-07-07",
+            "changes": "SUMMER VIBES UPDATE\n- The island's gone tropical!\n- Enjoy new decorations, food, and bath bombs.\n- Play in the new event to unlock themed rewards.\n\nОБНОВЛЕНИЕ «ЛЕТНЕЕ НАСТРОЕНИЕ»\n— Остров стал тропическим!\n— Наслаждайтесь новыми украшениями, едой и бомбочками для ванны.\n— Участвуйте в новом мероприятии и откройте тематические награды."
+          },
+          {
+            "version": "26.3.2.48343",
+            "versionCode": "202603020",
+            "date": "2026-07-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.0.48467",
+            "versionCode": "202604000",
+            "date": "2026-08-27",
+            "changes": "Talking Angela is visiting the Island!\n- race her with ships\n- dodge obstacles, blast duckies, and collect tokens\n- unlock unique boat parts to build Talking Angela's ship\n\nГоворящая Анджела приезжает на остров!\n— Устройте с ней гонку на кораблях\n— Уворачивайтесь от препятствий, пуляйте в уточек и собирайте токены\n— Откройте уникальные части лодки, чтобы построить корабль Говорящей Анджелы"
+          },
+          {
+            "version": "26.4.1.48473",
+            "versionCode": "202604010",
+            "date": "2026-08-28",
+            "changes": "Talking Angela is visiting the Island!\n- race her with ships\n- dodge obstacles, blast duckies, and collect tokens\n- unlock unique boat parts to build Talking Angela's ship\n\nГоворящая Анджела приезжает на остров!\n— Устройте с ней гонку на кораблях\n— Уворачивайтесь от препятствий, пуляйте в уточек и собирайте токены\n— Откройте уникальные части лодки, чтобы построить корабль Говорящей Анджелы"
+          },
+          {
+            "version": "26.4.2.48490",
+            "versionCode": "202604020",
+            "date": "2026-09-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.3.48498",
+            "versionCode": "202604030",
+            "date": "2026-09-03",
+            "changes": "Talking Angela is visiting the Island!\n- race her with ships\n- dodge obstacles, blast duckies, and collect tokens\n- unlock unique boat parts to build Talking Angela's ship\n\nГоворящая Анджела приезжает на остров!\n— Устройте с ней гонку на кораблях\n— Уворачивайтесь от препятствий, пуляйте в уточек и собирайте токены\n— Откройте уникальные части лодки, чтобы построить корабль Говорящей Анджелы"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2016-12-02",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2016-12-04",
+            "changes": "Bug fixes."
+          },
+          {
+            "version": "1.0.13",
+            "date": "2017-01-06",
+            "changes": "NEW MINI GAME: Save the fish in brand new \"Fishtastic\" mini game.\nANIMAL TIMERS: Never miss an animal again! With new timers you always know when the next animal is coming for a visit.\n\nНОВАЯ МИНИ-ИГРА: спасай рыб в новой мини-игре «Рыбомания».\nТАЙМЕР ДЛЯ ЖИВОТНЫХ: теперь ты не пропустишь ни одно животное! Новые таймеры подскажут, когда ждать гостей."
+          },
+          {
+            "version": "1.0.15",
+            "date": "2017-01-24",
+            "changes": "NEW MINI GAME: Save the fish in brand new \"Fishtastica\" mini game.\nPREMIUM SUBSCRIPTION: Get great one of a kind discounts with a monthly subscription pack.\nANIMAL TIMERS: Never miss an animal again! With new timers you always know when the next animal is coming for a visit.\n\nНОВАЯ МИНИ-ИГРА: спасай рыб в новой мини-игре «Рыбомания».\nПРЕМИУМ-ПОДПИСКА: получай уникальные скидки вместе с ежемесячной подпиской.\nТАЙМЕР ДЛЯ ЖИВОТНЫХ: теперь ты не пропустишь ни одно животное! Новые таймеры подскажут, когда ждать гостей."
+          },
+          {
+            "version": "1.1",
+            "date": "2017-02-23",
+            "changes": "NEW OUTFITS: 12 new wardrobe items are waiting for you.\nCROCODILE MADNESS: A new animal species has arrived!\nEARN BIG: You can now get more coins in the game.\n\nНОВЫЕ НАРЯДЫ: тебя ждут 12 новых предметов гардероба.\nКРОКОДИЛЬНОЕ БЕЗУМИЕ: встречай новый вид животных!\nИГРАЙ ПО-КРУПНОМУ: теперь в игре можно заработать больше монет."
+          },
+          {
+            "version": "1.1.3",
+            "date": "2017-03-15",
+            "changes": "NEW OUTFITS: 12 new wardrobe items are waiting for you.\nCROCODILE MADNESS: A new animal species has arrived!\nEARN BIG: You can now get more coins in the game.\n\nНОВЫЕ НАРЯДЫ: тебя ждут 12 новых предметов гардероба.\nКРОКОДИЛЬНОЕ БЕЗУМИЕ: встречай новый вид животных!\nИГРАЙ ПО-КРУПНОМУ: теперь в игре можно заработать больше монет."
+          },
+          {
+            "version": "1.2.1",
+            "date": "2017-04-06",
+            "changes": "NEW MINI GAME: Smash fruits and get rewarded.\nBABY POTION: Play with cute baby Hank again.\n\nНОВАЯ МИНИ-ИГРА: уничтожай фрукты и получай награду.\nДЕТСКОЕ ЗЕЛЬЕ: играй с милым малышом Хэнком вечно."
+          },
+          {
+            "version": "1.2.2",
+            "date": "2017-05-15",
+            "changes": "NEW MINI GAME: Smash fruits and get rewarded.\nBABY POTION: Play with cute baby Hank again.\n\nНОВАЯ МИНИ-ИГРА: уничтожай фрукты и получай награду.\nДЕТСКОЕ ЗЕЛЬЕ: играй с милым малышом Хэнком вечно."
+          },
+          {
+            "version": "1.3",
+            "date": "2017-05-30",
+            "changes": "NEW MINI-GAME: Match 3 under the sea.\nAND ANOTHER ONE: Grow bubbles, earn rewards!\n\nНОВАЯ МИНИ-ИГРА: собери 3 в ряд на дне океана.\nИ ЕЩЁ ОДНА: расти пузырьки и получай награды!"
+          },
+          {
+            "version": "1.4",
+            "date": "2017-07-18",
+            "changes": "NEW MINI GAME: Match and catch monkeys with me – it's Bananas!\nVIDEO FOR FOOD: You can now watch a video to get food items!\nANIMAL TIP JAR: See which animals you missed and what they brought with them!\n\nНОВАЯ МИНИ-ИГРА: подбирай по цвету и лови мартышек со мной – до чего же весело!\nВИДЕО ЗА ЕДУ: теперь можно посмотреть видео, чтобы получить еду!\nБАНКА ДЛЯ ЧАЕВЫХ: посмотри пропущенных животных и что они с собой принесли!"
+          },
+          {
+            "version": "1.5",
+            "date": "2017-11-13",
+            "changes": "FROG ONESIE: Froggin' cute and fit for a prince!\nNEW ANIMALS: Epic bouncy frogs.\nHAPPINESS METER: Keep Hank happy!\n\nПИЖАМКА-ЛЯГУШКА: ужасно милая – подойдёт даже для принца!\nНОВЫЕ ЖИВОТНЫЕ: классные лягушки-попрыгушки.\nШКАЛА СЧАСТЬЯ: не дай Хэнку загрустить!"
+          },
+          {
+            "version": "1.6",
+            "date": "2018-05-24",
+            "changes": "Keep Hank happy, fed and rested - and explore his tropical island home! Lure animals out with delicious food and tempting toys. You never know what you might see next!\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.2",
+            "date": "2018-05-25",
+            "changes": "Keep Hank happy, fed and rested - and explore his tropical island home! Lure animals out with delicious food and tempting toys. You never know what you might see next!\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.3",
+            "date": "2018-05-26",
+            "changes": "Keep Hank happy, fed and rested - and explore his tropical island home! Lure animals out with delicious food and tempting toys. You never know what you might see next!\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.7",
+            "date": "2018-06-28",
+            "changes": "NEW MINI-GAME: Help Talking Hank get rid of trash in the sea. Let's clean the ocean!\nNEW OUTFITS: Try out the Jester, Sheriff, and Astronaut outfits now in Hank's wardrobe.\nNEW HEADGEAR: Two amazing new styles to make Hank look super fun!\n\nНОВАЯ МИНИ-ИГРА: помоги Говорящему Хэнку избавиться от морского мусора. Давай очистим океан!\nНОВЫЕ КОСТЮМЫ: попробуй новинки из гардероба Хэнка – костюм шута, шерифа и космонавта.\nНОВЫЕ ШЛЯПЫ: два потрясающих стиля – Хэнк будет выглядеть суперсмешно!"
+          },
+          {
+            "version": "1.8.3",
+            "date": "2018-09-06",
+            "changes": "Bug fixes and minor gameplay improvements.\nAdded iPhone X support.\n\nИсправление ошибок и незначительные улучшения геймплея.\nДобавлена поддержка iPhoneX"
+          },
+          {
+            "version": "1.9.1",
+            "date": "2020-03-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.0",
+            "date": "2020-11-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1",
+            "date": "2021-05-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1.2",
+            "date": "2021-05-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.1.3",
+            "date": "2021-08-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.3.2",
+            "date": "2022-11-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4",
+            "date": "2022-12-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.1",
+            "date": "2023-03-21",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.4",
+            "date": "2023-04-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.4.5",
+            "date": "2023-03-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5",
+            "date": "2023-06-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.1",
+            "date": "2023-06-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.5.3",
+            "date": "2023-07-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.6",
+            "date": "2023-10-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7",
+            "date": "2023-11-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8",
+            "date": "2023-12-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.1",
+            "date": "2023-12-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.8.2",
+            "date": "2024-02-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9",
+            "date": "2024-03-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.1",
+            "date": "2024-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.2",
+            "date": "2024-04-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.9.3",
+            "date": "2024-05-23",
+            "changes": "READY FOR YOUR NEXT ADVENTURE?\nThis summer Talking Hank is moving to a brand new island! You'll be able to discover hidden treasures and take care of new animal friends. In the meantime, the current animals will be much more happy to strike a pose for the camera, so hurry and start taking pictures!\n\nГОТОВЫ К СЛЕДУЮЩЕМУ ПРИКЛЮЧЕНИЮ?\nЭтим летом Говорящий Хэнк переезжает на новый остров! Вы сможете найти скрытые сокровища и заботиться о новых друзьях-животных. А пока что текущие животные с радостью будут позировать для камеры, так что поторопитесь и начинайте фотографировать!"
+          },
+          {
+            "version": "2.9.4",
+            "date": "2024-06-10",
+            "changes": "JOIN A NEW ADVENTURE\nHelp Hank capture stunning photos of the animals on the Hawaiian island. But Hank's journey doesn't stop there. Are you ready for an exciting adventure in Hank's new update?\n\n- Keep playing to get the new updated features\n- Care for Hank\n- Explore the island\n- Eat exotic fruits\n- Dress in funky outfits"
+          },
+          {
+            "version": "3.0.2",
+            "date": "2024-06-21",
+            "changes": "ADVENTURE CALLS!\n- Explore a vibrant tropical island\n- Take care of your fun-loving pal Hank\n- Connect with amazing animals\n- Unlock cool games and activities\n\nNEW EXPERIENCES\nHank can now craft sandcastles and dig up treasures.\n\nNEW MINI-GAMES\nEnjoy the tasty fun of the Candy Connect matching game and more.\n\nNEW ANIMAL ACTIVITIES\nUncover new surprises with the elephant, turtle, and lion.\n\nПРИКЛЮЧЕНИЯ ЗОВУТ!\n— исследуйте яркий тропический остров;\n— заботьтесь о своём весёлом друге Хэнке;\n— общайтесь с потрясающими животными;\n— откройте увлекательные игры и занятия.\n\nНОВЫЙ ОПЫТ\nТеперь Хэнк может строить замки из песка и выкапывать сокровища.\n\nНОВЫЕ МИНИ-ИГРЫ\nНаслаждайтесь вкусом игры «Соедини сладости» и не только.\n\nНОВЫЕ ЗАНЯТИЯ С ЖИВОТНЫМИ\nОткройте новые сюрпризы со слоном, черепахой и дельфином."
+          },
+          {
+            "version": "3.0.3",
+            "date": "2024-07-05",
+            "changes": "Join Hank's new island adventure!\n\nNEW SUMMER ACTIVITIES\nPlay water polo or build sandcastles.\n\nUNLOCK COOL REWARDS\nCollect coins, get hilarious outfits, and exotic treats!\n\nMEET NEW FRIENDS\nDiscover all the animals and get ready to have fun.\n\nОтправьтесь в приключения на острове с Хэнком!\n\nНОВЫЕ ЛЕТНИЕ ЗАНЯТИЯ\nИграйте в водное поло или стройте замки из песка.\n\nОТКРОЙТЕ КЛАССНЫЕ НАГРАДЫ\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!\n\nЗАВОДИТЕ НОВЫХ ДРУЗЕЙ\nОткройте всех животных и приготовьтесь веселиться."
+          },
+          {
+            "version": "3.0.5",
+            "date": "2024-08-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nNew summer activities.\n\nNew mini-games.\n\nИсправление ошибок и незначительные улучшения геймплея.\n\nновые летние занятия.\n\nновые мини-игры."
+          },
+          {
+            "version": "3.0.6",
+            "date": "2024-08-13",
+            "changes": "Join Hank's new island adventure!\n\nPlay water polo or build sandcastles.\n\nCollect coins, get hilarious outfits, and exotic treats!\n\nDiscover all the animals and get ready to have fun.\n\nОтправьтесь в приключения на острове с Хэнком!\n\nИграйте в водное поло или стройте замки из песка.\n\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!\n\nОткройте всех животных и приготовьтесь веселиться."
+          },
+          {
+            "version": "3.1.1",
+            "date": "2024-09-05",
+            "changes": "Hey, listen up! The devs cleaned up some minor bugs, but there's still some mysterious ones lurking in my game.\nCan you spot the glowing ones that come out only under the moonlight?\n\nПослушайте! Разработчики подчистили мелких «жучков» в программе, но в моей игре они ещё остались. Сможете заметить светящихся жучков, которые выходят только при свете луны?"
+          },
+          {
+            "version": "3.1.2",
+            "date": "2024-09-24",
+            "changes": "Whispering alert! The devs tidied up some bugs, but I need you to uncover the hidden ones in my game.\nHave you encountered the sparkling bugs that sneak out after sunset?\n\nx Talking Hank\n\nВнимание! Разработчики починили «жучков», но в моей игре ещё осталось несколько скрытых.\nВам встречались сверкающие жучки, которые появляются после захода солнца?\n\nГоворящий Хэнк"
+          },
+          {
+            "version": "3.2",
+            "date": "2024-10-02",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.6",
+            "date": "2024-10-16",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.8",
+            "date": "2024-10-25",
+            "changes": "Hey there, Hank here. Halloween's hit my island hard! Today I'm rocking a new Hankenstein look and whipping up spooky snacks in the kitchen. Wanna join me?\n\nПривет, это Хэнк. У меня на острове Хэллоуин уже в самом разгаре. Сегодня я в новом наряде Хэнкинштейна делаю на кухне страшные лакомства. Давайте вместе?"
+          },
+          {
+            "version": "3.2.9",
+            "date": "2024-10-30",
+            "changes": "Have a spooktacular time at Hank's Haunted Island!\n\nBrace yourself for tricks, treats, and a meet-and-scream with Hankenstein! Our tropical paradise has gone full spooky mode, so throw on your creepiest costume and go wild exploring the island with pumpkins galore!\n\nПриготовьтесь страшно весело провести время на острове Хэнка!\n\nПриготовьтесь к сладостям, гадостям и встрече с Хэнкинштейном! Наш тропический рай ужасно изменился, поэтому надевайте свой самый страшный костюм и исследуйте весь усеянный тыквами остров!"
+          },
+          {
+            "version": "3.2.10",
+            "date": "2024-11-05",
+            "changes": "Join Hank's new island adventure!\n\nNEW EXPERIENCES\nPlay water polo or build sandcastles.\n\nUNLOCK COOL REWARDS\nCollect coins, get hilarious outfits, and exotic treats!\n\nMEET NEW FRIENDS\nDiscover all the animals and get ready to have fun.\n\nОтправьтесь в приключения на острове с Хэнком!\n\nНОВЫЙ ОПЫТ\nИграйте в водное поло или стройте замки из песка.\n\nОТКРОЙТЕ КЛАССНЫЕ НАГРАДЫ\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!\n\nЗАВОДИТЕ НОВЫХ ДРУЗЕЙ\nОткройте всех животных и приготовьтесь веселиться."
+          },
+          {
+            "version": "3.2.11",
+            "date": "2024-11-15",
+            "changes": "Hey, listen up! The devs cleaned up some minor bugs, but there's still some mysterious ones lurking in my game.\nCan you spot the glowing ones that come out only under the moonlight?\n\nПослушайте! Разработчики подчистили мелких «жучков» в программе, но в моей игре они ещё остались. Сможете заметить светящихся жучков, которые выходят только при свете луны?"
+          },
+          {
+            "version": "3.3.1",
+            "date": "2024-12-11",
+            "changes": "FROSTED FUN AWAITS\nTime to get cozy and cool with all-new seasonal items and epic activities. Munch on holiday snacks and decorate your place with the dopest holiday decorations. Join the candy hunt and unlock Hank's exclusive festive outfit.\n\nВАС ЖДЕТ ЗИМНЕЕ ВЕСЕЛЬЕ\nПора устроиться поуютнее и наслаждаться новыми сезонными предметами и классными занятиями. Попробуйте праздничные лакомства и украсьте свой дом потрясающими украшениями. Присоединяйтесь к охоте за леденцами и откройте эксклюзивный праздничный наряд Хэнка."
+          },
+          {
+            "version": "3.3.2",
+            "date": "2024-12-17",
+            "changes": "WINTER ISLAND WONDERLAND\nCozy up for the season with new items and activities. Enjoy themed foods, decorations, and more. Join the candy hunt, collect coins, and unlock Hank's festive outfit.\n\nЗИМНЯЯ СКАЗКА НА ОСТРОВЕ\nВстречайте праздники с новыми предметами и занятиями. Наслаждайтесь тематической едой, украшениями и не только. Вступайте в охоту за леденцами, собирайте монеты и откройте праздничный наряд Хэнка."
+          },
+          {
+            "version": "3.4.2",
+            "date": "2025-03-03",
+            "changes": "Massive update: ARCTIC ISLAND IS HERE!\n\n- EXPLORE A NEW FROZEN WORLD\n- MEET NEW SNOWY ANIMALS\n- DISCOVER ARCTIC TREASURES & OUTFITS\n- WATCH OUT FOR CHILLY SURPRISES!\n\nNote: The feature may be subject to additional prices in some territories.\n\nОгромное обновление: АРКТИЧЕСКИЙ ОСТРОВ УЖЕ ЗДЕСЬ!\n\n— ИССЛЕДУЙТЕ НОВЫЙ МОРОЗНЫЙ МИР\n— ЗНАКОМЬТЕСЬ С НОВЫМИ СНЕЖНЫМИ ЖИВОТНЫМИ\n— ОТКРОЙТЕ АРКТИЧЕСКИЕ СОКРОВИЩА И НАРЯДЫ\n— НЕ УПУСТИТЕ КЛАССНЫЕ СЮРПРИЗЫ!\n\nВнимание: в некоторых регионах за функцию может взиматься дополнительная плата."
+          },
+          {
+            "version": "3.4.3",
+            "date": "2025-03-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.4",
+            "date": "2025-03-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.5",
+            "date": "2025-04-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.1",
+            "date": "2025-05-26",
+            "changes": "Take off with Hank on a cosmic adventure!\nGrab star tokens, snack on Space Jello, and heal booboos like a pro—from busted bones to belly aches. Scope the stars, chill with the telescope, and unlock the ultimate prize: Hank's legendary Star Onesie.\n\nОтправьтесь в космическое путешествие вместе с Хэнком!\nХватайте токены-звёзды, закусите космическим желе и лечите вавки как профи — от сломанных костей до болей в животе. Смотрите на звёзды, развлекайтесь с телескопом и откройте лучший приз: легендарную звёздную пижамку Хэнка."
+          },
+          {
+            "version": "3.5.5",
+            "date": "2025-05-30",
+            "changes": "Collect star tokens, eat Space Jello, and explore the stars. Try the new step-by-step healing for booboos like broken bones and tummy aches.\nCan you unlock the epic Star Onesie for Hank?\n\nСобирайте токены-звёзды, ешьте космическое желе и исследуйте звёзды. Попробуйте новое пошаговое лечение вавок, например, сломанных костей и болей в животе.\nСможете открыть потрясающую звёздную пижамку для Хэнка?"
+          },
+          {
+            "version": "3.6.1",
+            "date": "2025-06-26",
+            "changes": "SUMMER VIBES UPDATE\n- The island's gone tropical!\n- Enjoy new decorations, food, and bath bombs.\n- Play in the new event to unlock themed rewards.\n\nОБНОВЛЕНИЕ «ЛЕТНЕЕ НАСТРОЕНИЕ»\n— Остров стал тропическим!\n— Наслаждайтесь новыми украшениями, едой и бомбочками для ванны.\n— Участвуйте в новом мероприятии и откройте тематические награды."
+          },
+          {
+            "version": "3.6.2",
+            "date": "2025-07-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.1",
+            "date": "2025-08-25",
+            "changes": "YOUR ISLAND, YOUR SHIP\n- Personalize Hank's ship with pirate, viking, mermaid or ghost designs\n- Your creation stays on the island forever so make it yours\n\nВАШ ОСТРОВ, ВАШ КОРАБЛЬ\n— Раскрасьте корабль Хэнка и нарисуйте пирата, викинга, русалку или призрака\n— Ваши творения останутся на острове навсегда, так что выразите себя"
+          },
+          {
+            "version": "3.7.6",
+            "date": "2025-09-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.7",
+            "date": "2025-10-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8",
+            "date": "2025-11-05",
+            "changes": "Talking Tom is visiting for the first time... for a BOAT RACE!\n- RACE against Tom! Dodge, shoot, and collect tokens to win.\n- HEAL Hank's flu! Help him recover and enjoy his fresh new look.\n- ROCK a new outfit for Talking Hank.\n\nГоворящий Том приехал впервые… на ЛОДОЧНУЮ ГОНКУ!\n— СОРЕВНУЙТЕСЬ с Томом! Уворачивайтесь, стреляйте и собирайте токены, чтобы выиграть.\n— ВЫЛЕЧИТЕ простуду Хэнка! Помогите ему выздороветь и почувствовать себя здоровым.\n— ЗАЖИГАЙТЕ в новом наряде Говорящего Хэнка."
+          },
+          {
+            "version": "3.8.5",
+            "date": "2025-11-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.1",
+            "date": "2025-12-11",
+            "changes": "TALKING ANGELA JOINS THE RACES\n- Talking Angela's ready to race\n- Team up with her and Tom in epic boat battles and make waves.\n- Who's your fav champion?\n\nГОВОРЯЩАЯ АНДЖЕЛА ВСТУПАЕТ В ГОНКУ\n— Говорящая Анджела готова к гонке\n— Объедините усилия с ней и Томом в потрясающей битве на лодках и пустите волну.\n— Кто ваш любимый чемпион?"
+          },
+          {
+            "version": "26.1",
+            "date": "2026-03-03",
+            "changes": "Join Hank's new island adventure!\n\nPlay water polo or build sandcastles.\n\nCollect coins, get hilarious outfits, and exotic treats!\n\nОтправьтесь в приключения на острове с Хэнком!\n\nИграйте в водное поло или стройте замки из песка.\n\nСобирайте монеты, получайте весёлые наряды и экзотические лакомства!"
+          },
+          {
+            "version": "26.2",
+            "date": "2026-05-04",
+            "changes": "Whispering alert! The devs tidied up some bugs, but I need you to uncover the hidden ones in my game.\nHave you encountered the sparkling bugs that sneak out after sunset?\n\nx Talking Hank\n\nВнимание! Разработчики починили «жучков», но в моей игре ещё осталось несколько скрытых.\nВам встречались сверкающие жучки, которые появляются после захода солнца?\n\nГоворящий Хэнк"
+          },
+          {
+            "version": "26.3",
+            "date": "2026-07-14",
+            "changes": "SUMMER VIBES UPDATE\n- The island's gone tropical!\n- Enjoy new decorations, food, and bath bombs.\n- Play in the new event to unlock themed rewards.\n\nОБНОВЛЕНИЕ «ЛЕТНЕЕ НАСТРОЕНИЕ»\n— Остров стал тропическим!\n— Наслаждайтесь новыми украшениями, едой и бомбочками для ванны.\n— Участвуйте в новом мероприятии и откройте тематические награды."
+          },
+          {
+            "version": "26.3.2",
+            "date": "2026-07-15",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.1",
+            "date": "2026-09-04",
+            "changes": "Talking Angela is visiting the Island!\n- race her with ships\n- dodge obstacles, blast duckies, and collect tokens\n- unlock unique boat parts to build Talking Angela's ship\n\nГоворящая Анджела приезжает на остров!\n— Устройте с ней гонку на кораблях\n— Уворачивайтесь от препятствий, пуляйте в уточек и собирайте токены\n— Откройте уникальные части лодки, чтобы построить корабль Говорящей Анджелы"
+          },
+          {
+            "version": "26.4.3",
+            "date": "2026-09-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
