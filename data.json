@@ -13591,6 +13591,119 @@
           "removedDate": "2020-10-01"
         }
       }
+    },
+    {
+      "id": "talking-angela-color-splash-говорящая-анджела-взрыв-цвета",
+      "name": "Talking Angela Color Splash | Говорящая Анджела: взрыв цвета",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2017-05-26",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/5e/19/ed/5e19edeb-c59e-559a-c585-60144adbb536/source/900x900bb.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1.26",
+            "versionCode": "10",
+            "date": "2017-05-26",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2.30",
+            "versionCode": "20",
+            "date": "2017-06-08",
+            "changes": ""
+          },
+          {
+            "version": "1.0.3.50",
+            "versionCode": "40",
+            "date": "2017-06-23",
+            "changes": ""
+          },
+          {
+            "version": "1.0.4.53",
+            "versionCode": "50",
+            "date": "2017-06-26",
+            "changes": "Enter the exciting colorful adventure of Talking Angela Color Splash a unique match 3 puzzle game where fashion comes to life!"
+          },
+          {
+            "version": "1.0.5.14",
+            "versionCode": "60",
+            "date": "2017-07-21",
+            "changes": "Summer is heating up and so are our fashion offers. Check out our super cool fashion bundles and unleash the true fashionista in you! We improved performance and fixed bugs too."
+          },
+          {
+            "version": "1.0.6.16",
+            "versionCode": "70",
+            "date": "2017-07-22",
+            "changes": "Summer is heating up and so are our fashion offers. Check out our super cool fashion bundles and unleash the true fashionista in you! We improved performance and fixed bugs too."
+          },
+          {
+            "version": "1.0.7.17",
+            "versionCode": "80",
+            "date": "2017-07-26",
+            "changes": "Summer is heating up and so are our fashion offers. Check out our super cool fashion bundles and unleash the true fashionista in you! We improved performance and fixed bugs too."
+          },
+          {
+            "version": "1.0.8.1209",
+            "versionCode": "90",
+            "date": "2017-09-19",
+            "changes": "Summer is heating up and so are our fashion offers. Check out our super cool fashion bundles and unleash the true fashionista in you! We improved performance and fixed bugs too."
+          },
+          {
+            "version": "1.0.9.1219",
+            "versionCode": "110",
+            "date": "2017-09-20",
+            "changes": "Summer is slowly wrapping up and Fall is already around the corner. That means it’s high time you checked out Talking Angela’s latest fashion creations! We’ve improved performance and fixed bugs too."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2017-05-23",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2017-05-29",
+            "changes": "Color in Talking Angela’s new fashion designs and match in style!"
+          },
+          {
+            "version": "1.0.2",
+            "date": "2017-06-08",
+            "changes": "Are you ready for a splash of fun?! Let’s match in style!"
+          },
+          {
+            "version": "1.0.4",
+            "date": "2017-06-27",
+            "changes": "Play with friends, get rewards, and share lives!\n15 NEW Color Splashing levels."
+          },
+          {
+            "version": "1.0.6",
+            "date": "2017-07-22",
+            "changes": "Summer is heating up and so are our fashion offers. Check out our super cool fashion bundles and unleash the true fashionista in you! We improved performance and fixed bugs too."
+          },
+          {
+            "version": "1.0.7",
+            "date": "2017-07-31",
+            "changes": "Summer is heating up and so are our fashion offers. Check out our super cool fashion bundles and unleash the true fashionista in you! We improved performance and fixed bugs too."
+          },
+          {
+            "version": "1.0.9",
+            "date": "2017-09-22",
+            "changes": "This app has been updated by Apple to display the Apple Watch app icon.\n\nSummer is slowly wrapping up and Fall is already around the corner. That means it’s high time you checked out Talking Angela’s latest fashion creations! We’ve improved performance and fixed bugs too."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2022-01-09"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2022-01-22"
+        }
+      }
     }
   ]
 }
