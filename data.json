@@ -13704,6 +13704,274 @@
           "removedDate": "2022-01-22"
         }
       }
+    },
+    {
+      "id": "talking-tom-pool-бассейн-говорящего-тома",
+      "name": "Talking Tom Pool | Бассейн Говорящего Тома",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2017-08-31",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/5a/32/d1/5a32d1a7-b4a2-d551-04f6-1936ff403a70/source/900x900bb.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1.52",
+            "versionCode": "10",
+            "date": "2017-08-31",
+            "changes": ""
+          },
+          {
+            "version": "1.1.824",
+            "versionCode": "20",
+            "date": "2017-10-06",
+            "changes": "Sling and match with Talking Tom in 70 ALL-NEW levels and splash around in the exciting new world, the \"Water Kingdom\"."
+          },
+          {
+            "version": "1.2.0.1039",
+            "versionCode": "30",
+            "date": "2017-11-16",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.2.1.1045",
+            "versionCode": "40",
+            "date": "2017-11-17",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.2.2.1053",
+            "versionCode": "50",
+            "date": "2017-11-20",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.2.3.1073",
+            "versionCode": "60",
+            "date": "2017-11-22",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.3.0.1371",
+            "versionCode": "90",
+            "date": "2018-01-16",
+            "changes": "NEW WORLD: Explore the exciting attractions of the mysterious Lost City.\nNEW VISITORS: Party with the cool new water park visitors.\nNEW OBSTACLES: Beat the pinball-style Power Bounce and the tricky Vacuum that sucks in floaties!\n\nНОВЫЙ МИР: исследуй потрясающие аттракционы таинственного затерянного города.\nНОВЫЕ ПОСЕТИТЕЛИ: тусуйся в аквапарке с новыми классными посетителями.\nНОВЫЕ ПРЕПЯТСТВИЯ: избегай пинбольных бамперов и коварных пылесосов, которые засасывают надувные круги!"
+          },
+          {
+            "version": "1.3.1.1389",
+            "versionCode": "100",
+            "date": "2018-01-18",
+            "changes": "NEW WORLD: Explore the exciting attractions of the mysterious Lost City.\nNEW VISITORS: Party with the cool new water park visitors.\nNEW OBSTACLES: Beat the pinball-style Power Bounce and the tricky Vacuum that sucks in floaties!\n\nНОВЫЙ МИР: исследуй потрясающие аттракционы таинственного затерянного города.\nНОВЫЕ ПОСЕТИТЕЛИ: тусуйся в аквапарке с новыми классными посетителями.\nНОВЫЕ ПРЕПЯТСТВИЯ: избегай пинбольных бамперов и коварных пылесосов, которые засасывают надувные круги!"
+          },
+          {
+            "version": "1.4.0.1609",
+            "versionCode": "110",
+            "date": "2018-03-11",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.4.1.1697",
+            "versionCode": "120",
+            "date": "2018-03-12",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.4.2.1716",
+            "versionCode": "130",
+            "date": "2018-03-13",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.4.3.1737",
+            "versionCode": "140",
+            "date": "2018-03-16",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.4.4.1749",
+            "versionCode": "150",
+            "date": "2018-04-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.5.1.101",
+            "versionCode": "170",
+            "date": "2018-04-19",
+            "changes": "SPRING QUEST: Special event with 30 new levels and heart-warming rewards.\n\nВЕСЕННИЙ КВЕСТ: особое событие с 30 новыми уровнями и классными наградами."
+          },
+          {
+            "version": "1.6.1.180",
+            "versionCode": "190",
+            "date": "2018-05-23",
+            "changes": "THE CHAMPIONSHIP: Score a goal in the brand new football event!\nHAPPY VISITORS: Feed the visitors and they’ll give you coins!\nNEW LEVELS: Play for your way through 30 brand new levels! Perfect for floatie-slinging pros.\n\nЧЕМПИОНАТ: Забей гол в ходе нового футбольного события!\nСЧАСТЛИВЫЕ ПОСЕТИТЕЛИ: корми посетителей, и они дадут тебе монеты!\nНОВЫЕ УРОВНИ: пройди 30 совершенно новых уровней! Как раз для профи по запуску кругов."
+          },
+          {
+            "version": "1.6.2.189",
+            "versionCode": "200",
+            "date": "2018-05-24",
+            "changes": "THE CHAMPIONSHIP: Score a goal in the brand new football event!\nHAPPY VISITORS: Feed the visitors and they’ll give you coins!\nNEW LEVELS: Play for your way through 30 brand new levels! Perfect for floatie-slinging pros.\n\nЧЕМПИОНАТ: Забей гол в ходе нового футбольного события!\nСЧАСТЛИВЫЕ ПОСЕТИТЕЛИ: корми посетителей, и они дадут тебе монеты!\nНОВЫЕ УРОВНИ: пройди 30 совершенно новых уровней! Как раз для профи по запуску кругов."
+          },
+          {
+            "version": "1.7.0.147",
+            "versionCode": "210",
+            "date": "2018-06-27",
+            "changes": "NEW WAYS TO WIN: Play quests for even more rewards!\n100+ NEW LEVELS: Can you beat them all?\n\nНОВЫЕ СПОСОБЫ ПОБЕДИТЬ: играй в квесты, чтобы получить ещё больше наград!\nБОЛЕЕ 100 НОВЫХ УРОВНЕЙ: сможешь пройти их все?"
+          },
+          {
+            "version": "1.7.1.212",
+            "versionCode": "220",
+            "date": "2018-06-28",
+            "changes": "NEW WAYS TO WIN: Play quests for even more rewards!\n100+ NEW LEVELS: Can you beat them all?\n\nНОВЫЕ СПОСОБЫ ПОБЕДИТЬ: играй в квесты, чтобы получить ещё больше наград!\nБОЛЕЕ 100 НОВЫХ УРОВНЕЙ: сможешь пройти их все?"
+          },
+          {
+            "version": "1.7.2.267",
+            "versionCode": "230",
+            "date": "2018-07-04",
+            "changes": "NEW WAYS TO WIN: Play quests for even more rewards!\n100+ NEW LEVELS: Can you beat them all?\n\nНОВЫЕ СПОСОБЫ ПОБЕДИТЬ: играй в квесты, чтобы получить ещё больше наград!\nБОЛЕЕ 100 НОВЫХ УРОВНЕЙ: сможешь пройти их все?"
+          },
+          {
+            "version": "1.7.5.309",
+            "versionCode": "240",
+            "date": "2018-07-12",
+            "changes": "NEW LEVELS: 20 exciting new levels for you to enjoy! We update the game with new levels regularly, so check back often!\n\nНОВЫЕ УРОВНИ: Теперь ты можешь наслаждаться ещё 20 потрясающими новыми уровнями! Мы регулярно добавляем в игру новые уровни, так что заглядывай почаще!"
+          },
+          {
+            "version": "1.7.6.319",
+            "versionCode": "250",
+            "date": "2018-07-13",
+            "changes": "NEW LEVELS: 20 exciting new levels for you to enjoy! We update the game with new levels regularly, so check back often!\n\nНОВЫЕ УРОВНИ: Теперь ты можешь наслаждаться ещё 20 потрясающими новыми уровнями! Мы регулярно добавляем в игру новые уровни, так что заглядывай почаще!"
+          },
+          {
+            "version": "2.0.0.458",
+            "versionCode": "260",
+            "date": "2018-10-11",
+            "changes": "GRAND RE-OPENING: Now your water park gives rewards!\nSUPER SLIDES: New event, big prizes!\nNEW LEVELS: And funny power-ups!\n\nТОРЖЕСТВЕННОЕ ПОВТОРНОЕ ОТКРЫТИЕ: теперь твой аквапарк выдаёт награды!\nСУПЕРГОРКИ: новое событие, огромные призы!\nНОВЫЕ УРОВНИ: и весёлые усиления!"
+          },
+          {
+            "version": "2.0.1.489",
+            "versionCode": "270",
+            "date": "2018-10-17",
+            "changes": "GRAND RE-OPENING: Now your water park gives rewards!\nSUPER SLIDES: New event, big prizes!\nNEW LEVELS: And funny power-ups!\n\nТОРЖЕСТВЕННОЕ ПОВТОРНОЕ ОТКРЫТИЕ: теперь твой аквапарк выдаёт награды!\nСУПЕРГОРКИ: новое событие, огромные призы!\nНОВЫЕ УРОВНИ: и весёлые усиления!"
+          },
+          {
+            "version": "2.0.2.538",
+            "versionCode": "280",
+            "date": "2019-02-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2017-08-30",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2017-09-02",
+            "changes": "Sling, splash and match with Talking Tom in his exciting new puzzle game. Complete hundreds of amazing levels to earn keys and build the water park of your dreams!"
+          },
+          {
+            "version": "1.1",
+            "date": "2017-10-10",
+            "changes": "Sling and match with Talking Tom in 70 ALL-NEW levels and splash around in the exciting new world, the “Water Kingdom”."
+          },
+          {
+            "version": "1.2",
+            "date": "2017-11-18",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.2.1",
+            "date": "2017-11-19",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.2.2",
+            "date": "2017-11-21",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.2.3",
+            "date": "2017-11-23",
+            "changes": "DRAGON MOUNTAIN: Have an exciting adventure in this magical new world!\n90 NEW LEVELS: Can you beat them all?\nSLIDE MANIA: Explore the world that has the most water slides in Talking Tom Pool!\n\nДРАКОНЬЯ ГОРА: отправься в приключение в новом волшебном мире!\n90 НОВЫХ УРОВНЕЙ: сможешь пройти их все?\nГОНКА НА ГОРКАХ: исследуй мир, где больше всего горок в мире Бассейна Говорящего Тома!"
+          },
+          {
+            "version": "1.3",
+            "date": "2018-01-19",
+            "changes": "NEW WORLD: Explore the exciting attractions of the mysterious Lost City.\nNEW VISITORS: Party with the cool new water park visitors.\nNEW OBSTACLES: Beat the pinball-style Power Bounce and the tricky Vacuum that sucks in floaties!\n\nНОВЫЙ МИР: исследуй потрясающие аттракционы таинственного затерянного города.\nНОВЫЕ ПОСЕТИТЕЛИ: тусуйся в аквапарке с новыми классными посетителями.\nНОВЫЕ ПРЕПЯТСТВИЯ: избегай пинбольных бамперов и коварных пылесосов, которые засасывают надувные круги!"
+          },
+          {
+            "version": "1.3.1",
+            "date": "2018-01-25",
+            "changes": "NEW WORLD: Explore the exciting attractions of the mysterious Lost City.\nNEW VISITORS: Party with the cool new water park visitors.\nNEW OBSTACLES: Beat the pinball-style Power Bounce and the tricky Vacuum that sucks in floaties!\n\nНОВЫЙ МИР: исследуй потрясающие аттракционы таинственного затерянного города.\nНОВЫЕ ПОСЕТИТЕЛИ: тусуйся в аквапарке с новыми классными посетителями.\nНОВЫЕ ПРЕПЯТСТВИЯ: избегай пинбольных бамперов и коварных пылесосов, которые засасывают надувные круги!"
+          },
+          {
+            "version": "1.4",
+            "date": "2018-03-05",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.4.2",
+            "date": "2018-03-14",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.4.3",
+            "date": "2018-03-19",
+            "changes": "SPECIAL EVENT: Go on a hunt to find the Easter Eggs, explore 30 new levels, and get lots of awesome rewards!\nACHIEVEMENTS: Fun new challenges to complete!\n\nОСОБОЕ СОБЫТИЕ: отправься на охоту за пасхальными яйцами, исследуй 30 новых уровней и получи множество потрясающих наград!\nДОСТИЖЕНИЯ: тебе доступны интересные новые достижения!"
+          },
+          {
+            "version": "1.5.1",
+            "date": "2018-05-01",
+            "changes": "SPRING QUEST: Special event with 30 new levels and heart-warming rewards.\n\nВЕСЕННИЙ КВЕСТ: особое событие с 30 новыми уровнями и классными наградами."
+          },
+          {
+            "version": "1.6.2",
+            "date": "2018-05-25",
+            "changes": "THE CHAMPIONSHIP: Score a goal in the brand new football event!\nHAPPY VISITORS: Feed the visitors and they’ll give you coins!\nNEW LEVELS: Play for your way through 30 brand new levels! Perfect for floatie-slinging pros.\n\nЧЕМПИОНАТ: Забей гол в ходе нового футбольного события!\nСЧАСТЛИВЫЕ ПОСЕТИТЕЛИ: корми посетителей, и они дадут тебе монеты!\nНОВЫЕ УРОВНИ: пройди 30 совершенно новых уровней! Как раз для профи по запуску кругов."
+          },
+          {
+            "version": "1.6.3",
+            "date": "2018-05-26",
+            "changes": "THE CHAMPIONSHIP: Score a goal in the brand new football event!\nHAPPY VISITORS: Feed the visitors and they’ll give you coins!\nNEW LEVELS: Play for your way through 30 brand new levels! Perfect for floatie-slinging pros.\n\nЧЕМПИОНАТ: Забей гол в ходе нового футбольного события!\nСЧАСТЛИВЫЕ ПОСЕТИТЕЛИ: корми посетителей, и они дадут тебе монеты!\nНОВЫЕ УРОВНИ: пройди 30 совершенно новых уровней! Как раз для профи по запуску кругов."
+          },
+          {
+            "version": "1.7.1",
+            "date": "2018-06-28",
+            "changes": "NEW WAYS TO WIN: Play quests for even more rewards!\n100+ NEW LEVELS: Can you beat them all?\n\nНОВЫЕ СПОСОБЫ ПОБЕДИТЬ: играй в квесты, чтобы получить ещё больше наград!\nБОЛЕЕ 100 НОВЫХ УРОВНЕЙ: сможешь пройти их все?"
+          },
+          {
+            "version": "1.7.2",
+            "date": "2018-07-04",
+            "changes": "NEW WAYS TO WIN: Play quests for even more rewards!\n100+ NEW LEVELS: Can you beat them all?\n\nНОВЫЕ СПОСОБЫ ПОБЕДИТЬ: играй в квесты, чтобы получить ещё больше наград!\nБОЛЕЕ 100 НОВЫХ УРОВНЕЙ: сможешь пройти их все?"
+          },
+          {
+            "version": "1.7.5",
+            "date": "2018-07-16",
+            "changes": "NEW LEVELS: 20 exciting new levels for you to enjoy! We update the game with new levels regularly, so check back often!\n\nНОВЫЕ УРОВНИ: Теперь ты можешь наслаждаться ещё 20 потрясающими новыми уровнями! Мы регулярно добавляем в игру новые уровни, так что заглядывай почаще!"
+          },
+          {
+            "version": "2.0.1",
+            "date": "2018-10-30",
+            "changes": "GRAND RE-OPENING: Now your water park gives rewards!\nSUPER SLIDES: New event, big prizes!\nNEW LEVELS: And funny power-ups!\n\nТОРЖЕСТВЕННОЕ ПОВТОРНОЕ ОТКРЫТИЕ: теперь твой аквапарк выдаёт награды!\nСУПЕРГОРКИ: новое событие, огромные призы!\nНОВЫЕ УРОВНИ: и весёлые усиления!"
+          },
+          {
+            "version": "2.0.2",
+            "date": "2019-02-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2020-06-24"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2020-10-01"
+        }
+      }
     }
   ]
 }
