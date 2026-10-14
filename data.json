@@ -13972,6 +13972,197 @@
           "removedDate": "2020-10-01"
         }
       }
+    },
+    {
+      "id": "talking-tom-candy-run-говорящий-том-за-конфетами",
+      "name": "Talking Tom Candy Run | Говорящий Том: за конфетами!",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2018-04-17",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/2f/62/bf2f620b-4780-86a7-dad6-44fea17ba367/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/900x900bb.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.1.0.107",
+            "versionCode": "10",
+            "date": "2018-04-19",
+            "changes": ""
+          },
+          {
+            "version": "1.1.1.112",
+            "versionCode": "20",
+            "date": "2018-04-23",
+            "changes": ""
+          },
+          {
+            "version": "1.1.5.127",
+            "versionCode": "40",
+            "date": "2018-05-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.6.129",
+            "versionCode": "50",
+            "date": "2018-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.0.33",
+            "versionCode": "70",
+            "date": "2018-07-20",
+            "changes": "ENDLESS RUNNING: How far can you run while collecting candy?\nSPECIAL ABILITIES: Activate “Superhero”, “Candy Princess”, “Hamster Ball” and many other special abilities.\nSWAP RUNNERS: Continue running with a second character when you crash out with the first one."
+          },
+          {
+            "version": "1.3.0.164",
+            "versionCode": "90",
+            "date": "2018-08-14",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!"
+          },
+          {
+            "version": "1.3.1.166",
+            "versionCode": "100",
+            "date": "2018-08-24",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!"
+          },
+          {
+            "version": "1.3.5.188",
+            "versionCode": "110",
+            "date": "2018-09-12",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\nBug fixes and minor gameplay improvements.\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.3.6.194",
+            "versionCode": "120",
+            "date": "2018-09-21",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\nBug fixes and minor gameplay improvements.\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.4.0.232",
+            "versionCode": "130",
+            "date": "2018-11-21",
+            "changes": "CANDY COLLECTION: Fill your candy store with candy!\nNEW CANDY STORES: And that means more worlds and MORE CANDY!\n\nКОЛЛЕКЦИЯ КОНФЕТ: заполни свои конфетные магазины конфетами!\nНОВЫЕ КОНФЕТНЫЕ МАГАЗИНЫ: а это значит больше миров и БОЛЬШЕ КОНФЕТ!"
+          },
+          {
+            "version": "1.4.1.234",
+            "versionCode": "140",
+            "date": "2018-11-22",
+            "changes": "CANDY COLLECTION: Fill your candy store with candy!\nNEW CANDY STORES: And that means more worlds and MORE CANDY!\n\nКОЛЛЕКЦИЯ КОНФЕТ: заполни свои конфетные магазины конфетами!\nНОВЫЕ КОНФЕТНЫЕ МАГАЗИНЫ: а это значит больше миров и БОЛЬШЕ КОНФЕТ!"
+          },
+          {
+            "version": "1.4.5.259",
+            "versionCode": "150",
+            "date": "2018-12-11",
+            "changes": "CANDY COLLECTION: Fill your candy store with candy!\nNEW CANDY STORES: And that means more worlds and MORE CANDY!\n\nКОЛЛЕКЦИЯ КОНФЕТ: заполни свои конфетные магазины конфетами!\nНОВЫЕ КОНФЕТНЫЕ МАГАЗИНЫ: а это значит больше миров и БОЛЬШЕ КОНФЕТ!"
+          },
+          {
+            "version": "1.5.0.305",
+            "versionCode": "160",
+            "date": "2020-07-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.0.366",
+            "versionCode": "170",
+            "date": "2020-10-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.1.372",
+            "versionCode": "180",
+            "date": "2021-04-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.2.377",
+            "versionCode": "190",
+            "date": "2021-10-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.7.0.339",
+            "versionCode": "200107001",
+            "date": "2026-10-07",
+            "changes": "Look out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2018-04-17",
+            "changes": ""
+          },
+          {
+            "version": "1.1.0",
+            "date": "2018-04-21",
+            "changes": "- 80 action-packed levels and 6 amazing running worlds.\n- 7 characters and 5 buddies who help you complete the levels.\n- Chests, daily missions and loads of candy!"
+          },
+          {
+            "version": "1.1.1",
+            "date": "2018-04-24",
+            "changes": "- 80 action-packed levels and 6 amazing running worlds.\n- 7 characters and 5 buddies who help you complete the levels.\n- Chests, daily missions and loads of candy!"
+          },
+          {
+            "version": "1.1.5",
+            "date": "2018-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.6",
+            "date": "2018-05-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.7",
+            "date": "2018-05-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2",
+            "date": "2018-07-25",
+            "changes": "ENDLESS RUNNING: How far can you run while collecting candy?\nSPECIAL ABILITIES: Activate “Superhero”, “Candy Princess”, “Hamster Ball” and many other special abilities.\nSWAP RUNNERS: Continue running with a second character when you crash out with the first one."
+          },
+          {
+            "version": "1.3",
+            "date": "2018-08-16",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!"
+          },
+          {
+            "version": "1.3.5",
+            "date": "2018-09-18",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\nBug fixes and minor gameplay improvements.\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.3.6",
+            "date": "2018-09-27",
+            "changes": "UNLOCK NEW WORLDS: Collect as much candy as you can to chase the robber through sweet new worlds.\nNEW CHARACTERS: You won’t believe how amazing Agent Angela’s, Hawaii Hank’s, and Fireman Ginger’s special abilities are!\nBug fixes and minor gameplay improvements.\n\nОТКРОЙ НОВЫЕ МИРЫ: собери как можно больше конфет, чтобы бежать за грабителем через новые сладкие миры.\nНОВЫЕ ГЕРОИ: ты не поверишь, насколько классные возможности у Агента Анджелы, Гавайского Хэнка и Пожарного Джинджера!\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.4.5",
+            "date": "2018-12-12",
+            "changes": "CANDY COLLECTION: Fill your candy store with candy!\nNEW CANDY STORES: And that means more worlds and MORE CANDY!\n\nКОЛЛЕКЦИЯ КОНФЕТ: заполни свои конфетные магазины конфетами!\nНОВЫЕ КОНФЕТНЫЕ МАГАЗИНЫ: а это значит больше миров и БОЛЬШЕ КОНФЕТ!"
+          },
+          {
+            "version": "1.6",
+            "date": "2020-11-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.6.2",
+            "date": "2021-10-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2025-09-04"
+        }
+      }
     }
   ]
 }
