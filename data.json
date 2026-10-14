@@ -14321,6 +14321,35 @@
           "removedDate": "2025-09-04"
         }
       }
+    },
+    {
+      "id": "мой-говорящий-том-lite-my-talking-tom-lite",
+      "name": "Мой Говорящий Том Lite | My Talking Tom Lite",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2018-06-06",
+      "icon": "https://play-lh.googleusercontent.com/WcyzKmezd5XQgLqdSch8N0PungS1iXsHTq8R1wzCY35YuFNnvhSIVQRmVia1Uw1ivJwSpbDrzRmaELKlEKUDCw=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "4.8.1.94",
+            "versionCode": "1750",
+            "date": "2018-06-06",
+            "changes": ""
+          }
+        ],
+        "ios": []
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2018-07-15"
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
