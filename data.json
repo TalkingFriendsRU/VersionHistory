@@ -14478,6 +14478,1470 @@
           "removedDate": "2020-10-01"
         }
       }
+    },
+    {
+      "id": "my-talking-tom-2-мой-говорящий-том-2",
+      "name": "My Talking Tom 2 | Мой Говорящий Том 2",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2018-09-25",
+      "icon": "https://play-lh.googleusercontent.com/haIV9mm4xqeGBwn3YXnvuEocCwV_8eMUZ8bE4eoFYQGtv2Ax43ewpah_fmM9mWO8SgHniZp6OcaayDaQLT9JIg=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1337.1843",
+            "versionCode": "10",
+            "date": "2018-09-28",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1340.1981",
+            "versionCode": "20",
+            "date": "2018-10-19",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.1340.1988",
+            "versionCode": "30",
+            "date": "2018-10-20",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.1341.1991",
+            "versionCode": "40",
+            "date": "2018-10-22",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.2000.2052",
+            "versionCode": "50",
+            "date": "2018-10-29",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.2001.25",
+            "versionCode": "60",
+            "date": "2018-11-05",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.1.0.112",
+            "versionCode": "70",
+            "date": "2018-12-02",
+            "changes": "NEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini game ever!\nWINTER WONDERLANDS: Exciting holiday gifts will be available just before the holidays!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nЗИМНЯЯ СКАЗКА: прямо перед праздниками будут доступны потрясающие подарки!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.1.1.126",
+            "versionCode": "80",
+            "date": "2018-12-03",
+            "changes": "NEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini game ever!\nWINTER WONDERLANDS: Exciting holiday gifts will be available just before the holidays!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nЗИМНЯЯ СКАЗКА: прямо перед праздниками будут доступны потрясающие подарки!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.1.2.134",
+            "versionCode": "90",
+            "date": "2018-12-04",
+            "changes": "NEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini game ever!\nWINTER WONDERLANDS: Exciting holiday gifts will be available just before the holidays!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nЗИМНЯЯ СКАЗКА: прямо перед праздниками будут доступны потрясающие подарки!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.1.3.143",
+            "versionCode": "100",
+            "date": "2018-12-10",
+            "changes": "NEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini game ever!\nWINTER WONDERLANDS: Exciting holiday gifts will be available just before the holidays!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nЗИМНЯЯ СКАЗКА: прямо перед праздниками будут доступны потрясающие подарки!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.1.5.25",
+            "versionCode": "110",
+            "date": "2019-01-03",
+            "changes": "CHINESE CELEBRATION: Fly to the special destination to get exciting new gifts.\nNEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini-game ever!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nКИТАЙСКИЙ ПРАЗДНИК: лети в особое место, чтобы получить потрясающие подарки.\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.2.20.247",
+            "versionCode": "120",
+            "date": "2019-02-03",
+            "changes": "TRY THE NEW TOY: Play the drums as loud as you can!\nSMOOTHIE MAKER: Make smoothies and see how Tom likes them.\nPETS REACT: Poke Tom’s pets and watch their reactions.\n\nПОПРОБУЙ НОВУЮ ИГРУШКУ: играй на барабанах как можно громче!\nБЛЕНДЕР ДЛЯ СМУЗИ: делай смузи и посмотри, насколько они понравятся Тому.\nРЕАКЦИЯ ПИТОМЦЕВ: тыкай пальцем в питомцев Тома и смотри на их реакцию."
+          },
+          {
+            "version": "1.2.21.259",
+            "versionCode": "130",
+            "date": "2019-02-04",
+            "changes": "TRY THE NEW TOY: Play the drums as loud as you can!\nSMOOTHIE MAKER: Make smoothies and see how Tom likes them.\nPETS REACT: Poke Tom’s pets and watch their reactions.\n\nПОПРОБУЙ НОВУЮ ИГРУШКУ: играй на барабанах как можно громче!\nБЛЕНДЕР ДЛЯ СМУЗИ: делай смузи и посмотри, насколько они понравятся Тому.\nРЕАКЦИЯ ПИТОМЦЕВ: тыкай пальцем в питомцев Тома и смотри на их реакцию."
+          },
+          {
+            "version": "1.3.0.360",
+            "versionCode": "140",
+            "date": "2019-03-28",
+            "changes": "NEW MINI-GAME: Dive into Sub Adventure!\nWHO’S THE BEST DRESSED? Let others rate your looks!\n\nНОВАЯ МИНИ-ИГРА: Ныряй в «Подводное приключение»!\nКТО ЛУЧШЕ ВСЕХ ОДЕТ? Дай другим оценить твой наряд!"
+          },
+          {
+            "version": "1.3.1.366",
+            "versionCode": "150",
+            "date": "2019-03-29",
+            "changes": "NEW MINI-GAME: Dive into Sub Adventure!\nWHO’S THE BEST DRESSED? Let others rate your looks!\n\nНОВАЯ МИНИ-ИГРА: Ныряй в «Подводное приключение»!\nКТО ЛУЧШЕ ВСЕХ ОДЕТ? Дай другим оценить твой наряд!"
+          },
+          {
+            "version": "1.3.2.404",
+            "versionCode": "160",
+            "date": "2019-04-18",
+            "changes": "NEW MINI-GAME: Dive into Sub Adventure!\nWHO’S THE BEST DRESSED? Let others rate your looks!\n\nНОВАЯ МИНИ-ИГРА: Ныряй в «Подводное приключение»!\nКТО ЛУЧШЕ ВСЕХ ОДЕТ? Дай другим оценить твой наряд!"
+          },
+          {
+            "version": "1.3.3.411",
+            "versionCode": "170",
+            "date": "2019-04-19",
+            "changes": "NEW MINI-GAME: Dive into Sub Adventure!\nWHO’S THE BEST DRESSED? Let others rate your looks!\n\nНОВАЯ МИНИ-ИГРА: Ныряй в «Подводное приключение»!\nКТО ЛУЧШЕ ВСЕХ ОДЕТ? Дай другим оценить твой наряд!"
+          },
+          {
+            "version": "1.3.4.443",
+            "versionCode": "180",
+            "date": "2019-05-10",
+            "changes": "NEW MINI-GAME: Dive into Sub Adventure!\nWHO’S THE BEST DRESSED? Let others rate your looks!\n\nНОВАЯ МИНИ-ИГРА: Ныряй в «Подводное приключение»!\nКТО ЛУЧШЕ ВСЕХ ОДЕТ? Дай другим оценить твой наряд!"
+          },
+          {
+            "version": "1.4.1.497",
+            "versionCode": "190",
+            "date": "2019-06-07",
+            "changes": "NEW: TOYS FOR PETS! Get the party started in the pet den!\nGET ARTISTIC: Try out two new paintings!\n\nНОВИНКА: ИГРУШКИ ДЛЯ ПИТОМЦЕВ! Пусть в логовах питомцев начнётся веселье!\nНАЧНИ ТВОРИТЬ: попробуй две новые картины!"
+          },
+          {
+            "version": "1.4.2.517",
+            "versionCode": "200",
+            "date": "2019-06-12",
+            "changes": "NEW: TOYS FOR PETS! Get the party started in the pet den!\nGET ARTISTIC: Try out two new paintings!\n\nНОВИНКА: ИГРУШКИ ДЛЯ ПИТОМЦЕВ! Пусть в логовах питомцев начнётся веселье!\nНАЧНИ ТВОРИТЬ: попробуй две новые картины!"
+          },
+          {
+            "version": "1.5.0.576",
+            "versionCode": "210",
+            "date": "2019-07-22",
+            "changes": "NEW: PET WISHES! Make pets happy - win rewards!\nGet artistic with new paintings!\n\nНОВИНКА: ЖЕЛАНИЯ ПИТОМЦЕВ! Осчастливь питомцев и получай награды!\nПрояви креативность с новыми картинками!"
+          },
+          {
+            "version": "1.5.1.587",
+            "versionCode": "220",
+            "date": "2019-07-23",
+            "changes": "NEW: PET WISHES! Make pets happy - win rewards!\nGet artistic with new paintings!\n\nНОВИНКА: ЖЕЛАНИЯ ПИТОМЦЕВ! Осчастливь питомцев и получай награды!\nПрояви креативность с новыми картинками!"
+          },
+          {
+            "version": "1.6.0.679",
+            "versionCode": "230",
+            "date": "2019-09-12",
+            "changes": "PLAY NEW CHALLENGES! - Look out for special ways to win rewards!\nSPLAT! Get messy with the mixer!\n\nПРОХОДИ НОВЫЕ ИСПЫТАНИЯ! Ищи особые способы получать награды!\nШМЯК! Устрой кавардак с миксером!"
+          },
+          {
+            "version": "1.6.1.702",
+            "versionCode": "240",
+            "date": "2019-09-16",
+            "changes": "PLAY NEW CHALLENGES! - Look out for special ways to win rewards!\nSPLAT! Get messy with the mixer!\n\nПРОХОДИ НОВЫЕ ИСПЫТАНИЯ! Ищи особые способы получать награды!\nШМЯК! Устрой кавардак с миксером!"
+          },
+          {
+            "version": "1.7.0.764",
+            "versionCode": "260",
+            "date": "2019-10-11",
+            "changes": "NEW FUNNY VOICES! Try Tom’s talking puppets!\nFly to win carnival prizes!\nWin bonus rewards on the Flight Challenge!\n\nНОВЫЕ ВЕСЁЛЫЕ ГОЛОСА! Поиграй с говорящими куклами Тома!\nЛетай и выигрывай призы на ярмарке!\nВыигрывай бонусные награды в испытании «Полёт»!"
+          },
+          {
+            "version": "1.7.1.772",
+            "versionCode": "270",
+            "date": "2019-10-15",
+            "changes": "NEW FUNNY VOICES! Try Tom’s talking puppets!\nFly to win carnival prizes!\nWin bonus rewards on the Flight Challenge!\n\nНОВЫЕ ВЕСЁЛЫЕ ГОЛОСА! Поиграй с говорящими куклами Тома!\nЛетай и выигрывай призы на ярмарке!\nВыигрывай бонусные награды в испытании «Полёт»!"
+          },
+          {
+            "version": "1.8.0.854",
+            "versionCode": "300",
+            "date": "2019-12-04",
+            "changes": "MAKE MAGIC! Learn amazing tricks!\nWatch out for snowfall and frost!\nFly and collect holiday gifts!\n\nТВОРИ ВОЛШЕБСТВО! Выучи потрясающие фокусы!\nБерегись снега и мороза!\nЛетай и собирай подарки на праздники"
+          },
+          {
+            "version": "1.8.1.858",
+            "versionCode": "310",
+            "date": "2019-12-05",
+            "changes": "MAKE MAGIC! Learn amazing tricks!\nWatch out for snowfall and frost!\nFly and collect holiday gifts!\n\nТВОРИ ВОЛШЕБСТВО! Выучи потрясающие фокусы!\nБерегись снега и мороза!\nЛетай и собирай подарки на праздники"
+          },
+          {
+            "version": "1.9.0.896",
+            "versionCode": "320",
+            "date": "2020-02-11",
+            "changes": "Spring is here! Look out for falling blossom in Tom's garden.\n\nНастала весна! Ищи падающие цветы в саду Тома."
+          },
+          {
+            "version": "1.9.1.902",
+            "versionCode": "330",
+            "date": "2020-02-13",
+            "changes": "Spring is here! Look out for falling blossom in Tom's garden.\n\nНастала весна! Ищи падающие цветы в саду Тома."
+          },
+          {
+            "version": "1.9.2.908",
+            "versionCode": "340",
+            "date": "2020-02-17",
+            "changes": "Spring is here! Look out for falling blossom in Tom's garden.\n\nНастала весна! Ищи падающие цветы в саду Тома."
+          },
+          {
+            "version": "2.0.0.954",
+            "versionCode": "350",
+            "date": "2020-04-03",
+            "changes": "GRANT A WISH!\nFulfill pets’ wishes to get flight tokens!\nLook out for a pirate adventure!\nIs it a trick? Or is it magic?\n\nИСПОЛНИ ЖЕЛАНИЕ!\nИсполняй желания питомцев и получай токены полёта!\nВысматривай пиратское приключение!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.0.1.962",
+            "versionCode": "360",
+            "date": "2020-04-06",
+            "changes": "GRANT A WISH!\nFulfill pets’ wishes to get flight tokens!\nLook out for a pirate adventure!\nIs it a trick? Or is it magic?\n\nИСПОЛНИ ЖЕЛАНИЕ!\nИсполняй желания питомцев и получай токены полёта!\nВысматривай пиратское приключение!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.1.0.1001",
+            "versionCode": "370",
+            "date": "2020-06-01",
+            "changes": "EXPLORE THE SEA\nDive into the underwater world!\nWatch out for deep diving adventures!\n\nИССЛЕДУЙ ОКЕАН\nНырни в подводный мир!\nНе пропусти глубоководные приключения!"
+          },
+          {
+            "version": "2.1.1.1011",
+            "versionCode": "380",
+            "date": "2020-06-02",
+            "changes": "EXPLORE THE SEA\nDive into the underwater world!\nWatch out for deep diving adventures!\n\nИССЛЕДУЙ ОКЕАН\nНырни в подводный мир!\nНе пропусти глубоководные приключения!"
+          },
+          {
+            "version": "2.2.0.43",
+            "versionCode": "390",
+            "date": "2020-08-10",
+            "changes": "TASTE THE CANDY!\nCatch the candy event and get sweet rewards!\nWin with magic tricks!\n\nНАСТАЛО ВРЕМЯ КОНФЕТ!\nНе пропусти конфетное мероприятие и получи сладкую награду!\nВыиграй с помощью волшебных фокусов!"
+          },
+          {
+            "version": "2.2.1.54",
+            "versionCode": "400",
+            "date": "2020-08-13",
+            "changes": "TASTE THE CANDY!\nCatch the candy event and get sweet rewards!\nWin with magic tricks!\n\nНАСТАЛО ВРЕМЯ КОНФЕТ!\nНе пропусти конфетное мероприятие и получи сладкую награду!\nВыиграй с помощью волшебных фокусов!"
+          },
+          {
+            "version": "2.3.0.27",
+            "versionCode": "410",
+            "date": "2020-10-14",
+            "changes": "FUN AT THE FAIR\nFind the event and win wacky rewards!\nIs it a trick? Or is it magic?\n\nВЕСЕЛЬЕ НА ЯРМАРКЕ\nНайди мероприятие и выиграй чудные награды!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.3.1.41",
+            "versionCode": "420",
+            "date": "2020-10-15",
+            "changes": "FUN AT THE FAIR\nFind the event and win wacky rewards!\nIs it a trick? Or is it magic?\n\nВЕСЕЛЬЕ НА ЯРМАРКЕ\nНайди мероприятие и выиграй чудные награды!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.3.2.47",
+            "versionCode": "430",
+            "date": "2020-10-16",
+            "changes": "FUN AT THE FAIR\nFind the event and win wacky rewards!\nIs it a trick? Or is it magic?\n\nВЕСЕЛЬЕ НА ЯРМАРКЕ\nНайди мероприятие и выиграй чудные награды!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.4.0.544",
+            "versionCode": "440",
+            "date": "2020-12-03",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "2.5.0.9",
+            "versionCode": "450",
+            "date": "2021-02-03",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "2.5.1.24",
+            "versionCode": "460",
+            "date": "2021-02-17",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "2.5.2.26",
+            "versionCode": "470",
+            "date": "2021-02-18",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "2.6.0.14",
+            "versionCode": "480",
+            "date": "2021-03-31",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.6.1.2",
+            "versionCode": "490",
+            "date": "2021-04-01",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.6.2.2",
+            "versionCode": "500",
+            "date": "2021-04-19",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.7.0.10",
+            "versionCode": "510",
+            "date": "2021-06-01",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.7.1.11",
+            "versionCode": "520",
+            "date": "2021-06-03",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.7.2.6",
+            "versionCode": "530",
+            "date": "2021-06-14",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.7.3.2",
+            "versionCode": "540",
+            "date": "2021-06-18",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.7.6.7",
+            "versionCode": "550",
+            "date": "2021-06-29",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.8.0.457",
+            "versionCode": "560",
+            "date": "2021-08-03",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "2.8.1.571",
+            "versionCode": "570",
+            "date": "2021-08-16",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "2.8.2.628",
+            "versionCode": "580",
+            "date": "2021-08-17",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "2.8.3.2",
+            "versionCode": "590",
+            "date": "2021-08-18",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "2.9.0.1227",
+            "versionCode": "600",
+            "date": "2021-10-05",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "2.9.1.1289",
+            "versionCode": "610",
+            "date": "2021-10-09",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "2.9.2.4",
+            "versionCode": "620",
+            "date": "2021-10-13",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "2.9.3.1493",
+            "versionCode": "630",
+            "date": "2021-11-08",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "3.0.0.1668",
+            "versionCode": "640",
+            "date": "2021-11-23",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.0.1.1685",
+            "versionCode": "650",
+            "date": "2021-11-24",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.0.2.1769",
+            "versionCode": "660",
+            "date": "2021-12-01",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.0.3.1796",
+            "versionCode": "670",
+            "date": "2021-12-02",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.0.4.1849",
+            "versionCode": "680",
+            "date": "2021-12-08",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.1.0.1893",
+            "versionCode": "690",
+            "date": "2021-12-18",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.1.1.1922",
+            "versionCode": "700",
+            "date": "2021-12-19",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.1.2.1966",
+            "versionCode": "710",
+            "date": "2021-12-20",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.1.3.2167",
+            "versionCode": "720",
+            "date": "2022-01-17",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.2.0.2367",
+            "versionCode": "730",
+            "date": "2022-02-24",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "3.2.1.2490",
+            "versionCode": "740",
+            "date": "2022-04-15",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "3.3.0.2680",
+            "versionCode": "750",
+            "date": "2022-05-05",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "3.3.1.2745",
+            "versionCode": "760",
+            "date": "2022-05-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.2.2780",
+            "versionCode": "770",
+            "date": "2022-05-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.3.2879",
+            "versionCode": "780",
+            "date": "2022-07-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4.0.2966",
+            "versionCode": "790",
+            "date": "2022-08-02",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "3.5.0.3103",
+            "versionCode": "800",
+            "date": "2022-09-14",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "3.5.1.3153",
+            "versionCode": "810",
+            "date": "2022-09-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.5.2.3204",
+            "versionCode": "820",
+            "date": "2022-10-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.0.3271",
+            "versionCode": "830",
+            "date": "2022-11-15",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.7.0.3447",
+            "versionCode": "860",
+            "date": "2023-01-04",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.8.0.3617",
+            "versionCode": "870",
+            "date": "2023-02-21",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "3.8.1.3675",
+            "versionCode": "880",
+            "date": "2023-03-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.9.0.3962",
+            "versionCode": "890",
+            "date": "2023-04-21",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "3.9.1.4058",
+            "versionCode": "900",
+            "date": "2023-04-26",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "4.0.0.5866",
+            "versionCode": "920",
+            "date": "2023-06-27",
+            "changes": "IT’S TIME TO PARTY!\nCelebrate Tom’s 10th birthday with fun and friends! Blow balloons, bake a cake and make decorations to surprise Tom and unlock rewards. There’s more to celebrate - you’ve been given a crazy 100k coin boost! When the party’s over, spend your coins on all your favorite treats, clothes and furniture!\n\nПРИШЛО ВРЕМЯ ПОВЕСЕЛИТЬСЯ!\nОтпразднуйте 10-летие Тома с весельем и друзьями! Надувайте воздушные шары, выпекайте торт и делайте украшения, чтобы удивить Тома и получить награды. Есть еще кое-что, что стоит отпраздновать - вы получили сумасшедшую прибавку в 100 тысяч монет! Когда вечеринка закончится, потратьте свои монеты на все ваши любимые угощения, одежду и мебель!"
+          },
+          {
+            "version": "4.0.1.6132",
+            "versionCode": "930",
+            "date": "2023-07-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.2.6157",
+            "versionCode": "940",
+            "date": "2023-07-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.0.6247",
+            "versionCode": "950",
+            "date": "2023-08-17",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "4.1.1.6322",
+            "versionCode": "960",
+            "date": "2023-08-22",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "4.2.0.6592",
+            "versionCode": "970",
+            "date": "2023-09-28",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "4.3.1.7104",
+            "versionCode": "990",
+            "date": "2023-11-27",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "4.3.2.7147",
+            "versionCode": "1000",
+            "date": "2023-12-07",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "4.4.0.7304",
+            "versionCode": "1020",
+            "date": "2024-01-18",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "4.4.1.7421",
+            "versionCode": "1030",
+            "date": "2024-01-31",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "4.4.2.7491",
+            "versionCode": "1040",
+            "date": "2024-02-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.4.2.7564",
+            "versionCode": "1050",
+            "date": "2024-02-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5.0.7712",
+            "versionCode": "1200",
+            "date": "2024-03-05",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\nWhat's new? The game is now available in Thai and Indonesian!\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости.\nЧто нового? Игра теперь доступна на тайском и индонезийском!"
+          },
+          {
+            "version": "4.5.1.7856",
+            "versionCode": "1210",
+            "date": "2024-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.6.0.7987",
+            "versionCode": "1300",
+            "date": "2024-04-11",
+            "changes": "EXPLORE THE SEA\nDive into the underwater world!\nWatch out for deep diving adventures!\n\nИССЛЕДУЙ ОКЕАН\nНырни в подводный мир!\nНе пропусти глубоководные приключения!"
+          },
+          {
+            "version": "4.6.1.8382",
+            "versionCode": "1330",
+            "date": "2024-05-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7.0.8778",
+            "versionCode": "1400",
+            "date": "2024-07-03",
+            "changes": "WATCH & WIN\n- new cinema feature\n- watch your favorite sport\n- cheer with Talking Tom & Pets\n- get epic rewards\n- don't forget to wear your Lucky Outfit\n\nСМОТРИТЕ И ВЫИГРЫВАЙТЕ\n— новая функция кино\n— смотрите свой любимый спорт\n— аплодируйте вместе с Говорящим Томом и питомцами\n— получайте классные награды\n— не забудьте надеть свой наряд на удачу"
+          },
+          {
+            "version": "4.7.1.8830",
+            "versionCode": "1410",
+            "date": "2024-07-12",
+            "changes": "WATCH & WIN\n- new cinema feature\n- watch your favorite sport\n- cheer with Talking Tom & Pets\n- get epic rewards\n- don't forget to wear your Lucky Outfit\n\nСМОТРИТЕ И ВЫИГРЫВАЙТЕ\n— новая функция кино\n— смотрите свой любимый спорт\n— аплодируйте вместе с Говорящим Томом и питомцами\n— получайте классные награды\n— не забудьте надеть свой наряд на удачу"
+          },
+          {
+            "version": "4.8.0.9193",
+            "versionCode": "1510",
+            "date": "2024-08-12",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "4.8.1.9208",
+            "versionCode": "1520",
+            "date": "2024-08-16",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "4.9.0.10027",
+            "versionCode": "1600",
+            "date": "2024-10-10",
+            "changes": "It's Talking Tom. I'm throwing a SPOOKTACULAR Halloween party and I need your help! Let's carve pumpkins together and unlock creepy rewards.\n\nГоворящий Том на связи. Я устраиваю до УЖАСА классную вечеринку на Хэллоуин и мне нужна ваша помощь! Давайте вместе вырежем тыквы и откроем страшные награды."
+          },
+          {
+            "version": "4.9.1.10056",
+            "versionCode": "1610",
+            "date": "2024-10-18",
+            "changes": "It's Talking Tom. I'm throwing a SPOOKTACULAR Halloween party and I need your help! Let's carve pumpkins together and unlock creepy rewards.\n\nГоворящий Том на связи. Я устраиваю до УЖАСА классную вечеринку на Хэллоуин и мне нужна ваша помощь! Давайте вместе вырежем тыквы и откроем страшные награды."
+          },
+          {
+            "version": "4.9.2.10116",
+            "versionCode": "1620",
+            "date": "2024-11-07",
+            "changes": "ANGRY BIRDS JOINS TALKING TOM\n- Enjoy the exciting collab between iconic gaming franchises.\n- Defeat the Pigs with Slingshots and Hammers.\n- Join the battle by clicking on Red in the backyard.\n- Live only until 21.11.2024\n\nANGRY BIRDS С ГОВОРЯЩИМ ТОМОМ\n— Наслаждайтесь сочетанием двух легендарных игровых франшиз.\n— Победите свиней с помощью рогаток и молотков.\n— Вступайте в битву, нажав на Реда на заднем дворе.\n— Доступно только до 21.11.2024"
+          },
+          {
+            "version": "5.0.0.10312",
+            "versionCode": "1700",
+            "date": "2024-11-28",
+            "changes": "HAPPY LUNAR NEW YEAR\n\n- Limited-time Lunar New Year outfit for Talking Tom\n\nСЧАСТЛИВОГО ЛУННОГО НОВОГО ГОДА\n\n— Ограниченный по времени наряд для Говорящего Тома"
+          },
+          {
+            "version": "5.0.1.10318",
+            "versionCode": "1710",
+            "date": "2024-12-16",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "5.0.2.10466",
+            "versionCode": "1720",
+            "date": "2025-01-09",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "5.0.3.10585",
+            "versionCode": "1730",
+            "date": "2025-01-17",
+            "changes": "HAPPY LUNAR NEW YEAR\n\n- Limited-time Lunar New Year outfit for Talking Tom\n\nСЧАСТЛИВОГО ЛУННОГО НОВОГО ГОДА\n\n— Ограниченный по времени наряд для Говорящего Тома"
+          },
+          {
+            "version": "5.0.4.10790",
+            "versionCode": "1740",
+            "date": "2025-01-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1.0.11493",
+            "versionCode": "1800",
+            "date": "2025-03-13",
+            "changes": "NEW OUTFITS. NEW POTIONS. NEW NOMS.\n\n- Unlock 3 funky new outfits for Tom.\n- Discounted pricing on foods and potions!\n- Purchase a potion that can make Tom a baby again.\n\nНОВЫЕ НАРЯДЫ. НОВЫЕ ЗЕЛЬЯ. НОВЫЕ НЯМКИ.\n\n— Откройте 3 необычных новых наряда для Тома.\n— Скидка на еду и зелья!\n— Купите зелье, которое снова сделает Тома младенцем."
+          },
+          {
+            "version": "25.1.1.11683",
+            "versionCode": "1810",
+            "date": "2025-03-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1.2.11707",
+            "versionCode": "1830",
+            "date": "2025-04-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1.3.11738",
+            "versionCode": "1840",
+            "date": "2025-04-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.0.12698",
+            "versionCode": "202502000",
+            "date": "2025-06-12",
+            "changes": "NEW: PIÑATA SURPRISE\n- Prep a surprise party with the Pets\n- Choose the pinata shape\n- Paint and decorate with your favorite colors\n- Fill with delicious candy\n- Cut out toilet paper confetti\n- Smash it and unlock a new outfit\n\nНОВИНКА: ПИНЬЯТА\n— Подготовьте вечеринку-сюрприз с питомцами\n— Выберите форму пиньяты\n— Разрисуйте её и украсьте любимыми цветами\n— Наполните её вкусными конфетами\n— Вырежьте конфетти из туалетной бумаги\n— Разбейте её и откройте новый наряд"
+          },
+          {
+            "version": "25.2.1.12759",
+            "versionCode": "202502010",
+            "date": "2025-06-19",
+            "changes": "NEW: PIÑATA SURPRISE\n- Prep a surprise party with the Pets\n- Choose the pinata shape\n- Paint and decorate with your favorite colors\n- Fill with delicious candy\n- Cut out toilet paper confetti\n- Smash it and unlock a new outfit\n\nНОВИНКА: ПИНЬЯТА\n— Подготовьте вечеринку-сюрприз с питомцами\n— Выберите форму пиньяты\n— Разрисуйте её и украсьте любимыми цветами\n— Наполните её вкусными конфетами\n— Вырежьте конфетти из туалетной бумаги\n— Разбейте её и откройте новый наряд"
+          },
+          {
+            "version": "25.2.2.12970",
+            "versionCode": "202502020",
+            "date": "2025-06-30",
+            "changes": "EXPLORE THE SEA\nDive into the underwater world!\nWatch out for deep diving adventures!\n\nИССЛЕДУЙ ОКЕАН\nНырни в подводный мир!\nНе пропусти глубоководные приключения!"
+          },
+          {
+            "version": "25.2.3.13021",
+            "versionCode": "202502030",
+            "date": "2025-07-02",
+            "changes": "NEW: PIÑATA SURPRISE\n- Prep a surprise party with the Pets\n- Choose the pinata shape\n- Paint and decorate with your favorite colors\n- Fill with delicious candy\n- Cut out toilet paper confetti\n- Smash it and unlock a new outfit\n\nНОВИНКА: ПИНЬЯТА\n— Подготовьте вечеринку-сюрприз с питомцами\n— Выберите форму пиньяты\n— Разрисуйте её и украсьте любимыми цветами\n— Наполните её вкусными конфетами\n— Вырежьте конфетти из туалетной бумаги\n— Разбейте её и откройте новый наряд"
+          },
+          {
+            "version": "25.3.0.13195",
+            "versionCode": "202503000",
+            "date": "2025-07-14",
+            "changes": "NEW OUTFITS. NEW POTIONS. NEW NOMS.\n\n- Unlock 3 funky new outfits for Tom.\n- Discounted pricing on foods and potions!\n- Purchase a potion that can make Tom a baby again.\n\nНОВЫЕ НАРЯДЫ. НОВЫЕ ЗЕЛЬЯ. НОВЫЕ НЯМКИ.\n\n— Откройте 3 необычных новых наряда для Тома.\n— Скидка на еду и зелья!\n— Купите зелье, которое снова сделает Тома младенцем."
+          },
+          {
+            "version": "25.3.1.13307",
+            "versionCode": "202503010",
+            "date": "2025-07-18",
+            "changes": "NEW OUTFITS. NEW POTIONS. NEW NOMS.\n\n- Unlock 3 funky new outfits for Tom.\n- Discounted pricing on foods and potions!\n- Purchase a potion that can make Tom a baby again.\n\nНОВЫЕ НАРЯДЫ. НОВЫЕ ЗЕЛЬЯ. НОВЫЕ НЯМКИ.\n\n— Откройте 3 необычных новых наряда для Тома.\n— Скидка на еду и зелья!\n— Купите зелье, которое снова сделает Тома младенцем."
+          },
+          {
+            "version": "25.3.2.13494",
+            "versionCode": "202503020",
+            "date": "2025-08-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.4.14699",
+            "versionCode": "202503040",
+            "date": "2025-09-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.0.15840",
+            "versionCode": "202504000",
+            "date": "2025-10-10",
+            "changes": "FLY IN STYLE\nThe all-new Plane Editor lets you customize Tom’s plane from nose to tail—wings, engine, shape, even power-ups.\nGo full duck, shark, or something no one’s ever seen before. Sky’s the limit!\n\nЛЕТАЙТЕ СТИЛЬНО\nНовый редактор самолётов помогает настроить самолёт Тома от носа до хвоста — крылья, двигатель, форму и даже усиления.\nЛетайте на самолёте в форме утки, акулы или чего-то невиданного — нет ничего невозможного!"
+          },
+          {
+            "version": "25.4.1.15905",
+            "versionCode": "202504010",
+            "date": "2025-10-15",
+            "changes": "FLY IN STYLE\nThe all-new Plane Editor lets you customize Tom’s plane from nose to tail—wings, engine, shape, even power-ups.\nGo full duck, shark, or something no one’s ever seen before. Sky’s the limit!\n\nЛЕТАЙТЕ СТИЛЬНО\nНовый редактор самолётов помогает настроить самолёт Тома от носа до хвоста — крылья, двигатель, форму и даже усиления.\nЛетайте на самолёте в форме утки, акулы или чего-то невиданного — нет ничего невозможного!"
+          },
+          {
+            "version": "25.4.2.15959",
+            "versionCode": "202504020",
+            "date": "2025-10-16",
+            "changes": "FLY IN STYLE\nThe all-new Plane Editor lets you customize Tom’s plane from nose to tail—wings, engine, shape, even power-ups.\nGo full duck, shark, or something no one’s ever seen before. Sky’s the limit!\n\nЛЕТАЙТЕ СТИЛЬНО\nНовый редактор самолётов помогает настроить самолёт Тома от носа до хвоста — крылья, двигатель, форму и даже усиления.\nЛетайте на самолёте в форме утки, акулы или чего-то невиданного — нет ничего невозможного!"
+          },
+          {
+            "version": "25.4.3.15990",
+            "versionCode": "202504030",
+            "date": "2025-10-17",
+            "changes": "FLY IN STYLE\nThe all-new Plane Editor lets you customize Tom’s plane from nose to tail—wings, engine, shape, even power-ups.\nGo full duck, shark, or something no one’s ever seen before. Sky’s the limit!\n\nЛЕТАЙТЕ СТИЛЬНО\nНовый редактор самолётов помогает настроить самолёт Тома от носа до хвоста — крылья, двигатель, форму и даже усиления.\nЛетайте на самолёте в форме утки, акулы или чего-то невиданного — нет ничего невозможного!"
+          },
+          {
+            "version": "25.4.5.16140",
+            "versionCode": "202504050",
+            "date": "2025-11-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.7.16211",
+            "versionCode": "202504070",
+            "date": "2025-11-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.8.16457",
+            "versionCode": "202504080",
+            "date": "2025-11-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.5.2.17101",
+            "versionCode": "202505020",
+            "date": "2025-12-12",
+            "changes": "NEW POTIONS & FITS JUST DROPPED\n5x new potions and foods with wacky effects.\n2 all-new premium outfits have landed: Fire Viking Tom and Galactic Pop Star Tom.\n\nВСТРЕЧАЙТЕ НОВЫЕ ЗЕЛЬЯ И НАРЯДЫ\n5× новых зелий и еды со странными эффектами.\n2 новых премиум-наряда: Огненный викинг Том и Галактическая поп-звезда Том."
+          },
+          {
+            "version": "25.5.3.17210",
+            "versionCode": "202505030",
+            "date": "2025-12-17",
+            "changes": "NEW POTIONS & FITS JUST DROPPED\n5x new potions and foods with wacky effects.\n2 all-new premium outfits have landed: Fire Viking Tom and Galactic Pop Star Tom.\n\nВСТРЕЧАЙТЕ НОВЫЕ ЗЕЛЬЯ И НАРЯДЫ\n5× новых зелий и еды со странными эффектами.\n2 новых премиум-наряда: Огненный викинг Том и Галактическая поп-звезда Том."
+          },
+          {
+            "version": "25.5.10.17653",
+            "versionCode": "202505100",
+            "date": "2026-01-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.5.12.19218",
+            "versionCode": "202505120",
+            "date": "2026-02-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.0.19383",
+            "versionCode": "202601000",
+            "date": "2026-02-18",
+            "changes": "BATHROOM REWORKED. FUN UNLEASHED.\nTalking Tom’s bathroom just got a big makeover:\n– Brand-new soaps.\n– New booboos, and ways to heal them.\n– A dental visit for Talking Tom.\n– Toilet upgrade with plungers, toilet paper, and surprise gadgets!\n\nНОВЫЙ ТУАЛЕТ. МОРЕ ВЕСЕЛЬЯ.\nТуалет Говорящего Тома только что стал еще лучше:\n— Новое мыло.\n— Новые вавки и способы их лечить.\n— Визит к зубному для Говорящего Тома.\n— Туалетные обновления — вантузы, туалетная бумага и гаджеты-сюрпризы!"
+          },
+          {
+            "version": "26.1.1.19459",
+            "versionCode": "202601010",
+            "date": "2026-02-20",
+            "changes": "BATHROOM REWORKED. FUN UNLEASHED.\nTalking Tom’s bathroom just got a big makeover:\n– Brand-new soaps.\n– New booboos, and ways to heal them.\n– A dental visit for Talking Tom.\n– Toilet upgrade with plungers, toilet paper, and surprise gadgets!\n\nНОВЫЙ ТУАЛЕТ. МОРЕ ВЕСЕЛЬЯ.\nТуалет Говорящего Тома только что стал еще лучше:\n— Новое мыло.\n— Новые вавки и способы их лечить.\n— Визит к зубному для Говорящего Тома.\n— Туалетные обновления — вантузы, туалетная бумага и гаджеты-сюрпризы!"
+          },
+          {
+            "version": "26.2.0.21877",
+            "versionCode": "202602000",
+            "date": "2026-04-14",
+            "changes": "A WHOLE NEW BACKYARD\n- Bigger Backyard with more space and activities\n- New cooking feature for whipping up tasty treats\n- Find pet parties and magical surprises on the Porch\n- Updates for a smoother gameplay experience\n\nСОВЕРШЕННО НОВЫЙ ЗАДНИЙ ДВОР\n— Задний двор стал ещё больше, и число занятий выросло\n— Новая функция готовки, чтобы создавать вкусные закуски\n— На крыльце вас ждут вечеринки питомцев и волшебные сюрпризы\n— Обновления для более плавной игры"
+          },
+          {
+            "version": "26.2.1.21967",
+            "versionCode": "202602010",
+            "date": "2026-04-15",
+            "changes": "A WHOLE NEW BACKYARD\n- Bigger Backyard with more space and activities\n- New cooking feature for whipping up tasty treats\n- Find pet parties and magical surprises on the Porch\n- Updates for a smoother gameplay experience\n\nСОВЕРШЕННО НОВЫЙ ЗАДНИЙ ДВОР\n— Задний двор стал ещё больше, и число занятий выросло\n— Новая функция готовки, чтобы создавать вкусные закуски\n— На крыльце вас ждут вечеринки питомцев и волшебные сюрпризы\n— Обновления для более плавной игры"
+          },
+          {
+            "version": "26.2.9.22175",
+            "versionCode": "202602092",
+            "date": "2026-04-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.11.22770",
+            "versionCode": "202602112",
+            "date": "2026-05-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.12.23916",
+            "versionCode": "202602120",
+            "date": "2026-06-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.13.23972",
+            "versionCode": "202602130",
+            "date": "2026-06-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.0.24697",
+            "versionCode": "202603002",
+            "date": "2026-06-18",
+            "changes": "BASEMENT SECRETS AWAIT\n- Explore the new basement area\n- Enjoy the renovated wardrobe\n- Race through space with new tracks\n- Jump back in and check it all out\n\nТАЙНЫ ПОДВАЛА ЖДУТ\n— Исследуйте новое помещение: подвал\n— Наслаждайтесь обновлённым гардеробом\n— Продолжите гонку по новым трекам\n— Возвращайтесь и посмотрите всё это"
+          },
+          {
+            "version": "26.3.1.24748",
+            "versionCode": "202603010",
+            "date": "2026-06-19",
+            "changes": "BASEMENT SECRETS AWAIT\n- Explore the new basement area\n- Enjoy the renovated wardrobe\n- Race through space with new tracks\n- Jump back in and check it all out\n\nТАЙНЫ ПОДВАЛА ЖДУТ\n— Исследуйте новое помещение: подвал\n— Наслаждайтесь обновлённым гардеробом\n— Продолжите гонку по новым трекам\n— Возвращайтесь и посмотрите всё это"
+          },
+          {
+            "version": "26.3.3.25446",
+            "versionCode": "202603030",
+            "date": "2026-07-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.4.25990",
+            "versionCode": "202603040",
+            "date": "2026-07-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.5.26286",
+            "versionCode": "202604001",
+            "date": "2026-07-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.0.26924",
+            "versionCode": "202604002",
+            "date": "2026-08-13",
+            "changes": "New Adventures Await!\n- Explore the Neighborhood: Follow the path and discover fun rewards.\n- New City Fleet: Create new ambulance, police, and firefighter-inspired planes.\n- Fire Viking Valhalla Set: Bring the heat with a full new fiery set.\n\nНовые приключения ждут!\n— Исследуйте район: идите по дороге и откройте весёлые награды.\n— Новая городская техника: создавайте новые самолёты в стиле скорой, полиции и пожарных.\n— Набор огненных викингов Вальхаллы: задайте жару с новым огненным набором."
+          },
+          {
+            "version": "26.4.1.27452",
+            "versionCode": "202604010",
+            "date": "2026-08-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.9.27708",
+            "versionCode": "202604091",
+            "date": "2026-09-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.10.28786",
+            "versionCode": "202604106",
+            "date": "2026-10-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.5.0.28933",
+            "versionCode": "202605001",
+            "date": "2026-10-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.5.1.29034",
+            "versionCode": "202605010",
+            "date": "2026-10-13",
+            "changes": "The basement is transformed!\n\n- Explore the Egypt-themed Spooky Quest.\n- Discover a haunted Halloween makeover and unlock a spooky outfit.\n- Serve up something delicious with the new grill recipe.\n\nПодвал преобразился!\n\n— Исследуйте страшное приключение с египетской тематикой.\n— Откройте страшные перемены на Хэллоуин и откройте ужасающий наряд.\n— Приготовьте что-нибудь вкусненькое с новым рецептом для гриля."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2018-09-25",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1338",
+            "date": "2018-09-29",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.1339",
+            "date": "2018-10-03",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.1341",
+            "date": "2018-10-20",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.2000",
+            "date": "2018-10-27",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.2001",
+            "date": "2018-11-03",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.2002",
+            "date": "2018-11-07",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.0.2005",
+            "date": "2018-11-09",
+            "changes": "Fly & Explore: Discover exciting worlds and collect hundreds of amazing items.\nToys & Booboos: Play with toys and care for Talking Tom if he gets a booboo.\nPets & Mini games: Five pets now live with Tom and star in cool new mini games.\nPick Tom up: Spin him, drop him, throw him, and put him where you want him.\n\nЛетай и исследуй: открывай удивительные миры и собирай сотни потрясающих предметов.\nИгрушки и вавки: играй с игрушками и заботься о Томе, если у него будет вавка.\nПитомцы и мини-игры: теперь вместе с Томом живут пять питомцев, которые участвуют в классных новых мини-играх.\nБери Тома на руки: крути его, роняй, бросай и ставь в нужное тебе место."
+          },
+          {
+            "version": "1.1.2",
+            "date": "2018-12-06",
+            "changes": "NEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini game ever!\nWINTER WONDERLANDS: Exciting holiday gifts will be available just before the holidays!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nЗИМНЯЯ СКАЗКА: прямо перед праздниками будут доступны потрясающие подарки!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.1.4",
+            "date": "2018-12-14",
+            "changes": "NEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini game ever!\nWINTER WONDERLANDS: Exciting holiday gifts will be available just before the holidays!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nЗИМНЯЯ СКАЗКА: прямо перед праздниками будут доступны потрясающие подарки!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.1.5",
+            "date": "2019-01-04",
+            "changes": "CHINESE CELEBRATION: Fly to the special destination to get exciting new gifts.\nNEW MINI GAME: Dodge the ghosts in Tom’s spookiest mini-game ever!\nCOLORING BOOK: Add color to drawings then decorate Tom’s room with them!\n\nКИТАЙСКИЙ ПРАЗДНИК: лети в особое место, чтобы получить потрясающие подарки.\nНОВАЯ МИНИ-ИГРА: уворачивайся от призраков в самой страшной мини-игре Тома!\nКНИЖКА-РАСКРАСКА: раскрашивай рисунки, а потом украшай ими стены комнаты Тома!"
+          },
+          {
+            "version": "1.2.21",
+            "date": "2019-02-13",
+            "changes": "TRY THE NEW TOY: Play the drums as loud as you can!\nSMOOTHIE MAKER: Make smoothies and see how Tom likes them.\nPETS REACT: Poke Tom’s pets and watch their reactions.\n\nПОПРОБУЙ НОВУЮ ИГРУШКУ: играй на барабанах как можно громче!\nБЛЕНДЕР ДЛЯ СМУЗИ: делай смузи и посмотри, насколько они понравятся Тому.\nРЕАКЦИЯ ПИТОМЦЕВ: тыкай пальцем в питомцев Тома и смотри на их реакцию."
+          },
+          {
+            "version": "1.3.1",
+            "date": "2019-04-09",
+            "changes": "NEW MINI-GAME: Dive into Sub Adventure!\nWHO’S THE BEST DRESSED? Let others rate your looks!\n\nНОВАЯ МИНИ-ИГРА: Ныряй в «Подводное приключение»!\nКТО ЛУЧШЕ ВСЕХ ОДЕТ? Дай другим оценить твой наряд!"
+          },
+          {
+            "version": "1.4.2",
+            "date": "2019-06-20",
+            "changes": "NEW: TOYS FOR PETS! Get the party started in the pet den!\nGET ARTISTIC: Try out two new paintings!\n\nНОВИНКА: ИГРУШКИ ДЛЯ ПИТОМЦЕВ! Пусть в логовах питомцев начнётся веселье!\nНАЧНИ ТВОРИТЬ: попробуй две новые картины!"
+          },
+          {
+            "version": "1.5.2",
+            "date": "2019-08-01",
+            "changes": "NEW: PET WISHES! Make pets happy - win rewards!\nGet artistic with new paintings!\n\nНОВИНКА: ЖЕЛАНИЯ ПИТОМЦЕВ! Осчастливь питомцев и получай награды!\nПрояви креативность с новыми картинками!"
+          },
+          {
+            "version": "1.6.2",
+            "date": "2019-09-23",
+            "changes": "PLAY NEW CHALLENGES! - Look out for special ways to win rewards!\nSPLAT! Get messy with the mixer!\n\nПРОХОДИ НОВЫЕ ИСПЫТАНИЯ! Ищи особые способы получать награды!\nШМЯК! Устрой кавардак с миксером!"
+          },
+          {
+            "version": "1.7.1",
+            "date": "2019-10-22",
+            "changes": "NEW FUNNY VOICES! Try Tom’s talking puppets!\nFly to win carnival prizes!\nWin bonus rewards on the Flight Challenge!\n\nНОВЫЕ ВЕСЁЛЫЕ ГОЛОСА! Поиграй с говорящими куклами Тома!\nЛетай и выигрывай призы на ярмарке!\nВыигрывай бонусные награды в испытании «Полёт»!"
+          },
+          {
+            "version": "1.8.1",
+            "date": "2019-12-16",
+            "changes": "MAKE MAGIC! Learn amazing tricks!\nWatch out for snowfall and frost!\nFly and collect holiday gifts!\n\nТВОРИ ВОЛШЕБСТВО! Выучи потрясающие фокусы!\nБерегись снега и мороза!\nЛетай и собирай подарки на праздники"
+          },
+          {
+            "version": "1.9.2",
+            "date": "2020-02-19",
+            "changes": "Spring is here! Look out for falling blossom in Tom's garden.\n\nНастала весна! Ищи падающие цветы в саду Тома."
+          },
+          {
+            "version": "1.9.3",
+            "date": "2020-03-04",
+            "changes": "Spring is here! Look out for falling blossom in Tom's garden.\n\nНастала весна! Ищи падающие цветы в саду Тома."
+          },
+          {
+            "version": "2.0.1",
+            "date": "2020-04-16",
+            "changes": "GRANT A WISH!\nFulfill pets’ wishes to get flight tokens!\nLook out for a pirate adventure!\nIs it a trick? Or is it magic?\n\nИСПОЛНИ ЖЕЛАНИЕ!\nИсполняй желания питомцев и получай токены полёта!\nВысматривай пиратское приключение!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.0.5",
+            "date": "2020-05-18",
+            "changes": "GRANT A WISH! Fulfill pets’ wishes to get flight tokens!\nLook out for a pirate adventure!\nIs it a trick? Or is it magic?\n\nИСПОЛНИ ЖЕЛАНИЕ! Исполняй желания питомцев и получай токены полёта!\nВысматривай пиратское приключение!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.1.1",
+            "date": "2020-06-11",
+            "changes": "EXPLORE THE SEA\nDive into the underwater world!\nWatch out for deep diving adventures!\n\nИССЛЕДУЙ ОКЕАН\nНырни в подводный мир!\nНе пропусти глубоководные приключения!"
+          },
+          {
+            "version": "2.2.1",
+            "date": "2020-08-19",
+            "changes": "TASTE THE CANDY!\nCatch the candy event and get sweet rewards!\nWin with magic tricks!\n\nНАСТАЛО ВРЕМЯ КОНФЕТ!\nНе пропусти конфетное мероприятие и получи сладкую награду!\nВыиграй с помощью волшебных фокусов!"
+          },
+          {
+            "version": "2.3.1",
+            "date": "2020-10-22",
+            "changes": "FUN AT THE FAIR\nFind the event and win wacky rewards!\nIs it a trick? Or is it magic?\n\nВЕСЕЛЬЕ НА ЯРМАРКЕ\nНайди мероприятие и выиграй чудные награды!\nЭто трюк? Или же волшебство?"
+          },
+          {
+            "version": "2.4",
+            "date": "2020-12-14",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "2.4.5",
+            "date": "2021-01-20",
+            "changes": "CHINESE FESTIVITIES\nFly to get new gifts!\n\nКИТАЙСКИЙ ПРАЗДНИК\nЛети и получи новые подарки на праздники!"
+          },
+          {
+            "version": "2.5.2",
+            "date": "2021-02-19",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "2.6.1",
+            "date": "2021-04-12",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.6.2",
+            "date": "2021-04-21",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.6.3",
+            "date": "2021-05-18",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.6.4",
+            "date": "2021-05-20",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "2.7.1",
+            "date": "2021-06-09",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.7.3",
+            "date": "2021-06-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "2.7.5",
+            "date": "2021-06-24",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.7.6",
+            "date": "2021-07-15",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "2.8",
+            "date": "2021-08-17",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "2.9.1",
+            "date": "2021-10-08",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "3.0.1",
+            "date": "2021-12-07",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.1.2",
+            "date": "2022-01-11",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.2",
+            "date": "2022-03-15",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "3.3",
+            "date": "2022-05-24",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "3.3.2",
+            "date": "2022-06-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.3",
+            "date": "2022-06-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.4",
+            "date": "2022-08-16",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "3.5.1",
+            "date": "2022-09-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6",
+            "date": "2022-11-25",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "3.6.2",
+            "date": "2022-12-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7",
+            "date": "2023-01-09",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "3.8",
+            "date": "2023-03-07",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости."
+          },
+          {
+            "version": "3.9",
+            "date": "2023-05-05",
+            "changes": "MAKE A SPLASH\nSummer’s here so it’s time to stay cool and go underwater. Keep an eye out for treasure on the coral reef!\n\nБОЛЬШОЙ ВСПЛЕСК\nЛето уже здесь, так что придётся уйти под воду, чтобы немного охладиться. И не пропустите сокровище на коралловом рифе!"
+          },
+          {
+            "version": "3.9.1",
+            "date": "2023-06-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0",
+            "date": "2023-07-11",
+            "changes": "IT’S TIME TO PARTY!\nCelebrate Tom’s 10th birthday with fun and friends! Blow balloons, bake a cake and make decorations to surprise Tom and unlock rewards. There’s more to celebrate - you’ve been given a crazy 100k coin boost! When the party’s over, spend your coins on all your favorite treats, clothes and furniture!\n\nПРИШЛО ВРЕМЯ ПОВЕСЕЛИТЬСЯ!\nОтпразднуйте 10-летие Тома с весельем и друзьями! Надувайте воздушные шары, выпекайте торт и делайте украшения, чтобы удивить Тома и получить награды. Есть еще кое-что, что стоит отпраздновать - вы получили сумасшедшую прибавку в 100 тысяч монет! Когда вечеринка закончится, потратьте свои монеты на все ваши любимые угощения, одежду и мебель!"
+          },
+          {
+            "version": "4.0.2",
+            "date": "2023-07-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.1.1",
+            "date": "2023-08-29",
+            "changes": "MAGIC IN THE AIR\nThe leaves are falling and it’s almost Halloween. Find the magic pumpkin and a carnival event.\n\nВОЛШЕБСТВО В ВОЗДУХЕ\nЛистья опадают, и уже почти наступил Хэллоуин. Найдите волшебную тыкву и карнавал."
+          },
+          {
+            "version": "4.1.2",
+            "date": "2023-09-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.2",
+            "date": "2023-09-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.3",
+            "date": "2023-11-28",
+            "changes": "THE HOLIDAYS ARE HERE!\nThere’s been a sprinkling of snow and Tom is ready for the holidays. Meet the snowman and enjoy festive food and outfits.\n\nПРАЗДНИКИ УЖЕ ЗДЕСЬ!\nУже выпал снег, и Том готов к праздникам. Встречайте снеговика и наслаждайтесь праздничной едой и нарядами."
+          },
+          {
+            "version": "4.4",
+            "date": "2024-01-30",
+            "changes": "WINTER WONDERLAND\nA fresh blanket of snow has fallen in time for the Dragon Festival. Enjoy the celebrations!\n\nЗИМНЯЯ СКАЗКА\nК Празднику Дракона выпал свежий снег. Наслаждайтесь праздником!"
+          },
+          {
+            "version": "4.4.1",
+            "date": "2024-02-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5",
+            "date": "2024-03-14",
+            "changes": "SPRING SPECIAL\nSpring has arrived and this year it’s coated in sugar! Find the piñata and other sweet treats waiting for Tom.\nWhat's new? The game is now available in Thai and Indonesian!\n\nВЕСЕННИЕ НОВОСТИ\nНаступила весна, и в этом году она покрыта сахаром! Тома ждёт пиньята и другие сладости.\nЧто нового? Игра теперь доступна на тайском и индонезийском!"
+          },
+          {
+            "version": "4.5.1",
+            "date": "2024-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.6",
+            "date": "2024-04-25",
+            "changes": "EXPLORE THE SEA\nDive into the underwater world!\nWatch out for deep diving adventures!\n\nИССЛЕДУЙ ОКЕАН\nНырни в подводный мир!\nНе пропусти глубоководные приключения!"
+          },
+          {
+            "version": "4.6.1",
+            "date": "2024-05-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7.1",
+            "date": "2024-07-16",
+            "changes": "WATCH & WIN\n- new cinema feature\n- watch your favorite sport\n- cheer with Talking Tom & Pets\n- get epic rewards\n- don't forget to wear your Lucky Outfit\n\nСМОТРИТЕ И ВЫИГРЫВАЙТЕ\n— новая функция кино\n— смотрите свой любимый спорт\n— аплодируйте вместе с Говорящим Томом и питомцами\n— получайте классные награды\n— не забудьте надеть свой наряд на удачу"
+          },
+          {
+            "version": "4.8.1",
+            "date": "2024-08-22",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "4.9.1",
+            "date": "2024-10-18",
+            "changes": "It's Talking Tom. I'm throwing a SPOOKTACULAR Halloween party and I need your help! Let's carve pumpkins together and unlock creepy rewards.\n\nГоворящий Том на связи. Я устраиваю до УЖАСА классную вечеринку на Хэллоуин и мне нужна ваша помощь! Давайте вместе вырежем тыквы и откроем страшные награды."
+          },
+          {
+            "version": "4.9.2",
+            "date": "2024-11-07",
+            "changes": "ANGRY BIRDS JOINS TALKING TOM\n- Enjoy the exciting collab between iconic gaming franchises.\n- Defeat the Pigs with Slingshots and Hammers.\n- Join the battle by clicking on Red in the backyard.\n- Live only until 21.11.2024\n\nANGRY BIRDS С ГОВОРЯЩИМ ТОМОМ\n— Наслаждайтесь сочетанием двух легендарных игровых франшиз.\n— Победите свиней с помощью рогаток и молотков.\n— Вступайте в битву, нажав на Реда на заднем дворе.\n— Доступно только до 21.11.2024"
+          },
+          {
+            "version": "4.9.3",
+            "date": "2024-11-29",
+            "changes": "THE FUTURE AWAITS\nTime to go back to space. Wait, what? Forget school and fly to a far-out Cyber City in this update!\n\nБУДУЩЕЕ ЖДЁТ\nСнова в космос… Так, стоп! В этом обновлении можно забыть про школу и полететь в далёкий Кибер-город!"
+          },
+          {
+            "version": "5.0",
+            "date": "2024-12-12",
+            "changes": "HAPPY LUNAR NEW YEAR\n\n- Limited-time Lunar New Year outfit for Talking Tom\n\nСЧАСТЛИВОГО ЛУННОГО НОВОГО ГОДА\n\n— Ограниченный по времени наряд для Говорящего Тома"
+          },
+          {
+            "version": "5.0.2",
+            "date": "2025-01-20",
+            "changes": "HAPPY LUNAR NEW YEAR\n\n- Limited-time Lunar New Year outfit for Talking Tom\n\nСЧАСТЛИВОГО ЛУННОГО НОВОГО ГОДА\n\n— Ограниченный по времени наряд для Говорящего Тома"
+          },
+          {
+            "version": "5.0.4",
+            "date": "2025-01-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1",
+            "date": "2025-03-27",
+            "changes": "NEW OUTFITS. NEW POTIONS. NEW NOMS.\n\n- Unlock 3 funky new outfits for Tom.\n- Discounted pricing on foods and potions!\n- Purchase a potion that can make Tom a baby again.\n\nНОВЫЕ НАРЯДЫ. НОВЫЕ ЗЕЛЬЯ. НОВЫЕ НЯМКИ.\n\n— Откройте 3 необычных новых наряда для Тома.\n— Скидка на еду и зелья!\n— Купите зелье, которое снова сделает Тома младенцем."
+          },
+          {
+            "version": "25.1.1",
+            "date": "2025-04-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1.2",
+            "date": "2025-04-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1.4",
+            "date": "2025-04-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.1",
+            "date": "2025-06-24",
+            "changes": "NEW: PIÑATA SURPRISE\n- Prep a surprise party with the Pets\n- Choose the pinata shape\n- Paint and decorate with your favorite colors\n- Fill with delicious candy\n- Cut out toilet paper confetti\n- Smash it and unlock a new outfit\n\nНОВИНКА: ПИНЬЯТА\n— Подготовьте вечеринку-сюрприз с питомцами\n— Выберите форму пиньяты\n— Разрисуйте её и украсьте любимыми цветами\n— Наполните её вкусными конфетами\n— Вырежьте конфетти из туалетной бумаги\n— Разбейте её и откройте новый наряд"
+          },
+          {
+            "version": "25.2.3",
+            "date": "2025-07-03",
+            "changes": "NEW: PIÑATA SURPRISE\n- Prep a surprise party with the Pets\n- Choose the pinata shape\n- Paint and decorate with your favorite colors\n- Fill with delicious candy\n- Cut out toilet paper confetti\n- Smash it and unlock a new outfit\n\nНОВИНКА: ПИНЬЯТА\n— Подготовьте вечеринку-сюрприз с питомцами\n— Выберите форму пиньяты\n— Разрисуйте её и украсьте любимыми цветами\n— Наполните её вкусными конфетами\n— Вырежьте конфетти из туалетной бумаги\n— Разбейте её и откройте новый наряд"
+          },
+          {
+            "version": "25.3.1",
+            "date": "2025-07-21",
+            "changes": "NEW OUTFITS. NEW POTIONS. NEW NOMS.\n\n- Unlock 3 funky new outfits for Tom.\n- Discounted pricing on foods and potions!\n- Purchase a potion that can make Tom a baby again."
+          },
+          {
+            "version": "25.3.2",
+            "date": "2025-08-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.3",
+            "date": "2025-08-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.4",
+            "date": "2025-09-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.5",
+            "date": "2025-10-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.3",
+            "date": "2025-10-23",
+            "changes": "FLY IN STYLE\nThe all-new Plane Editor lets you customize Tom’s plane from nose to tail—wings, engine, shape, even power-ups.\nGo full duck, shark, or something no one’s ever seen before. Sky’s the limit!\n\nЛЕТАЙТЕ СТИЛЬНО\nНовый редактор самолётов помогает настроить самолёт Тома от носа до хвоста — крылья, двигатель, форму и даже усиления.\nЛетайте на самолёте в форме утки, акулы или чего-то невиданного — нет ничего невозможного!"
+          },
+          {
+            "version": "25.4.4",
+            "date": "2025-10-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.6",
+            "date": "2025-11-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.8",
+            "date": "2025-11-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.5.3",
+            "date": "2025-12-19",
+            "changes": "NEW POTIONS & FITS JUST DROPPED\n5x new potions and foods with wacky effects.\n2 all-new premium outfits have landed: Fire Viking Tom and Galactic Pop Star Tom.\n\nВСТРЕЧАЙТЕ НОВЫЕ ЗЕЛЬЯ И НАРЯДЫ\n5× новых зелий и еды со странными эффектами.\n2 новых премиум-наряда: Огненный викинг Том и Галактическая поп-звезда Том."
+          },
+          {
+            "version": "25.5.4",
+            "date": "2025-12-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.5.10",
+            "date": "2026-01-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.5.11",
+            "date": "2026-02-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.1",
+            "date": "2026-02-25",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.9",
+            "date": "2026-04-22",
+            "changes": "A WHOLE NEW BACKYARD\n- Bigger Backyard with more space and activities\n- New cooking feature for whipping up tasty treats\n- Find pet parties and magical surprises on the Porch\n- Updates for a smoother gameplay experience\n\nСОВЕРШЕННО НОВЫЙ ЗАДНИЙ ДВОР\n— Задний двор стал ещё больше, и число занятий выросло\n— Новая функция готовки, чтобы создавать вкусные закуски\n— На крыльце вас ждут вечеринки питомцев и волшебные сюрпризы\n— Обновления для более плавной игры"
+          },
+          {
+            "version": "26.2.10",
+            "date": "2026-05-07",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.1",
+            "date": "2026-06-29",
+            "changes": "BASEMENT SECRETS AWAIT\n- Explore the new basement area\n- Enjoy the renovated wardrobe\n- Race through space with new tracks\n- Jump back in and check it all out\n\nТАЙНЫ ПОДВАЛА ЖДУТ\n— Исследуйте новое помещение: подвал\n— Наслаждайтесь обновлённым гардеробом\n— Продолжите гонку по новым трекам\n— Возвращайтесь и посмотрите всё это"
+          },
+          {
+            "version": "26.3.2",
+            "date": "2026-06-30",
+            "changes": "BASEMENT SECRETS AWAIT\n- Explore the new basement area\n- Enjoy the renovated wardrobe\n- Race through space with new tracks\n- Jump back in and check it all out\n\nТАЙНЫ ПОДВАЛА ЖДУТ\n— Исследуйте новое помещение: подвал\n— Наслаждайтесь обновлённым гардеробом\n— Продолжите гонку по новым трекам\n— Возвращайтесь и посмотрите всё это"
+          },
+          {
+            "version": "26.3.3",
+            "date": "2026-07-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.5",
+            "date": "2026-07-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4",
+            "date": "2026-08-26",
+            "changes": "New Adventures Await!\n- Explore the Neighborhood: Follow the path and discover fun rewards.\n- New City Fleet: Create new ambulance, police, and firefighter-inspired planes.\n- Fire Viking Valhalla Set: Bring the heat with a full new fiery set.\n\nНовые приключения ждут!\n— Исследуйте район: идите по дороге и откройте весёлые награды.\n— Новая городская техника: создавайте новые самолёты в стиле скорой, полиции и пожарных.\n— Набор огненных викингов Вальхаллы: задайте жару с новым огненным набором."
+          },
+          {
+            "version": "26.4.9",
+            "date": "2026-09-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.10",
+            "date": "2026-10-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.4.11",
+            "date": "2026-10-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
