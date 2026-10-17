@@ -17283,6 +17283,75 @@
           "removedDate": "2025-09-02"
         }
       }
+    },
+    {
+      "id": "talking-tom-sky-run-говорящий-том-воздушный-бег",
+      "name": "Talking Tom Sky Run | Говорящий Том: воздушный бег",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2019-11-22",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/b0/af/15/b0af1530-4ba3-8d3e-db2f-18b44ee89e76/source/900x900.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.0.83",
+            "versionCode": "20",
+            "date": "2019-11-22",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1.93",
+            "versionCode": "30",
+            "date": "2019-11-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.2.161",
+            "versionCode": "40",
+            "date": "2020-01-17",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.0.1210",
+            "versionCode": "60",
+            "date": "2020-07-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.0.1340",
+            "versionCode": "70",
+            "date": "2020-09-15",
+            "changes": "Fly to a land of pirates and fight The Rakoonz in an exciting boss fight. Play now!"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2020-03-20",
+            "changes": ""
+          },
+          {
+            "version": "1.1",
+            "date": "2020-07-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2",
+            "date": "2020-09-24",
+            "changes": "Fly to a land of pirates and fight The Rakoonz in an exciting boss fight. Play now!"
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2024-01-27"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2021-01-07"
+        }
+      }
     }
   ]
 }
