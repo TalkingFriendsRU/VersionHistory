@@ -16104,6 +16104,1123 @@
           "removedDate": "2019-04-16"
         }
       }
+    },
+    {
+      "id": "talking-tom-hero-dash-говорящий-том-погоня-героев",
+      "name": "Talking Tom Hero Dash | Говорящий Том: погоня героев",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2019-03-21",
+      "icon": "https://play-lh.googleusercontent.com/FKEjMVleaerZRPCDg1PQB6wu-UMzns3TjZ5BKUpuWkkiladbT-briO3RBZTZN3PyjKSH8B4Pupzd_xFlR7j-=s16000",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1.321",
+            "versionCode": "20",
+            "date": "2019-04-03",
+            "changes": ""
+          },
+          {
+            "version": "1.0.3.338",
+            "versionCode": "30",
+            "date": "2019-04-08",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.10.396",
+            "versionCode": "40",
+            "date": "2019-05-23",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.0.12.476",
+            "versionCode": "60",
+            "date": "2019-05-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.13.479",
+            "versionCode": "70",
+            "date": "2019-05-31",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.15.506",
+            "versionCode": "90",
+            "date": "2019-06-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.16.517",
+            "versionCode": "100",
+            "date": "2019-06-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.0.572",
+            "versionCode": "110",
+            "date": "2019-07-16",
+            "changes": "NEW! BAZOOKA RACCOON - Can you dodge the rockets?\nBecome an unstoppable snowball!\n\nНОВЫЙ ВРАГ! ЕНОТ С БАЗУКОЙ: умеешь уворачиваться от ракет?\nСТАНЬ непобедимым СНЕЖНЫМ КОМОМ!"
+          },
+          {
+            "version": "1.1.1.592",
+            "versionCode": "120",
+            "date": "2019-07-19",
+            "changes": "NEW! BAZOOKA RACCOON - Can you dodge the rockets?\nBecome an unstoppable snowball!\n\nНОВЫЙ ВРАГ! ЕНОТ С БАЗУКОЙ: умеешь уворачиваться от ракет?\nСТАНЬ непобедимым СНЕЖНЫМ КОМОМ!"
+          },
+          {
+            "version": "1.1.2.600",
+            "versionCode": "130",
+            "date": "2019-07-26",
+            "changes": "NEW! BAZOOKA RACCOON - Can you dodge the rockets?\nBecome an unstoppable snowball!\n\nНОВЫЙ ВРАГ! ЕНОТ С БАЗУКОЙ: умеешь уворачиваться от ракет?\nСТАНЬ непобедимым СНЕЖНЫМ КОМОМ!"
+          },
+          {
+            "version": "1.1.3.607",
+            "versionCode": "140",
+            "date": "2019-07-30",
+            "changes": "NEW! BAZOOKA RACCOON - Can you dodge the rockets?\nBecome an unstoppable snowball!\n\nНОВЫЙ ВРАГ! ЕНОТ С БАЗУКОЙ: умеешь уворачиваться от ракет?\nСТАНЬ непобедимым СНЕЖНЫМ КОМОМ!"
+          },
+          {
+            "version": "1.1.4.617",
+            "versionCode": "150",
+            "date": "2019-08-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.0.664",
+            "versionCode": "160",
+            "date": "2019-08-25",
+            "changes": "TEAMWORK IS A SUPERPOWER! Work together with your Hero friends!\nAwesome new Special Events available! Look out for the Double Rewards Special Event!\nTalking Tom Hero Dash stickers for your messenger apps!\n\nКОМАНДНАЯ РАБОТА — ЭТО СУПЕРСПОСОБНОСТЬ! Работай вместе со своими друзьями-героями!\nДоступны новые классные особые задания! Не пропусти особое задание с удвоением награды!"
+          },
+          {
+            "version": "1.2.1.667",
+            "versionCode": "170",
+            "date": "2019-08-26",
+            "changes": "TEAMWORK IS A SUPERPOWER! Work together with your Hero friends!\nAwesome new Special Events available! Look out for the Double Rewards Special Event!\nTalking Tom Hero Dash stickers for your messenger apps!\n\nКОМАНДНАЯ РАБОТА — ЭТО СУПЕРСПОСОБНОСТЬ! Работай вместе со своими друзьями-героями!\nДоступны новые классные особые задания! Не пропусти особое задание с удвоением награды!"
+          },
+          {
+            "version": "1.3.0.702",
+            "versionCode": "180",
+            "date": "2019-10-16",
+            "changes": "GET SUPERCHARGED! Ride the Jet Bike now!\nTry the Pumpkin Power special event!\n\nПОЛУЧИ СУПЕРЗАРЯД! Прокатись на реактивном мотоцикле!\nУчаствуй в особом мероприятии «Сила тыквы»!"
+          },
+          {
+            "version": "1.3.1.715",
+            "versionCode": "190",
+            "date": "2019-10-28",
+            "changes": "GET SUPERCHARGED! Ride the Jet Bike now!\nTry the Pumpkin Power special event!\n\nПОЛУЧИ СУПЕРЗАРЯД! Прокатись на реактивном мотоцикле!\nУчаствуй в особом мероприятии «Сила тыквы»!"
+          },
+          {
+            "version": "1.4.0.777",
+            "versionCode": "200",
+            "date": "2019-12-05",
+            "changes": "FLY THE LASER SHIP! Take your adventure to new heights!\nWatch out for jet kart raccoons!\nEarn extra rewards in new seasonal events!\n\nЛЕТАЙ НА ЛАЗЕРНОМ КОРАБЛЕ! Выведи свои приключения на новую высоту!\nБерегись енотов на реактивных вагонетках!\nПолучай больше наград в новых сезонных заданиях!"
+          },
+          {
+            "version": "1.5.0.833",
+            "versionCode": "210",
+            "date": "2020-01-26",
+            "changes": "Look out for two NEW limited-time events coming soon:\nThe Big Freeze - Can you collect enough snowflakes to unlock Ice Bolt Tom?\nBlaze Of Glory - Fire Arrow Angela can be yours. Just keep collecting flames!\n\nСкоро пройдут два НОВЫХ ограниченных по времени задания:\nКрупные заморозки — можешь собрать достаточно снежинок, чтобы разблокировать Тома Ледяную Молнию?\nПламя славы — ты сможешь получить Анджелу Огненную Стрелу. Просто продолжай собирать пламя!"
+          },
+          {
+            "version": "1.5.1.842",
+            "versionCode": "220",
+            "date": "2020-01-27",
+            "changes": "Look out for two NEW limited-time events coming soon:\nThe Big Freeze - Can you collect enough snowflakes to unlock Ice Bolt Tom?\nBlaze Of Glory - Fire Arrow Angela can be yours. Just keep collecting flames!\n\nСкоро пройдут два НОВЫХ ограниченных по времени задания:\nКрупные заморозки — можешь собрать достаточно снежинок, чтобы разблокировать Тома Ледяную Молнию?\nПламя славы — ты сможешь получить Анджелу Огненную Стрелу. Просто продолжай собирать пламя!"
+          },
+          {
+            "version": "1.6.0.925",
+            "versionCode": "230",
+            "date": "2020-03-25",
+            "changes": "Ride the Hyperboard and become a super surfer!\nUnlock Planet Power Tom and Hurricane Hank on limited-time events coming soon!\n\nПрокатись на гиперборде и стань суперсёрфером!\nОткрой Тома-Силу Планеты и Урагана Хэнка в ограниченных по времени заданиях!"
+          },
+          {
+            "version": "1.6.1.941",
+            "versionCode": "240",
+            "date": "2020-04-07",
+            "changes": "Ride the Hyperboard and become a super surfer!\nUnlock Planet Power Tom and Hurricane Hank on limited-time events coming soon!\n\nПрокатись на гиперборде и стань суперсёрфером!\nОткрой Тома-Силу Планеты и Урагана Хэнка в ограниченных по времени заданиях!"
+          },
+          {
+            "version": "1.7.0.989",
+            "versionCode": "250",
+            "date": "2020-04-29",
+            "changes": "Look out for two NEW limited-time events coming soon:\nLight Speed - Can you collect enough suns to unlock Sunbeam Hank?\nThe Dark Night - Moonlight Angela can be yours. Just keep collecting moons!\n\nСкоро пройдут два НОВЫХ ограниченных по времени задания:\nСкорость света — сможешь собрать достаточно солнц, чтобы открыть Солнечного Хэнка?\nТёмная ночь — ты сможешь получить Лунную Анджелу. Просто продолжай собирать луны!"
+          },
+          {
+            "version": "1.7.1.995",
+            "versionCode": "260",
+            "date": "2020-05-04",
+            "changes": "Look out for two NEW limited-time events coming soon:\nLight Speed - Can you collect enough suns to unlock Sunbeam Hank?\nThe Dark Night - Moonlight Angela can be yours. Just keep collecting moons!\n\nСкоро пройдут два НОВЫХ ограниченных по времени задания:\nСкорость света — сможешь собрать достаточно солнц, чтобы открыть Солнечного Хэнка?\nТёмная ночь — ты сможешь получить Лунную Анджелу. Просто продолжай собирать луны!"
+          },
+          {
+            "version": "1.8.0.1043",
+            "versionCode": "270",
+            "date": "2020-06-11",
+            "changes": "Join the Power Patrol in a limited-time event coming soon!\nCan you collect enough badges to unlock the all-new Super Trooper Tom?\n\nПрисоединись к Патрулю правосудия в новом ограниченном по времени задании!\nСможешь собрать достаточно значков, чтобы открыть нового Суперполицейского Тома?"
+          },
+          {
+            "version": "1.9.0.1079",
+            "versionCode": "280",
+            "date": "2020-07-24",
+            "changes": "New event on the horizon:\nJoin the Queendom of Bees event and win premium rewards!\nCan you collect enough honeycombs to unlock the all-new Queen Bee Angela?\n\nНа горизонте новое задание:\nУчаствуй в задании «Королевство пчёл» и получи премиум-награды!\nСможешь собрать достаточно сот, чтобы открыть новую Анджелу-королеву пчёл?"
+          },
+          {
+            "version": "1.9.1.1089",
+            "versionCode": "290",
+            "date": "2020-07-30",
+            "changes": "New event on the horizon:\nJoin the Queendom of Bees event and win premium rewards!\nCan you collect enough honeycombs to unlock the all-new Queen Bee Angela?\n\nНа горизонте новое задание:\nУчаствуй в задании «Королевство пчёл» и получи премиум-награды!\nСможешь собрать достаточно сот, чтобы открыть новую Анджелу-королеву пчёл?"
+          },
+          {
+            "version": "1.9.2.1108",
+            "versionCode": "300",
+            "date": "2020-08-07",
+            "changes": "New event on the horizon:\nJoin the Queendom of Bees event and win premium rewards!\nCan you collect enough honeycombs to unlock the all-new Queen Bee Angela?\n\nНа горизонте новое задание:\nУчаствуй в задании «Королевство пчёл» и получи премиум-награды!\nСможешь собрать достаточно сот, чтобы открыть новую Анджелу-королеву пчёл?"
+          },
+          {
+            "version": "2.0.0.1184",
+            "versionCode": "310",
+            "date": "2020-09-23",
+            "changes": "BE A HERO, GET THE HERO PASS!\nHero Pass gives you bigger, better, and cooler rewards. In addition to the usual rewards you will:\n- multiply your score\n- discover heroic prizes\nHero Pass is only available through In-App Purchase.\n\nSpeed up and catch the Speed of Sound! Collect Music Note tokens to get an epic reward: an all-new Rockstar Ginger outfit!\n\nСТАНЬ ГЕРОЕМ — ПОЛУЧИ ПРОПУСК ГЕРОЯ!\nПропуск героя даст тебе награды, которые больше, лучше и круче прежних. Кроме обычных наград ты сможешь:\n— умножить свой счёт;\n— открыть героические призы.\nПропуск героя можно купить только внутри приложения.\n\nУскоряйся и беги со скоростью звука! Собирай ноты, чтобы получить потрясающую награду: совершенно новый наряд «Рок-звезда Джинджер»!"
+          },
+          {
+            "version": "2.1.0.1222",
+            "versionCode": "320",
+            "date": "2020-10-19",
+            "changes": "Halloween is just around the corner! Play the Pumpkin Rush event to get Moonlight Angela!\nComing soon:\nCatch the Diwali - Trail of Lights event and collect candle tokens.\n\nХэллоуин наступит уже совсем скоро! Сыграй в «Тыквенную гонку», чтобы получить Лунную Анджелу!\nСкоро:\nПоймай событие «Путь огней» и собери свечки."
+          },
+          {
+            "version": "2.1.1.1235",
+            "versionCode": "330",
+            "date": "2020-10-23",
+            "changes": "Halloween is just around the corner! Play the Pumpkin Rush event to get Moonlight Angela!\nComing soon:\nCatch the Diwali - Trail of Lights event and collect candle tokens.\n\nХэллоуин наступит уже совсем скоро! Сыграй в «Тыквенную гонку», чтобы получить Лунную Анджелу!\nСкоро:\nПоймай событие «Путь огней» и собери свечки."
+          },
+          {
+            "version": "2.2.0.1292",
+            "versionCode": "340",
+            "date": "2020-12-03",
+            "changes": "NEW WORLD, NEW EVENT, NEW TOM!\n\nRun through a wild and crazy new world.\nPlay the Temple Swing event, collect relics, and win rewards.\nUnlock a brand new hero: Gold Flash Tom!\n\nНОВЫЙ МИР, НОВОЕ ЗАДАНИЕ, НОВЫЙ ТОМ!\n\nПробеги сквозь дикий и сумасшедший новый мир.\nВыполни задание «Прыжки в джунглях», собирай реликвии и получай награды.\nОткрой совершенно нового героя: Тома-Золотую вспышку!"
+          },
+          {
+            "version": "2.2.1.1300",
+            "versionCode": "350",
+            "date": "2020-12-10",
+            "changes": "NEW WORLD, NEW EVENT, NEW TOM!\n\nRun through a wild and crazy new world.\nPlay the Temple Swing event, collect relics, and win rewards.\nUnlock a brand new hero: Gold Flash Tom!\n\nНОВЫЙ МИР, НОВОЕ ЗАДАНИЕ, НОВЫЙ ТОМ!\n\nПробеги сквозь дикий и сумасшедший новый мир.\nВыполни задание «Прыжки в джунглях», собирай реликвии и получай награды.\nОткрой совершенно нового героя: Тома-Золотую вспышку!"
+          },
+          {
+            "version": "2.3.0.1341",
+            "versionCode": "360",
+            "date": "2021-01-17",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.3.1.1344",
+            "versionCode": "370",
+            "date": "2021-01-18",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.3.2.1351",
+            "versionCode": "380",
+            "date": "2021-01-25",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.4.0.1392",
+            "versionCode": "390",
+            "date": "2021-03-11",
+            "changes": "SPLASHTASTIC FUN\nJump mountains, swing on vines and traverse ravines as you run through the jungle! AND play the splash-tacular Color Blast event to collect tokens, win vibrant rewards and unlock Mighty Ginger.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nПрыгайте по горам, качайтесь на лианах и переходите ущелья, пробегая через джунгли! А ЕЩЁ поучаствуйте в потрясающем задании «Взрыв цвета», чтобы собирать токены, выигрывать изумительные награды и открыть Могучего Джинджера."
+          },
+          {
+            "version": "2.4.1.1397",
+            "versionCode": "400",
+            "date": "2021-03-12",
+            "changes": "SPLASHTASTIC FUN\nJump mountains, swing on vines and traverse ravines as you run through the jungle! AND play the splash-tacular Color Blast event to collect tokens, win vibrant rewards and unlock Mighty Ginger.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nПрыгайте по горам, качайтесь на лианах и переходите ущелья, пробегая через джунгли! А ЕЩЁ поучаствуйте в потрясающем задании «Взрыв цвета», чтобы собирать токены, выигрывать изумительные награды и открыть Могучего Джинджера."
+          },
+          {
+            "version": "2.5.0.894",
+            "versionCode": "410",
+            "date": "2021-04-23",
+            "changes": "A POWERFUL NEW EVENT\nUnleash the forces of ice and fire in the special Score Madness event! Unlock Fire Arrow Angela and Ice Bolt Tom.\n\nНОВОЕ ПОТРЯСАЮЩЕЕ ЗАДАНИЕ\nВысвободите силы льда и пламени в особом задании «Марафон счёта»! Откройте Анджелу Огненную Стрелу и Тома Ледяную Молнию."
+          },
+          {
+            "version": "2.6.0.1505",
+            "versionCode": "420",
+            "date": "2021-07-01",
+            "changes": "DAZZLING NEW OUTFITS & EVENTS\nMeet the incredible Platinum Tom and unlock Emerald Angela and Super Stripe Hank in the tropical Score Madness event.\n\nПОТРЯСАЮЩИЕ НОВЫЕ КОСТЮМЫ И ЗАДАНИЯ\nПознакомьтесь с невероятным Платиновым Томом и откройте Изумрудную Анджелу и Суперполосатого Хэнка в тропическом «Марафоне счёта»."
+          },
+          {
+            "version": "2.7.0.1955",
+            "versionCode": "430",
+            "date": "2021-08-10",
+            "changes": "AQUATIC ACTION!\nPlay the Score Madness event to unlock Blue Wave Angela and the brand new Deep Sea Tom! AND find three brand new missions: Ocean Hop, Risky Ropes and Sliding Walls.\n\nВЕСЕЛИТЕСЬ В ВОДЕ!\nПройдите задание «Марафон счёта», чтобы открыть Морскую Анджелу и нового Глубоководного Тома! И сыграйте в три новые миссии: «С лодки на лодку», «Бег по канатам» и «Осторожно, стены закрываются»."
+          },
+          {
+            "version": "2.8.0.2244",
+            "versionCode": "440",
+            "date": "2021-09-28",
+            "changes": "HALLOWEEN TREATS!\nFind a spooky Score Madness Event where you can earn wicked rewards and unlock the brand new Midnight Ginger!\n\nПОДАРКИ НА ХЭЛЛОУИН!\nВстречайте устрашающее задание «Марафона счёта», где можно заработать ужасно крутые награды и открыть нового Полуночного Джинджера!"
+          },
+          {
+            "version": "2.8.1.2416",
+            "versionCode": "450",
+            "date": "2021-10-20",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.9.0.2615",
+            "versionCode": "460",
+            "date": "2021-11-25",
+            "changes": "Score more this holiday season!\nPlay a frosty event and unlock Arctic Angela.\n\nЗаработай больше очков на праздниках!\nВыполни зимнее задание и открой Арктическую Анджелу."
+          },
+          {
+            "version": "3.0.0.2726",
+            "versionCode": "470",
+            "date": "2021-12-13",
+            "changes": "Score more this holiday season!\nPlay a frosty event and unlock Arctic Angela.\n\nЗаработай больше очков на праздниках!\nВыполни зимнее задание и открой Арктическую Анджелу."
+          },
+          {
+            "version": "3.0.1.2761",
+            "versionCode": "480",
+            "date": "2021-12-14",
+            "changes": "Score more this holiday season!\nPlay a frosty event and unlock Arctic Angela.\n\nЗаработай больше очков на праздниках!\nВыполни зимнее задание и открой Арктическую Анджелу."
+          },
+          {
+            "version": "3.1.0.2785",
+            "versionCode": "490",
+            "date": "2021-12-16",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "3.2.0.3094",
+            "versionCode": "500",
+            "date": "2022-02-21",
+            "changes": "RIDE THE HYPERBOARD!\nAnd become a super surfer!\n\nПРОКАТИСЬ НА ГИПЕРБОРДЕ!\nИ стань суперсёрфером!"
+          },
+          {
+            "version": "3.2.1.3122",
+            "versionCode": "510",
+            "date": "2022-02-22",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.3.0.3291",
+            "versionCode": "520",
+            "date": "2022-04-13",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "3.4.0.3436",
+            "versionCode": "530",
+            "date": "2022-06-24",
+            "changes": "SPLASHTASTIC FUN\nPlay to discover exciting worlds such as China, the Arctic, the jungle and more.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nИграйте и откройте потрясающие миры, например, Китай, ледяной каньон, джунгли — и не только."
+          },
+          {
+            "version": "3.4.1.3458",
+            "versionCode": "540",
+            "date": "2022-06-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.6.0.3725",
+            "versionCode": "570",
+            "date": "2022-10-04",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "3.6.1.3736",
+            "versionCode": "580",
+            "date": "2022-10-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.7.0.3791",
+            "versionCode": "590",
+            "date": "2022-10-25",
+            "changes": "HO-HO HOLIDAY FUN!\nIt’s the most wonderful time of the year! Play the Christmas Score Madness event to unlock festive outfits and rewards.\n\nПРАЗДНИЧНОЕ ВЕСЕЛЬЕ!\nСнова наступило самое замечательное время года! Участвуйте в «Марафоне счёта» на Рождество, чтобы открыть праздничные наряды и получить награды."
+          },
+          {
+            "version": "3.7.1.3868",
+            "versionCode": "600",
+            "date": "2022-11-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8.0.3967",
+            "versionCode": "610",
+            "date": "2023-01-03",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "3.9.0.4126",
+            "versionCode": "630",
+            "date": "2023-02-23",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "4.0.0.4275",
+            "versionCode": "640",
+            "date": "2023-04-26",
+            "changes": "RIDE THE HYPERBOARD!\nAnd become a super surfer!\n\nПРОКАТИСЬ НА ГИПЕРБОРДЕ!\nИ стань суперсёрфером!"
+          },
+          {
+            "version": "4.1.0.4365",
+            "versionCode": "670",
+            "date": "2023-06-28",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "4.2.0.4549",
+            "versionCode": "680",
+            "date": "2023-08-29",
+            "changes": "SPLASHTASTIC FUN\nPlay to discover exciting worlds such as China, the Arctic, the jungle and more.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nИграйте и откройте потрясающие миры, например, Китай, ледяной каньон, джунгли — и не только."
+          },
+          {
+            "version": "4.2.1.4582",
+            "versionCode": "690",
+            "date": "2023-09-04",
+            "changes": "SPLASHTASTIC FUN\nPlay to discover exciting worlds such as China, the Arctic, the jungle and more.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nИграйте и откройте потрясающие миры, например, Китай, ледяной каньон, джунгли — и не только."
+          },
+          {
+            "version": "4.3.0.4951",
+            "versionCode": "730",
+            "date": "2023-10-11",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "4.3.1.4966",
+            "versionCode": "740",
+            "date": "2023-10-12",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "4.3.2.4975",
+            "versionCode": "750",
+            "date": "2023-10-13",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "4.3.3.4985",
+            "versionCode": "760",
+            "date": "2023-10-17",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "4.3.5.5488",
+            "versionCode": "780",
+            "date": "2023-11-21",
+            "changes": "TIGER GINGER LEAPS INTO ACTION\nTiger Ginger is the new hero in town! He’s speedy, stripy and stealthy. Check out the brand new outfit, dash into events and race after the Rakoonz to save the day!\n\nДЖИНДЖЕР-ТИГР БРОСАЕТСЯ В БОЙ\nВ городе новый герой — Джинджер-тигр! Он быстрый, полосатый и незаметный. Посмотрите новый наряд, выполняйте задания и бегите вслед за Енотовыми, чтобы спасти положение!"
+          },
+          {
+            "version": "4.4.0.5556",
+            "versionCode": "790",
+            "date": "2023-11-23",
+            "changes": "HO-HO HOLIDAY FUN!\nIt’s the most wonderful time of the year! Play the Christmas Score Madness event to unlock festive outfits and rewards.\n\nПРАЗДНИЧНОЕ ВЕСЕЛЬЕ!\nСнова наступило самое замечательное время года! Участвуйте в «Марафоне счёта» на Рождество, чтобы открыть праздничные наряды и получить награды."
+          },
+          {
+            "version": "4.5.0.5838",
+            "versionCode": "820",
+            "date": "2024-01-18",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "4.6.0.6062",
+            "versionCode": "830",
+            "date": "2024-03-07",
+            "changes": "EGG-CITING EASTER EVENT!\nJoin the Easter Hunt event as a new hero character hops into action! Unlock the Bunny Ben character by collecting easter egg tokens and save the world!\n\nУВЛЕКАТЕЛЬНОЕ ПАСХАЛЬНОЕ СОБЫТИЕ!\nПрисоединяйтесь к Пасхальной погоне, ведь в дело вступает новый герой! Откройте Зайчика Бена, собирая пасхальные яйца, и спасите мир!"
+          },
+          {
+            "version": "4.6.2.6177",
+            "versionCode": "850",
+            "date": "2024-04-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7.0.6231",
+            "versionCode": "900",
+            "date": "2024-04-29",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "4.8.0.6539",
+            "versionCode": "1000",
+            "date": "2024-07-11",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "4.9.0.7131",
+            "versionCode": "1100",
+            "date": "2024-09-10",
+            "changes": "ВНИМАНИЕ О СОБЫТИИ!\nСледите за ограниченными по времени событиями, где вы можете набрать больше очков, выиграть большие награды и разблокировать потрясающие наряды."
+          },
+          {
+            "version": "4.9.1.7175",
+            "versionCode": "1110",
+            "date": "2024-09-12",
+            "changes": "• 5TH ANNIVERSARY UPDATE •\nTalking Tom Hero Dash is turning 5, and we're throwing a party! Run & collect cake tokens to unlock the special Birthday Tom outfit.\n\n• ОБНОВЛЕНИЕ В ЧЕСТЬ ПЯТИЛЕТИЯ •\nИгре «Говорящий Том: погоня героев» исполняется 5 лет, и мы устраиваем вечеринку! Бегите и собирайте токены-торты, чтобы открыть особый наряд для Тома на день рождения!"
+          },
+          {
+            "version": "4.9.2.7384",
+            "versionCode": "1120",
+            "date": "2024-10-22",
+            "changes": "• 5TH ANNIVERSARY UPDATE •\nTalking Tom Hero Dash is turning 5, and we're throwing a party! Run & collect cake tokens to unlock the special Birthday Tom outfit.\n\n• ОБНОВЛЕНИЕ В ЧЕСТЬ ПЯТИЛЕТИЯ •\nИгре «Говорящий Том: погоня героев» исполняется 5 лет, и мы устраиваем вечеринку! Бегите и собирайте токены-торты, чтобы открыть особый наряд для Тома на день рождения!"
+          },
+          {
+            "version": "5.0.0.7746",
+            "versionCode": "1200",
+            "date": "2024-12-03",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "5.0.1.7784",
+            "versionCode": "1210",
+            "date": "2024-12-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "5.0.2.7853",
+            "versionCode": "1220",
+            "date": "2025-01-10",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "5.0.3.7924",
+            "versionCode": "1230",
+            "date": "2025-02-06",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "25.1.0.8109",
+            "versionCode": "25100",
+            "date": "2025-02-28",
+            "changes": "Legends never rest. Jump back into the adventure and claim your FREE shield boosts & coins to fuel your epic comeback!\n\nЛегенды никогда не отдыхают. Продолжи приключения и получи БЕСПЛАТНОЕ усиление щита и монеты для своего потрясающего возвращения!"
+          },
+          {
+            "version": "25.1.1.8119",
+            "versionCode": "25110",
+            "date": "2025-03-03",
+            "changes": "Legends never rest. Jump back into the adventure and claim your FREE shield boosts & coins to fuel your epic comeback!\n\nЛегенды никогда не отдыхают. Продолжи приключения и получи БЕСПЛАТНОЕ усиление щита и монеты для своего потрясающего возвращения!"
+          },
+          {
+            "version": "25.1.5.8153",
+            "versionCode": "25150",
+            "date": "2025-03-13",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "25.1.6.8456",
+            "versionCode": "25160",
+            "date": "2025-04-29",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.0.8662",
+            "versionCode": "202502000",
+            "date": "2025-05-15",
+            "changes": "NEW HERO: Becca Joins the Race!\n- Meet Talking Becca - the fastest racer among the Talking Friends.\n- Collect lightning bolt tokens.\n- Unlock Angela’s electrifying new outfit: Lightning Angela.\n\nHop into Talking Tom Hero Dash now!\n\nНОВЫЙ ГЕРОЙ: в гонку вступает Бекка!\n— Встречайте Говорящую Бекку — самую быструю бегунью среди Говорящих друзей.\n— Собирайте токены-молнии.\n— Откройте новый наэлектризованный наряд Анджелы: Молнию Анджелу.\n\nЗапустите игру «Говорящий Том: погоня героев» прямо сейчас!"
+          },
+          {
+            "version": "25.2.1.8678",
+            "versionCode": "202502010",
+            "date": "2025-05-19",
+            "changes": "Ready to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "25.2.2.8703",
+            "versionCode": "202502020",
+            "date": "2025-05-22",
+            "changes": "NEW HERO: Becca Joins the Race!\n- Meet Talking Becca - the fastest racer among the Talking Friends.\n- Collect lightning bolt tokens.\n- Unlock Angela’s electrifying new outfit: Lightning Angela.\n\nHop into Talking Tom Hero Dash now!\n\nНОВЫЙ ГЕРОЙ: в гонку вступает Бекка!\n— Встречайте Говорящую Бекку — самую быструю бегунью среди Говорящих друзей.\n— Собирайте токены-молнии.\n— Откройте новый наэлектризованный наряд Анджелы: Молнию Анджелу.\n\nЗапустите игру «Говорящий Том: погоня героев» прямо сейчас!"
+          },
+          {
+            "version": "25.2.3.8787",
+            "versionCode": "202502030",
+            "date": "2025-05-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.0.9207",
+            "versionCode": "202503000",
+            "date": "2025-06-30",
+            "changes": "THE CHASE JUST GOT MIRACULOUS!\n- Ladybug joins the chase!\n- Collect shiny yoyos and unlock awesome rewards!\n- Unlock the exclusive Ladybug Angela outfit!\n\nThis special time-limited event is part of a collaboration with Miraculous.\n\nПОГОНЯ СТАЛА ПРОСТО MIRACULOUS!\n— Леди Баг присоединяется к погоне!\n— Собирайте блестящие йойо и открывайте потрясающие награды!\n— Откройте эксклюзивный наряд Леди Баг Анджелы!\n\nЭто особое ограниченное задание — часть сотрудничества с Miraculous."
+          },
+          {
+            "version": "25.3.1.9258",
+            "versionCode": "202503010",
+            "date": "2025-07-02",
+            "changes": "THE CHASE JUST GOT MIRACULOUS!\n- Ladybug joins the chase!\n- Collect shiny yoyos and unlock awesome rewards!\n- Unlock the exclusive Ladybug Angela outfit!\n\nThis special time-limited event is part of a collaboration with Miraculous.\n\nПОГОНЯ СТАЛА ПРОСТО MIRACULOUS!\n— Леди Баг присоединяется к погоне!\n— Собирайте блестящие йойо и открывайте потрясающие награды!\n— Откройте эксклюзивный наряд Леди Баг Анджелы!\n\nЭто особое ограниченное задание — часть сотрудничества с Miraculous."
+          },
+          {
+            "version": "25.3.2.9517",
+            "versionCode": "202503020",
+            "date": "2025-07-25",
+            "changes": "THE CHASE JUST GOT MIRACULOUS!\n- Ladybug joins the chase!\n- Collect shiny yoyos and unlock awesome rewards!\n- Unlock the exclusive Ladybug Angela outfit!\n\nThis special time-limited event is part of a collaboration with Miraculous.\n\nПОГОНЯ СТАЛА ПРОСТО MIRACULOUS!\n— Леди Баг присоединяется к погоне!\n— Собирайте блестящие йойо и открывайте потрясающие награды!\n— Откройте эксклюзивный наряд Леди Баг Анджелы!\n\nЭто особое ограниченное задание — часть сотрудничества с Miraculous."
+          },
+          {
+            "version": "25.3.3.9668",
+            "versionCode": "202503030",
+            "date": "2025-08-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.0.9953",
+            "versionCode": "202504000",
+            "date": "2025-09-03",
+            "changes": "NEW: STICKER ALBUMS\n- Find Sticker Albums in the lobby — look for the floating drone\n- Grab stickers during runs, fill comic pages, to win coins, gems & gadgets0\n- Complete entire albums to unlock unique, heroic costumes for Tom, Angela & Hank\n\nНОВИНКА: АЛЬБОМЫ НАКЛЕЕК\n— Найдите альбомы наклеек в лобби — ищите летающий дрон\n— Хватайте наклейки на пробежках и заполняйте страницы, чтобы выиграть монеты, бриллианты и устройства\n— Заполните альбомы, чтобы открыть уникальные героические костюмы для Тома, Анджелы и Хэнка"
+          },
+          {
+            "version": "25.4.1.9968",
+            "versionCode": "202504010",
+            "date": "2025-09-05",
+            "changes": "NEW: STICKER ALBUMS\n- Find Sticker Albums in the lobby — look for the floating drone\n- Grab stickers during runs, fill comic pages, to win coins, gems & gadgets0\n- Complete entire albums to unlock unique, heroic costumes for Tom, Angela & Hank\n\nНОВИНКА: АЛЬБОМЫ НАКЛЕЕК\n— Найдите альбомы наклеек в лобби — ищите летающий дрон\n— Хватайте наклейки на пробежках и заполняйте страницы, чтобы выиграть монеты, бриллианты и устройства\n— Заполните альбомы, чтобы открыть уникальные героические костюмы для Тома, Анджелы и Хэнка"
+          },
+          {
+            "version": "25.4.2.9995",
+            "versionCode": "202504020",
+            "date": "2025-09-10",
+            "changes": "NEW: STICKER ALBUMS\n- Find Sticker Albums in the lobby — look for the floating drone\n- Grab stickers during runs, fill comic pages, to win coins, gems & gadgets0\n- Complete entire albums to unlock unique, heroic costumes for Tom, Angela & Hank\n\nНОВИНКА: АЛЬБОМЫ НАКЛЕЕК\n— Найдите альбомы наклеек в лобби — ищите летающий дрон\n— Хватайте наклейки на пробежках и заполняйте страницы, чтобы выиграть монеты, бриллианты и устройства\n— Заполните альбомы, чтобы открыть уникальные героические костюмы для Тома, Анджелы и Хэнка"
+          },
+          {
+            "version": "25.4.4.10076",
+            "versionCode": "202504040",
+            "date": "2025-10-01",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.5.10109",
+            "versionCode": "202504050",
+            "date": "2025-10-14",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "25.5.0.10381",
+            "versionCode": "202505000",
+            "date": "2025-12-04",
+            "changes": "NEW STICKER ALBUM\n- Talking Ben’s new sticker album has landed!\n- Complete it to unlock the fiery Red Blaze skin.\n- Collect stickers on the run to fill pages.\n- Perfect for blazing holiday fun!\n\nНОВЫЙ АЛЬБОМ НАКЛЕЕК\n— Вышел новый альбом наклеек Говорящего Бена!\n— Заполните его, чтобы открыть огненного Бена-бурю.\n— Собирайте наклейки на бегу, чтобы заполнить страницы.\n— Идеально для веселья на праздники!"
+          },
+          {
+            "version": "25.5.1.10404",
+            "versionCode": "202505010",
+            "date": "2025-12-09",
+            "changes": "ВСТРЕЧАЙТЕ БЕНА-БУРЮ\n— Вышел новый альбом наклеек!\n— Бегите и собирайте наклейки.\n— Заполните альбом, чтобы получить наряд Бена-бури.\n— Уютные праздники и классные пробежки!\n\nGET READY FOR RED BLAZE BEN\n- A new sticker album just dropped!\n- Collect stickers by running.\n- Complete the album to score the Red Blaze Ben outfit.\n- Cozy holidays, epic runs!"
+          },
+          {
+            "version": "26.1.0.10682",
+            "versionCode": "202601000",
+            "date": "2026-02-13",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "26.1.9.10852",
+            "versionCode": "202601090",
+            "date": "2026-03-20",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.10.10883",
+            "versionCode": "202601100",
+            "date": "2026-03-23",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.11.10907",
+            "versionCode": "202601110",
+            "date": "2026-03-27",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2.0.11210",
+            "versionCode": "202602000",
+            "date": "2026-05-13",
+            "changes": "Ready to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "26.2.1.11229",
+            "versionCode": "202602010",
+            "date": "2026-05-19",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.3.0.11539",
+            "versionCode": "202603000",
+            "date": "2026-07-14",
+            "changes": "Legends never rest. Jump back into the adventure and claim your FREE shield boosts & coins to fuel your epic comeback!\n\nЛегенды никогда не отдыхают. Продолжи приключения и получи БЕСПЛАТНОЕ усиление щита и монеты для своего потрясающего возвращения!"
+          },
+          {
+            "version": "26.3.1.11947",
+            "versionCode": "202603010",
+            "date": "2026-09-02",
+            "changes": "Legends never rest. Jump back into the adventure and claim your FREE shield boosts & coins to fuel your epic comeback!\n\nЛегенды никогда не отдыхают. Продолжи приключения и получи БЕСПЛАТНОЕ усиление щита и монеты для своего потрясающего возвращения!"
+          },
+          {
+            "version": "26.4.0.11993",
+            "versionCode": "202604000",
+            "date": "2026-09-08",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "26.5.1.12192",
+            "versionCode": "202605010",
+            "date": "2026-10-06",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2019-03-21",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2019-04-04",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.3",
+            "date": "2019-04-09",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.10",
+            "date": "2019-05-23",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.0.12",
+            "date": "2019-05-30",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.0.13",
+            "date": "2019-06-01",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.0.14",
+            "date": "2019-06-04",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.0.15",
+            "date": "2019-06-05",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.0.16",
+            "date": "2019-06-13",
+            "changes": "NEW HEROES: Talking Ben and Talking Ginger join the superhero team!\nNEW WORLDS TO SAVE: Explore pyramids in the desert and icy caves in the arctic.\n\nНОВЫЕ ГЕРОИ: к команде супергероев присоединяется Говорящий Бен и Говорящий Джинджер!\nСПАСАЙ НОВЫЕ МИРЫ: исследуй пирамиды в пустыне и ледяные пещеры в Арктике."
+          },
+          {
+            "version": "1.1.2",
+            "date": "2019-07-31",
+            "changes": "NEW! BAZOOKA RACCOON - Can you dodge the rockets?\nBecome an unstoppable snowball!\n\nНОВЫЙ ВРАГ! ЕНОТ С БАЗУКОЙ: умеешь уворачиваться от ракет?\nСТАНЬ непобедимым СНЕЖНЫМ КОМОМ!"
+          },
+          {
+            "version": "1.2.1",
+            "date": "2019-08-29",
+            "changes": "TEAMWORK IS A SUPERPOWER! Work together with your Hero friends!\nAwesome new Special Events available! Look out for the Double Rewards Special Event!\nTalking Tom Hero Dash stickers for your messenger apps!\n\nКОМАНДНАЯ РАБОТА — ЭТО СУПЕРСПОСОБНОСТЬ! Работай вместе со своими друзьями-героями!\nДоступны новые классные особые задания! Не пропусти особое задание с удвоением награды!"
+          },
+          {
+            "version": "1.3",
+            "date": "2019-10-22",
+            "changes": "GET SUPERCHARGED! Ride the Jet Bike now!\nTry the Pumpkin Power special event!\n\nПОЛУЧИ СУПЕРЗАРЯД! Прокатись на реактивном мотоцикле!\nУчаствуй в особом мероприятии «Сила тыквы»!"
+          },
+          {
+            "version": "1.3.1",
+            "date": "2019-10-29",
+            "changes": "GET SUPERCHARGED! Ride the Jet Bike now!\nTry the Pumpkin Power special event!\n\nПОЛУЧИ СУПЕРЗАРЯД! Прокатись на реактивном мотоцикле!\nУчаствуй в особом мероприятии «Сила тыквы»!"
+          },
+          {
+            "version": "1.3.2",
+            "date": "2019-11-30",
+            "changes": "GET SUPERCHARGED! Ride the Jet Bike now!\nTry the Pumpkin Power special event!\n\nПОЛУЧИ СУПЕРЗАРЯД! Прокатись на реактивном мотоцикле!\nУчаствуй в особом мероприятии «Сила тыквы»!"
+          },
+          {
+            "version": "1.3.3",
+            "date": "2019-12-04",
+            "changes": "GET SUPERCHARGED! Ride the Jet Bike now!\nTry the Pumpkin Power special event!\n\nПОЛУЧИ СУПЕРЗАРЯД! Прокатись на реактивном мотоцикле!\nУчаствуй в особом мероприятии «Сила тыквы»!"
+          },
+          {
+            "version": "1.4",
+            "date": "2019-12-10",
+            "changes": "FLY THE LASER SHIP! Take your adventure to new heights!\nWatch out for jet kart raccoons!\nEarn extra rewards in new seasonal events!\n\nЛЕТАЙ НА ЛАЗЕРНОМ КОРАБЛЕ! Выведи свои приключения на новую высоту!\nБерегись енотов на реактивных вагонетках!\nПолучай больше наград в новых сезонных заданиях!"
+          },
+          {
+            "version": "1.5.1",
+            "date": "2020-01-30",
+            "changes": "Look out for two NEW limited-time events coming soon:\nThe Big Freeze - Can you collect enough snowflakes to unlock Ice Bolt Tom?\nBlaze Of Glory - Fire Arrow Angela can be yours. Just keep collecting flames!\n\nСкоро пройдут два НОВЫХ ограниченных по времени задания:\nКрупные заморозки — можешь собрать достаточно снежинок, чтобы разблокировать Тома Ледяную Молнию?\nПламя славы — ты сможешь получить Анджелу Огненную Стрелу. Просто продолжай собирать пламя!"
+          },
+          {
+            "version": "1.6",
+            "date": "2020-03-30",
+            "changes": "Ride the Hyperboard and become a super surfer!\nUnlock Planet Power Tom and Hurricane Hank on limited-time events coming soon!\n\nПрокатись на гиперборде и стань суперсёрфером!\nОткрой Тома-Силу Планеты и Урагана Хэнка в ограниченных по времени заданиях!"
+          },
+          {
+            "version": "1.6.1",
+            "date": "2020-04-07",
+            "changes": "Ride the Hyperboard and become a super surfer!\nUnlock Planet Power Tom and Hurricane Hank on limited-time events coming soon!\n\nПрокатись на гиперборде и стань суперсёрфером!\nОткрой Тома-Силу Планеты и Урагана Хэнка в ограниченных по времени заданиях!"
+          },
+          {
+            "version": "1.7.1",
+            "date": "2020-05-07",
+            "changes": "Look out for two NEW limited-time events coming soon:\nLight Speed - Can you collect enough suns to unlock Sunbeam Hank?\nThe Dark Night - Moonlight Angela can be yours. Just keep collecting moons!\n\nСкоро пройдут два НОВЫХ ограниченных по времени задания:\nСкорость света — сможешь собрать достаточно солнц, чтобы открыть Солнечного Хэнка?\nТёмная ночь — ты сможешь получить Лунную Анджелу. Просто продолжай собирать луны!"
+          },
+          {
+            "version": "1.8",
+            "date": "2020-06-16",
+            "changes": "Join the Power Patrol in a limited-time event coming soon!\nCan you collect enough badges to unlock the all-new Super Trooper Tom?\n\nПрисоединись к Патрулю правосудия в новом ограниченном по времени задании!\nСможешь собрать достаточно значков, чтобы открыть нового Суперполицейского Тома?"
+          },
+          {
+            "version": "1.9.2",
+            "date": "2020-08-07",
+            "changes": "New event on the horizon:\nJoin the Queendom of Bees event and win premium rewards!\nCan you collect enough honeycombs to unlock the all-new Queen Bee Angela?\n\nНа горизонте новое задание:\nУчаствуй в задании «Королевство пчёл» и получи премиум-награды!\nСможешь собрать достаточно сот, чтобы открыть новую Анджелу-королеву пчёл?"
+          },
+          {
+            "version": "2.0",
+            "date": "2020-09-29",
+            "changes": "BE A HERO, GET THE HERO PASS!\nHero Pass gives you bigger, better, and cooler rewards. In addition to the usual rewards you will:\n- multiply your score\n- discover heroic prizes\nHero Pass is only available through In-App Purchase.\n\nSpeed up and catch the Speed of Sound! Collect Music Note tokens to get an epic reward: an all-new Rockstar Ginger outfit!\n\nСТАНЬ ГЕРОЕМ — ПОЛУЧИ ПРОПУСК ГЕРОЯ!\nПропуск героя даст тебе награды, которые больше, лучше и круче прежних. Кроме обычных наград ты сможешь:\n— умножить свой счёт;\n— открыть героические призы.\nПропуск героя можно купить только внутри приложения.\n\nУскоряйся и беги со скоростью звука! Собирай ноты, чтобы получить потрясающую награду: совершенно новый наряд «Рок-звезда Джинджер»!"
+          },
+          {
+            "version": "2.0.1",
+            "date": "2020-10-06",
+            "changes": "BE A HERO, GET THE HERO PASS!\nHero Pass gives you bigger, better, and cooler rewards. In addition to the usual rewards you will:\n- multiply your score\n- discover heroic prizes\nHero Pass is only available through In-App Purchase.\n\nSpeed up and catch the Speed of Sound! Collect Music Note tokens to get an epic reward: an all-new Rockstar Ginger outfit!\n\nСТАНЬ ГЕРОЕМ — ПОЛУЧИ ПРОПУСК ГЕРОЯ!\nПропуск героя даст тебе награды, которые больше, лучше и круче прежних. Кроме обычных наград ты сможешь:\n— умножить свой счёт;\n— открыть героические призы.\nПропуск героя можно купить только внутри приложения.\n\nУскоряйся и беги со скоростью звука! Собирай ноты, чтобы получить потрясающую награду: совершенно новый наряд «Рок-звезда Джинджер»!"
+          },
+          {
+            "version": "2.1.1",
+            "date": "2020-10-26",
+            "changes": "Halloween is just around the corner! Play the Pumpkin Rush event to get Moonlight Angela!\n\nComing soon:\nCatch the Diwali - Trail of Lights event and collect candle tokens.\n\nХэллоуин наступит уже совсем скоро! Сыграй в «Тыквенную гонку», чтобы получить Лунную Анджелу!\n\nСкоро:\nПоймай событие «Путь огней» и собери свечки."
+          },
+          {
+            "version": "2.2.1",
+            "date": "2020-12-16",
+            "changes": "NEW WORLD, NEW EVENT, NEW TOM!\n\nRun through a wild and crazy new world.\nPlay the Temple Swing event, collect relics, and win rewards.\nUnlock a brand new hero: Gold Flash Tom!\n\nНОВЫЙ МИР, НОВОЕ ЗАДАНИЕ, НОВЫЙ ТОМ!\n\nПробеги сквозь дикий и сумасшедший новый мир.\nВыполни задание «Прыжки в джунглях», собирай реликвии и получай награды.\nОткрой совершенно нового героя: Тома-Золотую вспышку!"
+          },
+          {
+            "version": "2.3",
+            "date": "2021-01-21",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.3.2",
+            "date": "2021-01-26",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.4.2",
+            "date": "2021-03-17",
+            "changes": "SPLASHTASTIC FUN\nJump mountains, swing on vines and traverse ravines as you run through the jungle! AND play the splash-tacular Color Blast event to collect tokens, win vibrant rewards and unlock Mighty Ginger.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nПрыгайте по горам, качайтесь на лианах и переходите ущелья, пробегая через джунгли! А ЕЩЁ поучаствуйте в потрясающем задании «Взрыв цвета», чтобы собирать токены, выигрывать изумительные награды и открыть Могучего Джинджера."
+          },
+          {
+            "version": "2.5",
+            "date": "2021-04-29",
+            "changes": "A POWERFUL NEW EVENT\nUnleash the forces of ice and fire in the special Score Madness event! Unlock Fire Arrow Angela and Ice Bolt Tom.\n\nНОВОЕ ПОТРЯСАЮЩЕЕ ЗАДАНИЕ\nВысвободите силы льда и пламени в особом задании «Марафон счёта»! Откройте Анджелу Огненную Стрелу и Тома Ледяную Молнию."
+          },
+          {
+            "version": "2.6",
+            "date": "2021-07-15",
+            "changes": "DAZZLING NEW OUTFITS & EVENTS\nMeet the incredible Platinum Tom and unlock Emerald Angela and Super Stripe Hank in the tropical Score Madness event.\n\nПОТРЯСАЮЩИЕ НОВЫЕ КОСТЮМЫ И ЗАДАНИЯ\nПознакомьтесь с невероятным Платиновым Томом и откройте Изумрудную Анджелу и Суперполосатого Хэнка в тропическом «Марафоне счёта»."
+          },
+          {
+            "version": "2.7",
+            "date": "2021-08-16",
+            "changes": "AQUATIC ACTION!\nPlay the Score Madness event to unlock Blue Wave Angela and the brand new Deep Sea Tom! AND find three brand new missions: Ocean Hop, Risky Ropes and Sliding Walls.\n\nВЕСЕЛИТЕСЬ В ВОДЕ!\nПройдите задание «Марафон счёта», чтобы открыть Морскую Анджелу и нового Глубоководного Тома! И сыграйте в три новые миссии: «С лодки на лодку», «Бег по канатам» и «Осторожно, стены закрываются»."
+          },
+          {
+            "version": "2.8",
+            "date": "2021-10-07",
+            "changes": "HALLOWEEN TREATS!\nFind a spooky Score Madness Event where you can earn wicked rewards and unlock the brand new Midnight Ginger!\n\nПОДАРКИ НА ХЭЛЛОУИН!\nВстречайте устрашающее задание «Марафона счёта», где можно заработать ужасно крутые награды и открыть нового Полуночного Джинджера!"
+          },
+          {
+            "version": "2.8.1",
+            "date": "2021-10-25",
+            "changes": "EXCITING EVENTS\nWatch out for exciting events where you can win extra rewards!\n\nУВЛЕКАТЕЛЬНЫЕ ЗАДАНИЯ\nНе пропусти увлекательные задания, где ты можешь получить дополнительные награды!"
+          },
+          {
+            "version": "2.9",
+            "date": "2021-12-01",
+            "changes": "Score more this holiday season!\nPlay a frosty event and unlock Arctic Angela.\n\nЗаработай больше очков на праздниках!\nВыполни зимнее задание и открой Арктическую Анджелу."
+          },
+          {
+            "version": "2.9.1",
+            "date": "2021-12-13",
+            "changes": "Score more this holiday season!\nPlay a frosty event and unlock Arctic Angela.\n\nЗаработай больше очков на праздниках!\nВыполни зимнее задание и открой Арктическую Анджелу."
+          },
+          {
+            "version": "3.0.1",
+            "date": "2021-12-16",
+            "changes": "Score more this holiday season!\nPlay a frosty event and unlock Arctic Angela.\n\nЗаработай больше очков на праздниках!\nВыполни зимнее задание и открой Арктическую Анджелу."
+          },
+          {
+            "version": "3.1",
+            "date": "2022-01-05",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "3.2.1",
+            "date": "2022-02-25",
+            "changes": "RIDE THE HYPERBOARD!\nAnd become a super surfer!\n\nПРОКАТИСЬ НА ГИПЕРБОРДЕ!\nИ стань суперсёрфером!"
+          },
+          {
+            "version": "3.3",
+            "date": "2022-04-26",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "3.4",
+            "date": "2022-07-05",
+            "changes": "SPLASHTASTIC FUN\nPlay to discover exciting worlds such as China, the Arctic, the jungle and more.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nИграйте и откройте потрясающие миры, например, Китай, ледяной каньон, джунгли — и не только."
+          },
+          {
+            "version": "3.5.1",
+            "date": "2022-09-07",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "3.6",
+            "date": "2022-10-14",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "3.7",
+            "date": "2022-11-08",
+            "changes": "HO-HO HOLIDAY FUN!\nIt’s the most wonderful time of the year! Play the Christmas Score Madness event to unlock festive outfits and rewards.\n\nПРАЗДНИЧНОЕ ВЕСЕЛЬЕ!\nСнова наступило самое замечательное время года! Участвуйте в «Марафоне счёта» на Рождество, чтобы открыть праздничные наряды и получить награды."
+          },
+          {
+            "version": "3.7.1",
+            "date": "2022-11-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "3.8",
+            "date": "2023-01-10",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "3.9",
+            "date": "2023-03-09",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "4.0",
+            "date": "2023-05-09",
+            "changes": "RIDE THE HYPERBOARD!\nAnd become a super surfer!\n\nПРОКАТИСЬ НА ГИПЕРБОРДЕ!\nИ стань суперсёрфером!"
+          },
+          {
+            "version": "4.0.1",
+            "date": "2023-05-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.0.2",
+            "date": "2023-05-26",
+            "changes": "RIDE THE HYPERBOARD!\nAnd become a super surfer!\n\nПРОКАТИСЬ НА ГИПЕРБОРДЕ!\nИ стань суперсёрфером!"
+          },
+          {
+            "version": "4.1",
+            "date": "2023-07-12",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "4.2",
+            "date": "2023-09-11",
+            "changes": "SPLASHTASTIC FUN\nPlay to discover exciting worlds such as China, the Arctic, the jungle and more.\n\nВСПЛЕСК ВЕСЕЛЬЯ\nИграйте и откройте потрясающие миры, например, Китай, ледяной каньон, джунгли — и не только."
+          },
+          {
+            "version": "4.3.3",
+            "date": "2023-10-24",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "4.3.4",
+            "date": "2023-11-20",
+            "changes": "TIGER GINGER LEAPS INTO ACTION\nTiger Ginger is the new hero in town! He’s speedy, stripy and stealthy. Check out the brand new outfit, dash into events and race after the Rakoonz to save the day!\n\nДЖИНДЖЕР-ТИГР БРОСАЕТСЯ В БОЙ\nВ городе новый герой — Джинджер-тигр! Он быстрый, полосатый и незаметный. Посмотрите новый наряд, выполняйте задания и бегите вслед за Енотовыми, чтобы спасти положение!"
+          },
+          {
+            "version": "4.4",
+            "date": "2023-12-05",
+            "changes": "HO-HO HOLIDAY FUN!\nIt’s the most wonderful time of the year! Play the Christmas Score Madness event to unlock festive outfits and rewards.\n\nПРАЗДНИЧНОЕ ВЕСЕЛЬЕ!\nСнова наступило самое замечательное время года! Участвуйте в «Марафоне счёта» на Рождество, чтобы открыть праздничные наряды и получить награды."
+          },
+          {
+            "version": "4.4.1",
+            "date": "2023-12-14",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.5",
+            "date": "2024-01-31",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "4.6",
+            "date": "2024-03-21",
+            "changes": "EGG-CITING EASTER EVENT!\nJoin the Easter Hunt event as a new hero character hops into action! Unlock the Bunny Ben character by collecting easter egg tokens and save the world!\n\nУВЛЕКАТЕЛЬНОЕ ПАСХАЛЬНОЕ СОБЫТИЕ!\nПрисоединяйтесь к Пасхальной погоне, ведь в дело вступает новый герой! Откройте Зайчика Бена, собирая пасхальные яйца, и спасите мир!"
+          },
+          {
+            "version": "4.6.1",
+            "date": "2024-04-02",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.6.2",
+            "date": "2024-04-12",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "4.7",
+            "date": "2024-05-09",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "4.8",
+            "date": "2024-07-25",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "4.9.1",
+            "date": "2024-09-26",
+            "changes": "• 5TH ANNIVERSARY UPDATE •\nTalking Tom Hero Dash is turning 5, and we're throwing a party! Run & collect cake tokens to unlock the special Birthday Tom outfit.\n\n• ОБНОВЛЕНИЕ В ЧЕСТЬ ПЯТИЛЕТИЯ •\nИгре «Говорящий Том: погоня героев» исполняется 5 лет, и мы устраиваем вечеринку! Бегите и собирайте токены-торты, чтобы открыть особый наряд для Тома на день рождения!"
+          },
+          {
+            "version": "5.0",
+            "date": "2024-12-06",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "5.0.1",
+            "date": "2024-12-10",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "5.0.2",
+            "date": "2025-01-14",
+            "changes": "LUCKY MADNESS\nEnjoy the good fortune and luck of Chinese New Year. Play the Score Madness event to unlock rewards!\n\nСЧАСТЛИВОЕ СУМАСБРОДСТВО\nНаслаждайтесь удачей на китайский Новый год. Участвуйте в «Марафоне счёта», чтобы открыть награды!"
+          },
+          {
+            "version": "5.0.4",
+            "date": "2025-02-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.1.1",
+            "date": "2025-03-11",
+            "changes": "Legends never rest. Jump back into the adventure and claim your FREE shield boosts & coins to fuel your epic comeback!\n\nЛегенды никогда не отдыхают. Продолжи приключения и получи БЕСПЛАТНОЕ усиление щита и монеты для своего потрясающего возвращения!"
+          },
+          {
+            "version": "25.1.5",
+            "date": "2025-03-19",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "25.1.6",
+            "date": "2025-04-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.2",
+            "date": "2025-05-26",
+            "changes": "NEW HERO: Becca Joins the Race!\n- Meet Talking Becca - the fastest racer among the Talking Friends.\n- Collect lightning bolt tokens.\n- Unlock Angela’s electrifying new outfit: Lightning Angela.\n\nHop into Talking Tom Hero Dash now!\n\nНОВЫЙ ГЕРОЙ: в гонку вступает Бекка!\n— Встречайте Говорящую Бекку — самую быструю бегунью среди Говорящих друзей.\n— Собирайте токены-молнии.\n— Откройте новый наэлектризованный наряд Анджелы: Молнию Анджелу."
+          },
+          {
+            "version": "25.2.3",
+            "date": "2025-05-30",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.2.4",
+            "date": "2025-06-11",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.3.1",
+            "date": "2025-07-07",
+            "changes": "THE CHASE JUST GOT MIRACULOUS!\n- Ladybug joins the chase!\n- Collect shiny yoyos and unlock awesome rewards!\n- Unlock the exclusive Ladybug Angela outfit!\n\nThis special time-limited event is part of a collaboration with Miraculous.\n\nПОГОНЯ СТАЛА ПРОСТО MIRACULOUS!\n— Леди Баг присоединяется к погоне!\n— Собирайте блестящие йойо и открывайте потрясающие награды!\n— Откройте эксклюзивный наряд Леди Баг Анджелы!\n\nЭто особое ограниченное задание — часть сотрудничества с Miraculous."
+          },
+          {
+            "version": "25.3.2",
+            "date": "2025-07-29",
+            "changes": "THE CHASE JUST GOT MIRACULOUS!\n- Ladybug joins the chase!\n- Collect shiny yoyos and unlock awesome rewards!\n- Unlock the exclusive Ladybug Angela outfit!\n\nThis special time-limited event is part of a collaboration with Miraculous.\n\nПОГОНЯ СТАЛА ПРОСТО MIRACULOUS!\n— Леди Баг присоединяется к погоне!\n— Собирайте блестящие йойо и открывайте потрясающие награды!\n— Откройте эксклюзивный наряд Леди Баг Анджелы!\n\nЭто особое ограниченное задание — часть сотрудничества с Miraculous."
+          },
+          {
+            "version": "25.3.3",
+            "date": "2025-08-13",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "25.4.2",
+            "date": "2025-09-12",
+            "changes": "NEW: STICKER ALBUMS\n- Find Sticker Albums in the lobby — look for the floating drone\n- Grab stickers during runs, fill comic pages, to win coins, gems & gadgets0\n- Complete entire albums to unlock unique, heroic costumes for Tom, Angela & Hank\n\nНОВИНКА: АЛЬБОМЫ НАКЛЕЕК\n— Найдите альбомы наклеек в лобби — ищите летающий дрон\n— Хватайте наклейки на пробежках и заполняйте страницы, чтобы выиграть монеты, бриллианты и устройства\n— Заполните альбомы, чтобы открыть уникальные героические костюмы для Тома, Анджелы и Хэнка"
+          },
+          {
+            "version": "25.4.3",
+            "date": "2025-09-18",
+            "changes": "NEW: STICKER ALBUMS\n- Find Sticker Albums in the lobby — look for the floating drone\n- Grab stickers during runs, fill comic pages, to win coins, gems & gadgets0\n- Complete entire albums to unlock unique, heroic costumes for Tom, Angela & Hank\n\nНОВИНКА: АЛЬБОМЫ НАКЛЕЕК\n— Найдите альбомы наклеек в лобби — ищите летающий дрон\n— Хватайте наклейки на пробежках и заполняйте страницы, чтобы выиграть монеты, бриллианты и устройства\n— Заполните альбомы, чтобы открыть уникальные героические костюмы для Тома, Анджелы и Хэнка"
+          },
+          {
+            "version": "25.4.4",
+            "date": "2025-10-03",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "25.4.5",
+            "date": "2025-10-16",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          },
+          {
+            "version": "25.5.1",
+            "date": "2025-12-11",
+            "changes": "GET READY FOR RED BLAZE BEN\n- A new sticker album just dropped!\n- Collect stickers by running.\n- Complete the album to score the Red Blaze Ben outfit.\n- Cozy holidays, epic runs!\n\nВСТРЕЧАЙТЕ БЕНА-БУРЮ\n— Вышел новый альбом наклеек!\n— Бегите и собирайте наклейки.\n— Заполните альбом, чтобы получить наряд Бена-бури.\n— Уютные праздники и классные пробежки!"
+          },
+          {
+            "version": "26.1",
+            "date": "2026-02-17",
+            "changes": "EVENT ALERT!\nKeep an eye out for time limited events where you can score more, win big rewards and unlock awesome outfits.\n\nВНИМАНИЕ, ЗАДАНИЯ!\nНе пропустите ограниченные по времени задания, где можно заработать больше очков, выиграть крупные награды и открыть классные наряды."
+          },
+          {
+            "version": "26.1.1",
+            "date": "2026-03-16",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.10",
+            "date": "2026-03-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.1.11",
+            "date": "2026-03-28",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "26.2",
+            "date": "2026-05-19",
+            "changes": "Ready to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "26.3",
+            "date": "2026-07-17",
+            "changes": "Legends never rest. Jump back into the adventure and claim your FREE shield boosts & coins to fuel your epic comeback!\n\nЛегенды никогда не отдыхают. Продолжи приключения и получи БЕСПЛАТНОЕ усиление щита и монеты для своего потрясающего возвращения!"
+          },
+          {
+            "version": "26.4",
+            "date": "2026-09-15",
+            "changes": "FUN-FILLED EVENTS!\nReady to run for rewards? Find exciting events where you can unlock outfits and gadgets.\n\nВЕСЁЛЫЕ ЗАДАНИЯ!\nГотовы бежать за наградами? Вас ждут увлекательные задания, где можно открывать наряды и устройства."
+          },
+          {
+            "version": "26.5",
+            "date": "2026-10-12",
+            "changes": "HALLOWEEN TREATS!\nBoo! It’s fright time again and the Halloween Score Madness event is here. Unlock Midnight Ginger and Moonlight Angela.\n\nПОДАРКИ НА ХЭЛЛОУИН!\nБу! Снова настала страшная пора, и на Хэллоуин вас ждёт «Марафон счёта». Откройте Полуночного Джинджера и Лунную Анджелу."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": false,
+          "removedDate": ""
+        },
+        "ios": {
+          "removed": false,
+          "removedDate": ""
+        }
+      }
     }
   ]
 }
