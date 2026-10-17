@@ -16069,6 +16069,41 @@
           "removedDate": "2020-06-09"
         }
       }
+    },
+    {
+      "id": "talking-tom-fun-fair",
+      "name": "Talking Tom Fun Fair",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2019-01-17",
+      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/63/3f/91/633f9111-8a11-2586-fd29-b19c71addfc0/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/900x900.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1.190",
+            "versionCode": "190",
+            "date": "2019-01-17",
+            "changes": ""
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0.1",
+            "date": "2019-01-18",
+            "changes": ""
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2024-01-27"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2019-04-16"
+        }
+      }
     }
   ]
 }
