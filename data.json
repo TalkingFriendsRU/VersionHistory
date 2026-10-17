@@ -15942,6 +15942,80 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-tom-jump-up-говорящий-том-попрыгунчик",
+      "name": "Talking Tom Jump Up | Говорящий Том: попрыгунчик",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2018-08-23",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/16/f2/65/16f26524-9377-e2a3-fc99-90af53628698/source/900x900bb.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.0.72",
+            "versionCode": "20",
+            "date": "2018-08-23",
+            "changes": ""
+          },
+          {
+            "version": "1.1.0.88",
+            "versionCode": "30",
+            "date": "2018-09-05",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.1.91",
+            "versionCode": "40",
+            "date": "2018-09-13",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.5.95",
+            "versionCode": "50",
+            "date": "2018-09-24",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2.0.107",
+            "versionCode": "60",
+            "date": "2018-11-05",
+            "changes": "NEW GAME MODE! Can you beat all of the levels?\n\nНОВЫЙ ИГРОВОЙ РЕЖИМ! Сможешь пройти все уровни?"
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2018-08-24",
+            "changes": ""
+          },
+          {
+            "version": "1.1.0",
+            "date": "2018-09-06",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.1.5",
+            "date": "2018-09-26",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.2",
+            "date": "2018-11-07",
+            "changes": "NEW GAME MODE! Can you beat all of the levels?\n\nНОВЫЙ ИГРОВОЙ РЕЖИМ! Сможешь пройти все уровни?"
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2020-09-28"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2020-10-01"
+        }
+      }
     }
   ]
 }
