@@ -17221,6 +17221,68 @@
           "removedDate": ""
         }
       }
+    },
+    {
+      "id": "talking-tom-splash-force",
+      "name": "Talking Tom Splash Force",
+      "developer": "Outfit7 Limited",
+      "type": "game",
+      "releaseDate": "2019-04-08",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/6e/b9/bf6eb936-e844-f9d8-991e-1220bcabf82f/source/900x900bb.jpg",
+      "versions": {
+        "android": [
+          {
+            "version": "1.0.1.182",
+            "versionCode": "20",
+            "date": "2019-04-08",
+            "changes": ""
+          },
+          {
+            "version": "1.0.2.184",
+            "versionCode": "30",
+            "date": "2019-04-12",
+            "changes": ""
+          },
+          {
+            "version": "1.0.3.186",
+            "versionCode": "40",
+            "date": "2019-04-15",
+            "changes": ""
+          }
+        ],
+        "ios": [
+          {
+            "version": "1.0",
+            "date": "2019-04-08",
+            "changes": ""
+          },
+          {
+            "version": "1.0.1",
+            "date": "2019-04-10",
+            "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.0.2",
+            "date": "2019-04-12",
+            "changes": "Bug fixes and optimisations.\n\nИсправление ошибок и оптимизации."
+          },
+          {
+            "version": "1.0.3",
+            "date": "2019-04-16",
+            "changes": "Bug fixes and optimisations.\n\nИсправление ошибок и оптимизации."
+          }
+        ]
+      },
+      "status": {
+        "android": {
+          "removed": true,
+          "removedDate": "2024-01-27"
+        },
+        "ios": {
+          "removed": true,
+          "removedDate": "2025-09-02"
+        }
+      }
     }
   ]
 }
