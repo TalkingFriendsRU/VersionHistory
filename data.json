@@ -14150,6 +14150,11 @@
             "version": "1.6.2",
             "date": "2021-10-26",
             "changes": "Bug fixes and minor gameplay improvements.\n\nИсправление ошибок и незначительные улучшения геймплея."
+          },
+          {
+            "version": "1.7",
+            "date": "2026-10-20",
+            "changes": "A SPECIAL EVENT\nLook out for special events with amazing rewards coming soon! Quickly, run now to collect them all!\n\nОСОБОЕ МЕРОПРИЯТИЕ\nСкоро начнутся особые мероприятия с потрясающими наградами! Скорее, беги и собери их все!"
           }
         ]
       },
@@ -14159,8 +14164,8 @@
           "removedDate": ""
         },
         "ios": {
-          "removed": true,
-          "removedDate": "2025-09-04"
+          "removed": false,
+          "removedDate": ""
         }
       }
     },
